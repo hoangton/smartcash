@@ -311,15 +311,16 @@ Option 1: Automated installation using Bash installer
 
 To install SmartCash using Bash installer, enter the following commands after
 logging in::
-
-  cd ~
-  wget https://raw.githubusercontent.com/SmartCash/smartnode/master/install.sh
+    
+    cd ~ 
+    wget https://raw.githubusercontent.com/SmartCash/smartnode/master/install.sh
 
 Then press enter.
 
 Then type
 
 	bash ./install.sh
+
 Then press enter.
 
 
@@ -479,4 +480,7 @@ run this command in console
 	smartcash-cli smartnode status
 When you see this mean your smartnode are successful started 
 	"status": "Smartnode successfully started"
+
 Congratulations! Your smartnode is now running.
+
+

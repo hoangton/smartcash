@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 16:56+0700\n"
+"POT-Creation-Date: 2019-01-16 16:58+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,7 @@ msgid ""
 "not. .. _smartnodes:"
 msgstr ""
 
-#: ../../introduction/features.rst:42 ../../introduction/features.rst:263
+#: ../../introduction/features.rst:42 ../../introduction/features.rst:264
 msgid "Smartnodes"
 msgstr ""
 
@@ -154,7 +154,7 @@ msgid ""
 "value of Smart may offset these reductions."
 msgstr ""
 
-#: ../../introduction/features.rst:73
+#: ../../introduction/features.rst:73 ../../introduction/features.rst:313
 msgid "InstantPay"
 msgstr ""
 
@@ -412,43 +412,43 @@ msgid ""
 "SmartCash allocates:"
 msgstr ""
 
-#: ../../introduction/features.rst:261
+#: ../../introduction/features.rst:262
 msgid "5% | Mining Reward"
 msgstr ""
 
-#: ../../introduction/features.rst:263
+#: ../../introduction/features.rst:264
 msgid "10%"
 msgstr ""
 
-#: ../../introduction/features.rst:265
+#: ../../introduction/features.rst:266
 msgid "15%"
 msgstr ""
 
-#: ../../introduction/features.rst:265
+#: ../../introduction/features.rst:266
 msgid "SmartRewards"
 msgstr ""
 
-#: ../../introduction/features.rst:267
+#: ../../introduction/features.rst:268
 msgid "4%"
 msgstr ""
 
-#: ../../introduction/features.rst:267
+#: ../../introduction/features.rst:268
 msgid "x6 Hive Structuring Teams"
 msgstr ""
 
-#: ../../introduction/features.rst:269
+#: ../../introduction/features.rst:270
 msgid "46%"
 msgstr ""
 
-#: ../../introduction/features.rst:269
+#: ../../introduction/features.rst:270
 msgid "SmartHive Project Treasury"
 msgstr ""
 
-#: ../../introduction/features.rst:275
+#: ../../introduction/features.rst:277
 msgid "Fees"
 msgstr ""
 
-#: ../../introduction/features.rst:277
+#: ../../introduction/features.rst:279
 msgid ""
 "Transactions on the SmartCash network are recorded in blocks on the "
 "blockchain. The size of each transaction is measured in bytes, but there "
@@ -468,11 +468,11 @@ msgid ""
 "included."
 msgstr ""
 
-#: ../../introduction/features.rst:294
+#: ../../introduction/features.rst:296
 msgid "SmartCash also supports"
 msgstr ""
 
-#: ../../introduction/features.rst:295
+#: ../../introduction/features.rst:298
 msgid ""
 ":ref:`instantpay` transactions, which operate on a different and "
 "mandatory fee schedule. SmartCash introduced InstantPay autolocks, which "
@@ -482,7 +482,43 @@ msgid ""
 " as of December 2018 is as follows:"
 msgstr ""
 
-#: ../../introduction/features.rst:315
+#: ../../introduction/features.rst:307
+msgid "Transaction type"
+msgstr ""
+
+#: ../../introduction/features.rst:307
+msgid "Recommended fee"
+msgstr ""
+
+#: ../../introduction/features.rst:307
+msgid "Per unit"
+msgstr ""
+
+#: ../../introduction/features.rst:309
+msgid "Standard transaction"
+msgstr ""
+
+#: ../../introduction/features.rst:309 ../../introduction/features.rst:311
+msgid ".00001 SMART"
+msgstr ""
+
+#: ../../introduction/features.rst:309 ../../introduction/features.rst:311
+msgid "Per kB of transaction data"
+msgstr ""
+
+#: ../../introduction/features.rst:311
+msgid "InstantPay autolock"
+msgstr ""
+
+#: ../../introduction/features.rst:313
+msgid ".0001 SMART"
+msgstr ""
+
+#: ../../introduction/features.rst:313
+msgid "Per transaction input"
+msgstr ""
+
+#: ../../introduction/features.rst:317
 msgid ""
 "As an example, a standard and relatively simple transaction on the "
 "SmartCash network with one input, one output and a possible change "
