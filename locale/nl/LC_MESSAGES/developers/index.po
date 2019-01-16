@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 16:45+0700\n"
-"PO-Revision-Date: 2019-01-16 11:33+0000\n"
-"Language-Team: Dutch (https://www.transifex.com/smartcash/teams/95224/nl/)\n"
+"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../developers/index.rst:1
 msgid "Developers guide and information about SmartCash version history"
@@ -31,16 +31,16 @@ msgstr ""
 
 #: ../../developers/index.rst:11
 msgid ""
-"This guide can be leveraged to quickly and efficiently integrate external "
-"applications with the SmartCash ecosystem. Anyone can contribute to the "
-"guide by submitting an issue or pull request on GitHub. The documentation is"
-" available at: https://github.com/SmartCash/Core-Smart"
+"This guide can be leveraged to quickly and efficiently integrate external"
+" applications with the SmartCash ecosystem. Anyone can contribute to the "
+"guide by submitting an issue or pull request on GitHub. The documentation"
+" is available at: https://github.com/SmartCash/Core-Smart"
 msgstr ""
 
 #: ../../developers/index.rst:16
 msgid ""
-"The remaining sections available below describe practical steps to carry out"
-" common development tasks in SmartCash."
+"The remaining sections available below describe practical steps to carry "
+"out common development tasks in SmartCash."
 msgstr ""
 
 #: ../../developers/index.rst:29
@@ -49,9 +49,11 @@ msgstr ""
 
 #: ../../developers/index.rst:31
 msgid ""
-"Full release notes and the version history of SmartCash are available here:"
+"Full release notes and the version history of SmartCash are available "
+"here:"
 msgstr ""
 
 #: ../../developers/index.rst:33
 msgid "https://github.com/SmartCash/Core-Smart/blob/master/README.md"
 msgstr ""
+

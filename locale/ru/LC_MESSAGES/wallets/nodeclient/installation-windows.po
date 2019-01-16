@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 16:45+0700\n"
-"PO-Revision-Date: 2019-01-16 11:23+0000\n"
-"Language-Team: Russian (https://www.transifex.com/smartcash/teams/95224/ru/)\n"
+"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../wallets/nodeclient/installation-windows.rst:1
 msgid ""
@@ -33,9 +33,9 @@ msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:10
 msgid ""
-"This guide describes how to download, install and encrypt the SmartCash Node"
-" Client wallet for Windows. The guide is written for Windows 10, but the "
-"steps should be similar for Windows XP, Vista, 7 and 8."
+"This guide describes how to download, install and encrypt the SmartCash "
+"Node Client wallet for Windows. The guide is written for Windows 10, but "
+"the steps should be similar for Windows XP, Vista, 7 and 8."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:15
@@ -48,16 +48,16 @@ msgid ""
 "SmartCash Node Client wallet. You will need to manually choose your "
 "operating system and whether you need a 32 or 64 bit version. If you are "
 "unsure whether your version of Windows is 32 or 64 bit, you can check in "
-"Windows 10 under **Start > Settings > System > About**. For details on how "
-"to check this in other versions of Windows, see `here "
+"Windows 10 under **Start > Settings > System > About**. For details on "
+"how to check this in other versions of Windows, see `here "
 "<https://www.lifewire.com/am-i-running-a-32-bit-or-64-bit-version-of-"
 "windows-2624475>`__."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:25
 msgid ""
-"Under the System section, click About to view the System type. This is a 64 "
-"bit system."
+"Under the System section, click About to view the System type. This is a "
+"64 bit system."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:27
@@ -70,10 +70,11 @@ msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:32
 msgid ""
-"This step is optional, but recommended to verify the integrity of the file "
-"you downloaded. To do this, open **Command Prompt**, browse to the location "
-"where you saved the file, and run the following command, replacing the "
-"version with the specific version of the file you downloaded."
+"This step is optional, but recommended to verify the integrity of the "
+"file you downloaded. To do this, open **Command Prompt**, browse to the "
+"location where you saved the file, and run the following command, "
+"replacing the version with the specific version of the file you "
+"downloaded."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:41
@@ -92,9 +93,9 @@ msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:49
 msgid ""
-"At this point, you may see a warning from Windows SmartScreen that the app "
-"is unrecognized. You can safely skip past this warning by clicking **More "
-"info**, then **Run anyway**."
+"At this point, you may see a warning from Windows SmartScreen that the "
+"app is unrecognized. You can safely skip past this warning by clicking "
+"**More info**, then **Run anyway**."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:52
@@ -125,32 +126,33 @@ msgstr ""
 msgid ""
 "Once installation is complete, SmartCash Node Client will start up "
 "immediately. If it does not, click **Start > SmartCash > SmartCash** to "
-"start the application. The first time the program is launched, you will be "
-"offered a choice of where you want to store your blockchain and wallet data."
-" Choose a location with enough free space, as the blockchain can reach 10GB+"
-" in size. It is recommended to use the default data folder if possible."
+"start the application. The first time the program is launched, you will "
+"be offered a choice of where you want to store your blockchain and wallet"
+" data. Choose a location with enough free space, as the blockchain can "
+"reach 10GB+ in size. It is recommended to use the default data folder if "
+"possible."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:73
 msgid ""
 "SmartCash Node Client will then start up. This will take a little longer "
-"than usual the first time you run it, since SmartCash Node Client needs to "
-"generate cryptographic data to secure your wallet. Synchronizing SmartCash "
-"Node Client to the SmartCash network "
+"than usual the first time you run it, since SmartCash Node Client needs "
+"to generate cryptographic data to secure your wallet. Synchronizing "
+"SmartCash Node Client to the SmartCash network "
 "-------------------------------------------"
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:79
 msgid ""
-"Once SmartCash Node Client is successfully installed and started, you will "
-"see the wallet overview screen. You will notice that the wallet is “out of "
-"sync”, and the status bar at the bottom of the window will show the "
-"synchronization progress. During this process, SmartCash Node Client will "
-"download a full copy of the SmartCash blockchain from other nodes to your "
-"device. Depending on your internet connection, this may take a long time. If"
-" you see the message “No block source available”, check your internet "
-"connection. When synchronization is complete, you will see a small blue tick"
-" in the lower right corner."
+"Once SmartCash Node Client is successfully installed and started, you "
+"will see the wallet overview screen. You will notice that the wallet is "
+"“out of sync”, and the status bar at the bottom of the window will show "
+"the synchronization progress. During this process, SmartCash Node Client "
+"will download a full copy of the SmartCash blockchain from other nodes to"
+" your device. Depending on your internet connection, this may take a long"
+" time. If you see the message “No block source available”, check your "
+"internet connection. When synchronization is complete, you will see a "
+"small blue tick in the lower right corner."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:90
@@ -165,21 +167,22 @@ msgstr ""
 msgid ""
 "After your wallet has synchronized with the SmartCash network, it is "
 "strongly advised to encrypt the wallet with a password or passphrase to "
-"prevent unauthorized access. You should use a strong, new password that you "
-"have never used somewhere else. Take note of your password and store it "
-"somewhere safe or you will be locked out of your wallet and lose access to "
-"your funds."
+"prevent unauthorized access. You should use a strong, new password that "
+"you have never used somewhere else. Take note of your password and store "
+"it somewhere safe or you will be locked out of your wallet and lose "
+"access to your funds."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:102
 msgid ""
 "To encrypt your wallet, click **Settings > Encrypt Wallet**. When the "
-"encryption process is complete, you will see a warning that past backups of "
-"your wallet will no longer be usable, and be asked to shut down SmartCash "
-"Node Client. When you restart SmartCash Node Client, you will see a small "
-"blue lock in the lower right corner."
+"encryption process is complete, you will see a warning that past backups "
+"of your wallet will no longer be usable, and be asked to shut down "
+"SmartCash Node Client. When you restart SmartCash Node Client, you will "
+"see a small blue lock in the lower right corner."
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-windows.rst:108
 msgid "You can now begin to use your wallet to safely send and receive funds."
 msgstr ""
+

@@ -1,26 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 17:53+0700\n"
-"PO-Revision-Date: 2019-01-16 11:30+0000\n"
-"Language-Team: Dutch (https://www.transifex.com/smartcash/teams/95224/nl/)\n"
+"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../smartnodes/setup.rst:1
 msgid ""
-"This guide describes how to set up a SmartCash smartnode. It also describes "
-"various options for hosting and different wallets"
+"This guide describes how to set up a SmartCash smartnode. It also "
+"describes various options for hosting and different wallets"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:1
@@ -34,20 +34,20 @@ msgstr ""
 #: ../../smartnodes/setup.rst:11
 msgid ""
 "Setting up a smartnode requires a basic understanding of Linux and "
-"blockchain technology, as well as an ability to follow instructions closely."
-" It also requires regular maintenance and careful security, particularly if "
-"you are not storing your SmartCash on a hardware wallet. There are some "
-"decisions to be made along the way, and optional extra steps to take for "
-"increased security."
+"blockchain technology, as well as an ability to follow instructions "
+"closely. It also requires regular maintenance and careful security, "
+"particularly if you are not storing your SmartCash on a hardware wallet. "
+"There are some decisions to be made along the way, and optional extra "
+"steps to take for increased security."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:18
 msgid ""
 "Commercial :ref:`smartnode hosting services <smartnode-hosting>` are "
-"available if you prefer to delegate day-to-day operation of your smartnode "
-"to a professional operator. When using these hosting services, you retain "
-"full control of the 10000 SmartCash collateral and pay an agreed percentage "
-"of your reward to the operator."
+"available if you prefer to delegate day-to-day operation of your "
+"smartnode to a professional operator. When using these hosting services, "
+"you retain full control of the 10000 SmartCash collateral and pay an "
+"agreed percentage of your reward to the operator."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:26
@@ -56,9 +56,9 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:28
 msgid ""
-"This guide assumes you are setting up a single smartnode for the first time."
-" If you are updating a smartnode, see  :ref:`here <smartnode-update>` "
-"instead. You will need:"
+"This guide assumes you are setting up a single smartnode for the first "
+"time. If you are updating a smartnode, see  :ref:`here <smartnode-"
+"update>` instead. You will need:"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:32
@@ -87,9 +87,9 @@ msgstr ""
 msgid ""
 "This documentation describes the commands as if they were entered in the "
 "SmartCash NodeClient GUI by opening the console from **Help > Debug "
-"console**, but the same result can be achieved on a smartnode by entering "
-"the same commands and adding the prefix ``~/.smartcash/smartcash-cli`` to "
-"each command."
+"console**, but the same result can be achieved on a smartnode by entering"
+" the same commands and adding the prefix ``~/.smartcash/smartcash-cli`` "
+"to each command."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:51
@@ -100,27 +100,28 @@ msgstr ""
 msgid ""
 "A VPS, more commonly known as a cloud server, is fully functional "
 "installation of an operating system (usually Linux) operating within a "
-"virtual machine. The virtual machine allows the VPS provider to run multiple"
-" systems on one physical server, making it more efficient and much cheaper "
-"than having a single operating system running on the \"bare metal\" of each "
-"server. A VPS is ideal for hosting a SmartCash smartnode because they "
-"typically offer guaranteed uptime, redundancy in the case of hardware "
-"failure and a static IP address that is required to ensure you remain in the"
-" smartnode payment queue. While running a smartnode from home on a desktop "
-"computer is technically possible, it will most likely not work reliably "
-"because most ISPs allocate dynamic IP addresses to home users."
+"virtual machine. The virtual machine allows the VPS provider to run "
+"multiple systems on one physical server, making it more efficient and "
+"much cheaper than having a single operating system running on the \"bare "
+"metal\" of each server. A VPS is ideal for hosting a SmartCash smartnode "
+"because they typically offer guaranteed uptime, redundancy in the case of"
+" hardware failure and a static IP address that is required to ensure you "
+"remain in the smartnode payment queue. While running a smartnode from "
+"home on a desktop computer is technically possible, it will most likely "
+"not work reliably because most ISPs allocate dynamic IP addresses to home"
+" users."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:66
 msgid ""
 "We will use `Vultr <https://www.vultr.com/>`_ hosting as an example of a "
-"VPS, although `DigitalOcean <https://www.digitalocean.com/>`_, `Amazon EC2 "
-"<https://aws.amazon.com/ec2>`_, `Google Cloud "
-"<https://cloud.google.com/compute/>`_, `Choopa <https://www.choopa.com/>`_ "
-"and `OVH <https://www.ovh.com/>`_ are also popular choices. First create an "
-"account and add credit. Then go to the **Servers** menu item on the left and"
-" click **+** to add a new server. Select a location for your new server on "
-"the following screen:"
+"VPS, although `DigitalOcean <https://www.digitalocean.com/>`_, `Amazon "
+"EC2 <https://aws.amazon.com/ec2>`_, `Google Cloud "
+"<https://cloud.google.com/compute/>`_, `Choopa "
+"<https://www.choopa.com/>`_ and `OVH <https://www.ovh.com/>`_ are also "
+"popular choices. First create an account and add credit. Then go to the "
+"**Servers** menu item on the left and click **+** to add a new server. "
+"Select a location for your new server on the following screen:"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:78
@@ -130,8 +131,8 @@ msgstr ""
 #: ../../smartnodes/setup.rst:80
 msgid ""
 "Select Ubuntu 16.04 x64 as the server type. We use this LTS release of "
-"Ubuntu instead of the latest version because LTS releases are supported with"
-" security updates for 5 years, instead of the usual 9 months."
+"Ubuntu instead of the latest version because LTS releases are supported "
+"with security updates for 5 years, instead of the usual 9 months."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:87
@@ -157,8 +158,7 @@ msgid "Vultr server hostname & label selection screen"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:104
-msgid ""
-"Vultr will now install your server. This process may take a few minutes."
+msgid "Vultr will now install your server. This process may take a few minutes."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:106
@@ -177,13 +177,13 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:118
 msgid ""
-"We will begin by connecting to your newly provisioned server. On Windows, we"
-" will first download an app called PuTTY to connect to the server. Go to the"
-" `PuTTY download page "
+"We will begin by connecting to your newly provisioned server. On Windows,"
+" we will first download an app called PuTTY to connect to the server. Go "
+"to the `PuTTY download page "
 "<https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>`_ and "
-"select the appropriate MSI installer for your system. On Mac or Linux you "
-"can ssh directly from the terminal - simply type ``ssh root@<server_ip>`` "
-"and enter your password when prompted."
+"select the appropriate MSI installer for your system. On Mac or Linux you"
+" can ssh directly from the terminal - simply type ``ssh "
+"root@<server_ip>`` and enter your password when prompted."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:129
@@ -194,9 +194,9 @@ msgstr ""
 msgid ""
 "Double-click the downloaded file to install PuTTY, then run the app from "
 "your Start menu. Enter the IP address of the server in the **Host Name** "
-"field and click **Open**. You may see a certificate warning, since this is "
-"the first time you are connecting to this server. You can safely click "
-"**Yes** to trust this server in the future."
+"field and click **Open**. You may see a certificate warning, since this "
+"is the first time you are connecting to this server. You can safely click"
+" **Yes** to trust this server in the future."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:140
@@ -205,9 +205,9 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:142
 msgid ""
-"You are now connected to your server and should see a terminal window. Begin"
-" by logging in to your server with the user ``root`` and password supplied "
-"by your hosting provider."
+"You are now connected to your server and should see a terminal "
+"window. Begin by logging in to your server with the user ``root`` and "
+"password supplied by your hosting provider."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:149
@@ -216,42 +216,42 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:151
 msgid ""
-"You should immediately change the root password and store it in a safe place"
-" for security. You can copy and paste any of the following commands by "
-"selecting them in your browser, pressing **Ctrl + C**, then switching to the"
-" PuTTY window and right-clicking in the window. The text will paste at the "
-"current cursor location::"
+"You should immediately change the root password and store it in a safe "
+"place for security. You can copy and paste any of the following commands "
+"by selecting them in your browser, pressing **Ctrl + C**, then switching "
+"to the PuTTY window and right-clicking in the window. The text will paste"
+" at the current cursor location::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:159
 msgid ""
-"Enter and confirm a new password (preferably long and randomly generated). "
-"Next we will create a new user with the following command, replacing "
-"``<username>`` with a username of your choice::"
+"Enter and confirm a new password (preferably long and randomly "
+"generated). Next we will create a new user with the following command, "
+"replacing ``<username>`` with a username of your choice::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:165
 msgid ""
-"You will be prompted for a password. Enter and confirm using a new password "
-"(different to your root password) and store it in a safe place. You will "
-"also see prompts for user information, but this can be left blank. Once the "
-"user has been created, we will add them to the sudo group so they can "
-"perform commands as root::"
+"You will be prompted for a password. Enter and confirm using a new "
+"password (different to your root password) and store it in a safe place. "
+"You will also see prompts for user information, but this can be left "
+"blank. Once the user has been created, we will add them to the sudo "
+"group so they can perform commands as root::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:173
 msgid ""
-"Now, while still as root, we will update the system from the Ubuntu package "
-"repository::"
+"Now, while still as root, we will update the system from the Ubuntu "
+"package repository::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:179
 msgid ""
 "The system will show a list of upgradable packages. Press **Y** and "
-"**Enter** to install the packages. We will now install a firewall (and some "
-"other packages we will use later), add swap memory and reboot the server to "
-"apply any necessary kernel updates, and then login to our newly secured "
-"environment as the new user::"
+"**Enter** to install the packages. We will now install a firewall (and "
+"some other packages we will use later), add swap memory and reboot the "
+"server to apply any necessary kernel updates, and then login to our newly"
+" secured environment as the new user::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:187 ../../smartnodes/setup.rst:197
@@ -260,24 +260,24 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:207
 msgid ""
-"Add the following line at the end of the file (press tab to separate each "
-"word/number), then press **Ctrl + X** to close the editor, then **Y** and "
-"**Enter** save the file."
+"Add the following line at the end of the file (press tab to separate each"
+" word/number), then press **Ctrl + X** to close the editor, then **Y** "
+"and **Enter** save the file."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:215
 msgid ""
-"Finally, in order to prevent brute force password hacking attacks, open the "
-"SSH configuration file to disable root login over SSH::"
+"Finally, in order to prevent brute force password hacking attacks, open "
+"the SSH configuration file to disable root login over SSH::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:220
 msgid ""
 "Locate the line that reads ``PermitRootLogin yes`` and set it to "
 "``PermitRootLogin no``. Directly below this, add a line which reads "
-"``AllowUsers <username>``, replacing ``<username>`` with the username you "
-"selected above. The press **Ctrl + X** to close the editor, then **Y** and "
-"**Enter** save the file."
+"``AllowUsers <username>``, replacing ``<username>`` with the username you"
+" selected above. The press **Ctrl + X** to close the editor, then **Y** "
+"and **Enter** save the file."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:226
@@ -291,16 +291,16 @@ msgstr ""
 #: ../../smartnodes/setup.rst:234
 msgid ""
 "While this setup includes basic steps to protect your server against "
-"attacks, much more can be done. In particular, `authenticating with a public"
-" key <https://help.ubuntu.com/community/SSH/OpenSSH/Keys>`_ instead of a "
-"username/password combination, `installing fail2ban "
+"attacks, much more can be done. In particular, `authenticating with a "
+"public key <https://help.ubuntu.com/community/SSH/OpenSSH/Keys>`_ instead"
+" of a username/password combination, `installing fail2ban "
 "<https://www.linode.com/docs/security/using-fail2ban-for-security>`_ to "
 "block login brute force attacks and `enabling automatic security updates "
-"<https://help.ubuntu.com/community/AutomaticSecurityUpdates>`_ is advisable."
-" More tips are available `here <https://www.cyberciti.biz/tips/linux-"
-"security.html>`__. However, since the smartnode does not actually store the "
-"keys to any SmartCash, these steps are considered beyond the scope of this "
-"guide."
+"<https://help.ubuntu.com/community/AutomaticSecurityUpdates>`_ is "
+"advisable. More tips are available `here <https://www.cyberciti.biz/tips"
+"/linux-security.html>`__. However, since the smartnode does not actually "
+"store the keys to any SmartCash, these steps are considered beyond the "
+"scope of this guide."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:247
@@ -310,14 +310,15 @@ msgstr ""
 #: ../../smartnodes/setup.rst:249
 msgid ""
 "A SmartCash address with a single unspent transaction output (UTXO) of "
-"exactly 10000 SmartCash is required to operate a smartnode. Once it has been"
-" sent, various keys regarding the transaction must be extracted for later "
-"entry in a configuration file and registration transaction as proof to write"
-" the configuration to the blockchain so the smartnode can be included in the"
-" deterministic list. A smartnode can be started from a hardware wallet or "
-"the official SmartCash NodeClient wallet, although a hardware wallet is "
-"highly recommended to enhance security and protect yourself against hacking."
-" This guide will describe the steps for SmartCash NodeClient."
+"exactly 10000 SmartCash is required to operate a smartnode. Once it has "
+"been sent, various keys regarding the transaction must be extracted for "
+"later entry in a configuration file and registration transaction as proof"
+" to write the configuration to the blockchain so the smartnode can be "
+"included in the deterministic list. A smartnode can be started from a "
+"hardware wallet or the official SmartCash NodeClient wallet, although a "
+"hardware wallet is highly recommended to enhance security and protect "
+"yourself against hacking. This guide will describe the steps for "
+"SmartCash NodeClient."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:261
@@ -332,35 +333,35 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:266
 msgid ""
-"Click **Help > Debug Windows** to open the console. Type the following two "
-"commands into the console to generate a legacy smartnode key ::"
+"Click **Help > Debug Windows** to open the console. Type the following "
+"two commands into the console to generate a legacy smartnode key ::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:274
 msgid ""
-"Take note of the legacy smartnode private key and collateral address, since "
-"we will need it later. The next step is to secure your wallet (if you have "
-"not already done so). First, encrypt the wallet by selecting **Settings > "
-"Encrypt wallet**. You should use a strong, new password that you have never "
-"used somewhere else. Take note of your password and store it somewhere safe "
-"or you will be permanently locked out of your wallet and lose access to your"
-" funds. Next, back up your wallet file by selecting **File > Backup "
-"Wallet**. Save the file to a secure location physically separate to your "
-"computer, since this will be the only way you can access our funds if "
-"anything happens to your computer. For more details on these steps, see "
-":ref:`here <nodeclient-backup>`."
+"Take note of the legacy smartnode private key and collateral address, "
+"since we will need it later. The next step is to secure your wallet (if "
+"you have not already done so). First, encrypt the wallet by selecting "
+"**Settings > Encrypt wallet**. You should use a strong, new password that"
+" you have never used somewhere else. Take note of your password and store"
+" it somewhere safe or you will be permanently locked out of your wallet "
+"and lose access to your funds. Next, back up your wallet file by "
+"selecting **File > Backup Wallet**. Save the file to a secure location "
+"physically separate to your computer, since this will be the only way you"
+" can access our funds if anything happens to your computer. For more "
+"details on these steps, see :ref:`here <nodeclient-backup>`."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:286
 msgid ""
-"Now send exactly 10000 SmartCash in a single transaction to the new address "
-"you generated in the previous step. This may be sent from another wallet, or"
-" from funds already held in your current wallet. Once the transaction is "
-"complete, view the transaction in a `blockchain explorer "
-"<http://insight.smartcash.cc/>`_ by searching for the address. You will need"
-" 15 confirmations before you can start the smartnode, but you can continue "
-"with the next step at this point already: installing SmartCash NodeClient on"
-" your VPS."
+"Now send exactly 10000 SmartCash in a single transaction to the new "
+"address you generated in the previous step. This may be sent from another"
+" wallet, or from funds already held in your current wallet. Once the "
+"transaction is complete, view the transaction in a `blockchain explorer "
+"<http://insight.smartcash.cc/>`_ by searching for the address. You will "
+"need 15 confirmations before you can start the smartnode, but you can "
+"continue with the next step at this point already: installing SmartCash "
+"NodeClient on your VPS."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:299
@@ -369,16 +370,16 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:301
 msgid ""
-"SmartCash NodeClient is the software behind both the SmartCash NodeClient "
-"GUI wallet and SmartCash smartnodes. If not displaying a GUI, it runs as a "
-"daemon on your VPS (smartcashd), controlled by a simple command interface "
-"(smartcash-cli)."
+"SmartCash NodeClient is the software behind both the SmartCash NodeClient"
+" GUI wallet and SmartCash smartnodes. If not displaying a GUI, it runs as"
+" a daemon on your VPS (smartcashd), controlled by a simple command "
+"interface (smartcash-cli)."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:305
 msgid ""
-"Open PuTTY or a console again and connect using the username and password "
-"you just created for your new, non-root user."
+"Open PuTTY or a console again and connect using the username and password"
+" you just created for your new, non-root user."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:309
@@ -415,12 +416,12 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:332
 msgid ""
-"To manually download and install the components of your SmartCash smartnode,"
-" visit the `GitHub releases page <https://github.com/SmartCash/Core-"
-"Smart/releases>`_ and copy the link to the latest ``x86_64-linux-gnu`` "
-"version. Go back to your terminal window and enter the following command, "
-"pasting in the address to the latest version of SmartCash NodeClient by "
-"right clicking or pressing **Ctrl + V**::"
+"To manually download and install the components of your SmartCash "
+"smartnode, visit the `GitHub releases page <https://github.com/SmartCash"
+"/Core-Smart/releases>`_ and copy the link to the latest ``x86_64-linux-"
+"gnu`` version. Go back to your terminal window and enter the following "
+"command, pasting in the address to the latest version of SmartCash "
+"NodeClient by right clicking or pressing **Ctrl + V**::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:342
@@ -429,8 +430,8 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:345
 msgid ""
-"Create a working directory for SmartCash, extract the compressed archive and"
-" copy the necessary files to the directory::"
+"Create a working directory for SmartCash, extract the compressed archive "
+"and copy the necessary files to the directory::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:353
@@ -451,8 +452,8 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:380
 msgid ""
-"``rpcuser``: enter any string of numbers or letters, no special characters "
-"allowed"
+"``rpcuser``: enter any string of numbers or letters, no special "
+"characters allowed"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:382
@@ -463,8 +464,8 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:384
 msgid ""
-"``smartnodeprivkey``: this is the legacy smartnode private key you generated"
-" in the previous step"
+"``smartnodeprivkey``: this is the legacy smartnode private key you "
+"generated in the previous step"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:386
@@ -494,20 +495,19 @@ msgstr ""
 msgid ""
 "You will see a message reading **smartcashd not synced with network! "
 "Awaiting full sync before running Sentinel.** We now need to wait for 15 "
-"confirmations of the collateral transaction to complete, and wait for the "
-"blockchain to finish synchronizing on the smartnode. You can use the "
+"confirmations of the collateral transaction to complete, and wait for the"
+" blockchain to finish synchronizing on the smartnode. You can use the "
 "following commands to monitor progress::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:411
-msgid ""
-"When synchronisation is complete, you should see the following response::"
+msgid "When synchronisation is complete, you should see the following response::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:426
 msgid ""
-"Continue with the next step to construct the ProTx transaction required to "
-"enable your smartnode."
+"Continue with the next step to construct the ProTx transaction required "
+"to enable your smartnode."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:433
@@ -524,9 +524,9 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:442
 msgid ""
-"If you used an address in SmartCash NodeClient wallet for your collateral "
-"transaction, you now need to find the txid of the transaction. Click **Help "
-"> Debug Windows** and enter the following command::"
+"If you used an address in SmartCash NodeClient wallet for your collateral"
+" transaction, you now need to find the txid of the transaction. Click "
+"**Help > Debug Windows** and enter the following command::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:448
@@ -535,8 +535,8 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:454
 msgid ""
-"The first long string is your transaction hash, while the last number is the"
-" index."
+"The first long string is your transaction hash, while the last number is "
+"the index."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:458
@@ -560,9 +560,9 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:468
 msgid ""
-"Double check  ip of your VPS and the info in the  smartnode.conf in Desktop "
-"wallet ( when have as many VPS will have as many row in smartnode.conf ) Go "
-"to SmartNodes tab > My SmartNodes"
+"Double check  ip of your VPS and the info in the  smartnode.conf in "
+"Desktop wallet ( when have as many VPS will have as many row in "
+"smartnode.conf ) Go to SmartNodes tab > My SmartNodes"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:471
@@ -571,8 +571,8 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:474
 msgid ""
-"Status column will show PRE-ENABLE and after ( nearly 10 minutes ) it become"
-" ENABLE"
+"Status column will show PRE-ENABLE and after ( nearly 10 minutes ) it "
+"become ENABLE"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:476
@@ -598,3 +598,4 @@ msgstr ""
 #: ../../smartnodes/setup.rst:483
 msgid "Congratulations! Your smartnode is now running."
 msgstr ""
+
