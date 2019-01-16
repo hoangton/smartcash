@@ -24,7 +24,7 @@ more than the device you use to store it, you should purchase a
 :ref:`hardware wallet <hardware-wallets>`.
 
 
-.. _SmartCash-nodeclient-wallet:
+.. _nodeclient-wallet:
 
 SmartCash Node Client Wallet
 ================
@@ -70,7 +70,7 @@ Available documentation:
 
    SmartCash Node Client Wallet
 
-.. _SmartCash-electrum-wallet:
+.. _smartcash-electrum-wallet:
 
 SmartCash Electrum Wallet
 ====================
@@ -104,7 +104,7 @@ available at the `official documentation site
 
    SmartCash Electrum Wallet
 
-.. _SmartCash-android-wallet:
+.. _smartcash-android-wallet:
 
 SmartCash Android Wallet
 ===================
@@ -115,7 +115,7 @@ https://play.google.com/store/apps/details?id=cc.smartcash.wallet
 
 *SmartCash Android Wallet*
 
-.. _SmartCash-ios-wallet:
+.. _smartcash-ios-wallet:
 
 SmartCash iOS Wallet
 ===============
@@ -126,7 +126,7 @@ https://itunes.apple.com/us/app/smartcash-wallet/id1438215565?mt=8
 
 *SmartCash iOS Wallet*
 
-.. _SmartCash-smartcard-wallet:
+.. _smartcash-smartcard-wallet:
 
 SmartCash smartcard Wallet
 =================

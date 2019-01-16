@@ -2,7 +2,7 @@
    :description: How to use SmartCash cryptocurrency with hardware wallets
    :keywords: smartcash, hardware, wallet, trezor, secure, private key
 
-.. _dash-hardware-wallet:
+.. _smartcash-hardware-wallet:
 
 Introduction
 ============
