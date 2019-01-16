@@ -53,7 +53,7 @@ To pay with instantpay, simply check the relevant checkbox in your app.
 The following screenshots indicate where this setting can be found in
 the SmartCash Node Client wallets.
 
-.. figure:: ../img/instantpay-nodeclient.png
+.. figure:: img/instantpay-nodeclient.png
    :width: 400px
 
    SmartCash Wallets showing instantpay option
