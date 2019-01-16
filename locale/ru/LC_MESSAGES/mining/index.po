@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 16:45+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-16 11:24+0000\n"
+"Language-Team: Russian (https://www.transifex.com/smartcash/teams/95224/ru/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../mining/index.rst:1
 msgid "Information and guides on how to mine the SmartCash cryptocurrency"
@@ -23,8 +23,8 @@ msgstr ""
 
 #: ../../mining/index.rst:1
 msgid ""
-"smartcash, mining, keccak, smartnode, GPU, ASIC, software, hardware, "
-"pool, mining pools"
+"smartcash, mining, keccak, smartnode, GPU, ASIC, software, hardware, pool, "
+"mining pools"
 msgstr ""
 
 #: ../../mining/index.rst:9
@@ -34,35 +34,35 @@ msgstr ""
 #: ../../mining/index.rst:11
 msgid ""
 "Mining in the context of cryptocurrency such as smartcash refers to the "
-"process of searching for solutions to cryptographically difficult "
-"problems as a method of securing blocks on the blockchain. The process of"
-" mining creates new currency tokens as a reward to the miner. Mining is "
-"possible on a range of hardware. smartcash implements an algorithm known "
-"as :ref:`keccak <keccak-hash-algorithm>`, which the miner must solve in "
-"order to earn rewards."
+"process of searching for solutions to cryptographically difficult problems "
+"as a method of securing blocks on the blockchain. The process of mining "
+"creates new currency tokens as a reward to the miner. Mining is possible on "
+"a range of hardware. smartcash implements an algorithm known as :ref:`keccak"
+" <keccak-hash-algorithm>`, which the miner must solve in order to earn "
+"rewards."
 msgstr ""
 
 #: ../../mining/index.rst:19
 msgid ""
-"The simplest and most general hardware available for mining is the "
-"general purpose CPU present in every computer. A CPU is designed to be "
-"versatile but offers less efficiency than a GPU, which is designed to "
-"rapidly calculate millions of vectors in parallel. While specific CPU "
-"instruction enhancements related to cryptography such as AES or AVX can "
-"provide a decent boost, GPUs offer a significant performance increase due"
-" to their multiple pipelines capable of processing the predictably "
-"repetitive calculations associated with cryptocurrency mining. Finally, "
-"ASICs are relatively inflexible and can only process the specific "
-"function(s) for which they were designed, but at an even faster rate than"
-" the more general purpose GPUs and CPUs. The result is a currency which "
-"is more secure against brute force attacks on the smartcash blockchain."
+"The simplest and most general hardware available for mining is the general "
+"purpose CPU present in every computer. A CPU is designed to be versatile but"
+" offers less efficiency than a GPU, which is designed to rapidly calculate "
+"millions of vectors in parallel. While specific CPU instruction enhancements"
+" related to cryptography such as AES or AVX can provide a decent boost, GPUs"
+" offer a significant performance increase due to their multiple pipelines "
+"capable of processing the predictably repetitive calculations associated "
+"with cryptocurrency mining. Finally, ASICs are relatively inflexible and can"
+" only process the specific function(s) for which they were designed, but at "
+"an even faster rate than the more general purpose GPUs and CPUs. The result "
+"is a currency which is more secure against brute force attacks on the "
+"smartcash blockchain."
 msgstr ""
 
 #: ../../mining/index.rst:32
 msgid ""
 "The profitability of mining is determined by the hashrate of your mining "
-"device, the current network difficulty and the costs of your hardware and"
-" electricity. The following links provide up to date information:"
+"device, the current network difficulty and the costs of your hardware and "
+"electricity. The following links provide up to date information:"
 msgstr ""
 
 #: ../../mining/index.rst:36
@@ -89,45 +89,44 @@ msgid ""
 "decentralized ledger of all transactions, known as a blockchain. This "
 "blockchain is secured through a consensus mechanism; in the case of both "
 "smartcash and Bitcoin, the consensus mechanism is Proof of Work (PoW). "
-"Miners attempt to solve difficult problems with specialized computers, "
-"and when they solve the problem, they receive the right to add a new "
-"block to the blockchain. If all the other people running the software "
-"agree that the problem was solved correctly, the block is added to the "
-"blockchain and the miner is rewarded."
+"Miners attempt to solve difficult problems with specialized computers, and "
+"when they solve the problem, they receive the right to add a new block to "
+"the blockchain. If all the other people running the software agree that the "
+"problem was solved correctly, the block is added to the blockchain and the "
+"miner is rewarded."
 msgstr ""
 
 #: ../../mining/index.rst:53
 msgid ""
-"smartcash works a little differently from Bitcoin, however, because it "
-"has a two-tier network. The second tier is powered by :ref:`smartnodes "
-"<smartnodes>` (Full Nodes), which enable instant transactions "
-"(InstantPay). Because this second tier is so important, smartnodes are "
-"also rewarded when miners discover new blocks."
+"smartcash works a little differently from Bitcoin, however, because it has a"
+" two-tier network. The second tier is powered by :ref:`smartnodes "
+"<smartnodes>` (Full Nodes), which enable instant transactions (InstantPay). "
+"Because this second tier is so important, smartnodes are also rewarded when "
+"miners discover new blocks."
 msgstr ""
 
 #: ../../mining/index.rst:58
 msgid ""
-"The smartnode system is referred to as Proof of Service (PoSe), since the"
-" smartnodes provide crucial services to the network. In fact, the entire "
+"The smartnode system is referred to as Proof of Service (PoSe), since the "
+"smartnodes provide crucial services to the network. In fact, the entire "
 "network is overseen by the smartnodes, which have the power to reject "
-"improperly formed blocks from miners. If a miner tried to take the entire"
-" block reward for themselves or tried to run an old version of the "
-"smartcash software, the smartnode network would orphan that block, and it"
-" would not be added to the blockchain."
+"improperly formed blocks from miners. If a miner tried to take the entire "
+"block reward for themselves or tried to run an old version of the smartcash "
+"software, the smartnode network would orphan that block, and it would not be"
+" added to the blockchain."
 msgstr ""
 
 #: ../../mining/index.rst:66
 msgid ""
 "In short, miners power the first tier, which is the basic sending and "
-"receiving of funds and prevention of doublespending. smartnodes power the"
-" second tier, which provide the added features that make smartcash "
-"different from other cryptocurrencies. smartnodes do not mine, and mining"
-" computers cannot serve as smartnodes. Additionally, each smartnode is "
-"“secured” by 10000 smartcash. Those smartcash remain under the sole "
-"control of their owner at all times, and can still be freely spent. The "
-"funds are not locked in any way. However, if the funds are moved or "
-"spent, the associated smartnode will go offline and stop receiving "
-"rewards."
+"receiving of funds and prevention of doublespending. smartnodes power the "
+"second tier, which provide the added features that make smartcash different "
+"from other cryptocurrencies. smartnodes do not mine, and mining computers "
+"cannot serve as smartnodes. Additionally, each smartnode is “secured” by "
+"10000 smartcash. Those smartcash remain under the sole control of their "
+"owner at all times, and can still be freely spent. The funds are not locked "
+"in any way. However, if the funds are moved or spent, the associated "
+"smartnode will go offline and stop receiving rewards."
 msgstr ""
 
 #: ../../mining/index.rst:80
@@ -141,7 +140,6 @@ msgid ""
 msgstr ""
 
 #: ../../mining/index.rst:84
-#, python-format
 msgid ""
 "Official Pool 0%Fee 1       eu-mine.smartcash.cc 2       asia-"
 "mine.smartcash.cc 3       us-mine.smartcash.cc"
@@ -149,8 +147,8 @@ msgstr ""
 
 #: ../../mining/index.rst:89
 msgid ""
-"Other pools are also available and may be advantageous for different "
-"reasons such as ping latency, uptime, fee, users, etc.:"
+"Other pools are also available and may be advantageous for different reasons"
+" such as ping latency, uptime, fee, users, etc.:"
 msgstr ""
 
 #: ../../mining/index.rst:92
@@ -167,19 +165,18 @@ msgstr ""
 
 #: ../../mining/index.rst:96
 msgid ""
-"DISCLAIMER: This list is provided for informational purposes only. "
-"Services listed here have not been evaluated or endorsed by the smartcash"
-" developers and no guarantees are made as to the accuracy of this "
-"information. Please exercise discretion when using third-party services. "
-"If you’d like to be added to this list please reach out to "
-"hoangton@smartcash.cc"
+"DISCLAIMER: This list is provided for informational purposes only. Services "
+"listed here have not been evaluated or endorsed by the smartcash developers "
+"and no guarantees are made as to the accuracy of this information. Please "
+"exercise discretion when using third-party services. If you’d like to be "
+"added to this list please reach out to hoangton@smartcash.cc"
 msgstr ""
 
 #: ../../mining/index.rst:103
 msgid ""
 "In addition to joining a pool, you will also need to create a smartcash "
-"address to receive your payout. To do this in smartcash Node Client "
-"wallet, see :ref:`here <nodeclient-send-receive>`."
+"address to receive your payout. To do this in smartcash Node Client wallet, "
+"see :ref:`here <nodeclient-send-receive>`."
 msgstr ""
 
 #: ../../mining/index.rst:116
@@ -188,8 +185,8 @@ msgstr ""
 
 #: ../../mining/index.rst:118
 msgid ""
-"Please note that the prevalence of GPU and ASIC miners mean that unless "
-"you have free electricity, this is highly unlikely to be profitable!"
+"Please note that the prevalence of GPU and ASIC miners mean that unless you "
+"have free electricity, this is highly unlikely to be profitable!"
 msgstr ""
 
 #: ../../mining/index.rst:121
@@ -208,19 +205,18 @@ msgstr ""
 
 #: ../../mining/index.rst:127
 msgid ""
-"Reduce the number of threads for added desktop usability and heat "
-"reduction. If the CPU temperature is too high, consider fitting a new fan"
-" and check that the heat sink thermal paste on the CPU is adequate. Tweak"
-" the processor clock speed for added performance using a motherboard "
-"controller like `AI Suite <https://www.asus.com/support/FAQ/1012780/>`_ "
-"for Asus motherboards. Reduction of CPU core voltage will result in lower"
-" temperature but increased instability."
+"Reduce the number of threads for added desktop usability and heat reduction."
+" If the CPU temperature is too high, consider fitting a new fan and check "
+"that the heat sink thermal paste on the CPU is adequate. Tweak the processor"
+" clock speed for added performance using a motherboard controller like `AI "
+"Suite <https://www.asus.com/support/FAQ/1012780/>`_ for Asus motherboards. "
+"Reduction of CPU core voltage will result in lower temperature but increased"
+" instability."
 msgstr ""
 
 #: ../../mining/index.rst:136
 msgid ""
-"Try to select a pool that is nearby to reduce network latency. If the "
-"node appears slow, switch to another location. Please distribute the "
-"hashing power globally to different pools to avoid forking."
+"Try to select a pool that is nearby to reduce network latency. If the node "
+"appears slow, switch to another location. Please distribute the hashing "
+"power globally to different pools to avoid forking."
 msgstr ""
-

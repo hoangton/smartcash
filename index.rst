@@ -2,9 +2,9 @@
    :description: The SmartCash Documentation offers information and guides on SmartCash, SmartCash is a project born out of the desire to create an easy to use, fast cryptocurrency that can support everyday use such as business payments and daily transactions. 
    :keywords: smartcash, cryptocurrency, blockchain, documentation, guide, smartrewards, smartnodes, SmartBand, Electrum Wallet, mining, wallets, merchants, smarthive, instantpay, smartcard, smartband, smartvoting, smartpay, NFC support for SmartCard, SmartVault, Keccak
 
-==================
+=======================
 SmartCash Documentation
-==================
+=======================
 
 .. image:: img/SmartCash-Logo-S.png
    :width: 60 %

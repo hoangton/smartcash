@@ -4,9 +4,9 @@
 
 .. _translating-smartcash:
 
-================
+=====================
 Translating SmartCash
-================
+=====================
 
 Translations of all SmartCash products are managed courtesy of Transifex,
 which offers its own detailed documentation of all functions and
@@ -54,7 +54,7 @@ special features specific to the programming language in which the
 product is written.
 
 SmartCash NodeClient
-=========
+====================
 
 https://www.transifex.com/SmartCash/NodeClient/
 
@@ -94,9 +94,9 @@ Punctuation
   at the end of a sentence must also exist in the target text.
 
 SmartCash Docs
-=========
+==============
 
-https://www.transifex.com/SmartCash/SmartCash-docs
+https://www.transifex.com/SmartCash/smart-docs
 
 This project contains all content from the SmartCash Documentation hosted at
 https://docs.smartcash.cc. Each
@@ -156,7 +156,7 @@ External hyperlinks
 
 
 SmartCash Graphics
-=============
+==================
 
 https://www.transifex.com/SmartCash/SmartCash-graphics
 
@@ -177,7 +177,7 @@ Graphics, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
 in the visual design.
 
 SmartCash Website
-============
+=================
 
 https://www.transifex.com/SmartCash/SmartCash-website
 

@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, SmartCash
+# This file is distributed under the same license as the SmartCash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartCash latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"PO-Revision-Date: 2019-01-16 11:31+0000\n"
+"Language-Team: French (https://www.transifex.com/smartcash/teams/95224/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../marketing.rst:1
+msgid ""
+"Downloads of various templates and designs intended for use as office "
+"stationary and presentations."
+msgstr ""
+
+#: ../../marketing.rst:1
+msgid "smartcash, marketing, designs, presentations, brochures, logo"
+msgstr ""
+
+#: ../../marketing.rst:9
+msgid "Marketing"
+msgstr ""
+
+#: ../../marketing.rst:11
+msgid ""
+"This page includes downloads of various templates and designs intended for "
+"use as office stationary and presentations. For a visual overview of "
+"existing web and sticker designs, please see the following links."
+msgstr ""
+
+#: ../../marketing.rst:15
+msgid ""
+"`Rendered designs, badges and stickers <https://smartcash.cc/marketing-"
+"materials/>`_"
+msgstr ""
+
+#: ../../marketing.rst:16
+msgid "`Vector art package for designers <https://smartcash.cc/graphics/>`_"
+msgstr ""
+
+#: ../../marketing.rst:18
+msgid ""
+"SmartCash uses the following color scheme to promote a consistent visual "
+"identity."
+msgstr ""
+
+#: ../../marketing.rst:35
+msgid "Design Materials"
+msgstr ""
+
+#: ../../marketing.rst:38
+msgid "Brochures"
+msgstr ""
+
+#: ../../marketing.rst:40
+msgid ""
+"An attractive brochure about SmartCash, designed for handing out at "
+"conferences and events.  `SmartCash brochure "
+"<https://smartcash.cc/brochure/>`__."
+msgstr ""
+
+#: ../../marketing.rst:44
+msgid ""
+"This design can be translated into your language at `Crowdin here "
+"<https://crowdin.com/project/smartcash-website>`__. For more information on "
+"translating SmartCash products on Crowdin, see :ref:`here <translating-"
+"SmartCash>`. Please contact hoangton@smartcash.cc once translation is "
+"complete to request layout of the completed translation."
+msgstr ""
+
+#: ../../marketing.rst:72
+msgid "Flyers"
+msgstr ""
+
+#: ../../marketing.rst:74
+msgid ""
+"An attractive flyer about SmartCash, designed to be folded in half and "
+"placed on flat surfaces at conferences and events. This design can be "
+"translated into your language at `Crowdin here <https://crowdin.com/project"
+"/smartcash-website/>`__. For more information on translating SmartCash "
+"products on Crowdin, see :ref:`here <translating-SmartCash>`. Please contact"
+" hoangton@smartcash.cc once translation is complete to request layout of the"
+" completed translation."
+msgstr ""
+
+#: ../../marketing.rst:88
+msgid "Handouts"
+msgstr ""
+
+#: ../../marketing.rst:90
+msgid ""
+"This handout is ideal for dual-sided printing as a handout for conferences."
+msgstr ""
+
+#: ../../marketing.rst:93
+msgid ""
+"This design can be translated into your language at `Crowdin here "
+"<https://crowdin.com/project/smartcash-website/>`__. For more information on"
+" translating SmartCash products on Crowdin, see :ref:`here <translating-"
+"SmartCash>`. Please contact hoangton@smartcash.cc once translation is "
+"complete to request layout of the completed translation."
+msgstr ""
+
+#: ../../marketing.rst:107
+msgid "Infographics"
+msgstr ""
+
+#: ../../marketing.rst:110
+msgid "The SmartCash Difference"
+msgstr ""
+
+#: ../../marketing.rst:112
+msgid ""
+"This engaging infographic details the improvements the SmartCash network has"
+" delivered by building on the Bitcoin code base. This design can be "
+"translated into your language at `Crowdin here <https://crowdin.com/project"
+"/smartcash-website/>`__. For more information on translating SmartCash "
+"products on Crowdin, see :ref:`here <translating-SmartCash>`. Please contact"
+" hoangton@smartcash.cc once translation is complete to request layout of the"
+" completed translation."
+msgstr ""
+
+#: ../../marketing.rst:127
+msgid "Ten Misconceptions About SmartCash"
+msgstr ""
+
+#: ../../marketing.rst:129
+msgid ""
+"This infographic refutes many common yet uninformed arguments made against "
+"SmartCash. This design can be translated into your language at `Crowdin here"
+" <https://crowdin.com/project/smartcash-website/>`__. For more information "
+"on translating SmartCash products on Crowdin, see :ref:`here <translating-"
+"SmartCash>`. Please contact hoangton@smartcash.cc once translation is "
+"complete to request layout of the completed translation."
+msgstr ""
+
+#: ../../marketing.rst:145
+msgid "Presentations"
+msgstr ""
+
+#: ../../marketing.rst:148
+msgid "SmartCash Meetup"
+msgstr ""
+
+#: ../../marketing.rst:153
+msgid ""
+"An attractive presentation about SmartCash, designed to guide the audience "
+"through the basics of cryptocurrency and advantages of SmartCash."
+msgstr ""
+
+#: ../../marketing.rst:164
+msgid "Business Templates"
+msgstr ""
+
+#: ../../marketing.rst:167
+msgid "Document templates"
+msgstr ""
+
+#: ../../marketing.rst:169
+msgid "Official SmartCash document templates."
+msgstr ""
+
+#: ../../marketing.rst:178
+msgid "Presentation templates"
+msgstr ""
+
+#: ../../marketing.rst:180
+msgid ""
+"Official SmartCash presentation templates. We strongly recommend using "
+"predefined presentation slide layouts."
+msgstr ""
+
+#: ../../marketing.rst:189
+msgid "Cards"
+msgstr ""
+
+#: ../../marketing.rst:191
+msgid ""
+"High resolution cards for printing. Great for use as the back of business "
+"cards, or to hand out to explain and promote SmartCash."
+msgstr ""
+
+#: ../../marketing.rst:200
+msgid "Fonts"
+msgstr ""

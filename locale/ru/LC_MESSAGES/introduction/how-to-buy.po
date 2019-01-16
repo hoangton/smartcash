@@ -1,32 +1,32 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 16:45+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-16 11:25+0000\n"
+"Language-Team: Russian (https://www.transifex.com/smartcash/teams/95224/ru/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../introduction/how-to-buy.rst:1
 msgid ""
-"SmartCash can be purchased on cryptocurrency exchanges, over the counter "
-"and from ATMs"
+"SmartCash can be purchased on cryptocurrency exchanges, over the counter and"
+" from ATMs"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:1
 msgid ""
-"smart, smartcash, cryptocurrency, purchase, buy, exchange, atm, "
-"shapeshift, over the counter"
+"smart, smartcash, cryptocurrency, purchase, buy, exchange, atm, shapeshift, "
+"over the counter"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:9
@@ -44,52 +44,52 @@ msgid ""
 ":ref:`Exchanges <exchanges>` are one of the most popular ways to trade "
 "cryptocurrency. A wide range of exchanges exist, each offering slightly "
 "different features. Some serve different markets, some are in direct "
-"competition, some have cheaper fees, and some are subject to more or less"
-" strict regulatory requirements. Most exchanges are centralized, meaning "
-"they are operated by a single company, which may be obliged by the laws "
-"of the jurisdiction in which it operates to collect data on its "
-"customers. Others are decentralized, but as a result have higher escrow "
-"requirements since you are dealing peer-to-peer instead of with a trusted"
-" entity. Exchanges can be broadly broken down into two categories: "
-"exchanges which accept national currency (fiat money) and exchanges which"
-" deal in cryptocurrencies only. For safety, exchanges should not be used "
-"as wallets. Exchanges are for trading, not for savings."
+"competition, some have cheaper fees, and some are subject to more or less "
+"strict regulatory requirements. Most exchanges are centralized, meaning they"
+" are operated by a single company, which may be obliged by the laws of the "
+"jurisdiction in which it operates to collect data on its customers. Others "
+"are decentralized, but as a result have higher escrow requirements since you"
+" are dealing peer-to-peer instead of with a trusted entity. Exchanges can be"
+" broadly broken down into two categories: exchanges which accept national "
+"currency (fiat money) and exchanges which deal in cryptocurrencies only. For"
+" safety, exchanges should not be used as wallets. Exchanges are for trading,"
+" not for savings."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:29
 msgid ""
-":ref:`Instant exchanges <instant_exchanges>` perform a similar function "
-"to normal exchanges, but without the requirement to log in. They "
-"effectively convert one currency to another, with some limits on the "
-"amount to be exchanged and usually at a less advantageous rate. Others "
-"may even offer to sell cryptocurrency as a credit card purchase."
+":ref:`Instant exchanges <instant_exchanges>` perform a similar function to "
+"normal exchanges, but without the requirement to log in. They effectively "
+"convert one currency to another, with some limits on the amount to be "
+"exchanged and usually at a less advantageous rate. Others may even offer to "
+"sell cryptocurrency as a credit card purchase."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:36
 msgid ""
-":ref:`Over the counter <over-the-counter>` exchanges have recently "
-"appeared to facilitate sale of SmartCash directly from a company to the "
-"individual at a specified price, or peer-to-peer between individuals at a"
-" negotiated price. Volume may be limited compared to exchanges, but these"
-" services are usually much easier to use. More advanced peer-to-peer "
-"sites offer escrow services for a fee to prevent cheating during the sale"
-" between two parties who have never met."
+":ref:`Over the counter <over-the-counter>` exchanges have recently appeared "
+"to facilitate sale of SmartCash directly from a company to the individual at"
+" a specified price, or peer-to-peer between individuals at a negotiated "
+"price. Volume may be limited compared to exchanges, but these services are "
+"usually much easier to use. More advanced peer-to-peer sites offer escrow "
+"services for a fee to prevent cheating during the sale between two parties "
+"who have never met."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:44
 msgid ""
-":ref:`ATMs <atms>` accepting card and cash payments in return for crypto "
-"are widely available. Mapping services can show the specific location of "
-"these machines, or you can even set one up at your own business and earn "
-"a percentage of sales."
+":ref:`ATMs <atms>` accepting card and cash payments in return for crypto are"
+" widely available. Mapping services can show the specific location of these "
+"machines, or you can even set one up at your own business and earn a "
+"percentage of sales."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:49
 msgid ""
-"DISCLAIMER: This list is provided for informational purposes only. "
-"Services listed here have not been evaluated or endorsed by SmartCash and"
-" no guarantees are made as to the accuracy of this information. Please "
-"exercise discretion when using third-party services."
+"DISCLAIMER: This list is provided for informational purposes only. Services "
+"listed here have not been evaluated or endorsed by SmartCash and no "
+"guarantees are made as to the accuracy of this information. Please exercise "
+"discretion when using third-party services."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:58
@@ -98,17 +98,16 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:60
 msgid ""
-"Cryptocurrency exchanges exist to convert national currency, also known "
-"as fiat money, into cryptocurrency. Many exchanges do not accept fiat "
-"money, and exchange between various cryptocurrencies only. Trades are "
-"handled on markets, and trades are created between pairs of currencies, "
-"identified by their ticker codes. SmartCash is widely accepted on "
-"exchanges and many pairs exist against both fiat money and "
-"cryptocurrency. This means it is possible to exchange EUR for SMART, or "
-"SMART for BTC, for example. The volume traded on an exchange provides a "
-"good indication of how quickly a buy or sell order you place will be "
-"filled. This section introduces some of the most popular exchanges for "
-"trading SMART."
+"Cryptocurrency exchanges exist to convert national currency, also known as "
+"fiat money, into cryptocurrency. Many exchanges do not accept fiat money, "
+"and exchange between various cryptocurrencies only. Trades are handled on "
+"markets, and trades are created between pairs of currencies, identified by "
+"their ticker codes. SmartCash is widely accepted on exchanges and many pairs"
+" exist against both fiat money and cryptocurrency. This means it is possible"
+" to exchange EUR for SMART, or SMART for BTC, for example. The volume traded"
+" on an exchange provides a good indication of how quickly a buy or sell "
+"order you place will be filled. This section introduces some of the most "
+"popular exchanges for trading SMART."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:73
@@ -127,8 +126,8 @@ msgstr ""
 msgid ""
 "EXMO was founded in 2013, and has offices in London, Kiev, Barcelona and "
 "Moscow. According to EXMO’s website, the cryptocurrency exchange has 1.5 "
-"million users. At press time, EXMO is the 47th largest crypto exchange by"
-" 24 hour trade volume on CoinMarketCap at over $26 million."
+"million users. At press time, EXMO is the 47th largest crypto exchange by 24"
+" hour trade volume on CoinMarketCap at over $26 million."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:89
@@ -143,8 +142,8 @@ msgstr ""
 msgid ""
 "CoinMarketCap lists all cryptocurrencies by their market capitalization. "
 "Clicking one of these currencies allows you to view price charts, and "
-"clicking Markets allows you to view the markets available and the trading"
-" pairs they offer."
+"clicking Markets allows you to view the markets available and the trading "
+"pairs they offer."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:100
@@ -167,9 +166,8 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:113
 msgid ""
-"HitBTC offers facilities to major investors to credit USD, EUR and GBP, "
-"as well as BTC, ETH and USDT trading pairs against SMART for normal "
-"users."
+"HitBTC offers facilities to major investors to credit USD, EUR and GBP, as "
+"well as BTC, ETH and USDT trading pairs against SMART for normal users."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:125
@@ -178,9 +176,9 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:127
 msgid ""
-"Exmo is a UK-registered exchange offering fiat deposits in USD, EUR, USD "
-"and UAH (Ukrainian Hryvnia). SMARTCASH trading pairs exist for BTC, USD "
-"and RUB."
+"Exmo is a UK-registered exchange offering fiat deposits in USD, EUR, USD and"
+" UAH (Ukrainian Hryvnia). SMARTCASH trading pairs exist for BTC, USD and "
+"RUB."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:141
@@ -194,8 +192,8 @@ msgstr ""
 #: ../../introduction/how-to-buy.rst:139
 msgid ""
 "Cryptopia is a New Zealand cryptocurrency exchange with a reputation for "
-"supporting a large number of low-volume altcoins. It offers SMART trading"
-" pairs for BTC, LTC, DOGE."
+"supporting a large number of low-volume altcoins. It offers SMART trading "
+"pairs for BTC, LTC, DOGE."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:152
@@ -222,8 +220,8 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:162
 msgid ""
-"Based in Brazil, Brazilies accepts deposits in Brazilian real, and offers"
-" trading of real, Bitcoin and USDT against SmartCash."
+"Based in Brazil, Brazilies accepts deposits in Brazilian real, and offers "
+"trading of real, Bitcoin and USDT against SmartCash."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:169
@@ -235,7 +233,8 @@ msgid "https://crypto-bridge.org/"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:173
-msgid "Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash."
+msgid ""
+"Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:179
@@ -284,10 +283,10 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:218
 msgid ""
-"Changelly is a broker service offering a range of cryptocurrency, "
-"including SmartCash, for instant exchange against other cryptocurrencies "
-"without needing to create an account. Be sure to check the fees and rates"
-" before purchasing."
+"Changelly is a broker service offering a range of cryptocurrency, including "
+"SmartCash, for instant exchange against other cryptocurrencies without "
+"needing to create an account. Be sure to check the fees and rates before "
+"purchasing."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:233
@@ -315,9 +314,9 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:243
 msgid ""
-"changeNOW is a non-custodian exchange service based in the Netherlands, "
-"with low commissions and quick service. Offers crypto to crypto "
-"exchanges, as well as purchases through credit/debit cards."
+"changeNOW is a non-custodian exchange service based in the Netherlands, with"
+" low commissions and quick service. Offers crypto to crypto exchanges, as "
+"well as purchases through credit/debit cards."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:250
@@ -335,8 +334,8 @@ msgstr ""
 #: ../../introduction/how-to-buy.rst:260
 msgid ""
 "eBitcoinics is a cryptocurrency exchange and education platform for the "
-"African market. SmartCash is available for exchange against Nigerian "
-"Naira (NGN) and Ghanaian Cedi (GHS)."
+"African market. SmartCash is available for exchange against Nigerian Naira "
+"(NGN) and Ghanaian Cedi (GHS)."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:275
@@ -349,16 +348,16 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:272
 msgid ""
-"BitPrime operates a secure and compliant platform for easy retail trading"
-" in New Zealand. SmartCash is available OTC for both purchase and sale "
-"together with many other cryptocurrencies."
+"BitPrime operates a secure and compliant platform for easy retail trading in"
+" New Zealand. SmartCash is available OTC for both purchase and sale together"
+" with many other cryptocurrencies."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:285
 msgid ""
-"Changelly is a popular instantaneous crypto to crypto exchange platform "
-"with more than 100 different coins and tokens listed. Also offers "
-"purchases via credit/debit cards."
+"Changelly is a popular instantaneous crypto to crypto exchange platform with"
+" more than 100 different coins and tokens listed. Also offers purchases via "
+"credit/debit cards."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:301
@@ -373,8 +372,8 @@ msgstr ""
 msgid ""
 "CoinBR is a Brazil-based cryptocurrency company offering a variety of "
 "services including an exchange, mining, bill payment, point-of-sale, and "
-"more. Smartcash is available for purchase at over 13,000 locations around"
-" Brazil."
+"more. Smartcash is available for purchase at over 13,000 locations around "
+"Brazil."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:306
@@ -385,10 +384,10 @@ msgstr ""
 msgid ""
 "ATMs are a popular method of buying cryptocurrency at businesses to "
 "encourage adoption and spending in these currencies. A number of ATMs "
-"support SmartCash, and the mapping services listed on this page can help "
-"you find one near you. It is also possible to operate your own ATM to "
-"sell SmartCash on-site at your business - simply contact the companies "
-"listed on this page."
+"support SmartCash, and the mapping services listed on this page can help you"
+" find one near you. It is also possible to operate your own ATM to sell "
+"SmartCash on-site at your business - simply contact the companies listed on "
+"this page."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:323
@@ -401,7 +400,6 @@ msgstr ""
 
 #: ../../introduction/how-to-buy.rst:323
 msgid ""
-"General Bytes offers a range of two-way cash ATM and Point of Sale "
-"solutions integrating SmartCash."
+"General Bytes offers a range of two-way cash ATM and Point of Sale solutions"
+" integrating SmartCash."
 msgstr ""
-

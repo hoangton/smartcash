@@ -1,32 +1,32 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 16:45+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-16 11:27+0000\n"
+"Language-Team: Spanish (https://www.transifex.com/smartcash/teams/95224/es/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../wallets/nodeclient/advanced.rst:1
 msgid ""
-"Coin control, HD wallets, multisig, KeePass and multiple wallet files "
-"using the SmartCash Node Client wallet"
+"Coin control, HD wallets, multisig, KeePass and multiple wallet files using "
+"the SmartCash Node Client wallet"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:1
 msgid ""
-"smartcash, core, wallet, backup, restore, wallet.dat, hd, seed, "
-"passphrase, mnemonic, coin control, hierarchical deterministic"
+"smartcash, core, wallet, backup, restore, wallet.dat, hd, seed, passphrase, "
+"mnemonic, coin control, hierarchical deterministic"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:9
@@ -40,14 +40,14 @@ msgstr ""
 #: ../../wallets/nodeclient/advanced.rst:16
 msgid ""
 "Coin Control allows users of the SmartCash Node Client Wallet to specify "
-"which addresses and Unspent Transaction Outputs (UTXOs) should be used as"
-" inputs in transactions. This allows you to keep a specific balance on "
-"certain addresses in your wallet, while spending others freely. In "
-"smartcash Node Client Wallet, click **Settings > Options > Wallet > "
-"Enable coin control features**. Now, when you go to the Send tab in your "
-"wallet, a new button labelled **Inputs…** will appear. Click this button "
-"to select which UTXOs can be used as input for any transactions you "
-"create. The following window appears:"
+"which addresses and Unspent Transaction Outputs (UTXOs) should be used as "
+"inputs in transactions. This allows you to keep a specific balance on "
+"certain addresses in your wallet, while spending others freely. In smartcash"
+" Node Client Wallet, click **Settings > Options > Wallet > Enable coin "
+"control features**. Now, when you go to the Send tab in your wallet, a new "
+"button labelled **Inputs…** will appear. Click this button to select which "
+"UTXOs can be used as input for any transactions you create. The following "
+"window appears:"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:29
@@ -59,11 +59,11 @@ msgstr ""
 #: ../../wallets/nodeclient/advanced.rst:32
 msgid ""
 "Right click on the transaction(s) you do not want to spend, then select "
-"**Lock unspent**. A small lock will appear next to the transaction. You "
-"can click the **Toggle lock state** button to invert the locked/unlocked "
-"state of all UTXOs. When you are ready to continue, click **OK**. You can"
-" now safely create transactions with your remaining funds without "
-"affecting the locked UTXOs."
+"**Lock unspent**. A small lock will appear next to the transaction. You can "
+"click the **Toggle lock state** button to invert the locked/unlocked state "
+"of all UTXOs. When you are ready to continue, click **OK**. You can now "
+"safely create transactions with your remaining funds without affecting the "
+"locked UTXOs."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:45
@@ -76,17 +76,16 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:53
 msgid ""
-"Since version v1.2.3, SmartCash Node Client has included an "
-"implementation of BIP39/BIP44 compatible hierarchical deterministic (HD) "
-"key generation. This functionality is only available from the command "
-"line by specifying the ``usehd`` option when starting SmartCash Node "
-"Client for the first time. Use this function with care, since the "
-"mnemonic seed and keys will be stored in plain text until you specify a "
-"wallet passphrase. Note that the wallet passphrase is different to the "
-"mnemonic passphrase, which is often also referred to as the \"25th word\""
-" or \"extension word\". The wallet passphrase encrypts the wallet file "
-"itself, while the mnemonic passphrase is used to specify different "
-"derivation branches from the same mnemonic seed."
+"Since version v1.2.3, SmartCash Node Client has included an implementation "
+"of BIP39/BIP44 compatible hierarchical deterministic (HD) key generation. "
+"This functionality is only available from the command line by specifying the"
+" ``usehd`` option when starting SmartCash Node Client for the first time. "
+"Use this function with care, since the mnemonic seed and keys will be stored"
+" in plain text until you specify a wallet passphrase. Note that the wallet "
+"passphrase is different to the mnemonic passphrase, which is often also "
+"referred to as the \"25th word\" or \"extension word\". The wallet "
+"passphrase encrypts the wallet file itself, while the mnemonic passphrase is"
+" used to specify different derivation branches from the same mnemonic seed."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:65
@@ -99,19 +98,19 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:72
 msgid ""
-"A new HD wallet will be generated and SmartCash Node Client will display "
-"a warning informing you that you must encrypt your wallet after verifying"
-" it works correctly. Open the console from **Help -> Debug Windows - "
-">Consolse tab** or issue the following RPC command from ``smartcash-cli``"
-" to view the mnemonic seed::"
+"A new HD wallet will be generated and SmartCash Node Client will display a "
+"warning informing you that you must encrypt your wallet after verifying it "
+"works correctly. Open the console from **Help -> Debug Windows - >Consolse "
+"tab** or issue the following RPC command from ``smartcash-cli`` to view the "
+"mnemonic seed::"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:79
 msgid ""
-"SmartCash Node Client will display the HD seed in both hexadecimal and as"
-" a BIP39 mnemonic. To restore an existing HD wallet, or define your own "
-"separately generated mnemonic and/or passphrase, ensure no ``wallet.dat``"
-" file exists in the ``datadir`` and enter the following command::"
+"SmartCash Node Client will display the HD seed in both hexadecimal and as a "
+"BIP39 mnemonic. To restore an existing HD wallet, or define your own "
+"separately generated mnemonic and/or passphrase, ensure no ``wallet.dat`` "
+"file exists in the ``datadir`` and enter the following command::"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:87
@@ -126,22 +125,22 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:94
 msgid ""
-"It is possible to select between different smartcash wallets when "
-"starting SmartCash Node Client by specifying the ``wallet`` argument, or "
-"even run multiple instances of SmartCash Node Client simultaneously by "
-"specifying separate data directories using the ``datadir`` argument."
+"It is possible to select between different smartcash wallets when starting "
+"SmartCash Node Client by specifying the ``wallet`` argument, or even run "
+"multiple instances of SmartCash Node Client simultaneously by specifying "
+"separate data directories using the ``datadir`` argument."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:99
 msgid ""
-"To begin, install the SmartCash Node Client wallet for your system "
-"according to the :ref:`installation instructions <nodeclient-"
-"installation>`. When you get to the step **Running SmartCash Node Client "
-"for the first time**, you can decide whether you want to maintain "
-"separate ``wallet.dat`` files in the default location (simpler if you do "
-"not need to run the wallets simultaneously), or specify entirely separate"
-" data directories such as e.g. ``C:\\smartcash1`` (simpler if you do want"
-" to run the wallets simultaneously)."
+"To begin, install the SmartCash Node Client wallet for your system according"
+" to the :ref:`installation instructions <nodeclient-installation>`. When you"
+" get to the step **Running SmartCash Node Client for the first time**, you "
+"can decide whether you want to maintain separate ``wallet.dat`` files in the"
+" default location (simpler if you do not need to run the wallets "
+"simultaneously), or specify entirely separate data directories such as e.g. "
+"``C:\\smartcash1`` (simpler if you do want to run the wallets "
+"simultaneously)."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:110
@@ -150,11 +149,11 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:112
 msgid ""
-"For this scenario, we will create two shortcuts on the desktop, each "
-"using a different wallet file. Navigate to the binary file used to start "
-"SmartCash Node Client (typically locatd at ``C:\\Program Files\\smartcash"
-"\\smartcash-qt.exe`` or similar) and create two shortcuts on the desktop."
-" Then open the **Properties** window for each of these shortcuts."
+"For this scenario, we will create two shortcuts on the desktop, each using a"
+" different wallet file. Navigate to the binary file used to start SmartCash "
+"Node Client (typically locatd at ``C:\\Program Files\\smartcash\\smartcash-"
+"qt.exe`` or similar) and create two shortcuts on the desktop. Then open the "
+"**Properties** window for each of these shortcuts."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:121
@@ -164,11 +163,11 @@ msgstr ""
 #: ../../wallets/nodeclient/advanced.rst:123
 msgid ""
 "Modify the **Target** property of each shortcut to point to a different "
-"wallet file by specifying the ``wallet`` argument when starting the "
-"wallet. If you do not specify a ``wallet`` argument, ``wallet.dat`` will "
-"be used by default. The specified wallet file will be created if it does "
-"not exist. The following example demonstrates two wallets named "
-"``workwallet.dat`` and ``homewallet.dat``:"
+"wallet file by specifying the ``wallet`` argument when starting the wallet. "
+"If you do not specify a ``wallet`` argument, ``wallet.dat`` will be used by "
+"default. The specified wallet file will be created if it does not exist. The"
+" following example demonstrates two wallets named ``workwallet.dat`` and "
+"``homewallet.dat``:"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:130
@@ -189,10 +188,9 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:138
 msgid ""
-"You can now use the two icons to quickly and easily open different "
-"wallets from your desktop. Note that you cannot open both wallets "
-"simultaneously. To do this, you will need two separate data directories, "
-"as described below."
+"You can now use the two icons to quickly and easily open different wallets "
+"from your desktop. Note that you cannot open both wallets simultaneously. To"
+" do this, you will need two separate data directories, as described below."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:145
@@ -201,15 +199,14 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:147
 msgid ""
-"Start SmartCash Node Client and allow it to synchronize with the network,"
-" then close SmartCash Node Client again. You can now create two "
-"directories at e.g. ``C:\\smartcash1`` and ``C:\\smartcash2`` and copy "
-"the ``blocks`` and ``chainstate`` directories from the synchronized data "
-"directory into the new directories. Each of these will serve as a "
-"separate data directory, allowing you to run two instances of SmartCash "
-"Node Client simultaneously. Create two (or more) shortcuts on your "
-"desktop as described above, then specify arguments for ``datadir`` as "
-"shown below:"
+"Start SmartCash Node Client and allow it to synchronize with the network, "
+"then close SmartCash Node Client again. You can now create two directories "
+"at e.g. ``C:\\smartcash1`` and ``C:\\smartcash2`` and copy the ``blocks`` "
+"and ``chainstate`` directories from the synchronized data directory into the"
+" new directories. Each of these will serve as a separate data directory, "
+"allowing you to run two instances of SmartCash Node Client simultaneously. "
+"Create two (or more) shortcuts on your desktop as described above, then "
+"specify arguments for ``datadir`` as shown below:"
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:156
@@ -230,16 +227,14 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:164
 msgid ""
-"You can now use the two icons to quickly and easily open different "
-"wallets simultaneously from your desktop. Both wallets maintain separate "
-"and full copies of the blockchain, which may use a lot of drive space. "
-"For more efficient use of drive space, consider using an SPV or \"light\""
-" wallet such as :ref:`smartcash Electrum <smartcash-electrum-wallet>` to "
-"maintain multiple separate wallets without keeping a full copy of the "
-"blockchain."
+"You can now use the two icons to quickly and easily open different wallets "
+"simultaneously from your desktop. Both wallets maintain separate and full "
+"copies of the blockchain, which may use a lot of drive space. For more "
+"efficient use of drive space, consider using an SPV or \"light\" wallet such"
+" as :ref:`smartcash Electrum <smartcash-electrum-wallet>` to maintain "
+"multiple separate wallets without keeping a full copy of the blockchain."
 msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:174
 msgid "Two instances of SmartCash Node Client running simultaneously"
 msgstr ""
-

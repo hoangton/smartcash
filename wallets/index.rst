@@ -26,20 +26,20 @@ more than the device you use to store it, you should purchase a
 
 .. _nodeclient-wallet:
 
-SmartCash Node Client Wallet
-================
+SmartCash NodeClient Wallet
+============================
 
-SmartCash Node Client Wallet is the full official release of SmartCash, and supports all
+SmartCash NodeClient Wallet is the full official release of SmartCash, and supports all
 SmartCash features as they are released, including InstantPay and
 SmartNodes, as well as an RPC console and Voting features. SmartCash
-Node Client Wallet (sometimes known as the QT wallet, due to the QT software
+NodeClient Wallet (sometimes known as the QT wallet, due to the QT software
 framework used in development) is a professional or heavy wallet which
 downloads the full blockchain (several GB in size) and can operate as
 both a full node or smartnode on the network. Because of the
 requirement to hold a full copy of the blockchain, some time is required
 for synchronisation when starting the wallet. Once this is done, the
 correct balances will be displayed and the functions in the wallet can
-be used. SmartCash Node Client Wallet is available for macOS, Linux, Raspberry Pi
+be used. SmartCash NodeClient Wallet is available for macOS, Linux, Raspberry Pi
 and Windows.
 
 Features:
@@ -68,12 +68,12 @@ Available documentation:
 .. figure:: nodeclient/img/windows/1.png
    :width: 400 px
 
-   SmartCash Node Client Wallet
+   SmartCash NodeClient Wallet
 
 .. _smartcash-electrum-wallet:
 
 SmartCash Electrum Wallet
-====================
+=========================
 
 SmartCash Electrum is a light wallet which uses powerful external servers to
 index the blockchain, while still securing the keys on your personal
@@ -107,7 +107,7 @@ available at the `official documentation site
 .. _smartcash-android-wallet:
 
 SmartCash Android Wallet
-===================
+========================
 
 SmartCash offers wallet for Android, this is the mobile versions of web wallet so have all features of web wallet.
 
@@ -118,7 +118,7 @@ https://play.google.com/store/apps/details?id=cc.smartcash.wallet
 .. _smartcash-ios-wallet:
 
 SmartCash iOS Wallet
-===============
+====================
 
 SmartCash offers wallet for iOS, this is the mobile versions of web wallet so have all features of web wallet.
 
@@ -129,7 +129,7 @@ https://itunes.apple.com/us/app/smartcash-wallet/id1438215565?mt=8
 .. _smartcash-smartcard-wallet:
 
 SmartCash smartcard Wallet
-=================
+==========================
 
 FUTURE POTENTIAL OF SMARTCARD…
 Debit and credit card payments have arguably become the dominant way for many to carry out most, if not all, of their daily transactions. Adoption of card payments became increasingly simple for smaller businesses, and now quick and affordable smartphone-powered solutions are already a reality.
@@ -171,7 +171,7 @@ Naturally, these benefits would also be quite attractive to buyers and sellers i
 .. _paper-wallets:
 
 SmartCash Paper Wallet
-=================
+======================
 
 The `SmartCash Paper Wallet generator <https://paperwallet.smartcash.cc/>`_ allows you
 to generate, encrypt and secure the keys to a single SmartCash address on a

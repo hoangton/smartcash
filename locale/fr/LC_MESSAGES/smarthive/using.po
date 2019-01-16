@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, SmartCash
+# This file is distributed under the same license as the SmartCash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartCash latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"PO-Revision-Date: 2019-01-16 11:35+0000\n"
+"Language-Team: French (https://www.transifex.com/smartcash/teams/95224/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../smarthive/using.rst:1
+msgid "Practical guide to using the SmartCash governance system and treasury"
+msgstr ""
+
+#: ../../smarthive/using.rst:1
+msgid "smartcash, governance, funding, voting, proposals, smartnodes"
+msgstr ""
+
+#: ../../smarthive/using.rst:9
+msgid "Using SmartCash SmartHive"
+msgstr ""
+
+#: ../../smarthive/using.rst:11
+msgid ""
+"SmartCash SmartHive is voting and funding platform. This documentation "
+"introduces and details the theory and practice to use the system."
+msgstr ""
+
+#: ../../smarthive/using.rst:15
+msgid "Understanding the process"
+msgstr ""
+
+#: ../../smarthive/using.rst:18
+msgid "Introduction"
+msgstr ""
+
+#: ../../smarthive/using.rst:20
+msgid ""
+"smarthive consists of three components: Proposals, Votes, and Fund Allocated"
+msgstr ""
+
+#: ../../smarthive/using.rst:21
+msgid "Anyone can submit a proposal for a small fee"
+msgstr ""
+
+#: ../../smarthive/using.rst:22
+msgid ""
+"Each valid smartcash holder can vote for, against or abstain on proposals"
+msgstr ""
+
+#: ../../smarthive/using.rst:23
+msgid "Approved proposals become Fund Allocated"
+msgstr ""
+
+#: ../../smarthive/using.rst:24
+msgid ""
+"Fund Allocated are paid directly from Project Treasury to the proposal owner"
+msgstr ""
+
+#: ../../smarthive/using.rst:27
+msgid "Proposals"
+msgstr ""
+
+#: ../../smarthive/using.rst:29
+msgid "Proposals are a request to receive funds"
+msgstr ""
+
+#: ../../smarthive/using.rst:30
+msgid ""
+"Proposals can be submitted by anyone for a fee of 100 SMART. The proposal "
+"fee is irreversibly destroyed on submission."
+msgstr ""
+
+#: ../../smarthive/using.rst:32
+msgid "Proposals cannot be altered once submitted"
+msgstr ""
+
+#: ../../smarthive/using.rst:35
+msgid "Votes"
+msgstr ""
+
+#: ../../smarthive/using.rst:37
+msgid "Votes are cast using the address that have > 1 smartcash"
+msgstr ""
+
+#: ../../smarthive/using.rst:38
+msgid "Votes can be changed at any time"
+msgstr ""
+
+#: ../../smarthive/using.rst:41
+msgid "Fund Allocated"
+msgstr ""
+
+#: ../../smarthive/using.rst:43
+msgid ""
+"Fund Allocated are proposals which receive a net total of yes votes equal to"
+" or greater than 10% of the total possible votes (for example over 448 out "
+"of 4480)"
+msgstr ""
+
+#: ../../smarthive/using.rst:46
+msgid ""
+"Fund Allocated can be nullified at any time if vote totals (cast or re-cast)"
+" fall below the approval threshold"
+msgstr ""
+
+#: ../../smarthive/using.rst:48
+msgid ""
+"Fund Allocated are processed (paid) in order of yes minus no votes. More "
+"popular Fund Allocated get payment priority."
+msgstr ""
+
+#: ../../smarthive/using.rst:52
+msgid "Object structure"
+msgstr ""
+
+#: ../../smarthive/using.rst:54
+msgid "The following information is required to create a proposal:"
+msgstr ""
+
+#: ../../smarthive/using.rst:56
+msgid "proposal-name: a unique label"
+msgstr ""
+
+#: ../../smarthive/using.rst:57
+msgid "Summary: a proposer-created webpage"
+msgstr ""
+
+#: ../../smarthive/using.rst:58
+msgid ""
+"Forum Proposal Link: forum post containing detailed proposal information"
+msgstr ""
+
+#: ../../smarthive/using.rst:59
+msgid "block-start: the requested start of proposal payments"
+msgstr ""
+
+#: ../../smarthive/using.rst:60
+msgid "SmartCash Payment Address: the address to receive proposal payments"
+msgstr ""
+
+#: ../../smarthive/using.rst:61
+msgid "Total Cost: the requested payment amount"
+msgstr ""
+
+#: ../../smarthive/using.rst:63
+msgid "Detail here: https://vote.smartcash.cc/Proposal/Create"
+msgstr ""
+
+#: ../../smarthive/using.rst:66
+msgid "Persistence"
+msgstr ""
+
+#: ../../smarthive/using.rst:68
+msgid ""
+"Proposal Funds can not be transferred back to the community as a kickback, "
+"rebate, or donation nor can they be used to fund third parties. Proposals "
+"that have this objectives will be removed."
+msgstr ""
+
+#: ../../smarthive/using.rst:69
+msgid ""
+"Your proposal will be validated by our team before it goes live. We will "
+"check if it does not hurt any of the terms, only after this will be released"
+" on the site"
+msgstr ""
+
+#: ../../smarthive/using.rst:70
+msgid ""
+"Proposals will be open for 14 days. If during the last day of voting, the "
+"status change, the proposal will be extended for another 24h"
+msgstr ""
+
+#: ../../smarthive/using.rst:71
+msgid "After submitting, you will not be able to edit the proposal"
+msgstr ""
+
+#: ../../smarthive/using.rst:74
+msgid "Templates"
+msgstr ""
+
+#: ../../smarthive/using.rst:76
+msgid ""
+"The following two Microsoft Word templates are available to help facilitate "
+"standardized proposal submission and updates. Usage is recommended, but not "
+"required."
+msgstr ""
+
+#: ../../smarthive/using.rst:79
+msgid ""
+"`Project Proposal Template "
+"<https://github.com/hoangton/docs/raw/master/binary/SmartCash%20Project%20Proposal%20Template%20v1.0.docx>`_"
+msgstr ""
+
+#: ../../smarthive/using.rst:80
+msgid ""
+"`Project Status Update Template "
+"<https://github.com/SmartCashpay/docs/raw/master/binary/SmartCash%20Project%20Status%20Update%20Template%20v1.0.docx>`_"
+msgstr ""
+
+#: ../../smarthive/using.rst:85
+msgid "Creating proposals"
+msgstr ""
+
+#: ../../smarthive/using.rst:87
+msgid ""
+"Once you have prepared the text of your proposal and set up a website or "
+"forum post, it is time to submit your proposal to the blockchain for voting."
+msgstr ""
+
+#: ../../smarthive/using.rst:89
+msgid "https://vote.smartcash.cc/Proposal/Create"
+msgstr ""
+
+#: ../../smarthive/using.rst:92
+msgid "Voting on proposals"
+msgstr ""
+
+#: ../../smarthive/using.rst:94
+msgid ""
+"You can voting on proposals from Web wallet, Node Client Wallet, Electrum "
+"Wallet and any kind of wallet that support sign message."
+msgstr ""
+
+#: ../../smarthive/using.rst:96
+msgid ""
+"For information on how to create a proposal, see :ref:`here <creating-"
+"proposals>`."
+msgstr ""
