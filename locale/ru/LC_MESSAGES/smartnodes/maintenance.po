@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-16 23:54+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,7 +53,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:28
-msgid "Option 1: Updating from SmartCash"
+msgid "Option 1: Updating from ppa"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:30
@@ -243,4 +243,7 @@ msgid ""
 "SmartCash smartnode network, including graphs of the total smartnode "
 "count over time, price information and network distribution."
 msgstr ""
+
+#~ msgid "Option 1: Updating from SmartCash"
+#~ msgstr ""
 

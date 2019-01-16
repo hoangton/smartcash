@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-16 23:54+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,7 @@ msgid ""
 "not. .. _smartnodes:"
 msgstr ""
 
-#: ../../introduction/features.rst:42 ../../introduction/features.rst:264
+#: ../../introduction/features.rst:42 ../../introduction/features.rst:265
 msgid "Smartnodes"
 msgstr ""
 
@@ -154,7 +154,7 @@ msgid ""
 "value of Smart may offset these reductions."
 msgstr ""
 
-#: ../../introduction/features.rst:73 ../../introduction/features.rst:313
+#: ../../introduction/features.rst:73 ../../introduction/features.rst:314
 msgid "InstantPay"
 msgstr ""
 
@@ -248,10 +248,14 @@ msgid ""
 "payment without your permission. For further information about how the "
 "system works and how both merchants and customers will benefit from using"
 " the SmartCard and SmartCash POS App please visit: "
-"smartcash.cc/smartcard/ SmartBand ------------------"
+"smartcash.cc/smartcard/"
 msgstr ""
 
-#: ../../introduction/features.rst:151
+#: ../../introduction/features.rst:150
+msgid "SmartBand"
+msgstr ""
+
+#: ../../introduction/features.rst:152
 #, python-format
 msgid ""
 "The SmartBand is a partnership between Stratum, ATAR, and SmartCash. ATAR"
@@ -268,11 +272,11 @@ msgid ""
 "merchants with no additional steps, technology, or training required."
 msgstr ""
 
-#: ../../introduction/features.rst:170
+#: ../../introduction/features.rst:171
 msgid "SmartHive Governance and Hive Teams"
 msgstr ""
 
-#: ../../introduction/features.rst:171
+#: ../../introduction/features.rst:172
 msgid ""
 "The one feature that sets SmartCash apart is the SmartHive governance "
 "model and how the community can vote to fund the best projects with block"
@@ -297,11 +301,11 @@ msgid ""
 "growth."
 msgstr ""
 
-#: ../../introduction/features.rst:197
+#: ../../introduction/features.rst:198
 msgid "Keccak Hash Algorithm"
 msgstr ""
 
-#: ../../introduction/features.rst:198
+#: ../../introduction/features.rst:199
 msgid ""
 "Keccak (pronounced as “ketchak”) also known as SHA-3 (Secure Hash "
 "Algorithm 3). It is the latest generation secure hashing algorithm "
@@ -316,22 +320,22 @@ msgid ""
 "<mining>` section of this documentation."
 msgstr ""
 
-#: ../../introduction/features.rst:205
+#: ../../introduction/features.rst:206
 msgid "Advantages of Keccak"
 msgstr ""
 
-#: ../../introduction/features.rst:207
+#: ../../introduction/features.rst:208
 msgid ""
 "Keccak is a SHA-3 hashing algorithm and as it is a member of SHA family "
 "it isn’t 100% ASIC resistant. In fact it is ASIC friendly but as far as "
 "we know there isn’t an ASIC currently for this algorithm."
 msgstr ""
 
-#: ../../introduction/features.rst:213
+#: ../../introduction/features.rst:214
 msgid "Emission Rate"
 msgstr ""
 
-#: ../../introduction/features.rst:215
+#: ../../introduction/features.rst:216
 #, python-format
 msgid ""
 "Cryptocurrencies such as SmartCash and Bitcoin are created through a "
@@ -346,7 +350,7 @@ msgid ""
 "circulation, known as the coin emission rate."
 msgstr ""
 
-#: ../../introduction/features.rst:226
+#: ../../introduction/features.rst:227
 #, python-format
 msgid ""
 "While SmartCash is based on Bitcoin, it significantly modifies the coin "
@@ -356,29 +360,29 @@ msgid ""
 "717,565,000+998,173,000=1,715,738,000 or 34.31% of the maximum supply."
 msgstr ""
 
-#: ../../introduction/features.rst:230
+#: ../../introduction/features.rst:231
 msgid ""
 "Year 2 generates an additional 500 Million SmartCash, bringing the total "
 "supply to about 2.2 Billion out of the total 5 Billion, or 44% "
 "(calculation here)."
 msgstr ""
 
-#: ../../introduction/features.rst:232
+#: ../../introduction/features.rst:233
 msgid ""
 "Year 3 generates even less about 291.7 Million more SmartCash "
 "(calculation here), for a total supply of about 50%, or 2.5Billion out of"
 " 5 Billion. The remainder is spread over the next 121 years."
 msgstr ""
 
-#: ../../introduction/features.rst:237
+#: ../../introduction/features.rst:238
 msgid "SmartCahs coin emission rate 125 Years"
 msgstr ""
 
-#: ../../introduction/features.rst:241
+#: ../../introduction/features.rst:242
 msgid "Total coin emission"
 msgstr ""
 
-#: ../../introduction/features.rst:243
+#: ../../introduction/features.rst:244
 #, python-format
 msgid ""
 "`Bitcoin's total coin emission <https://docs.google.com/spreadsheets/d/1 "
@@ -389,7 +393,7 @@ msgid ""
 " all bitcoin will be in circulation by 2036, and 99.9% by 2048."
 msgstr ""
 
-#: ../../introduction/features.rst:250
+#: ../../introduction/features.rst:251
 #, python-format
 msgid ""
 "`SmartCash's total coin emission "
@@ -401,54 +405,54 @@ msgid ""
 "smartcash-emission-curve-and-distribution-rates/>`"
 msgstr ""
 
-#: ../../introduction/features.rst:256
+#: ../../introduction/features.rst:257
 msgid "Block reward allocation"
 msgstr ""
 
-#: ../../introduction/features.rst:258
+#: ../../introduction/features.rst:259
 #, python-format
 msgid ""
 "Unlike Bitcoin, which allocates 100% of the block reward to miners, "
 "SmartCash allocates:"
 msgstr ""
 
-#: ../../introduction/features.rst:262
+#: ../../introduction/features.rst:263
 msgid "5% | Mining Reward"
 msgstr ""
 
-#: ../../introduction/features.rst:264
+#: ../../introduction/features.rst:265
 msgid "10%"
 msgstr ""
 
-#: ../../introduction/features.rst:266
+#: ../../introduction/features.rst:267
 msgid "15%"
 msgstr ""
 
-#: ../../introduction/features.rst:266
+#: ../../introduction/features.rst:267
 msgid "SmartRewards"
 msgstr ""
 
-#: ../../introduction/features.rst:268
+#: ../../introduction/features.rst:269
 msgid "4%"
 msgstr ""
 
-#: ../../introduction/features.rst:268
+#: ../../introduction/features.rst:269
 msgid "x6 Hive Structuring Teams"
 msgstr ""
 
-#: ../../introduction/features.rst:270
+#: ../../introduction/features.rst:271
 msgid "46%"
 msgstr ""
 
-#: ../../introduction/features.rst:270
+#: ../../introduction/features.rst:271
 msgid "SmartHive Project Treasury"
 msgstr ""
 
-#: ../../introduction/features.rst:277
+#: ../../introduction/features.rst:278
 msgid "Fees"
 msgstr ""
 
-#: ../../introduction/features.rst:279
+#: ../../introduction/features.rst:280
 msgid ""
 "Transactions on the SmartCash network are recorded in blocks on the "
 "blockchain. The size of each transaction is measured in bytes, but there "
@@ -468,11 +472,11 @@ msgid ""
 "included."
 msgstr ""
 
-#: ../../introduction/features.rst:296
+#: ../../introduction/features.rst:297
 msgid "SmartCash also supports"
 msgstr ""
 
-#: ../../introduction/features.rst:298
+#: ../../introduction/features.rst:299
 msgid ""
 ":ref:`instantpay` transactions, which operate on a different and "
 "mandatory fee schedule. SmartCash introduced InstantPay autolocks, which "
@@ -482,43 +486,43 @@ msgid ""
 " as of December 2018 is as follows:"
 msgstr ""
 
-#: ../../introduction/features.rst:307
+#: ../../introduction/features.rst:308
 msgid "Transaction type"
 msgstr ""
 
-#: ../../introduction/features.rst:307
+#: ../../introduction/features.rst:308
 msgid "Recommended fee"
 msgstr ""
 
-#: ../../introduction/features.rst:307
+#: ../../introduction/features.rst:308
 msgid "Per unit"
 msgstr ""
 
-#: ../../introduction/features.rst:309
+#: ../../introduction/features.rst:310
 msgid "Standard transaction"
 msgstr ""
 
-#: ../../introduction/features.rst:309 ../../introduction/features.rst:311
+#: ../../introduction/features.rst:310 ../../introduction/features.rst:312
 msgid ".00001 SMART"
 msgstr ""
 
-#: ../../introduction/features.rst:309 ../../introduction/features.rst:311
+#: ../../introduction/features.rst:310 ../../introduction/features.rst:312
 msgid "Per kB of transaction data"
 msgstr ""
 
-#: ../../introduction/features.rst:311
+#: ../../introduction/features.rst:312
 msgid "InstantPay autolock"
 msgstr ""
 
-#: ../../introduction/features.rst:313
+#: ../../introduction/features.rst:314
 msgid ".0001 SMART"
 msgstr ""
 
-#: ../../introduction/features.rst:313
+#: ../../introduction/features.rst:314
 msgid "Per transaction input"
 msgstr ""
 
-#: ../../introduction/features.rst:317
+#: ../../introduction/features.rst:318
 msgid ""
 "As an example, a standard and relatively simple transaction on the "
 "SmartCash network with one input, one output and a possible change "
@@ -530,4 +534,46 @@ msgid ""
 "on the number of inputs. These fees apply regardless of the SmartCash or "
 "dollar value of the transaction itself."
 msgstr ""
+
+#~ msgid ""
+#~ "`Smartcard <https://smartcash.cc/smartcard>`_ Debit and"
+#~ " credit card payments have become the"
+#~ " dominant way for many to carry "
+#~ "out most, if not all, of their "
+#~ "daily transactions. Adoption of card "
+#~ "payments became increasingly simple for "
+#~ "small businesses and now quick and "
+#~ "affordable smartphone-powered solutions have"
+#~ " widespread adoption. SmartCard emerged "
+#~ "offering to solve many of the "
+#~ "problems traditional payment systems are "
+#~ "facing such as long settlement times,"
+#~ " chargebacks, and high fees. SmartCard "
+#~ "is a blockchain-based solution that "
+#~ "aims to improve on the digital "
+#~ "payment card model. Our main goals "
+#~ "are to streamline crypto transactions "
+#~ "and make them practical for use in"
+#~ " real-life payment scenarios. At the"
+#~ " same time we aim to drastically "
+#~ "reduce fees and confirmation time frames"
+#~ " over those found in current "
+#~ "solutions. The SmartCard makes it "
+#~ "possible to pay with SmartCash using "
+#~ "a physical card where no mobile "
+#~ "wallet or phone internet access is "
+#~ "required. Since the SmartCard doesn’t "
+#~ "use a bank or a credit card "
+#~ "processor, transactions are not subject "
+#~ "to any restrictions. Merchants will have"
+#~ " a point of sale (POS) app, so"
+#~ " they transmit transactions for you "
+#~ "but can’t initiate the payment without"
+#~ " your permission. For further information"
+#~ " about how the system works and "
+#~ "how both merchants and customers will"
+#~ " benefit from using the SmartCard and"
+#~ " SmartCash POS App please visit: "
+#~ "smartcash.cc/smartcard/ SmartBand ------------------"
+#~ msgstr ""
 

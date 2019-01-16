@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-16 23:54+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,14 +19,12 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:1
 msgid ""
-"Smartnodes, multisig, sweeping paper wallets, cold storage and command "
-"line in the SmartCash Electrum wallet."
+"Smartnodes, multisig, sweeping paper wallets, command line in the "
+"SmartCash Electrum wallet."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:1
-msgid ""
-"smartcash, wallet, electrum, smartnode, multisig, paper, cold storage, "
-"command line"
+msgid "smartcash, wallet, electrum, smartnode, multisig, paper, command line"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:9
@@ -819,4 +817,16 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:595
 msgid "Create a payment request::"
 msgstr ""
+
+#~ msgid ""
+#~ "Smartnodes, multisig, sweeping paper wallets,"
+#~ " cold storage and command line in "
+#~ "the SmartCash Electrum wallet."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "smartcash, wallet, electrum, smartnode, "
+#~ "multisig, paper, cold storage, command "
+#~ "line"
+#~ msgstr ""
 
