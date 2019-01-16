@@ -9,7 +9,7 @@ Legal
 =====
 
 How the Law Applies to SmartCash
-===========================
+================================
 
 One of the most common questions we receive is *How are smartnode
 operators treated under the US tax laws?*
@@ -202,7 +202,7 @@ to run services without a compliance program or don't need one, we
 completely respect that too.
 
 SmartCash ATM Compliance Program
----------------------------
+--------------------------------
 
 #. Please first read the `Quick Guide To Operating a Virtual Currency
    Kiosk <https://github.com/SmartCashpay/docs/blob/master/binary

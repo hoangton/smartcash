@@ -1,5 +1,5 @@
 .. meta::
-   :description: SmartCash Node Client wallet startup arguments and RPC command reference
+   :description: SmartCash NodeClient wallet startup arguments and RPC command reference
    :keywords: smartcash, core, wallet, arguments, commands, RPC
 
 .. _nodeclient-rpc:
@@ -40,7 +40,7 @@ be appended to the data directory automatically.
 Command line arguments
 ======================
 
-These commands are accurate as of SmartCash Node Client.
+These commands are accurate as of SmartCash NodeClient.
 
 - `smartcashd`_
 - `smartcash-qt`_
@@ -49,16 +49,16 @@ These commands are accurate as of SmartCash Node Client.
 
 
 smartcashd
------
+----------
 
-SmartCash Node Client Daemon
+SmartCash NodeClient Daemon
 
 
 Usage
 ^^^^^
 
 smartcashd [options]
-  Start SmartCash Node Client Daemon
+  Start SmartCash NodeClient Daemon
 
 
 Options
@@ -209,9 +209,9 @@ UI Options:
 
 
 smartcash-qt
--------
+------------
 
-SmartCash Node Client QT GUI, use same command line options as smartcashd with additional
+SmartCash NodeClient QT GUI, use same command line options as smartcashd with additional
 options for UI as described below.
 
 
@@ -219,7 +219,7 @@ Usage
 ^^^^^
 
 smartcash-qt [command-line options]
-  Start SmartCash Node Client QT GUI
+  Start SmartCash NodeClient QT GUI
 
 
 Wallet options
@@ -229,16 +229,16 @@ Wallet options
  
 
 smartcash-cli
---------
+--------------
 
-SmartCash Node Client RPC client
+SmartCash NodeClient RPC client
 
 
 Usage
 ^^^^^
 
 smartcash-cli [options] <command> [params]  
-  Send command to SmartCash Node Client
+  Send command to SmartCash NodeClient
 smartcash-cli [options] help                
   List commands
 smartcash-cli [options] help <command>      
@@ -261,7 +261,7 @@ headless wallets and *smartcashd*.
 
 
 
-￼
+
 == Addressindex ==
 getaddressbalance
 getaddressdeltas

@@ -4,9 +4,9 @@
 
 .. _about:
 
-=============
+==================
 What is SmartCash?
-=============
+==================
 
 SmartCash is a peer-to-peer digital currency that can be used without having to trust a third party. By focusing on being ease to use even for people who aren‘t crypto geeks, on being merchant friendly. The SmartCash network features 
 :ref:`instant transaction confirmation <instantpay>`, double spend 
@@ -25,10 +25,10 @@ an appropriate :ref:`wallet <wallets>`, learning about
 :ref:`SmartCash community sites <information>`.
 
 SmartCash Videos
------------
+----------------
 
 SmartCash Explained
-~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 SmartCash Explained is a six-part video series. 
 It explains SmartCash from a beginner's level up to descriptions of the more 
@@ -42,7 +42,7 @@ advanced features.
 
 
 SmartCard & SmartPay
-~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 SmartCard & SmartPay is an nine-part video series. It 
 covers unique features and functions of SmartCard & SmartPay only available on the SmartCash network,
@@ -59,7 +59,7 @@ and is available in
 .. _whitepaper:
 
 Brochure/Whitepaper
-----------
+-------------------
 
 The SmartCash Brochure/Whitepaper describes the unique value proposition and key
 innovations in SmartCash from an academic and theoretical perspective. It is 

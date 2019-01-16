@@ -4,9 +4,9 @@
 
 .. _smartreward:
 
-======
+===========
 Smartreward
-======
+===========
 
 .. image:: img/smartreward.jpg
    :width: 60 %

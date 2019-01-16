@@ -1,5 +1,5 @@
 .. meta::
-   :description: Guide to sending and receiving SmartCash using the SmartCash Node Client wallet
+   :description: Guide to sending and receiving SmartCash using the SmartCash NodeClient wallet
    :keywords: SmartCash, core, wallet, send, receive, transaction
 
 .. _nodeclient-send-receive:
@@ -8,7 +8,7 @@
 Sending and receiving
 =====================
 
-Your SmartCash Node Client Wallet is associated with a number of unique addresses
+Your SmartCash NodeClient Wallet is associated with a number of unique addresses
 that can be used to send and receive SmartCash. Each address holds its own
 balance, and the sum of all your balances is what appears on the
 **Overview** tab. When you send SmartCash, your wallet will automatically
@@ -17,7 +17,7 @@ destination address, which is controlled by another SmartCash user and
 associated with their wallet. You can control which addresses you use
 using the Coin Control feature.
 
-When you confirm a transaction, SmartCash Node Client will enter the transaction in
+When you confirm a transaction, SmartCash NodeClient will enter the transaction in
 a block, which will then be added to the blockchain for other clients to
 confirm. A transaction is generally considered confirmed once six blocks
 have been added after the block containing your transaction, although
@@ -28,9 +28,9 @@ transactions.
 SmartCash addresses are 34 characters long and begin with an uppercase S.
 
 Sending SmartCash
-============
+=================
 
-You can use SmartCash Node Client to send SmartCash from your balance to another user.
+You can use SmartCash NodeClient to send SmartCash from your balance to another user.
 The receiving user will provide you with a SmartCash address to which you
 should send the funds. Click the **Send** tab in the tab bar and enter
 the destination address in the **Pay To** field.
@@ -38,7 +38,7 @@ the destination address in the **Pay To** field.
 .. figure:: img/send.png
    :width: 400px
 
-   The SmartCash Node Client Send tab
+   The SmartCash NodeClient Send tab
 
 You can also use the three icons |sendicons| to the right of the **Pay
 To** field to select a previously used address, paste an address from
@@ -78,7 +78,7 @@ required to enter your password to unlock the wallet.
    Entering the password to unlock the wallet
 
 Finally, you are given one final confirmation and chance to cancel your
-send transaction before SmartCash Node Client processes the transaction on the
+send transaction before SmartCash NodeClient processes the transaction on the
 blockchain.
 
 .. figure:: img/confirm.png
@@ -100,7 +100,7 @@ is the transaction fee. In the next section, we will see what this
 procedure looks like from the receiving side.
 
 Receiving SmartCash
-==============
+===================
 
 To receive SmartCash, you must first create a receiving address to give to
 the sending party. To do this, click **File > Receiving addresses**. The

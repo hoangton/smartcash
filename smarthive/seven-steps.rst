@@ -2,7 +2,7 @@
    :description: How to prepare and submit a successful proposal for the SmartCash treasury system
    :keywords: smartcash, treasury, proposal, recommendations, communication
 
-.. _eight-steps:
+.. _seven-steps:
 
 ================================
 7 Steps to a Successful Proposal

@@ -130,7 +130,7 @@ to the address.
 
 
 Sending to a paper wallet and viewing the balance
--------------------------------------------------
+----------------------------------------------------
 
 You can send SmartCash to a paper wallet address in the same way as to any
 other SmartCash address. See the documentation for your wallet if you do not

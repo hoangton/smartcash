@@ -9,7 +9,7 @@ Technical Guides
 ================
 
 SmartCash Wallet Integration
-=======================
+============================
 
 `SmartCash Node Client <https://github.com/SmartCash/Core-Smart/releases/>`__ is a fork of
 Bitcoin and the majority of functionality included in the SmartCash Node Client
@@ -51,7 +51,7 @@ general information, are summarized below.
 .. _integration:
 
 Integration Notes
-=========================
+=================
 
 .. _api-services:
 
@@ -137,7 +137,7 @@ various wallet services.
 
 
 SmartCash Developer Guide
---------------------
+-------------------------
 
 .. image:: img/SmartCash-Logo-S.png
    :width: 200px

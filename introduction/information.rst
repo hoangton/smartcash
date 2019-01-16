@@ -234,7 +234,7 @@ Price monitoring and statistics
 
 
 SmartCash Community project
-----------------------
+---------------------------
 
 
 

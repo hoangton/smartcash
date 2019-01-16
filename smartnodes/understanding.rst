@@ -65,7 +65,7 @@ require direct access to the smartnode. Steps 3 and 4 require access to
 a SmartCash Wallet. 
 
 Smartnodes vs. mining
-======================
+=====================
 
 SmartCash, like Bitcoin and most other cryptocurrencies, is based on a
 decentralized ledger of all transactions, known as a blockchain. This
@@ -106,10 +106,10 @@ rewards.
 .. _payment-logic:
 
 Payment Determination
-=============
+=====================
 
 Smartnode requirements
-=======================
+======================
 
 - 10,000 Smart: Arguably the hardest part. Smart can be obtained from exchanges such as CryptoBridge, HitBTC. For the full list of places to obtain Smart click here.
 - A computer for running a local wallet to start nodes and hold funds

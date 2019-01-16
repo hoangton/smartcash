@@ -9,7 +9,7 @@ Frequently Asked Questions
 ==========================
 
 How does SmartCash Electrum work?
-----------------------------
+---------------------------------
 
 SmartCash Electrum focuses on speed, low resource usage and providing a
 simple user experience for SmartCash. Startup times are instant because it
@@ -17,7 +17,7 @@ operates in conjunction with high-performance servers that handle the
 most complicated parts of the SmartCash system.
 
 Does SmartCash Electrum trust servers?
----------------------------------
+--------------------------------------
 
 Not really; the SmartCash Electrum client never sends private keys to the
 servers. In addition, it verifies the information reported by
@@ -227,7 +227,7 @@ SmartCash Electrum lets you create and sign raw transactions right from the
 user interface using a form.
 
 SmartCash Electrum freezes when I try to send SmartCash
----------------------------------------------
+------------------------------------------------------
 
 This might happen if you are trying to spend a large number of
 transactions outputs (for example, if you have collected hundreds of
@@ -276,7 +276,7 @@ For example, if you wanted to generate 50 addresses, you could do this::
     print wallet.create_new_address()
 
 How to upgrade SmartCash Electrum?
------------------------------
+----------------------------------
 
 Warning: always save your wallet seed on paper before doing an upgrade.
 

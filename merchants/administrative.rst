@@ -30,7 +30,7 @@ SmartCash ecosystem:
 
 
 Promoting SmartCash
-==============
+===================
 
 A wide range of ready-to-go visual products are available to help you
 promote SmartCash as a payment method to your customers. This includes

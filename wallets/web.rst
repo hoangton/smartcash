@@ -5,7 +5,7 @@
 .. _smartcash-web-wallet:
 
 WebWallet
-============
+=========
 
 .. image:: img/web-wallet.png
    :width: 120px

@@ -4,9 +4,9 @@
 
 .. _understanding-smarthive:
 
-=============================
+=================================
 Understanding SmartCash SmartHive
-=============================
+=================================
 
 One of the greatest challenges of building a cryptocurrency platform is
 ensuring you create a decentralized system of governance to manage,
@@ -47,7 +47,7 @@ governing the blockchain, where budgets for specific projects are
 proposed, then the SmartCash holders as a whole vote on them. Each project, if it passes, is added to the total budget and paid from the project treasury to the person doing the work.
 
 Reward
-===============
+======
 
 To guarantee long term sustainability of the blockchain, the network
 keeps a portion of the block rewards back as new blocks are created,

@@ -118,7 +118,7 @@ CPU Mining
 Please note that the prevalence of GPU and ASIC miners mean that unless you have free electricity, this is highly unlikely to be profitable! 
 
 GPU Mining
----------------
+----------
 https://smartcash.freshdesk.com/support/solutions/articles/35000041431-tutorial-how-to-mine-smartcash-in-mining-pool
 
 Tips

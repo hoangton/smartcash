@@ -4,9 +4,9 @@
 
 .. _using-smarthive:
 
-=====================
+=========================
 Using SmartCash SmartHive
-=====================
+=========================
 
 SmartCash SmartHive is voting and funding platform. This documentation introduces and details the
 theory and practice to use the system.
@@ -38,7 +38,7 @@ Votes
 - Votes can be changed at any time
 
 Fund Allocated
--------
+--------------
 
 - Fund Allocated are proposals which receive a net total of yes votes equal to
   or greater than 10% of the total possible votes (for example over 448

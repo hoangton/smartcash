@@ -9,11 +9,11 @@ Advanced Topics
 ===============
 
 Installing SmartCash on Fedora Linux
-===============================
+====================================
 
 Using manual setup method.
 
 Installing SmartCash on Ubuntu Linux
-===============================
+====================================
 
 Please check Bash installer method.

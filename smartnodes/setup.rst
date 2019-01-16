@@ -258,7 +258,7 @@ against hacking. This guide will describe the steps for SmartCash NodeClient.
 
 
 Sending from SmartCash NodeClient wallet
----------------------------------------
+----------------------------------------
 
 Open SmartCash NodeClient wallet and wait for it to synchronize with the network.
 
@@ -296,7 +296,7 @@ NodeClient on your VPS.
 .. _smartnode-setup-install-NodeClient:
 
 Install SmartCash NodeClient
-=================
+============================
 
 SmartCash NodeClient is the software behind both the SmartCash NodeClient GUI wallet and SmartCash
 smartnodes. If not displaying a GUI, it runs as a daemon on your VPS
@@ -430,14 +430,14 @@ to enable your smartnode.
 .. _start-smartnode:
 
 Start your smartnode
-========================
+====================
 
 
 Start from SmartCash NodeClient wallet
--------------------------------------------
+--------------------------------------
 
 Identify the transaction
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you used an address in SmartCash NodeClient wallet for your collateral
 transaction, you now need to find the txid of the transaction. Click

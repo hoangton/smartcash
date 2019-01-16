@@ -27,7 +27,7 @@ Specifications
 .. _smartrewards:
 
 Smartrewards
-===========
+============
 SmartRewards are a method of distributing block rewards among
 SmartCash addresses holding at least 1000 SmartCash and has no
 outgoing transaction over the period of 47500 Blocks in order to
@@ -39,7 +39,7 @@ track on which addresses are eligible and which are not.
 .. _smartnodes:
 
 Smartnodes
-===========
+==========
 
 In addition to traditional Proof of Work (PoW) rewards for mining SmartCash,
 users are also rewarded for running and maintaining special servers
@@ -113,7 +113,7 @@ SmartCash Detailed
 .. _smartvote:
 
 Smartvote
-========================
+=========
 
 All Smartcash users deserve a voice, from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive, the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.
 
@@ -145,8 +145,9 @@ you but can’t initiate the payment without your permission.
 For further information about how the system works and how both
 merchants and customers will benefit from using the SmartCard and
 SmartCash POS App please visit: smartcash.cc/smartcard/
+
 SmartBand
-------------------
+---------
 
 The SmartBand is a partnership between Stratum, ATAR, and
 SmartCash. ATAR launched a wristband which is linked to an account
@@ -202,7 +203,7 @@ Information on mining with Keccak can be found in the :ref:`Mining
 
 
 Advantages of Keccak
------------------
+--------------------
 
 Keccak is a SHA-3 hashing algorithm and as it is a member of SHA family it isn’t 100% ASIC resistant. In fact it is ASIC friendly but as far as we know there isn’t an ASIC currently for this algorithm.
 

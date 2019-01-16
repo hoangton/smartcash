@@ -1,5 +1,5 @@
 .. meta::
-   :description: Coin control, HD wallets, multisig, KeePass and multiple wallet files using the SmartCash Node Client wallet
+   :description: Coin control, HD wallets, multisig, KeePass and multiple wallet files using the SmartCash NodeClient wallet
    :keywords: smartcash, core, wallet, backup, restore, wallet.dat, hd, seed, passphrase, mnemonic, coin control, hierarchical deterministic
 
 .. _nodeclient-advanced:
@@ -13,11 +13,11 @@ Advanced topics
 Coin Control
 ============
 
-Coin Control allows users of the SmartCash Node Client Wallet to specify which
+Coin Control allows users of the SmartCash NodeClient Wallet to specify which
 addresses and Unspent Transaction Outputs (UTXOs) should be used as
 inputs in transactions. This allows you to keep a specific balance on
 certain addresses in your wallet, while spending others freely. In smartcash
-Node Client Wallet, click **Settings > Options > Wallet > Enable coin control
+NodeClient Wallet, click **Settings > Options > Wallet > Enable coin control
 features**. Now, when you go to the Send tab in your wallet, a new
 button labelled **Inputs…** will appear. Click this button to select
 which UTXOs can be used as input for any transactions you create. The
@@ -26,7 +26,7 @@ following window appears:
 .. figure:: img/coin-selection.png
    :width: 400px
 
-   Coin Selection window in SmartCash Node Client wallet, showing two smartnodes
+   Coin Selection window in SmartCash NodeClient wallet, showing two smartnodes
    (testnet)
 
 Right click on the transaction(s) you do not want to spend, then select
@@ -42,7 +42,7 @@ affecting the locked UTXOs.
 .. figure:: img/coin-selection-locked.png
    :width: 180px
 
-   Locking UTXOs in SmartCash Node Client wallet
+   Locking UTXOs in SmartCash NodeClient wallet
 
 
 .. _nodeclient-hd:
@@ -50,10 +50,10 @@ affecting the locked UTXOs.
 HD Wallets
 ==========
 
-Since version v1.2.3, SmartCash Node Client has included an implementation of
+Since version v1.2.3, SmartCash NodeClient has included an implementation of
 BIP39/BIP44 compatible hierarchical deterministic (HD) key generation.
 This functionality is only available from the command line by specifying
-the ``usehd`` option when starting SmartCash Node Client for the first time. Use
+the ``usehd`` option when starting SmartCash NodeClient for the first time. Use
 this function with care, since the mnemonic seed and keys will be stored
 in plain text until you specify a wallet passphrase. Note that the
 wallet passphrase is different to the mnemonic passphrase, which is
@@ -69,14 +69,14 @@ wallet seed and no mnemonic passphrase::
 
   smartcash-qt.exe --usehd=1
 
-A new HD wallet will be generated and SmartCash Node Client will display a warning
+A new HD wallet will be generated and SmartCash NodeClient will display a warning
 informing you that you must encrypt your wallet after verifying it works
 correctly. Open the console from **Help -> Debug Windows - >Consolse tab** or issue the
 following RPC command from ``smartcash-cli`` to view the mnemonic seed::
 
   dumphdinfo
 
-SmartCash Node Client will display the HD seed in both hexadecimal and as a BIP39
+SmartCash NodeClient will display the HD seed in both hexadecimal and as a BIP39
 mnemonic. To restore an existing HD wallet, or define your own
 separately generated mnemonic and/or passphrase, ensure no
 ``wallet.dat`` file exists in the ``datadir`` and enter the following
@@ -92,13 +92,13 @@ Multiple wallets
 ================
 
 It is possible to select between different smartcash wallets when starting
-SmartCash Node Client by specifying the ``wallet`` argument, or even run multiple
-instances of SmartCash Node Client simultaneously by specifying separate data
+SmartCash NodeClient by specifying the ``wallet`` argument, or even run multiple
+instances of SmartCash NodeClient simultaneously by specifying separate data
 directories using the ``datadir`` argument.
 
-To begin, install the SmartCash Node Client wallet for your system according to the
+To begin, install the SmartCash NodeClient wallet for your system according to the
 :ref:`installation instructions <nodeclient-installation>`. When you get
-to the step **Running SmartCash Node Client for the first time**, you can decide
+to the step **Running SmartCash NodeClient for the first time**, you can decide
 whether you want to maintain separate ``wallet.dat`` files in the
 default location (simpler if you do not need to run the wallets
 simultaneously), or specify entirely separate data directories such as
@@ -111,7 +111,7 @@ Separate wallet.dat files
 
 For this scenario, we will create two shortcuts on the desktop, each
 using a different wallet file. Navigate to the binary file used to start
-SmartCash Node Client (typically locatd at ``C:\Program Files\smartcash\smartcash-qt.exe``
+SmartCash NodeClient (typically locatd at ``C:\Program Files\smartcash\smartcash-qt.exe``
 or similar) and create two shortcuts on the desktop. Then open the
 **Properties** window for each of these shortcuts.
 
@@ -144,12 +144,12 @@ as described below.
 Separate data directories
 -------------------------
 
-Start SmartCash Node Client and allow it to synchronize with the network, then close
-SmartCash Node Client again. You can now create two directories at e.g. ``C:\smartcash1``
+Start SmartCash NodeClient and allow it to synchronize with the network, then close
+SmartCash NodeClient again. You can now create two directories at e.g. ``C:\smartcash1``
 and ``C:\smartcash2`` and copy the ``blocks`` and ``chainstate`` directories
 from the synchronized data directory into the new directories. Each of
 these will serve as a separate data directory, allowing you to run two
-instances of SmartCash Node Client simultaneously. Create two (or more) shortcuts on
+instances of SmartCash NodeClient simultaneously. Create two (or more) shortcuts on
 your desktop as described above, then specify arguments for ``datadir``
 as shown below:
 
@@ -171,4 +171,4 @@ multiple separate wallets without keeping a full copy of the blockchain.
 .. figure:: img/2wallets.png
    :height: 250px
 
-   Two instances of SmartCash Node Client running simultaneously
+   Two instances of SmartCash NodeClient running simultaneously

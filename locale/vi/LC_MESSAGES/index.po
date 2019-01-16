@@ -62,6 +62,16 @@ msgid ""
 " businesses for work that adds value to the network. This :ref:`smarthive "
 "and budgeting system <smarthive>`."
 msgstr ""
+"SmartCash is a peer-to-peer digital currency that can be used without having"
+" to trust a third party, which makes it possible to be your own bank. The "
+"name reflects the aim: By focusing on being ease to use even for people who "
+"aren‘t crypto geeks, on being merchant friendly and with a self-funded "
+"unique governance model SmartCash aims to be the cryptocurrency of "
+"everyone’s choice when it comes to payments, SmartCash currently also offers"
+" instant transactions (:ref:`instantpay`) and operates a self-governing and "
+"self-funding model that enables the SmartCash network to pay individuals and"
+" businesses for work that adds value to the network. This :ref:`smarthive "
+"and budgeting system <smarthive>`."
 
 #: ../../index.rst:19
 msgid ""
@@ -78,23 +88,35 @@ msgid ""
 " help you get started, or use the table of contents on the left to find a "
 "specific topic of interest."
 msgstr ""
+"If you are new to cryptocurrencies, the most important change to understand "
+"is that transactions occur directly between two parties without any central "
+"authority to facilitate the transaction. This also means that you are "
+"responsible for your own security - there is no bank or credit card company "
+"to reverse a transaction if your funds are stolen or lost. In this sense, it"
+" is similar to cash or gold, but cryptocurrency can be spent locally and "
+"internationally with equal ease, if you are confident you are sending funds "
+"to the right destination. For these reasons, the SmartCash documentation has"
+" a strong focus on safety and understanding the concepts and features that "
+"drive the SmartCash ecosystem. The videos, links and documentation below can"
+" help you get started, or use the table of contents on the left to find a "
+"specific topic of interest."
 
 #: ../../index.rst:41
 msgid "Contents"
-msgstr ""
+msgstr "Nội dung"
 
 #: ../../index.rst:43
 msgid "First Steps"
-msgstr ""
+msgstr "Bước đầu tiên"
 
 #: ../../index.rst:55
 msgid "Users"
-msgstr ""
+msgstr "Người dùng"
 
 #: ../../index.rst:64
 msgid "Merchants"
-msgstr ""
+msgstr "Người bán hàng"
 
 #: ../../index.rst:74
 msgid "Network"
-msgstr ""
+msgstr "Mạng"

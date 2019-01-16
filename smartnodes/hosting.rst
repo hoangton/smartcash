@@ -24,7 +24,7 @@ List of hosting services
 - Hosted SmartNode services allow you to keep control of your private keys and you should not be asked for your private key. (SmartNode Genkey is not your private key and is required for hosting)
 
 nodesupply
------------------
+----------
 
 https://nodesupply.com/
 
@@ -35,30 +35,30 @@ https://nodesupply.com/
 - `Email <support@nodesupply.com>`__
 
 masternodo
------------------
+----------
 https://masternodo.com/
 
 node-vps
------------------
+--------
 https://node-vps.com/
 
 nodestop
------------------
+--------
 https://www.nodestop.com/
 
 masterhost
------------------
+----------
 https://masterhost.io/
 
 satoshisolutions
------------------
+----------------
 https://satoshisolutions.online/
 
 ez-masternodes
------------------
+--------------
 https://www.ez-masternodes.com/
 
 pecuniaplatform
------------------
+---------------
 https://pecuniaplatform.io/
 - Operated by:@mark | pecunia#8051 (Discord)

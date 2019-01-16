@@ -4,9 +4,9 @@
 
 .. _pool:
 
-======================
+===========================
 SmartCash Mining Pool Setup 
-======================
+===========================
 
 You need filled this SmartMine Signing Key Request Form 
 https://docs.google.com/forms/d/e/1FAIpQLSdvllk5adChGzLBUkCHS0EpAPRtQ85T2-HXkGlerNFr6kf-gw/formResponse
@@ -68,7 +68,7 @@ First update your operating system as follows::
   sudo apt upgrade
 
 Setting up smartcashd
-----------------
+---------------------
 
 Pool requires a full SmartCash node to be running to get block and
 transaction data. To download and install SmartCash, visit
@@ -146,4 +146,4 @@ explorer <https://insight.smartcash.cc/>`_::
   ~/.nodeclient/smartcash-cli getblockcount
 
 Setting up Pool
------------------
+---------------

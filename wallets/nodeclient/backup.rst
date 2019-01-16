@@ -1,5 +1,5 @@
 .. meta::
-   :description: How to safely back up and restore the SmartCash Node Client wallet
+   :description: How to safely back up and restore the SmartCash NodeClient wallet
    :keywords: smartcash, core, wallet, backup, restore, wallet.dat
 
 .. _nodeclient-backup:
@@ -16,7 +16,7 @@ safe storage in case your computer or laptop is damaged or lost. smartcash
 Core stores all data necessary to control your smartcash addresses in a
 single file called *wallet.dat*. This wallet is in the Berkeley DB
 format and stores the pairs of private/public cryptographic keys used to
-manage your balances on the smartcash blockchain. SmartCash Node Client makes most of
+manage your balances on the smartcash blockchain. SmartCash NodeClient makes most of
 these operations transparent and even generates automatic backups of
 your wallet file in case it is corrupted, but the user is responsible
 for ensuring that these backups are stored in a safe place. **If you
@@ -30,10 +30,10 @@ smartcash. If you do choose to encrypt your wallet, do not store the password
 in the same place as the wallet.dat file, particularly if you are saving
 the backup to the cloud.
 
-Backup from SmartCash Node Client
----------------------
+Backup from SmartCash NodeClient
+--------------------------------
 
-Firstly, never copy your wallet.dat file while SmartCash Node Client is open. Always
+Firstly, never copy your wallet.dat file while SmartCash NodeClient is open. Always
 use the **File > Backup Wallet** menu if the wallet is open. When you
 select this menu item, a dialog box will appear to specify where the
 file should be saved. Enter a name for the file, select a location and
@@ -47,13 +47,13 @@ Keep this file in a physically separate location to your computer.
 .. figure:: img/backup-save.png
    :width: 400px
 
-   Backing up the SmartCash Node Client wallet from the File menu
+   Backing up the SmartCash NodeClient wallet from the File menu
 
 
 Backup by copying wallet.dat
 ----------------------------
 
-**If SmartCash Node Client is not running**, you can also backup your wallet by
+**If SmartCash NodeClient is not running**, you can also backup your wallet by
 simply copying the *wallet.dat* file to another location. This file is
 located in the *smartcash* data folder. You were given the option to
 specify the location of this folder during installation, but by default
@@ -89,7 +89,7 @@ the folder is in the following locations on different operating systems:
   Support/smartcash`` in dialog at the **Go > Go To Folder** menu item in
   Finder
 
-Ensure SmartCash Node Client is not running, then simply copy the *wallet.dat* file
+Ensure SmartCash NodeClient is not running, then simply copy the *wallet.dat* file
 from this folder to another folder in the normal way for your operating
 system. The example below shows copying the file to a USB stick using
 simple drag and drop while holding down **Ctrl** on a Windows system. On
@@ -107,7 +107,7 @@ move) the file!
 Automatic backups
 -----------------
 
-Every time you open SmartCash Node Client, it will automatically create a backup
+Every time you open SmartCash NodeClient, it will automatically create a backup
 copy of *wallet.dat* in the *smartcash/backups* folder. Up to 10
 backups can be kept here by default, and the oldest backup will be
 deleted as each additional new backup is created. You can modify the
@@ -117,15 +117,15 @@ completely disables backups.
 
 You can view the automatic backups folder by browsing to *smartcash*
 folder at the location specified above for *wallet.dat* and opening the
-backups folder. Since these files are not active when SmartCash Node Client
+backups folder. Since these files are not active when SmartCash NodeClient
 is running, you can safely copy them at any time. They are also a handy
 backup if the original files in the smartcash folder become corrupted due
-to improper shutdown of the SmartCash Node Client app.
+to improper shutdown of the SmartCash NodeClient app.
 
 Restore
 =======
 
-To restore a backup, install SmartCash Node Client on the target system (or stop it,
+To restore a backup, install SmartCash NodeClient on the target system (or stop it,
 if already installed) and rename the existing *wallet.dat* file in the
 *smartcash* folder.
 
@@ -135,8 +135,8 @@ if already installed) and rename the existing *wallet.dat* file in the
    Renaming the old wallet.dat file to wallet.old in the smartcash folder
 
 Then copy the backup wallet file to the *smartcash* folder and ensure it
-is named *wallet.dat*. Now, when you start SmartCash Node Client again, it will load
-the new wallet. Do not replace *wallet.dat* while SmartCash Node Client is running,
+is named *wallet.dat*. Now, when you start SmartCash NodeClient again, it will load
+the new wallet. Do not replace *wallet.dat* while SmartCash NodeClient is running,
 since this will result in data corruption!
 
 .. image:: img/restore-copy.png
@@ -156,7 +156,7 @@ Any backup depends to some extent on the existence of software capable
 of reading the data at some future point in time. As such, it is good
 practice to store a copy of the software used to create the backup
 together with the backup file itself. In this case, this would be a copy
-of the version of SmartCash Node Client you used to create the backup.
+of the version of SmartCash NodeClient you used to create the backup.
 
 The *wallet.dat* file itself should be encrypted using a password set
 from the **Settings > Encrypt Wallet** menu item. However, this only
@@ -194,9 +194,9 @@ Verifying backups
 There is no fixed procedure to verify your backup, but you should test
 restoring it at least once to make sure it works. If you have a simple
 copy of the file, try to restore it to your current *nodeclient* folder
-and start SmartCash Node Client to make sure it opens without any errors. If you
+and start SmartCash NodeClient to make sure it opens without any errors. If you
 decided to store the file in an encrypted zip file, make sure you can
-unzip it and that it opens correctly in SmartCash Node Client. In short, make sure
+unzip it and that it opens correctly in SmartCash NodeClient. In short, make sure
 that you (or the person you are trusting to eventually go through this
 process for you) can actually reverse your backup process to get access
 to your smartcash, instead of relying on the fact that this process should

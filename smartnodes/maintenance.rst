@@ -24,8 +24,8 @@ installed SmartCash manually or using ppa, you must follow the procedure
 appropriate for your smartnode, as described below.
 
 
-Option 1: Updating from SmartCash
--------------------------------
+Option 1: Updating from ppa
+---------------------------------
 
 To update SmartCash using ppa, log in to your server and enter the
 following commands::
@@ -82,7 +82,7 @@ character.
 The SmartCash software on the smartnode is now updated.
 
 Monitoring
-===============================================
+==========
 Goto http://discord.smartcash.cc
 use @SmartNodeMonitor#5083
 > You can use this bot to monitor your SmartNodes and subscribe event notifications. Once you added your nodes with add and enabled the desired notifications with the commands below you will receive a message from the bot on each occured event!
@@ -143,7 +143,7 @@ the SmartCash network.
   `insight.smartcash.cc <http://insight.smartcash.cc/>`__.
   
 SmartCash smartstats smartnode
----------------------------
+------------------------------
 
 https://smartstats.cc/smartnodes
 

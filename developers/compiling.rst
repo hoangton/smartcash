@@ -4,9 +4,9 @@
 
 .. _compiling-smartcash:
 
-===================
+==============================
 Compiling SmartCash NodeClient 
-===================
+==============================
 
 While SmartCash offers stable binary builds on the `website
 <https://smartcash.cc/wallet>`_ and on `GitHub

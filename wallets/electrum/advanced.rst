@@ -1,6 +1,6 @@
 .. meta::
-   :description: Smartnodes, multisig, sweeping paper wallets, cold storage and command line in the SmartCash Electrum wallet.
-   :keywords: smartcash, wallet, electrum, smartnode, multisig, paper, cold storage, command line
+   :description: Smartnodes, multisig, sweeping paper wallets, command line in the SmartCash Electrum wallet.
+   :keywords: smartcash, wallet, electrum, smartnode, multisig, paper, command line
 
 .. _electrum-advanced-functions:
 

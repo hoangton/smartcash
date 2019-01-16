@@ -12,7 +12,7 @@ Long-time users of cryptocurrency sometimes find old wallet files on USB
 drives or cloud storage that they have forgotten about. Others may have
 a backup, but can't remember the software they used to create it, or
 have forgotten the password. Other users may have an old version of SmartCash
-Node Client that no longer works because the network has upgraded. This
+NodeClient that no longer works because the network has upgraded. This
 documentation is intended to help these users restore access to their
 funds.
 
@@ -25,13 +25,13 @@ words. In some cases, you may have stored the private key for a SmartCash
 address directly. The following list shows the possibilities and methods
 to restore your wallet in order of probability.
 
-- Backup is stored in an older version of SmartCash Node Client that no longer works
+- Backup is stored in an older version of SmartCash NodeClient that no longer works
 
-  - Follow instructions for restoring wallet files using :ref:`SmartCash Node Client <nodeclient-restore>`
+  - Follow instructions for restoring wallet files using :ref:`SmartCash NodeClient <nodeclient-restore>`
 
 - Backup is a file
 
-  - If file name is similar to wallet.dat, try to restore using :ref:`SmartCash Node Client <nodeclient-restore>`  
+  - If file name is similar to wallet.dat, try to restore using :ref:`SmartCash NodeClient <nodeclient-restore>`  
 
 - Backup is a phrase of words
 
@@ -43,7 +43,7 @@ to restore your wallet in order of probability.
 
   - If 34 characters long and starting with S, this is a public address and cannot be used to restore access to lost funds. You need the private key.
 
-- If 51 characters long and starting with V, this is a :ref:`private key in WIF <privkey-restore>`, import using SmartCash Node Client
+- If 51 characters long and starting with V, this is a :ref:`private key in WIF <privkey-restore>`, import using SmartCash NodeClient
 
 
 Once you have determined your backup format, follow the links to view
@@ -55,18 +55,18 @@ File Backups
 
 .. _nodeclient-restore:
 
-SmartCash Node Client
----------
+SmartCash NodeClient
+--------------------
 
 One of the most common wallet backup formats is a *wallet.dat* file from
-SmartCash Node Client wallet. Before you begin, make absolutely sure that you have a
+SmartCash NodeClient wallet. Before you begin, make absolutely sure that you have a
 copy of this file stored somewhere safe in case the restore process
 accidentally corrupts your wallet file! In most cases, *wallet.dat*
 backups will also be protected by a password, which you will need to
-know to regain access to your SmartCash funds. If you already have SmartCash Node Client
+know to regain access to your SmartCash funds. If you already have SmartCash NodeClient
 installed, first ensure it has been updated to the latest version by
 clicking **Help > About SmartCash**. Compare this with the latest
-available version of `SmartCash Node Client on the website
+available version of `SmartCash NodeClient on the website
 <https://smartcash.cc/wallet#nodeclient>`_ as follows:
 
 .. image:: img/recovery-nodeclient-version.png
@@ -74,15 +74,15 @@ available version of `SmartCash Node Client on the website
 .. figure:: img/recovery-website-version.png
    :width: 400px
 
-   Comparing the installed version of SmartCash Node Client with the latest version
+   Comparing the installed version of SmartCash NodeClient with the latest version
    available on the website
 
-Update SmartCash Node Client to the latest version according to the
+Update SmartCash NodeClient to the latest version according to the
 :ref:`installation instructions <nodeclient-installation>`. If you have
-only a wallet file and no existing installation of SmartCash Node Client, simply
-install SmartCash Node Client according to the :ref:`installation instructions
+only a wallet file and no existing installation of SmartCash NodeClient, simply
+install SmartCash NodeClient according to the :ref:`installation instructions
 <nodeclient-installation>` and start it once to create the SmartCash
-folder. Then close SmartCash Node Client and copy the *wallet.dat* file you want to
+folder. Then close SmartCash NodeClient and copy the *wallet.dat* file you want to
 restore to the SmartCash folder in the location specified below,
 replacing or renaming the existing file.
 
@@ -114,14 +114,14 @@ Leave ``.conf`` files and the folders (such as ``backups``, ``blocks``,
 ``chainstate``, etc.) intact, since they will help you get started
 faster by providing a copy of the blockchain and your settings.
 
-Now open SmartCash Node Client and wait for blockchain synchronization to complete.
+Now open SmartCash NodeClient and wait for blockchain synchronization to complete.
 Your wallet will be restored/upgraded and all balances should be
 displayed. You should ensure you have the correct password by trying to
 unlock your wallet from **Settings > Unlock Wallet** to make sure you
 can actually create transactions using your balances. If you have any
 problems with your balance not appearing, try to force a rescan of the
 blockchain by going to **Help > Debug Windows >Wallet Repair** and selecting **Rescan
-blockchain files**. **Rebuild index** may also help. SmartCash Node Client will
+blockchain files**. **Rebuild index** may also help. SmartCash NodeClient will
 restart and perform a full scan of the blockchain.
 
 
@@ -137,7 +137,7 @@ Recovery Phrases
 .. _smartcash-electrum-phrase-restore:
 
 12/13-word phrase on SmartCash Electrum
-----------------------------------
+---------------------------------------
 
 Ensure you are using the latest version of SmartCash Electrum according to
 the installation instructions :ref:`here <electrum-installation>`. SmartCash
@@ -169,21 +169,21 @@ Most wallets offer a function to import an address from a private key,
 see the documentation for your wallet for specific instructions. While
 private keys can be stored in many ways, in this example we will work
 through the process of restoring a private key from a paper wallet using
-SmartCash Node Client. If you only have a QR code and not the key, use a barcode
+SmartCash NodeClient. If you only have a QR code and not the key, use a barcode
 scanning app (`Android <https://play.google.com/store/apps/details?id=com.google.zxing.client.android>`_
 or `iOS <https://itunes.apple.com/us/app/quick-scan-qr-code-reader/id483336864>`_) 
 to read the code first.
 
-First, start SmartCash Node Client and unlock your wallet by selecting **Settings >
+First, start SmartCash NodeClient and unlock your wallet by selecting **Settings >
 Unlock Wallet**. Enter your password, then open the debug console by
 selecting **Help > Debug Windows**. In the console, type the following,
 replacing the example private key with your key::
 
   importprivkey VrPQWnMrh3oWLtZrzt1zLRSCVyuBbwnt7fRBXPp2EwcPhtzXSzp
 
-   Importing a private key using the debug console in SmartCash Node Client wallet
+   Importing a private key using the debug console in SmartCash NodeClient wallet
 
-SmartCash Node Client will rescan the blockchain for transactions involving the
+SmartCash NodeClient will rescan the blockchain for transactions involving the
 public address of this key and enter the transactions and balance in
 your wallet.
 
@@ -198,7 +198,7 @@ password should defeat most brute force cracking attempts. If you can
 recall some details of the password, particularly its length or
 sequences of characters that may be included, then brute force password
 cracking techniques may be worth attempting. Several services exist to
-do this, or you can attempt it yourself. Because SmartCash Node Client is based on
+do this, or you can attempt it yourself. Because SmartCash NodeClient is based on
 Bitcoin Core, most approaches to apply brute force to crack a Bitcoin
 wallet will also work for SmartCash wallets.
 
