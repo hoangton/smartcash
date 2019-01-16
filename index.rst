@@ -14,7 +14,7 @@ SmartCash is a peer-to-peer digital currency that can be used without having to 
 currently also offers instant transactions (:ref:`instantpay`) and operates a self-governing and
 self-funding model that enables the SmartCash network to pay individuals and
 businesses for work that adds value to the network. This
-:ref:`governance and budgeting system <governance>`.
+:ref:`smarthive and budgeting system <smarthive>`.
 
 If you are new to cryptocurrencies, the most important change to
 understand is that transactions occur directly between two parties
