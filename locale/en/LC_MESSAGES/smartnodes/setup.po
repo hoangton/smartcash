@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"POT-Creation-Date: 2019-01-16 17:53+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,11 +83,7 @@ msgstr ""
 msgid ":ref:`Full smartnode setup guide <smartnode-setup>` (you are here)"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:40
-msgid ":ref:`Information for users of hosted smartnodes <hosted-setup>`"
-msgstr ""
-
-#: ../../smartnodes/setup.rst:42
+#: ../../smartnodes/setup.rst:41
 msgid ""
 "This documentation describes the commands as if they were entered in the "
 "SmartCash NodeClient GUI by opening the console from **Help > Debug "
@@ -96,11 +92,11 @@ msgid ""
 "to each command."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:52
+#: ../../smartnodes/setup.rst:51
 msgid "Set up your VPS"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:54
+#: ../../smartnodes/setup.rst:53
 msgid ""
 "A VPS, more commonly known as a cloud server, is fully functional "
 "installation of an operating system (usually Linux) operating within a "
@@ -116,7 +112,7 @@ msgid ""
 " users."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:67
+#: ../../smartnodes/setup.rst:66
 msgid ""
 "We will use `Vultr <https://www.vultr.com/>`_ hosting as an example of a "
 "VPS, although `DigitalOcean <https://www.digitalocean.com/>`_, `Amazon "
@@ -128,58 +124,58 @@ msgid ""
 "Select a location for your new server on the following screen:"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:79
+#: ../../smartnodes/setup.rst:78
 msgid "Vultr server location selection screen"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:81
+#: ../../smartnodes/setup.rst:80
 msgid ""
 "Select Ubuntu 16.04 x64 as the server type. We use this LTS release of "
 "Ubuntu instead of the latest version because LTS releases are supported "
 "with security updates for 5 years, instead of the usual 9 months."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:88
+#: ../../smartnodes/setup.rst:87
 msgid "Vultr server type selection screen"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:90
+#: ../../smartnodes/setup.rst:89
 msgid "Select a server size offering at least 1GB of memory."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:95
+#: ../../smartnodes/setup.rst:94
 msgid "Vultr server size selection screen"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:97
+#: ../../smartnodes/setup.rst:96
 msgid ""
 "Enter a hostname and label for your server. In this example we will use "
 "``SmartNode`` as the hostname."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:103
+#: ../../smartnodes/setup.rst:102
 msgid "Vultr server hostname & label selection screen"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:105
+#: ../../smartnodes/setup.rst:104
 msgid "Vultr will now install your server. This process may take a few minutes."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:107
+#: ../../smartnodes/setup.rst:106
 msgid ""
 "Click **Manage** when installation is complete and take note of the IP "
 "address, username and password."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:113
+#: ../../smartnodes/setup.rst:112
 msgid "Vultr server management screen"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:117
+#: ../../smartnodes/setup.rst:116
 msgid "Set up your operating system"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:119
+#: ../../smartnodes/setup.rst:118
 msgid ""
 "We will begin by connecting to your newly provisioned server. On Windows,"
 " we will first download an app called PuTTY to connect to the server. Go "
@@ -190,11 +186,11 @@ msgid ""
 "root@<server_ip>`` and enter your password when prompted."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:130
+#: ../../smartnodes/setup.rst:129
 msgid "PuTTY download page"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:132
+#: ../../smartnodes/setup.rst:131
 msgid ""
 "Double-click the downloaded file to install PuTTY, then run the app from "
 "your Start menu. Enter the IP address of the server in the **Host Name** "
@@ -203,22 +199,22 @@ msgid ""
 " **Yes** to trust this server in the future."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:141
+#: ../../smartnodes/setup.rst:140
 msgid "PuTTY security alert when connecting to a new server"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:143
+#: ../../smartnodes/setup.rst:142
 msgid ""
 "You are now connected to your server and should see a terminal "
 "window. Begin by logging in to your server with the user ``root`` and "
 "password supplied by your hosting provider."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:150
+#: ../../smartnodes/setup.rst:149
 msgid "Password challenge when connecting to your VPS for the first time"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:152
+#: ../../smartnodes/setup.rst:151
 msgid ""
 "You should immediately change the root password and store it in a safe "
 "place for security. You can copy and paste any of the following commands "
@@ -227,14 +223,14 @@ msgid ""
 " at the current cursor location::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:160
+#: ../../smartnodes/setup.rst:159
 msgid ""
 "Enter and confirm a new password (preferably long and randomly "
 "generated). Next we will create a new user with the following command, "
 "replacing ``<username>`` with a username of your choice::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:166
+#: ../../smartnodes/setup.rst:165
 msgid ""
 "You will be prompted for a password. Enter and confirm using a new "
 "password (different to your root password) and store it in a safe place. "
@@ -243,13 +239,13 @@ msgid ""
 "group so they can perform commands as root::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:174
+#: ../../smartnodes/setup.rst:173
 msgid ""
 "Now, while still as root, we will update the system from the Ubuntu "
 "package repository::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:180
+#: ../../smartnodes/setup.rst:179
 msgid ""
 "The system will show a list of upgradable packages. Press **Y** and "
 "**Enter** to install the packages. We will now install a firewall (and "
@@ -258,24 +254,24 @@ msgid ""
 " secured environment as the new user::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:188 ../../smartnodes/setup.rst:198
+#: ../../smartnodes/setup.rst:187 ../../smartnodes/setup.rst:197
 msgid "(press **Y** and **Enter** to confirm)"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:208
+#: ../../smartnodes/setup.rst:207
 msgid ""
 "Add the following line at the end of the file (press tab to separate each"
 " word/number), then press **Ctrl + X** to close the editor, then **Y** "
 "and **Enter** save the file."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:216
+#: ../../smartnodes/setup.rst:215
 msgid ""
 "Finally, in order to prevent brute force password hacking attacks, open "
 "the SSH configuration file to disable root login over SSH::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:221
+#: ../../smartnodes/setup.rst:220
 msgid ""
 "Locate the line that reads ``PermitRootLogin yes`` and set it to "
 "``PermitRootLogin no``. Directly below this, add a line which reads "
@@ -284,15 +280,15 @@ msgid ""
 "and **Enter** save the file."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:227
+#: ../../smartnodes/setup.rst:226
 msgid "Then reboot the server:"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:233
+#: ../../smartnodes/setup.rst:232
 msgid "PuTTY will disconnect when the server reboots."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:235
+#: ../../smartnodes/setup.rst:234
 msgid ""
 "While this setup includes basic steps to protect your server against "
 "attacks, much more can be done. In particular, `authenticating with a "
@@ -307,11 +303,11 @@ msgid ""
 "scope of this guide."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:248
+#: ../../smartnodes/setup.rst:247
 msgid "Send the collateral"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:250
+#: ../../smartnodes/setup.rst:249
 msgid ""
 "A SmartCash address with a single unspent transaction output (UTXO) of "
 "exactly 10000 SmartCash is required to operate a smartnode. Once it has "
@@ -325,23 +321,23 @@ msgid ""
 "SmartCash NodeClient."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:262
+#: ../../smartnodes/setup.rst:261
 msgid "Sending from SmartCash NodeClient wallet"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:264
+#: ../../smartnodes/setup.rst:263
 msgid ""
 "Open SmartCash NodeClient wallet and wait for it to synchronize with the "
 "network."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:267
+#: ../../smartnodes/setup.rst:266
 msgid ""
 "Click **Help > Debug Windows** to open the console. Type the following "
 "two commands into the console to generate a legacy smartnode key ::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:275
+#: ../../smartnodes/setup.rst:274
 msgid ""
 "Take note of the legacy smartnode private key and collateral address, "
 "since we will need it later. The next step is to secure your wallet (if "
@@ -356,7 +352,7 @@ msgid ""
 "details on these steps, see :ref:`here <nodeclient-backup>`."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:287
+#: ../../smartnodes/setup.rst:286
 msgid ""
 "Now send exactly 10000 SmartCash in a single transaction to the new "
 "address you generated in the previous step. This may be sent from another"
@@ -368,11 +364,11 @@ msgid ""
 "NodeClient on your VPS."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:300
+#: ../../smartnodes/setup.rst:299
 msgid "Install SmartCash NodeClient"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:302
+#: ../../smartnodes/setup.rst:301
 msgid ""
 "SmartCash NodeClient is the software behind both the SmartCash NodeClient"
 " GUI wallet and SmartCash smartnodes. If not displaying a GUI, it runs as"
@@ -380,31 +376,31 @@ msgid ""
 "interface (smartcash-cli)."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:306
+#: ../../smartnodes/setup.rst:305
 msgid ""
 "Open PuTTY or a console again and connect using the username and password"
 " you just created for your new, non-root user."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:310
+#: ../../smartnodes/setup.rst:309
 msgid "Option 1: Automated installation using Bash installer"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:312
+#: ../../smartnodes/setup.rst:311
 msgid ""
 "To install SmartCash using Bash installer, enter the following commands "
 "after logging in::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:318 ../../smartnodes/setup.rst:323
+#: ../../smartnodes/setup.rst:317 ../../smartnodes/setup.rst:323
 msgid "Then press enter."
 msgstr ""
 
-#: ../../smartnodes/setup.rst:320
+#: ../../smartnodes/setup.rst:319
 msgid "Then type"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:322
+#: ../../smartnodes/setup.rst:321
 msgid "bash ./install.sh"
 msgstr ""
 
@@ -591,7 +587,7 @@ msgstr ""
 msgid "smartcash-cli smartnode status"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:480
+#: ../../smartnodes/setup.rst:481
 msgid "When you see this mean your smartnode are successful started"
 msgstr ""
 
@@ -599,7 +595,10 @@ msgstr ""
 msgid "\"status\": \"Smartnode successfully started\""
 msgstr ""
 
-#: ../../smartnodes/setup.rst:482
+#: ../../smartnodes/setup.rst:483
 msgid "Congratulations! Your smartnode is now running."
 msgstr ""
+
+#~ msgid ":ref:`Information for users of hosted smartnodes <hosted-setup>`"
+#~ msgstr ""
 

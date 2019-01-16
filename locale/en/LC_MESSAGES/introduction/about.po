@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"POT-Creation-Date: 2019-01-16 17:53+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,15 +38,14 @@ msgid ""
 "people who aren‘t crypto geeks, on being merchant friendly. The SmartCash"
 " network features :ref:`instant transaction confirmation <instantpay>`, "
 "double spend protection, a :ref:`self-governing, self-funding model "
-"<decentralized-governance>` driven by :ref:`incentivized full nodes "
-"<smartnode-network>` and a `clear roadmap "
-"<https://smartcash.cc/roadmap/>`. While SmartCash is based on Bitcoin and"
-" compatible with many key components of the Bitcoin ecosystem. This "
-"section of the documentation describes these and many more key features "
-"that set SmartCash apart in the blockchain economy."
+"<smarthive>` and a `clear roadmap <https://smartcash.cc/roadmap/>`. While"
+" SmartCash is based on Bitcoin and compatible with many key components of"
+" the Bitcoin ecosystem. This section of the documentation describes these"
+" and many more key features that set SmartCash apart in the blockchain "
+"economy."
 msgstr ""
 
-#: ../../introduction/about.rst:20
+#: ../../introduction/about.rst:18
 msgid ""
 "The videos, links and documentation collected here can help you get "
 "started, or use the table of contents on the left to find a specific "
@@ -57,25 +56,25 @@ msgid ""
 "many :ref:`SmartCash community sites <information>`."
 msgstr ""
 
-#: ../../introduction/about.rst:30
+#: ../../introduction/about.rst:28
 msgid "SmartCash Videos"
 msgstr ""
 
-#: ../../introduction/about.rst:33
+#: ../../introduction/about.rst:31
 msgid "SmartCash Explained"
 msgstr ""
 
-#: ../../introduction/about.rst:35
+#: ../../introduction/about.rst:33
 msgid ""
 "SmartCash Explained is a six-part video series. It explains SmartCash "
 "from a beginner's level up to descriptions of the more advanced features."
 msgstr ""
 
-#: ../../introduction/about.rst:47
+#: ../../introduction/about.rst:45
 msgid "SmartCard & SmartPay"
 msgstr ""
 
-#: ../../introduction/about.rst:49
+#: ../../introduction/about.rst:47
 msgid ""
 "SmartCard & SmartPay is an nine-part video series. It covers unique "
 "features and functions of SmartCard & SmartPay only available on the "
@@ -83,11 +82,11 @@ msgid ""
 "<https://www.youtube.com/watch?v=blX4TpiHmTc&list=PLGlNS1OUh3PyTeh6QLz1jXwqPENznvISD>`__,"
 msgstr ""
 
-#: ../../introduction/about.rst:64
+#: ../../introduction/about.rst:62
 msgid "Brochure/Whitepaper"
 msgstr ""
 
-#: ../../introduction/about.rst:66
+#: ../../introduction/about.rst:64
 msgid ""
 "The SmartCash Brochure/Whitepaper describes the unique value proposition "
 "and key innovations in SmartCash from an academic and theoretical "
@@ -99,17 +98,17 @@ msgid ""
 "available for download as PDF files."
 msgstr ""
 
-#: ../../introduction/about.rst:74
+#: ../../introduction/about.rst:72
 msgid ""
 "`Latest whitepaper and official translations <https://smartcash.cc/wp-"
 "content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
 msgstr ""
 
-#: ../../introduction/about.rst:78
+#: ../../introduction/about.rst:76
 msgid "Roadmap"
 msgstr ""
 
-#: ../../introduction/about.rst:80
+#: ../../introduction/about.rst:78
 msgid ""
 "The SmartCash Roadmap sets out delivery milestones for future releases of"
 " SmartCash and includes specific technical details describing how the "
@@ -117,7 +116,30 @@ msgid ""
 "Brochure/Whitepaper, it is versioned and maintained on ."
 msgstr ""
 
-#: ../../introduction/about.rst:85
+#: ../../introduction/about.rst:83
 msgid "`SmartCash Roadmap <https://smartcash.cc/roadmap/>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "SmartCash is a peer-to-peer "
+#~ "digital currency that can be used "
+#~ "without having to trust a third "
+#~ "party. By focusing on being ease "
+#~ "to use even for people who aren‘t"
+#~ " crypto geeks, on being merchant "
+#~ "friendly. The SmartCash network features "
+#~ ":ref:`instant transaction confirmation "
+#~ "<instantpay>`, double spend protection, a "
+#~ ":ref:`self-governing, self-funding model "
+#~ "<decentralized-governance>` driven by "
+#~ ":ref:`incentivized full nodes <smartnode-"
+#~ "network>` and a `clear roadmap "
+#~ "<https://smartcash.cc/roadmap/>`. While SmartCash is"
+#~ " based on Bitcoin and compatible with"
+#~ " many key components of the Bitcoin"
+#~ " ecosystem. This section of the "
+#~ "documentation describes these and many "
+#~ "more key features that set SmartCash "
+#~ "apart in the blockchain economy."
+#~ msgstr ""
 

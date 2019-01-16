@@ -1,0 +1,221 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, SmartCash
+# This file is distributed under the same license as the SmartCash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartCash latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../merchants/getting-started.rst:1
+msgid ""
+"Guide for merchants getting started with SmartCash. Online and offline "
+"payment processors"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:1
+msgid ""
+"smartcash, pos, merchants, payment processor, store, wordpress, "
+"woocommerce, coinpayments, point of sale"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:11
+msgid "Getting Started"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:13
+msgid ""
+"SmartCash welcomes new merchants and supports integration through a "
+"standardised onboarding process. It's easy to begin accepting payments in"
+" SmartCash and enjoy the following benefits:"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:17
+msgid "Settlement within seconds and clearance within minutes"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:18
+msgid "Ability to accept payments from any market around the world"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:19
+msgid "Irreversible transactions to prevent fraud"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:20
+msgid "Advanced privacy for both customers and merchants"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:21
+msgid "Lowest fees in the industry"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:23
+msgid ""
+"A three-part course on why SmartCash is a popular choice for payments and"
+" how integration takes place is available in English on `Find SmartCash "
+"<https://find.smartcash.cc/for-merchants/>`_."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:27
+msgid ""
+"Many major merchants accept SmartCash - check out `Taco "
+"<https://www.taco.com.br/>`__ or `boralatour "
+"<https://boralatour.com.br/>`__ for examples of what merchant integration"
+" can look like. Once you are up and running accepting SmartCash, consider"
+" adding your business to the directory maintained at `Find SmartCash "
+"<https://find.smartcash.cc>`_ for increased visibility."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:35
+msgid "Payment Processors"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:37
+msgid ""
+"This section lists known payment processors supporting SmartCash and the "
+"business platforms they support. Please conduct thorough research before "
+"choosing a payment provider to ensure your needs will be met."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:41
+msgid ""
+"For more advanced payment processing needs, such as for high risk "
+"merchant accounts in industries challenged with high levels of "
+"chargebacks, it is recommended to contact SmartCash partner `Coinpayments"
+" <https://www.coinpayments.net/>`__."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:48
+msgid "Online Stores"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:50
+msgid ""
+"Due to the wide range of platforms for online stores, the following table"
+" is intended to help you select an appropriate payment processor for your"
+" existing store."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:54
+msgid "`CoinPayments <https://www.coinpayments.net>`_"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:58
+msgid "Point of Sale"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:60
+msgid ""
+"A range of Point of Sale systems are available. Many function as an app "
+"or simple website serving a checkout interface and QR code generator, "
+"while others support custom features such as NFC or a rewards scheme. "
+"SmartPay and SmartCard are particularly widespread."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:65
+msgid "https://card.smartcash.cc/ https://business.smartcash.cc/"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:69
+msgid "Installation Examples"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:71
+msgid ""
+"This section contains worked examples of how to install, configure and "
+"process your first payment using the payment processors listed in this "
+"documentation."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:75
+msgid ""
+"https://find.smartcash.cc/a-guide-to-accepting-smartcash-payments-for-"
+"your-online-store/"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:78
+msgid "WooCommerce and CoinPayments.net"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:80
+msgid ""
+"If your online store is built on WooCommerce, you can simply install "
+"CoinPayments as an additional payment gateway and immediately begin "
+"accepting SmartCash. This guide assumes you have already `installed "
+"Wordpress <https://codex.wordpress.org/Installing_WordPress>`_, "
+"`installed WooCommerce <https://docs.woocommerce.com/document/installing-"
+" uninstalling-woocommerce/>`_ and `created at least one product "
+"<https://docs.woocommerce.com/document/managing-products>`_ in your "
+"store. A `video <https://www.youtube.com/watch?v=Xa2o_8s3RNY>`_ of the "
+"process to install the CoinPayments payment processor is also available."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:90
+msgid ""
+"In your WordPress administration backend, select **Plugins -> Add New** "
+"and type \"coinpayments.net\" into the search box. A plugin named "
+"**CoinPayments.net Payment Gateway for WooCommerce** should appear. Click"
+" **Install Now** to install the plugin. Alternatively, you can `download "
+"the plugin <https://wordpress.org/plugins/coinpayments- payment-gateway-"
+"for-woocommerce>`_ from the WordPress website as a zip file and upload it"
+" using the **Upload Plugin** button. Once the plugin is installed, click "
+"**Activate** to begin configuration."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:102
+msgid "Installing the CoinPayments.net WooCommerce plugin"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:104
+msgid ""
+"Next, go to CoinPayments.net and `sign up "
+"<https://www.coinpayments.net/register>`_ to create an account. Once you "
+"are logged in, go to **Account -> Coin Acceptance Settings** and enable "
+"SmartCash, as well as optionally entering a withdrawal address. Next, go "
+"to **Account -> Account Settings** and copy **Your Merchant ID** from the"
+" **Basic Settings** area into a text file. Then navigate to the "
+"**Merchant Settings** section and enter a long, random series of "
+"characters for the **IPN Secret**. Copy this code to your temporary file "
+"as well."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:114
+msgid ""
+"Back in the WordPress plugins section, click the **Settings** button for "
+"the WooCommerce plugin and navigate to **Checkout -> CoinPayments.net** "
+"section. Ensure the CoinPayments plugin is enabled here, then enter the "
+"**Merchant ID**, **IPN Secret** and **Description** in the appropriate "
+"fields as shown below. Click **Save Changes** when you are ready."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:123
+msgid "Configuring the CoinPayments.net WooCommerce plugin"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:125
+msgid ""
+"Your customers will now see an option to pay with SmartCash when "
+"completing the checkout process for an order. The payment will be "
+"processed by CoinPayments.net, and you will receive emails detailing each"
+" purchase procedure. You can choose how often you want to withdraw your "
+"payments, to which SmartCash address and various other options in the "
+"CoinPayments administration section. See the `CoinPayments Documentation "
+"<https://www.coinpayments.net/help>`_ or `Merchant Tools "
+"<https://www.coinpayments.net/merchant-tools>`_ for more information."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:144
+msgid "Completing payment through the CoinPayments.net payment processor"
+msgstr ""
+

@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, SmartCash
+# This file is distributed under the same license as the SmartCash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartCash latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../wallets/smartcard/getting-started.rst:1
+msgid "Getting started with sending and receiving SmartCash using SmartCard"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:1
+msgid ""
+"smart, wallet, ios, android, installation, send, receive, addresses, "
+"getting started"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:9
+msgid "Getting Started"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:11
+msgid ""
+"The SmartCard is a way to hold SMART on a physical card. You don’t need a"
+" phone to hold your SMART. If you have ever had a problem with using a "
+"phone inside a building you will get why this is ideal. Only the merchant"
+" needs the internet connection. As simple to use as a credit or debit "
+"card but not controlled by any 3rd party processor. And not a preloaded "
+"card using a visa fiat system…this is real crypto to crypto."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:17
+msgid ""
+"The easiest way to install the SmartCard for Android is from the Google "
+"Play Store."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:28
+msgid "Installation"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:29
+msgid "Creat the SmartCard https://card.smartcash.cc/"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:33
+msgid "Deposit"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:35
+msgid "Scan QR code to show SmartCash address and send smartcash to it."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:38
+msgid "Sending"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:40
+msgid ""
+"Show your smartcard at merchant. Merchant will use smartpay app to scan "
+"smartcard. You will enter the PIN to confirm transactions."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:44
+msgid "Viewing transactions and balances"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:46
+msgid "Using explorer"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:48
+msgid "More information here https://smartcash.cc/smartcard"
+msgstr ""
+

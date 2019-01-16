@@ -1,0 +1,820 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, SmartCash
+# This file is distributed under the same license as the SmartCash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartCash latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 16:45+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../wallets/nodeclient/interface.rst:1
+msgid "Description of dialogs and interfaces in the SmartCash Node Client wallet"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:1
+msgid "smartcash, core, wallet, interface, dialog, synchronisation, tools options"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:9
+msgid "Interface"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:11
+msgid ""
+"The SmartCash Node Client Wallet is an application that runs on your "
+"computer and allows you to make transactions on the SmartCash network. "
+"Most transactions are for sending or receiving SmartCash, but it is also "
+"possible to create signed messages or control a smartnode, for example. "
+"The SmartCash Node Client Wallet interface is described in detail in the "
+"following sections."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:18
+msgid "The Main Window"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:22
+msgid "The SmartCash Node Client Wallet"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:24
+msgid "The SmartCash Node Client window is broken up into several areas:"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:26
+msgid "The menu bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:27
+msgid "The tab bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:28
+msgid "The main area"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:29
+msgid "The status bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:32
+msgid "The Menu Bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:34
+msgid ""
+"The menu bar provides access to all functions of SmartCash Node Client. "
+"There are three menus available:"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:37
+msgid "File"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:38
+msgid "The File menu is used to manage your wallet, messages and addresses."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:40
+msgid "Settings"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:40
+msgid ""
+"The Settings menu provides access to wallet encryption options and "
+"general software settings."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:43
+msgid "Help"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:43
+msgid "The Help menu links to Debug Window, documentation SmartCash Node Client."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:46
+msgid "The Tab Bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:48
+msgid ""
+"The tab bar is used to quickly switch between the main areas of the "
+"SmartCash Node Client. The content in the main area of SmartCash Node "
+"Client changes depending on which tab you have selected. The following "
+"tabs are available:"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:53
+msgid "The Overview tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:55
+msgid ""
+"The overview tab offers quick access to your balance and most recent "
+"transactions."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:60
+msgid "The SmartCash Node Client Overview tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:62
+msgid ""
+"The left part of the main area is divided into two areas. The upper area "
+"shows your balances:"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:67
+msgid "Available"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:66
+msgid ""
+"This shows your current liquid balance. This is the amount of SmartCash "
+"you can spend now."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:70
+msgid "Pending"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:70
+msgid "This shows funds waiting for a transaction to complete."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:74
+msgid "Immature"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:73
+msgid ""
+"This shows funds from smartnode or mining payments which have not yet "
+"reached the required number of confirmations."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:78
+msgid "Total"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:77
+msgid "This is simply your available and pending funds added together."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:80
+msgid ""
+"The right part of the screen shows your recent transactions. These are "
+"identified by icons as follows:"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:87
+msgid "Recent incoming transactions appear black, prefixed by a + sign"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:88
+msgid "Recent outgoing transactions appear red, prefixed by a – sign"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:89
+msgid "Incoming mining or smartnode payments also appear black"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:91
+msgid "For more details on your transaction history, see the Transactions tab."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:94
+msgid "The Send Tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:96
+msgid ""
+"The Send tab allows you to send funds to another address on the SmartCash"
+" network. It contains fields to enter the recipient’s address, a label "
+"for the address, and the amount of SmartCash you wish to send. Options "
+"related to the transaction fee, InstantPay are also available. A quick "
+"view of your total balance is also available in the lower right corner."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:105
+msgid "The Send tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:108
+msgid "The Receive Tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:110
+msgid ""
+"The Receive tab allows you to create addresses to receive SmartCash. You "
+"can create a request for a specific amount of SmartCash or include a "
+"specific message, and send it to another user as a link or QR code."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:116
+msgid "The Receive tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:119
+msgid "The Transactions Tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:121
+msgid ""
+"The transactions tab shows the entire transaction history for all "
+"addresses associated with your wallet. This appears as a table showing "
+"the time, type, label and amount of SmartCash for each transaction. You "
+"can also export the transaction history as a CSV file by clicking the "
+"Export button in the bottom right corner of the window."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:127
+msgid ""
+"The icons in the leftmost column indicate the status of the transaction. "
+"A tick indicates that the recommended number of confirmations has been "
+"passed, while a clock indicates that the transaction has yet to reach six"
+" confirmations."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:134
+msgid "The transactions tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:137
+msgid "The Status Bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:139
+msgid ""
+"The status bar shows a synchronization progress bar and a row of status "
+"icons which indicate the status of your connection to the SmartCash "
+"network."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:143
+msgid "The Synchronization Bar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:145
+msgid ""
+"This bar shows the synchronization status of SmartCash Node Client with "
+"the SmartCash network. Each time you open SmartCash Node Client, it will "
+"begin downloading the blocks which have been created on the blockchain in"
+" the time since you last opened the app. These blocks are downloaded from"
+" other SmartCash users and smartnodes. If you have never opened the app "
+"before, this could mean several years’ worth of blocks need downloading. "
+"The following statuses are possible:"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:154
+msgid "No block source available"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:154
+msgid ""
+"This occurs if your internet connection is down, or if the ports required"
+" by SmartCash Node Client are blocked by a firewall."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:156
+msgid "Synchronizing with network"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:157
+msgid "SmartCash Node Client is downloading blocks from the network."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:159
+msgid "Synchronizing smartnodes/smartnode smartreward/smartvote objects"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:159
+msgid ""
+"SmartCash Node Client is synchronizing other data with the second layer "
+"network."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:161
+msgid ""
+"Once synchronization is complete, the progress bar will disappear and a "
+"tick will appear on the right of the status bar."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:165
+msgid "The Status Icons"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:171
+msgid ""
+"The lock icons indicate the status of your wallet: either locked or "
+"unlocked. You need to unlock your wallet to send funds or perform certain"
+" other actions."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:179
+msgid ""
+"These icons show the synchronization status of SmartCash Node Client with"
+" the network. Once synchronization is complete, the refresh icon will "
+"become a blue tick."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:187
+msgid ""
+"These icons indicate whether your wallet is running in hierarchical "
+"deterministic (HD) mode or standard mode."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:192
+msgid "The Options Dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:194
+msgid ""
+"This documentation describes the functionality of the SmartCash Node "
+"Client Options dialog, available under the **Settings > Options** menu in"
+" SmartCash Node Client."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:198
+msgid "Main tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:200
+msgid ""
+"The Main tab of the Options dialog contains settings related to startup "
+"and performance of the SmartCash Node Client app."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:206
+msgid "The Main tab of the SmartCash Node Client Options dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:212
+msgid "Start SmartCash Node Client on system login"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:209
+msgid ""
+"This option causes SmartCash Node Client to start automatically when the "
+"current user logs in. On most computers there is only one main user "
+"account which is logged in automatically when the computer turns on, so "
+"this option is effectively the same as starting SmartCash Node Client "
+"together with the operating system."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:217
+msgid "Size of database cache"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:215
+msgid ""
+"This option specifies the size of the database cache in memory. A higher "
+"value will result in increased performance when adding new blocks at the "
+"cost of higher memory usage. The default value is 300MB and it should not"
+" be set lower than this level."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:227
+msgid "Number of script verification threads"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:220
+msgid ""
+"This option sets the number of script verification threads, ranging from "
+"-4 to 16. `Script verification <https://en.bitcoin.it/wiki/Script>`__ is "
+"the process of following instructions recorded in the blockchain to "
+"ensure the transactions are valid. 0 means automatic and will allow "
+"script verification to scale to the number of cores available on your "
+"processor. Setting a positive number specifies that SmartCash Node Client"
+" should use that number of processor cores, while setting a negative "
+"number will leave that number of processor cores free."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:230
+msgid "Wallet tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:232
+msgid ""
+"The Wallet tab of the Options dialog contains settings related to how "
+"addresses are managed in the SmartCash Node Client app. This tab allows "
+"you to configure how these addresses are used as inputs with the Coin "
+"Control."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:239
+msgid "The Wallet tab of the SmartCash Node Client Options dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:253
+msgid "Enable coin control features"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:242
+msgid ""
+"Your SmartCash Node Client wallet balance is actually the sum total of "
+"all addresses holding balance that are associated with your wallet. When "
+"you spend SmartCash, SmartCash Node Client will withdraw from as many "
+"inputs as necessary to make up the desired amount of SmartCash to be "
+"transferred. This behavior may be undesirable if you want to keep a "
+"certain balance on one address. The most common use case is the "
+"requirement to maintain 10000 SmartCash on a single address as collateral"
+" for a smartnode. Enabling this option will add a button labelled "
+"**Inputs** on the **Send** tab. This provides access to the **Coin "
+"selection** dialog, which can be used to lock, unlock and prioritize "
+"different addresses in your wallet. See :ref:`here <coin-control>` for a "
+"more detailed explanation of Coin Control."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:266
+msgid "Spend unconfirmed change"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:256
+msgid ""
+"When this option is enabled, the SmartCash Node Client wallet permits you"
+" to immediately spend change from previous transactions that has been "
+"transferred internally between addresses associated with the same wallet."
+" This is possible even if the transaction has not yet been confirmed "
+"because the wallet knows it will eventually be confirmed since it created"
+" the internal transaction itself. Leaving this option enabled allows you "
+"to create new transactions even if previous transactions have not yet "
+"been confirmed."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:269
+msgid "Network tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:271
+msgid ""
+"This tab includes options related to how your connection to the SmartCash"
+" network is made."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:277
+msgid "The Network tab of the SmartCash Node Client Options dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:285
+msgid "Map port using UPnP"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:280
+msgid ""
+"This option causes SmartCash Node Client to automatically attempt to open"
+" and map the client port on your router using `UPnP "
+"<https://en.wikipedia.org/wiki/Universal_Plug_and_Play>`__ (Universal "
+"Plug and Play). This feature is supported by most modern home routers and"
+" will allow you to connect to the SmartCash network without making any "
+"special settings on your router."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:292
+msgid "Allow incoming connections"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:288
+msgid ""
+"This option causes your client to accept external connections. Since "
+"SmartCash is a peer-to-peer network and SmartCash Node Client is "
+"considered a full client because it stores a copy of the blockchain on "
+"your device, enabling this option helps other clients synchronize the "
+"blockchain and network through your node."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:299
+msgid "Connect through SOCKS5 proxy (default proxy)"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:295
+msgid ""
+"These options allow users on an intranet requiring a proxy to reach the "
+"broader internet to specify the address of their proxy server to relay "
+"requests to the internet. Contact your system administrator or check out "
+"the network settings in your web browser if you are unable to connect and"
+" suspect a proxy may be the source of the problem."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:306
+msgid "Use separate SOCKS5 proxy to reach peers via Tor hidden services"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:302
+msgid ""
+"These options allow you to specify an additional proxy server designed to"
+" help you connect to peers on the Tor network. This is an advanced option"
+" for increased privacy and requires a Tor proxy on your network. For more"
+" information about Tor, see `here <https://www.torproject.org/>`__."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:309
+msgid "Window tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:311
+msgid ""
+"This option contains options governing behavior of the SmartCash Node "
+"Client app window under Microsoft Windows."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:317
+msgid "The Window tab of the SmartCash Node Client Options dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:322
+msgid "Hide tray icon"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:320
+msgid ""
+"When this option is enabled, SmartCash Node Client will not display an "
+"icon in the system tray. This option cannot be selected at the same time "
+"as **Minimize to the tray instead of the taskbar**."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:329
+msgid "Minimize to the tray instead of the taskbar"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:325
+msgid ""
+"When this option is enabled and the SmartCash Node Client window is "
+"minimized, it will no longer appear in your taskbar as a running task. "
+"Instead, SmartCash Core will keep running in the background and can be "
+"re-opened from the SmartCash icon in the system tray (the area next to "
+"your system clock). This option cannot be selected at the same time "
+"as **Hide tray icon**."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:334
+msgid "Minimize on close"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:332
+msgid ""
+"When this option is enabled, clicking the X button in the top right "
+"corner of the window will cause SmartCash Node Client to minimize rather "
+"than close. To completely close the app, select **File > Exit**."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:337
+msgid "Display tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:339
+msgid ""
+"This tab contains options relating to the appearance of the SmartCash "
+"Node Client app window."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:345
+msgid "The Display tab of the SmartCash Node Client Options dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:350
+msgid "User interface language"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:348
+msgid ""
+"Select your preferred language from this drop-down menu. Changing the "
+"language requires you to restart the SmartCash Node Client app."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:357
+msgid "Unit to show amounts in"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:353
+msgid ""
+"This allows you to change the default unit of currency in SmartCash Node "
+"Client from SmartCash to mSmartCash, µSmartCash or duffs. Each unit "
+"shifts the decimal separator three places to the right. Duffs are the "
+"smallest unit into which SmartCash may be separated."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:366
+msgid "Third party transaction URLs"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:360
+#, python-format
+msgid ""
+"This option allows you to specify and external website to inspect a "
+"particular address or transaction on the blockchain. Several blockchain "
+"explorers are available for this. To use this feature, enter the URL of "
+"your favorite blockchain explorer, replacing the %s with the transaction "
+"ID. You will then be able to access this blockchain explorer directly "
+"from SmartCash Node Client using the context menu of any given "
+"transaction."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:369
+msgid "The Tools Dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:371
+msgid ""
+"This documentation describes the functionality of the SmartCash Node "
+"Client Tools dialog, available under the **Help ==> Debug Window** menu "
+"in SmartCash Node Client."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:375
+msgid "Information tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:380
+msgid "The Information tab of the SmartCash Node Client Tools dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:385
+msgid "General"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:383
+msgid ""
+"This section displays information on the name and version of the client "
+"and database, and the location of the current application data directory."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:389
+msgid "Network"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:388
+msgid ""
+"This section displays information and statistics on the network to which "
+"you are connected."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:392
+msgid "Block chain"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:392
+msgid "This section shows the current status of the blockchain."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:398
+msgid "Memory pool"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:395
+msgid ""
+"This section shows the status of the memory pool, which contains "
+"transactions that could not yet be written to a block. This includes both"
+" transactions created since the last block and transactions which could "
+"not be entered in the last block because it was full."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:402
+msgid "Open debug log file"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:401
+msgid ""
+"This button opens debug.log from the application data directory. This "
+"file contains output from SmartCash Node Client which may help to "
+"diagnose errors."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:405
+msgid "Console tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:407
+msgid ""
+"The Console tab provides an interface with the SmartCash Node Client RPC "
+"(remote procedure call) console. This is equivalent to the ``smartcash-"
+"cli`` command on headless versions of SmartCash, such as ``smartcashd`` "
+"running on a smartnode. Click the red ``–`` icon to clear the console, "
+"and see the detailed documentation on RPC commands to learn about the "
+"possible commands you can issue."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:417
+msgid "The Console tab of the SmartCash Node Client Tools dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:420
+msgid "Network Traffic tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:422
+msgid ""
+"The Network Traffic tab shows a graph of traffic sent and received to "
+"peers on the network over time. You can adjust the time period using the "
+"slider or **Clear** the graph."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:429
+msgid "The Network Traffic tab of the SmartCash Node Client Tools dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:432
+msgid "Peers tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:434
+msgid ""
+"The Peers tab shows a list of other full nodes connected to your "
+"SmartCash Core client. The IP address, version and ping time are visible."
+" Selecting a peer shows additional information on the data exchanged with"
+" that peer."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:442
+msgid "The Peers tab of the SmartCash Node Client Tools dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:445
+msgid "Wallet Repair tab"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:447
+msgid ""
+"The Wallet Repair tab offers a range of startup commands to restore a "
+"wallet to a functional state. Selecting any of these commands will "
+"restart SmartCash Node Client with the specified command-line option."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:454
+msgid "The Wallet Repair tab of the SmartCash Node Client Tools dialog"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:461
+msgid "Salvage wallet"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:457
+msgid ""
+"Salvage wallet assumes wallet.dat is corrupted and cannot be read. It "
+"makes a copy of wallet.dat to wallet.<date>.bak and scans it to attempt "
+"to recover any private keys. Check your debug.log file after running "
+"salvage wallet and look for lines beginning with \"Salvage\" for more "
+"information on operations completed."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:468
+msgid "Rescan blockchain files"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:464
+msgid ""
+"Rescans the already downloaded blockchain for any transactions affecting "
+"accounts contained in the wallet. This may be necessary if you replace "
+"your wallet.dat file with a different wallet or a backup - the wallet "
+"logic will not know about these transactions, so a rescan is necessary to"
+" determine balances."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:477
+msgid "Recover transactions"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:471
+msgid ""
+"The recover transactions commands can be used to remove unconfirmed "
+"transactions from the memory pool. Your wallet will restart and rescan "
+"the blockchain, recovering existing transactions and removing unconfirmed"
+" transactions. Transactions may become stuck in an unconfirmed state if "
+"there is a conflict in protocol versions on the network during "
+"PrivateSend mixing, for example, or if a transaction is sent with "
+"insufficient fees when blocks are full."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:483
+msgid "Upgrade wallet format"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:480
+msgid ""
+"This command is available for very old wallets where an upgrade to the "
+"wallet version is required in addition to an update to the wallet "
+"software. You can view your current wallet version by running the "
+"``getwalletinfo`` command in the console."
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:487
+msgid "Rebuild index"
+msgstr ""
+
+#: ../../wallets/nodeclient/interface.rst:486
+msgid ""
+"Discards the current blockchain and chainstate indexes (the database of "
+"unspent transaction outputs) and rebuilds it from existing block files. "
+"This can be useful to recover missing or stuck balances."
+msgstr ""
+
