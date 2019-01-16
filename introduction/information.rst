@@ -58,7 +58,7 @@ Official sites
    https://www.facebook.com/scashofficial/
    https://gab.ai/smartcash
    
-   - **Block Explorers**:
+- **Block Explorers**:
    https://insight.smartcash.cc/
    https://explorer3.smartcash.cc/
    https://smart.ccore.online/
@@ -203,7 +203,7 @@ Tools
 Block explorers, statistics and visualizations
 ----------------------------------------------
 
--   **Block Explorers**:
+- **Block Explorers**:
    https://insight.smartcash.cc/
    https://explorer3.smartcash.cc/
    https://smart.ccore.online/

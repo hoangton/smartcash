@@ -11,7 +11,7 @@ What is SmartCash?
 SmartCash is a peer-to-peer digital currency that can be used without having to trust a third party. By focusing on being ease to use even for people who aren‘t crypto geeks, on being merchant friendly. The SmartCash network features 
 :ref:`instant transaction confirmation <instantpay>`, double spend 
 protection, a 
-:ref:`self-governing, self-funding model <decentralized-smarthive>` and a `clear roadmap <https://smartcash.cc/roadmap/>`. While SmartCash is based on Bitcoin and compatible with many key
+:ref:`self-governing, self-funding model <smarthive>` and a `clear roadmap <https://smartcash.cc/roadmap/>`. While SmartCash is based on Bitcoin and compatible with many key
 components of the Bitcoin ecosystem. This section of the documentation describes these and many
 more key features that set SmartCash apart in the blockchain economy.
 

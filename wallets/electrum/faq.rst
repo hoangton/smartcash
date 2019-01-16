@@ -155,10 +155,6 @@ To restore your wallet from its seed phrase, create a new wallet, select
 the type, choose **I already have a seed** and proceed to input your
 seed phrase.
 
-Does SmartCash Electrum support cold wallets?
-----------------------------------------
-
-Yes. See the :ref:`cold storage <electrum-cold-storage>` section.
 
 Can I import private keys from other SmartCash clients?
 --------------------------------------------------

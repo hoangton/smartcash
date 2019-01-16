@@ -37,7 +37,6 @@ instead. You will need:
 A list of available documentation appears below:
 
 - :ref:`Full smartnode setup guide <smartnode-setup>` (you are here)
-- :ref:`Information for users of hosted smartnodes <hosted-setup>`
 
 This documentation describes the commands as if they were
 entered in the SmartCash NodeClient GUI by opening the console from **Help > Debug
