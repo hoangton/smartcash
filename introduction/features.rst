@@ -247,15 +247,16 @@ emission approaching (but never reaching) 21,000,000 BTC. This will
 continue until 2140, but the mining reward reduces so quickly that 99%
 of all bitcoin will be in circulation by 2036, and 99.9% by 2048.
 
-`SmartCash's total coin emission <https://www.wolframalpha.com/input/?i=plot+5000+*+143500%2F(x*573454.54),+x+from+1+to+125`_. SmartCash will emit coins for
+`SmartCash's total coin emission <https://www.wolframalpha.com/input/?i=plot+5000+*+143500%2F(x*573454.54),+x+from+1+to+125>`_. SmartCash will emit coins for
 approximately 124.3 years before a full year of mining creates less than 1
 SMART. After 2141 no more SMART will be created. 
-`Read more here https://smartcash.blockchainlibrary.org/2018/06/understanding-the-smartcash-emission-curve-and-distribution-rates/`
+`Read more here <https://smartcash.blockchainlibrary.org/2018/06/understanding-the-smartcash-emission-curve-and-distribution-rates/>`
 
 Block reward allocation
 -----------------------
 
 Unlike Bitcoin, which allocates 100% of the block reward to miners, SmartCash allocates:
+
 
 +-----+----------------------------------------+
 | 5% | Mining Reward                           |
@@ -268,6 +269,7 @@ Unlike Bitcoin, which allocates 100% of the block reward to miners, SmartCash al
 +-----+----------------------------------------+
 | 46% | SmartHive Project Treasury             |
 +-----+----------------------------------------+
+
 
 .. _fees:
 
@@ -291,7 +293,8 @@ included as an incentive to the miner to process the transaction. Most
 wallets include a small fee by default, although some miners will
 process transactions even if no fee is included.
 
- SmartCash also supports
+SmartCash also supports
+
 :ref:`instantpay` transactions, which operate on
 a different and mandatory fee schedule. SmartCash introduced
 InstantPay autolocks, which causes smartnodes to automatically attempt
@@ -303,12 +306,13 @@ follows:
 +----------------------+-----------------+-----------------------------------+
 | Transaction type     | Recommended fee | Per unit                          |
 +======================+=================+===================================+
-| Standard transaction | .00001 SMART     | Per kB of transaction data        |
+| Standard transaction | .00001 SMART    | Per kB of transaction data        |
 +----------------------+-----------------+-----------------------------------+
-| InstantPay autolock | .00001 SMART     | Per kB of transaction data        |
+| InstantPay autolock  | .00001 SMART    | Per kB of transaction data        |
 +----------------------+-----------------+-----------------------------------+
-| InstantPay          | .0001 SMART      | Per transaction input             |
+| InstantPay           | .0001 SMART     | Per transaction input             |
 +----------------------+-----------------+-----------------------------------+
+
 
 As an example, a standard and relatively simple transaction on the SmartCash
 network with one input, one output and a possible change address

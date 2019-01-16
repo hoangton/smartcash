@@ -91,7 +91,6 @@ source_file = locale/pot/wallets/paper.pot
 source_lang = en
 type = PO
 
-
 [docs.wallets--nodeclient--backup]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/backup.po
 source_file = locale/pot/wallets/nodeclient/backup.pot
@@ -121,7 +120,6 @@ file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/advanced.po
 source_file = locale/pot/wallets/nodeclient/advanced.pot
 source_lang = en
 type = PO
-
 
 [docs.wallets--electrum--send-receive]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/electrum/send-receive.po
@@ -225,7 +223,6 @@ source_file = locale/pot/wallets/third-party.pot
 source_lang = en
 type = PO
 
-
 [docs.introduction--information]
 file_filter = locale/<lang>/LC_MESSAGES/introduction/information.po
 source_file = locale/pot/introduction/information.pot
@@ -303,5 +300,4 @@ file_filter = locale/<lang>/LC_MESSAGES/introduction/safety.po
 source_file = locale/pot/introduction/safety.pot
 source_lang = en
 type = PO
-
 
