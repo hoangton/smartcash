@@ -60,7 +60,7 @@ https://www.transifex.com/SmartCash/NodeClient/
 
 This project contains a file named ``NodeClient_en.ts``, which is an export of
 all translatable user-facing content in the :ref:`SmartCash NodeClient
-<SmartCash-nodeclient-wallet>`. Languages with 80% or more of the translations
+<nodeclient-wallet>`. Languages with 80% or more of the translations
 complete will be integrated in the next release. Note that the software
 will often replace placeholders in the text with actual numbers,
 addresses or usernames. If you see a placeholder in the source text, it
