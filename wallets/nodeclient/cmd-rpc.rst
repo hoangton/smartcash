@@ -16,26 +16,21 @@ of ``setting=value`` pairs, one per line, with optional comments
 starting with the ``#`` character.
 
 The configuration file is not automatically created; you can create it
-using your favorite plain-text editor. By default, smartcash-qt (or smartcashd)
-will look for a file named ``smartcash.conf`` in the smartcash data directory, but
-both the data directory and the configuration file path may be changed
-using the -datadir and -conf command-line arguments.
+using your favorite plain-text editor. By default, smartcash-qt (or smartcashd) will look for a file named ``smartcash.conf`` in the smartcash data directory, but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
 
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
 | Platform | Path to data folder            | Typical path to configuration file                                                            |
 +==========+================================+===============================================================================================+
-| Linux    | ~/                             | /home/username/.smartcash/smartcash.conf                                                            |
+| Linux    | ~/                             | /home/username/.smartcash/smartcash.conf                                                      |
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
-| macOS    | ~/Library/Application Support/ | /Users/username/Library/Application Support/smartcash/smartcash.conf                                |
+| macOS    | ~/Library/Application Support/ | /Users/username/Library/Application Support/smartcash/smartcash.conf                          |
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
-| Windows  | %APPDATA%                      | (Vista-10) C:\\Users\\username\\AppData\\Roaming\\SmartCash\\smartcash.conf                         |
+| Windows  | %APPDATA%                      | (Vista-10) C:\\Users\\username\\AppData\\Roaming\\SmartCash\\smartcash.conf                   |
 |          |                                |                                                                                               |
-|          |                                | (2000-XP) C:\\Documents and Settings\\username\\Application Data\\| Windows  | %APPDATA%                      | (Vista-10) C:\\Users\\username\\AppData\\Roaming\\SmartCash\\smartcash.conf                         |
-\\smartcash.conf         |
+|          |                                | (2000-XP) C:\\Documents and Settings\\username\\Application Data\\			    |
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
 
-Note: if running smartcash in testnet mode, the sub-folder ``testnet3`` will
-be appended to the data directory automatically.
+Note: if running smartcash in testnet mode, the sub-folder ``testnet3`` will be appended to the data directory automatically.
 
 Command line arguments
 ======================
@@ -45,7 +40,7 @@ These commands are accurate as of SmartCash NodeClient.
 - `smartcashd`_
 - `smartcash-qt`_
 - `smartcash-cli`_
-- `smartcash-tx`_
+
 
 
 smartcashd
@@ -64,8 +59,8 @@ smartcashd [options]
 Options
 ^^^^^^^
 
---?							Print this help message and exit 
---version					Print version and exit 
+--?					Print this help message and exit 
+--version				Print version and exit 
 --alertnotify=<cmd>			Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message) 
 --blocknotify=<cmd>			Execute command when the best block changes (%s in cmd is replaced by block hash) 
 --checkblocks=<n>			How many blocks to check at startup (default: 6, 0 = all) 
@@ -77,10 +72,10 @@ Options
 --maxorphantx=<n>			Keep at most <n> unconnectable transactions in memory (default: 100) 
 --maxmempool=<n>			Keep the transaction memory pool below <n> megabytes (default: 300) 
 --mempoolexpiry=<n>			Do not keep transactions in the mempool longer than <n> hours (default: 72) 
---par=<n>					Set the number of script verification threads (-4 to 16, 0 = auto, <0 = leave that many cores free, default: 0) 
---prune=<n>					Reduce storage requirements by pruning (deleting) old blocks. This mode is incompatible with -txindex and -rescan. Warning: Reverting this setting requires re-downloading the entire blockchain. (default: 0 = disable pruning blocks, >1414 = target size in MiB to use for block files) 
---reindex-chainstate		Rebuild chain state from the currently indexed blocks 
---reindex					Rebuild chain state and block index from the blk*.dat files on disk 
+--par=<n>				Set the number of script verification threads (-4 to 16, 0 = auto, <0 = leave that many cores free, default: 0) 
+--prune=<n>				Reduce storage requirements by pruning (deleting) old blocks. This mode is incompatible with -txindex and -rescan. Warning: Reverting this setting requires re-downloading the entire blockchain. (default: 0 = disable pruning blocks, >1414 = target size in MiB to use for block files) 
+--reindex-chainstate		        Rebuild chain state from the currently indexed blocks 
+--reindex				Rebuild chain state and block index from the blk*.dat files on disk 
 
 
 Connection options
@@ -92,29 +87,31 @@ Connection options
 --bind=<addr>	Bind to given address and always listen on it. Use [host]:port notation for IPv6 
 --connect=<ip>	Connect only to the specified node(s) 
 --discover	Discover own IP addresses (default: 1 when listening and no -externalip or -proxy) 
---dns	Allow DNS lookups for -addnode, -seednode and -connect (default: 1) 
+--dns		Allow DNS lookups for -addnode, -seednode and -connect (default: 1) 
 --dnsseed	Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect) 
 --externalip=<ip>	Specify your own public address 
---forcednsseed	Always query for peer addresses via DNS lookup (default: 0) 
---listen	Accept connections from outside (default: 1 if no -proxy or -connect) 
---listenonion	Automatically create Tor hidden service (default: 0) 
+--forcednsseed		Always query for peer addresses via DNS lookup (default: 0) 
+--listen		Accept connections from outside (default: 1 if no -proxy or -connect) 
+--listenonion		Automatically create Tor hidden service (default: 0) 
 --maxconnections=<n>	Maintain at most <n> connections to peers (default: 125) 
 --maxreceivebuffer=<n>	Maximum per-connection receive buffer, <n>*1000 bytes (default: 5000) 
 --maxsendbuffer=<n>	Maximum per-connection send buffer, <n>*1000 bytes (default: 1000) 
 --maxtimeadjustment	Maximum allowed median peer time offset adjustment. Local perspective of time may be influenced by peers forward or backward by this amount. (default: 4200 seconds) 
 --onion=<ip:port>	Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy) 
---onlynet=<net>	Only connect to nodes in network <net> (ipv4, ipv6 or onion) 
+--onlynet=<net>		Only connect to nodes in network <net> (ipv4, ipv6 or onion) 
 --permitbaremultisig	Relay non-P2SH multisig (default: 0) 
 --peerbloomfilters	Support filtering of blocks and transaction with bloom filters (default: 1) 
---port=<port>	Listen for connections on <port> (default: 9678 or testnet: 19678) 
+--port=<port>		Listen for connections on <port> (default: 9678 or testnet: 19678) 
 --proxy=<ip:port>	Connect through SOCKS5 proxy 
 --proxyrandomize	Randomize credentials for every proxy connection. This enables Tor stream isolation (default: 1) 
 --rpcserialversion	Sets the serialization of raw transaction or block hex returned in non-verbose mode, non-segwit(0) or segwit(1) (default: 1) 
---seednode=<ip>	Connect to a node to retrieve peer addresses, and disconnect 
---timeout=<n>	Specify connection timeout in milliseconds (minimum: 1, default: 5000) 
---torcontrol=<ip>:<port>	Tor control port to use if onion listening enabled (default: 127.0.0.1:9051) 
---torpassword=<pass>	Tor control port password (default: empty) 
---upnp	Use UPnP to map the listening port (default: 0) 
+--seednode=<ip>			Connect to a node to retrieve peer addresses, and disconnect 
+--timeout=<n>			Specify connection timeout in milliseconds (minimum: 1, default: 5000) 
+
+--torcontrol=<ip>:<port>	Tor control port to use if onion listening enabled (default: 127.0.0.1:9051)
+
+--torpassword=<pass>		Tor control port password (default: empty) 
+--upnp			Use UPnP to map the listening port (default: 0) 
 --whitebind=<addr>	Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6 
 --whitelist=<IP address or network>	Whitelist peers connecting from the given IP address (e.g. 1.2.3.4) or CIDR notated network (e.g. 1.2.3.0/24). Can be specified multiple times. Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway 
 --whitelistrelay	Accept relayed transactions received from whitelisted peers even when not relaying transactions (default: 1) 
@@ -126,21 +123,21 @@ Connection options
 Wallet options
 ^^^^^^^^^^^^^^
 
--disablewallet	Do not load the wallet and disable wallet RPC calls 
--keypool=<n>	Set key pool size to <n> (default: 100) 
--fallbackfee=<amt>	A fee rate (in SMART/kB) that will be used when fee estimation has insufficient data (default: 0.0002) 
--mintxfee=<amt>	Fees (in SMART/kB) smaller than this are considered zero fee for transaction creation (default: 0.00001) 
--paytxfee=<amt>	Fee (in SMART/kB) to add to transactions you send (default: 0.00) 
--rescan	Rescan the block chain for missing wallet transactions on startup 
--salvagewallet	Attempt to recover private keys from a corrupt wallet on startup 
--spendzeroconfchange	Spend unconfirmed change when sending transactions (default: 1) 
--txconfirmtarget=<n>	If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: 2) 
--usehd	Use hierarchical deterministic key generation (HD) after BIP32. Only has effect during wallet creation/first start (default: 1) 
--upgradewallet	Upgrade wallet to latest format on startup 
--wallet=<file>	Specify wallet file (within data directory) (default: wallet.dat) 
--walletbroadcast	Make the wallet broadcast transactions (default: 1) 
--walletnotify=<cmd>	Execute command when a wallet transaction changes (%s in cmd is replaced by TxID) 
--zapwallettxes=<mode>	Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup (1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data) 
+--disablewallet		Do not load the wallet and disable wallet RPC calls 
+--keypool=<n>		Set key pool size to <n> (default: 100) 
+--fallbackfee=<amt>	A fee rate (in SMART/kB) that will be used when fee estimation has insufficient data (default: 0.0002) 
+--mintxfee=<amt>	Fees (in SMART/kB) smaller than this are considered zero fee for transaction creation (default: 0.00001) 
+--paytxfee=<amt>	Fee (in SMART/kB) to add to transactions you send (default: 0.00) 
+--rescan		Rescan the block chain for missing wallet transactions on startup 
+--salvagewallet		Attempt to recover private keys from a corrupt wallet on startup 
+--spendzeroconfchange	Spend unconfirmed change when sending transactions (default: 1) 
+--txconfirmtarget=<n>	If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: 2) 
+--usehd			Use hierarchical deterministic key generation (HD) after BIP32. Only has effect during wallet creation/first start (default: 1) 
+--upgradewallet		Upgrade wallet to latest format on startup 
+--wallet=<file>		Specify wallet file (within data directory) (default: wallet.dat) 
+--walletbroadcast	Make the wallet broadcast transactions (default: 1) 
+--walletnotify=<cmd>	Execute command when a wallet transaction changes (%s in cmd is replaced by TxID) 
+--zapwallettxes=<mode>	Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup (1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data) 
 
 
 
@@ -167,7 +164,7 @@ Chain selection options
 
 
 Node relay options:
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 
 -bytespersigop	Equivalent bytes per sigop in transactions for relay and mining (default: 20) 
 -datacarrier	Relay and mine data carrier transactions (default: 1) 
@@ -177,7 +174,7 @@ Node relay options:
 
 
 Block creation options:
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 -blockmaxweight=<n>	Set maximum BIP141 block weight (default: 3000000) 
 -blockmaxsize=<n>	Set maximum block size in bytes (default: 500000) 
@@ -199,13 +196,13 @@ RPC server options
 -rpcthreads=<n>	Set the number of threads to service RPC calls (default: 4) 
 
 UI Options:
-^^^^^^^^^^^^^^^^^^
--choosedatadir	Choose data directory on startup (default: 0) 
--lang=<lang>	Set language, for example "de_DE" (default: system locale) 
--min	Start minimized 
--rootcertificates=<file>	Set SSL root certificates for payment request (default: -system-) 
--splash	Show splash screen on startup (default: 1) 
--resetguisettings	Reset all settings changed in the GUI 
+^^^^^^^^^^^^^
+--choosedatadir			Choose data directory on startup (default: 0) 
+--lang=<lang>			Set language, for example "de_DE" (default: system locale) 
+--min				Start minimized 
+--rootcertificates=<file>	Set SSL root certificates for payment request (default: -system-) 
+--splash			Show splash screen on startup (default: 1) 
+--resetguisettings		Reset all settings changed in the GUI 
 
 
 smartcash-qt

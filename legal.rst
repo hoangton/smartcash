@@ -31,7 +31,7 @@ to constitute “mining”. By analogy, a smartnode operator should also
 treat as regular income the fair market value of the block reward.
 
 SmartCash Collateral
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 A SmartCash user may demonstrate to the network his or her control over 10,000
 SMART in order to run a smartnode. These tokens never leave the user’s
 control. If at any point during the user’s tenure as a smartnode
