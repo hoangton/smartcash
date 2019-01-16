@@ -276,7 +276,7 @@ Glossary
 
 Address
   A SmartCash address is used to :ref:`Send/Receive a Payment 
-  <node-client-send-receive>` on the SmartCash network. It contains a string of
+  <nodeclient-send-receive>` on the SmartCash network. It contains a string of
   alphanumeric characters, but can also be represented as a scannable QR
   code. A SmartCash address is also the public key in the pair of keys used 
   by SmartCash holders to digitally sign transactions (see Public key).
@@ -312,12 +312,6 @@ API
   providing all the building blocks, which are then put together by the
   programmer.
 
-ASIC
-  An application-specific integrated circuit (ASIC), is an integrated
-  circuit (IC) customized for a particular use, rather than intended for
-  general-purpose use. For example, a chip designed to run in a digital
-  voice recorder or for :ref:`high-efficiency SmartCash mining <asic-mining>`
-  is an ASIC.
 
 ATM / BTM
   A SmartCash ATM is a physical machine that allows a customer to buy SmartCash
@@ -363,12 +357,11 @@ Blocks
   "miners" who use specialized software or equipment designed
   specifically to create blocks.
 
-Budget System / DGBB
+SmartHive Project Treasury
   The development of SmartCash and the SmartCash ecosystem is self-funded by the
   network. Each time a block is discovered, 5% of the block reward goes
   to miners and 10% goes to smartnodes. 46% is withheld by the
-  network and used to fund projects that are approved by the community. This process is known as :ref:`Decentralized Governance by
-  Blockchain <governance>` (DGBB). For a fee, anybody can submit a
+  network and used to fund projects that are approved by the community. This process is known as :ref:`SmartHive <smarthive>`. For a fee, anybody can submit a
   proposal to the network, and will be paid directly by the SmartHive Project Treasury
   if approved by the community. The SmartHive Project Treasury System is sometimes called
   the Treasury System; the two terms are interchangeable.
@@ -453,7 +446,7 @@ Cryptography
   include ATM cards, computer passwords, and electronic commerce.
 
 Node Client Wallet 
-  The :ref:`SmartCash Node Client Wallet <nodeclient-wallet>` (known also as the QT
+  The :ref:`SmartCash Node Client Wallet <nodeclient-installation>` (known also as the QT
   wallet) is the "official" SmartCash wallet that is compiled by the SmartCash Team and allows  InstantPay. The Node Client
   wallet will download the entire blockchain and serve it over the
   internet to any peers who request it.
@@ -487,8 +480,8 @@ Desktop Wallet
   A wallet is a piece of software that stores your SmartCash. There are many
   different wallet options, but it is imperative to choose a secure one.
   We recommend any of the following: :ref:`SmartCash Node Client Wallet
-  <nodeclient-wallet>` / :ref:`SmartCash Electrum Wallet
-  <smartcash-electrum-wallet>` / :ref:`Hardware Wallets <hardware-wallets>`
+  <nodeclient-installation>` / :ref:`SmartCash Electrum Wallet
+  <electrum-installation>` / :ref:`Hardware Wallets <hardware-wallets>`
 
 
 Difficulty
@@ -513,8 +506,8 @@ Digital Wallet
   many devices:
 
   - **Desktop Wallet** (:ref:`SmartCash Electrum Wallet
-    <smartcash-electrum-wallet>`, :ref:`SmartCash Node Client Wallet 
-    <nodeclient-wallet>`): Wallet programs that you install on a laptop 
+    <electrum-installation>`, :ref:`SmartCash Node Client Wallet 
+    <nodeclient-installation>`): Wallet programs that you install on a laptop 
     or desktop computer. You are solely responsible for protecting the 
     wallet file and the private keys it contains. Make backup copies of 
     your wallet files to ensure that you don't lose access to your 
@@ -572,7 +565,7 @@ Digital Signature
   address.
 
 Electrum Wallet
-  :ref:`SmartCash Electrum Wallet <smartcash-electrum-wallet>` is a lightweight
+  :ref:`SmartCash Electrum Wallet <electrum-installation>` is a lightweight
   wallet that does not require you to download or sync the entire
   blockchain, making the wallet lighter and faster.
 
@@ -749,7 +742,7 @@ MultiSig
   Multi-signature addresses provide additional security by requiring
   multiple people to sign a transaction with their private key before
   the transaction can be sent. For example, in :ref:`2 of 3 multisig
-  <smartcash-electrum-wallet-multisig>`, two out of three possible signatories have to
+  <electrum-installation>`, two out of three possible signatories have to
   sign a transaction for it to be processed. Multi-signature addresses
   are commonly used by exchanges and other organizations that are in
   possession of large sums of cryptocurrency, since it makes theft much
