@@ -1,301 +1,301 @@
 [main]
 host = https://www.transifex.com
 
-[docs.index]
+[smart-docs.index]
 file_filter = locale/<lang>/LC_MESSAGES/index.po
 source_file = locale/pot/index.pot
 source_lang = en
 type = PO
 
-[docs.wallets--index]
+[smart-docs.wallets--index]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/index.po
 source_file = locale/pot/wallets/index.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--installation-windows]
+[smart-docs.wallets--nodeclient--installation-windows]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/installation-windows.po
 source_file = locale/pot/wallets/nodeclient/installation-windows.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--installation-macos]
+[smart-docs.wallets--nodeclient--installation-macos]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/installation-macos.po
 source_file = locale/pot/wallets/nodeclient/installation-macos.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--interface]
+[smart-docs.wallets--nodeclient--interface]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/interface.po
 source_file = locale/pot/wallets/nodeclient/interface.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--installation]
+[smart-docs.wallets--nodeclient--installation]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/installation.po
 source_file = locale/pot/wallets/nodeclient/installation.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--installation-linux]
+[smart-docs.wallets--nodeclient--installation-linux]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/installation-linux.po
 source_file = locale/pot/wallets/nodeclient/installation-linux.pot
 source_lang = en
 type = PO
 
-[docs.legal]
+[smart-docs.legal]
 file_filter = locale/<lang>/LC_MESSAGES/legal.po
 source_file = locale/pot/legal.pot
 source_lang = en
 type = PO
 
-[docs.mining--index]
+[smart-docs.mining--index]
 file_filter = locale/<lang>/LC_MESSAGES/mining/index.po
 source_file = locale/pot/mining/index.pot
 source_lang = en
 type = PO
 
-[docs.smartnodes--index]
+[smart-docs.smartnodes--index]
 file_filter = locale/<lang>/LC_MESSAGES/smartnodes/index.po
 source_file = locale/pot/smartnodes/index.pot
 source_lang = en
 type = PO
 
-[docs.introduction--about]
+[smart-docs.introduction--about]
 file_filter = locale/<lang>/LC_MESSAGES/introduction/about.po
 source_file = locale/pot/introduction/about.pot
 source_lang = en
 type = PO
 
-[docs.introduction--features]
+[smart-docs.introduction--features]
 file_filter = locale/<lang>/LC_MESSAGES/introduction/features.po
 source_file = locale/pot/introduction/features.pot
 source_lang = en
 type = PO
 
-[docs.introduction--how-to-buy]
+[smart-docs.introduction--how-to-buy]
 file_filter = locale/<lang>/LC_MESSAGES/introduction/how-to-buy.po
 source_file = locale/pot/introduction/how-to-buy.pot
 source_lang = en
 type = PO
 
-[docs.wallets--hardware]
+[smart-docs.wallets--hardware]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/hardware.po
 source_file = locale/pot/wallets/hardware.pot
 source_lang = en
 type = PO
 
-[docs.wallets--paper]
+[smart-docs.wallets--paper]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/paper.po
 source_file = locale/pot/wallets/paper.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--backup]
+[smart-docs.wallets--nodeclient--backup]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/backup.po
 source_file = locale/pot/wallets/nodeclient/backup.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--send-receive]
+[smart-docs.wallets--nodeclient--send-receive]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/send-receive.po
 source_file = locale/pot/wallets/nodeclient/send-receive.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--instantpay]
+[smart-docs.wallets--nodeclient--instantpay]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/instantpay.po
 source_file = locale/pot/wallets/nodeclient/instantpay.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--cmd-rpc]
+[smart-docs.wallets--nodeclient--cmd-rpc]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/cmd-rpc.po
 source_file = locale/pot/wallets/nodeclient/cmd-rpc.pot
 source_lang = en
 type = PO
 
-[docs.wallets--nodeclient--advanced]
+[smart-docs.wallets--nodeclient--advanced]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/nodeclient/advanced.po
 source_file = locale/pot/wallets/nodeclient/advanced.pot
 source_lang = en
 type = PO
 
-[docs.wallets--electrum--send-receive]
+[smart-docs.wallets--electrum--send-receive]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/electrum/send-receive.po
 source_file = locale/pot/wallets/electrum/send-receive.pot
 source_lang = en
 type = PO
 
-[docs.wallets--electrum--installation]
+[smart-docs.wallets--electrum--installation]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/electrum/installation.po
 source_file = locale/pot/wallets/electrum/installation.pot
 source_lang = en
 type = PO
 
-[docs.wallets--electrum--faq]
+[smart-docs.wallets--electrum--faq]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/electrum/faq.po
 source_file = locale/pot/wallets/electrum/faq.pot
 source_lang = en
 type = PO
 
-[docs.wallets--electrum--security]
+[smart-docs.wallets--electrum--security]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/electrum/security.po
 source_file = locale/pot/wallets/electrum/security.pot
 source_lang = en
 type = PO
 
-[docs.wallets--electrum--advanced]
+[smart-docs.wallets--electrum--advanced]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/electrum/advanced.po
 source_file = locale/pot/wallets/electrum/advanced.pot
 source_lang = en
 type = PO
 
-[docs.wallets--web]
+[smart-docs.wallets--web]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/web.po
 source_file = locale/pot/wallets/web.pot
 source_lang = en
 type = PO
 
-[docs.mining--pool]
+[smart-docs.mining--pool]
 file_filter = locale/<lang>/LC_MESSAGES/mining/pool.po
 source_file = locale/pot/mining/pool.pot
 source_lang = en
 type = PO
 
-[docs.smartnodes--setup]
+[smart-docs.smartnodes--setup]
 file_filter = locale/<lang>/LC_MESSAGES/smartnodes/setup.po
 source_file = locale/pot/smartnodes/setup.pot
 source_lang = en
 type = PO
 
-[docs.smartnodes--maintenance]
+[smart-docs.smartnodes--maintenance]
 file_filter = locale/<lang>/LC_MESSAGES/smartnodes/maintenance.po
 source_file = locale/pot/smartnodes/maintenance.pot
 source_lang = en
 type = PO
 
-[docs.smartnodes--understanding]
+[smart-docs.smartnodes--understanding]
 file_filter = locale/<lang>/LC_MESSAGES/smartnodes/understanding.po
 source_file = locale/pot/smartnodes/understanding.pot
 source_lang = en
 type = PO
 
-[docs.smartnodes--hosting]
+[smart-docs.smartnodes--hosting]
 file_filter = locale/<lang>/LC_MESSAGES/smartnodes/hosting.po
 source_file = locale/pot/smartnodes/hosting.pot
 source_lang = en
 type = PO
 
-[docs.smartnodes--advanced]
+[smart-docs.smartnodes--advanced]
 file_filter = locale/<lang>/LC_MESSAGES/smartnodes/advanced.po
 source_file = locale/pot/smartnodes/advanced.pot
 source_lang = en
 type = PO
 
-[docs.earning-spending]
+[smart-docs.earning-spending]
 file_filter = locale/<lang>/LC_MESSAGES/earning-spending.po
 source_file = locale/pot/earning-spending.pot
 source_lang = en
 type = PO
 
-[docs.marketing]
+[smart-docs.marketing]
 file_filter = locale/<lang>/LC_MESSAGES/marketing.po
 source_file = locale/pot/marketing.pot
 source_lang = en
 type = PO
 
-[docs.wallets--recovery]
+[smart-docs.wallets--recovery]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/recovery.po
 source_file = locale/pot/wallets/recovery.pot
 source_lang = en
 type = PO
 
-[docs.wallets--signing]
+[smart-docs.wallets--signing]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/signing.po
 source_file = locale/pot/wallets/signing.pot
 source_lang = en
 type = PO
 
-[docs.wallets--third-party]
+[smart-docs.wallets--third-party]
 file_filter = locale/<lang>/LC_MESSAGES/wallets/third-party.po
 source_file = locale/pot/wallets/third-party.pot
 source_lang = en
 type = PO
 
-[docs.introduction--information]
+[smart-docs.introduction--information]
 file_filter = locale/<lang>/LC_MESSAGES/introduction/information.po
 source_file = locale/pot/introduction/information.pot
 source_lang = en
 type = PO
 
-[docs.merchants--administrative]
+[smart-docs.merchants--administrative]
 file_filter = locale/<lang>/LC_MESSAGES/merchants/administrative.po
 source_file = locale/pot/merchants/administrative.pot
 source_lang = en
 type = PO
 
-[docs.merchants--technical]
+[smart-docs.merchants--technical]
 file_filter = locale/<lang>/LC_MESSAGES/merchants/technical.po
 source_file = locale/pot/merchants/technical.pot
 source_lang = en
 type = PO
 
-[docs.merchants--getting-started]
+[smart-docs.merchants--getting-started]
 file_filter = locale/<lang>/LC_MESSAGES/merchants/getting-started.po
 source_file = locale/pot/merchants/getting-started.pot
 source_lang = en
 type = PO
 
-[docs.developers--index]
+[smart-docs.developers--index]
 file_filter = locale/<lang>/LC_MESSAGES/developers/index.po
 source_file = locale/pot/developers/index.pot
 source_lang = en
 type = PO
 
-[docs.developers--compiling]
+[smart-docs.developers--compiling]
 file_filter = locale/<lang>/LC_MESSAGES/developers/compiling.po
 source_file = locale/pot/developers/compiling.pot
 source_lang = en
 type = PO
 
-[docs.developers--testnet]
+[smart-docs.developers--testnet]
 file_filter = locale/<lang>/LC_MESSAGES/developers/testnet.po
 source_file = locale/pot/developers/testnet.pot
 source_lang = en
 type = PO
 
-[docs.developers--translating]
+[smart-docs.developers--translating]
 file_filter = locale/<lang>/LC_MESSAGES/developers/translating.po
 source_file = locale/pot/developers/translating.pot
 source_lang = en
 type = PO
 
-[docs.smarthive--seven-steps]
+[smart-docs.smarthive--seven-steps]
 file_filter = locale/<lang>/LC_MESSAGES/smarthive/seven-steps.po
 source_file = locale/pot/smarthive/seven-steps.pot
 source_lang = en
 type = PO
 
-[docs.smarthive--understanding]
+[smart-docs.smarthive--understanding]
 file_filter = locale/<lang>/LC_MESSAGES/smarthive/understanding.po
 source_file = locale/pot/smarthive/understanding.pot
 source_lang = en
 type = PO
 
-[docs.smarthive--index]
+[smart-docs.smarthive--index]
 file_filter = locale/<lang>/LC_MESSAGES/smarthive/index.po
 source_file = locale/pot/smarthive/index.pot
 source_lang = en
 type = PO
 
-[docs.smarthive--using]
+[smart-docs.smarthive--using]
 file_filter = locale/<lang>/LC_MESSAGES/smarthive/using.po
 source_file = locale/pot/smarthive/using.pot
 source_lang = en
 type = PO
 
-[docs.introduction--safety]
+[smart-docs.introduction--safety]
 file_filter = locale/<lang>/LC_MESSAGES/introduction/safety.po
 source_file = locale/pot/introduction/safety.pot
 source_lang = en
