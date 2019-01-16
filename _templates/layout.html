@@ -1,0 +1,28 @@
+{% extends "!layout.html" %}
+{% block extrahead %}
+    <link href="{{ pathto("_static/style.css", True) }}" rel="stylesheet" type="text/css">
+    <meta name="google-site-verification" content="" />
+    <meta name="author" content="SmartCash" />
+    <meta name="copyright" content="© Copyright 2019 SmartCash" />
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"url": "https://smartcash.cc",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "https://smartcash.readthedocs.io"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "SmartCash",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://smartcash.readthedocs.io/en/latest/_static/SmartCash-Logo-S.png",
+					"width": 1446,
+					"height": 424
+				}
+			}
+		}
+	</script>
+{% endblock %}

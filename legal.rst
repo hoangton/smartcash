@@ -1,0 +1,241 @@
+.. meta::
+   :description: Legal and tax information on the SmartCash cryptocurrency, block rewards, collateral and ATMs.
+   :keywords: smartcash, marketing, designs, presentations, brochures, logo
+
+.. _legal:
+
+=====
+Legal
+=====
+
+How the Law Applies to SmartCash
+===========================
+
+One of the most common questions we receive is *How are smartnode
+operators treated under the US tax laws?*
+
+Tax Treatment
+-------------
+
+Block rewards
+^^^^^^^^^^^^^
+
+As many already know, block rewards are paid to smartnode operators in
+exchange for validating transactions on the SmartCash network. The IRS has
+stated unequivocally that “when a taxpayer successfully ‘mines’ virtual
+currency, the fair market value of the virtual currency as of the date
+of receipt is includible in gross income.” To be sure, smartnode do
+not “mine”, but the IRS considers using computer resources to validate
+Bitcoin transactions and maintain the public Bitcoin transaction ledger
+to constitute “mining”. By analogy, a smartnode operator should also
+treat as regular income the fair market value of the block reward.
+
+SmartCash Collateral
+^^^^^^^^^^^^^^^
+A SmartCash user may demonstrate to the network his or her control over 10,000
+SMART in order to run a smartnode. These tokens never leave the user’s
+control. If at any point during the user’s tenure as a smartnode
+operator, the user disposes of any or all of the 10,000 SMART, the network
+automatically strips the user of his or her status as a smartnode.
+Under the US Internal Revenue Code, gain or loss is realized only on the
+“sale or exchange” of property. The term “sale” generally means the
+transfer of all right, title, and interest in the property transferred.
+A number of factors typically are considered to determine whether a sale
+has occurred, the most important being whether the benefits and burdens
+of ownership of the transferred property have passed from the transferor
+to the transferee. In SmartCash, the smartnode operator retains control of
+the 10,000 SMART and simply demonstrates that control to the network.
+Therefore, the holding of the 10,000 SMART for purposes of qualifying as a
+smartnode operator should not cause a taxable event to occur because
+the user has not transferred any of the benefits and burdens of
+ownership.
+
+Capital Gains
+^^^^^^^^^^^^^
+Assuming that the 10,000 SMART are sold, whether that SmartCash is a “capital
+asset” will determine the tax treatment of the sale. Stocks, bonds and
+other investment property for example, are generally treated as capital
+assets. Inventory, depreciable property, and stock in trade, though, are
+not. Assuming the smartnode operator held the 10,000 SMART either for
+investment purposes or for purposes of qualifying as a smartnode
+operator, the IRS would likely treat gain or loss on the sale of those
+SmartCash tokens as capital in nature. Therefore, SmartCash held for a long
+enough period of time could be subject to the lower “long term capital
+gains” tax rate.
+
+
+Legal Liability
+---------------
+
+As with cash or any other currency system, users may use SmartCash in
+connection with illegal activity. A common question we receive is
+whether smartnode operators can also be liable for criminal activity,
+simply by relaying transactions related to that activity. The
+fundamental legal requirement of *mens rea* makes criminal liability
+unlikely for smartnode operators.
+
+Primary Liability
+^^^^^^^^^^^^^^^^^
+Almost all crimes require that a defendant have a defined *mens rea*
+at the time of an offense. *Mens rea* is a mental state like
+purposefulness, knowledge, recklessness or negligence. For example, to
+act with “purpose” is commonly understood as desiring as your “conscious
+object” the result of a crime. “Knowledge” is a less culpable mindset
+than “purpose” – acting with “knowledge” requires general awareness that
+your actions will bring about a particular crime. “Recklessness”
+requires disregard of a substantial risk. Finally, a person acts
+“negligently” if they should have been aware of a substantial and
+unjustifiable risk of a particular consequence of their actions, but
+were not.
+
+Most smartnodes have no awareness, while relaying SmartCash transactions, of
+the identity of the users involved, the ultimate destination of users’
+funds, or any other circumstances of SmartCash transactions. As such, it
+would be difficult for a prosecutor to demonstrate that a smartnode
+operator who facilitated an illegal transaction merely by relaying the
+transaction would have a culpable *mens rea*.
+
+Secondary Liability
+^^^^^^^^^^^^^^^^^^^
+
+Even if someone is not the principal actor in the commission of a crime,
+that person can be secondarily liable for their involvement in it. As
+such, we are sometimes asked whether smartnode operators, by their
+involvement in relaying SmartCash transactions, could be “aiding and
+abetting” or “conspiring” to commit a crime that might involve SmartCash.
+Generally speaking, aiding and abetting requires that the defendant (i)
+seek by his action to make the crime succeed and (ii) act with the same
+*mens rea* as required for the principal offense.
+
+No matter the requisite *mens rea* of a particular principal offense
+committed by a SmartCash user, it is unlikely that a mere smartnode
+operator, without more, could be found to have “aided and abetted." To
+be sure, the smartnodes do provide assistance in the principal offense
+– in that smartnode action is required to process all SmartCash
+transactions. However, the smartnodes would not have the requisite
+*mens rea* to satisfy the requirements of aiding and abetting
+liability. smartnode operators have no readily available information
+about the purpose or consequences of users’ SmartCash transactions, or even
+the originating identity of the sender of funds. As such, so long as a
+sufficient diversity of non-criminal transactions occur on the SmartCash
+network, they would not harbor even the least culpable *mens rea*
+(i.e. negligence) with respect to a user relaying or receiving SmartCash in
+furtherance of a particular crime.
+
+“Conspiracy” liability is even less likely. Conspiracy generally
+requires i) an agreement to commit a crime, ii) knowledge of the
+unlawful purpose of the agreement, iii) intent to further the unlawful
+purpose, and iv) an act in furtherance of the conspiracy. None of these
+requirements are met by mere smartnode operators.
+
+Exchange Liability
+------------------
+
+The Bank Secrecy Act (BSA) is the law that primarily governs exchanges
+in the United States. The BSA does not contain any prohibition on
+supporting SmartCash transactions. Indeed, the BSA take a flexible, risk-
+based approach to regulation and contemplate that financial institutions
+will enter into lines of business with new risks. This risk-based
+approach requires, at the outset, an independent risk assessment. By and
+large, the risks faced by exchanges who begin to support SmartCash will be
+similar to the risks associated with other virtual currencies. 
+- Exchanges should consider revising their risk assessments and AML
+  policies to account for the unique characteristics of SmartCash. For
+  example, including blockchain addresses in Suspicious Activity Reports
+  (SARs) will be less descriptive and effective for investigations based
+  on such addresses. Exchanges might consider adding additional context
+  and explanation in SARs.
+
+ATM & Fiat Compliance
+=====================
+
+Introduction
+------------
+
+An aspect that required legal research is what are the compliance
+requirements to facilitate SmartCash-fiat exchange. This can be in the form
+of running ATM kiosks or using other mechanisms to personally offer SmartCash
+to fiat exchange services.
+
+For this purpose we hired **Cogent Law**, who have a lot of experience
+working in compliance for digital money services. They have put together
+a compliance program that will be shared with anyone launching a SmartCash
+service if they require it. This includes:
+
+- A finCEN BSA compliant written Principal MSB/KYC AML Program designed
+  to prevent the Principal MSB from being used to facilitate money
+  laundering and the financing of terrorist activities
+- A comprehensive risk based assessment by a third party compliance
+  consultant expert
+
+Our lawyer for this project is **Adella Toulon-Foerster** who has
+extensive experience in this field including:
+
+- Banking Secrecy Act (BSA), Anti-Money Laundering (AML), and Know Your
+  Customer (KYC) regulations
+- FinCEN requirements and guidance
+- Written and on-going AML compliance programs
+- State-by-state money transmitter laws and licensure requirements
+
+We now have full documentation of the program from Cogent Law, the
+package includes:
+
+- BSA AML Compliance training
+- KYC CDD Policy
+- AML Program
+- Risk Assessment
+- Surveillance and Monitoring Policy
+- Different Reports to file in different situations
+
+The documents have a format as if they were created for the fictional
+company “Initech” and then the interested SmartCash entrepreneur would have
+to replace it with their real corporation. We believe that some counsel
+would still be advisable for an investor launching a service but this
+will help provide a solid understanding of the requirements and get them
+80% of the way. This should also be highly educational and help the SmartCash
+investor be more at ease as it enlightens a typically obscure topic for
+most crypto enthusiasts.
+
+This program is directed at SmartCash investors that are interested in
+running a compliant service in regulated markets. If some users prefer
+to run services without a compliance program or don't need one, we
+completely respect that too.
+
+SmartCash ATM Compliance Program
+---------------------------
+
+#. Please first read the `Quick Guide To Operating a Virtual Currency
+   Kiosk <https://github.com/SmartCashpay/docs/blob/master/binary
+   /QuickGuidetoOperatingaVirtualCurrencyKioskSmartCash-watermark.pdf>`_.
+   This guide will guide you through the initial steps of registering as
+   an MSB. It is crucial you start here.
+
+#. Listen to the Audio Guides on BSA AML and read the BSA AML Training
+   Manual
+
+   - `BSA AML Compliance Training manual <https://github.com/SmartCashpay/docs/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_
+   - `AML 101 <https://soundcloud.com/SmartCashpay/aml-101-SmartCash>`_
+   - `AML In Depth <https://soundcloud.com/SmartCashpay/aml-indepth-SmartCash>`_
+
+#. Get familiar with the documentation you will need by looking at the
+   following templates
+
+   - `Surveillance and Monitoring <https://github.com/SmartCashpay/docs/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_
+   - `KYC CDD Policy <https://github.com/SmartCashpay/docs/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_
+   - `AML Program <https://github.com/SmartCashpay/docs/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_
+   - `Risk Assessment <https://github.com/SmartCashpay/docs/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_
+
+#. Get familiar with some of the reports you may need to file as part of
+   operations. In the Quick Guide in Step 1, we go through registration
+   on the E - BSA filing system. This step also provides example CTR
+   (Currency Transaction Report) and SAR (Suspicious Activity Report)
+   report samples. SmartCash operators should be familiar with these as they
+   may need to file them as part of operations. Sample reports:
+
+   - `Currency Transaction Report <https://github.com/SmartCashpay/docs/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_
+   - `Suspicious Activity Report <https://github.com/SmartCashpay/docs/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_
+
+#. If you would now like to move forward with your project, we recommend
+   getting in contact with `Cogent Law <http://www.cogentlaw.co>`_, our
+   recommended legal counsel. Preferential rates are available for SmartCash
+   users. Please email: atoulon@cogentlaw.co

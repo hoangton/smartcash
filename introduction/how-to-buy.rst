@@ -1,0 +1,324 @@
+.. meta::
+   :description: SmartCash can be purchased on cryptocurrency exchanges, over the counter and from ATMs
+   :keywords: smart, smartcash, cryptocurrency, purchase, buy, exchange, atm, shapeshift, over the counter
+
+.. _how-to-buy:
+
+==========
+How To Buy
+==========
+
+SmartCash can be purchased and sold in several ways, each with different
+advantages and disadvantages. The following options are available:
+
+- :ref:`Exchanges <exchanges>` are one of the most popular ways to trade
+  cryptocurrency. A wide range of exchanges exist, each offering 
+  slightly different features. Some serve different markets, some are in
+  direct competition, some have cheaper fees, and some are subject to
+  more or less strict regulatory requirements. Most exchanges are 
+  centralized, meaning they are operated by a single company, which may
+  be obliged by the laws of the jurisdiction in which it operates to 
+  collect data on its customers. Others are decentralized, but as a 
+  result have higher escrow requirements since you are dealing 
+  peer-to-peer instead of with a trusted entity. Exchanges can be 
+  broadly broken down into two categories: exchanges which accept 
+  national currency (fiat money) and exchanges which deal in 
+  cryptocurrencies only. For safety, exchanges should not be used as 
+  wallets. Exchanges are for trading, not for savings.
+
+- :ref:`Instant exchanges <instant_exchanges>` perform a similar
+  function to normal exchanges, but without the requirement to log in.
+  They effectively convert one currency to another, with some limits on
+  the amount to be exchanged and usually at a less advantageous rate.
+  Others may even offer to sell cryptocurrency as a credit card
+  purchase.
+
+- :ref:`Over the counter <over-the-counter>` exchanges have recently 
+  appeared to facilitate sale of SmartCash directly from a company to the 
+  individual at a specified price, or peer-to-peer between individuals 
+  at a negotiated price. Volume may be limited compared to exchanges, 
+  but these services are usually much easier to use. More advanced 
+  peer-to-peer sites offer escrow services for a fee to prevent cheating
+  during the sale between two parties who have never met.
+
+- :ref:`ATMs <atms>` accepting card and cash payments in return for
+  crypto are widely available. Mapping services can show the specific
+  location of these machines, or you can even set one up at your own 
+  business and earn a percentage of sales.
+
+DISCLAIMER: This list is provided for informational purposes only.
+Services listed here have not been evaluated or endorsed by SmartCash
+and no guarantees are made as to the accuracy of this information.
+Please exercise discretion when using third-party services.
+
+
+.. _exchanges:
+
+Exchanges
+=========
+
+Cryptocurrency exchanges exist to convert national currency, also known
+as fiat money, into cryptocurrency. Many exchanges do not accept fiat
+money, and exchange between various cryptocurrencies only. Trades are
+handled on markets, and trades are created between pairs of currencies,
+identified by their ticker codes. SmartCash is widely accepted on exchanges
+and many pairs exist against both fiat money and cryptocurrency. This
+means it is possible to exchange EUR for SMART, or SMART for BTC, for
+example. The volume traded on an exchange provides a good indication of
+how quickly a buy or sell order you place will be filled. This section
+introduces some of the most popular exchanges for trading SMART.
+
+
+Marketplace comparison websites
+-------------------------------
+
+Exmo
+  .. image:: exchanges/exmo.png
+     :width: 200px
+     :align: right
+     :target: https://exmo.com/en/trade#?pair=SMART_USD
+
+  https://exmo.com/en/trade#?pair=SMART_USD
+
+  EXMO was founded in 2013, and has offices in London, Kiev, Barcelona and Moscow. According to EXMO’s website, the cryptocurrency exchange has 1.5 million users. At press time, EXMO is the 47th largest crypto exchange by 24 hour trade volume on CoinMarketCap at over $26 million.  
+
+CoinMarketCap
+  .. image:: exchanges/coinmarketcap.png
+     :width: 200px
+     :align: right
+     :target: https://coinmarketcap.com
+
+https://coinmarketcap.com/currencies/smartcash/#markets
+
+  CoinMarketCap lists all cryptocurrencies by their market capitalization.
+  Clicking one of these currencies allows you to view price charts, and
+  clicking Markets allows you to view the markets available and the
+  trading pairs they offer.
+
+
+List of exchanges
+-----------------
+
+The exchanges listed here are for informational purposes only and do not
+indicate endorsement or affiliation with any particular platform.
+
+HitBTC
+  .. image:: exchanges/hitbtc.png
+     :width: 200px
+     :align: right
+     :target: https://hitbtc.com
+
+  https://hitbtc.com
+
+  HitBTC offers facilities to major investors to credit USD, EUR and
+  GBP, as well as BTC, ETH and USDT trading pairs against SMART for
+  normal users.
+
+
+
+Exmo
+  .. image:: exchanges/exmo.png
+     :width: 200px
+     :align: right
+     :target: https://exmo.com
+
+  https://exmo.com
+
+  Exmo is a UK-registered exchange offering fiat deposits in USD, EUR,
+  USD and UAH (Ukrainian Hryvnia). SMARTCASH trading pairs exist for BTC, USD
+  and RUB.
+
+Cryptopia
+  .. image:: exchanges/cryptopia.png
+     :width: 200px
+     :align: right
+     :target: https://www.cryptopia.co.nz
+
+  https://www.cryptopia.co.nz
+
+  Cryptopia is a New Zealand cryptocurrency exchange with a reputation
+  for supporting a large number of low-volume altcoins. It offers SMART
+  trading pairs for BTC, LTC, DOGE.
+
+Bleutrade
+  .. image:: exchanges/bleutrade.png
+     :width: 200px
+     :align: right
+     :target: https://bleutrade.com
+
+  https://bleutrade.com
+
+  Registered in Brazil, Bleutrade offers DOGE and BTC trading pairs for
+  SMARTCASH.
+
+Braziliex
+  .. image:: exchanges/braziliex.png
+     :width: 160px
+     :align: right
+     :target: https://braziliex.com
+
+  https://braziliex.com
+
+  Based in Brazil, Brazilies accepts deposits in Brazilian real, and
+  offers trading of real, Bitcoin and USDT against SmartCash.
+
+Crypto-bridge
+  .. image:: exchanges/crypto-bridge.jpg
+     :width: 200px
+     :align: right
+     :target: https://crypto-bridge.org/
+
+https://crypto-bridge.org/
+
+  Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash.
+
+coinbene
+  .. image:: exchanges/coinbene.png
+     :width: 200px
+     :align: right
+     :target: https://www.coinbene.com
+
+https://www.coinbene.com
+
+coinexchange
+  .. image:: exchanges/coinexchange.png
+     :width: 200px
+     :align: right
+     :target: https://www.coinexchange.io/market/SMART/BTC
+
+https://www.coinexchange.io/market/SMART/BTC
+
+stex
+  .. image:: exchanges/stex.png
+     :width: 200px
+     :align: right
+     :target: https://app.stex.com/en/basic-trade/pair/BTC/SMART/
+https://app.stex.com/en/basic-trade/pair/BTC/SMART/
+
+ebitcoinics
+  .. image:: exchanges/ebitcoinics.png
+     :width: 200px
+     :align: right
+     :target: https://www.ebitcoinics.com/
+https://www.ebitcoinics.com/
+
+.. _instant_exchanges:
+
+Instant exchanges
+=================
+
+Changelly
+  .. image:: exchanges/changelly.png
+     :width: 200px
+     :align: right
+     :target: https://changelly.com
+
+  https://changelly.com
+
+  Changelly is a broker service offering a range of cryptocurrency,
+  including SmartCash, for instant exchange against other cryptocurrencies
+  without needing to create an account. Be sure to check the fees and
+  rates before purchasing.
+
+CoinSwitch
+  .. image:: exchanges/coinswitch.png
+     :width: 200px
+     :align: right
+     :target: https://coinswitch.co
+
+  https://coinswitch.co
+
+  CoinSwitch is a crypto to crypto exchange aggregate with more than 300
+  different coins and tokens listed. Also offers purchases through
+  credit/debit cards.
+
+changeNOW
+  .. image:: exchanges/changenow.png
+     :width: 130px
+     :align: right
+     :target: https://changenow.io
+
+  https://changenow.io
+
+  changeNOW is a non-custodian exchange service based in the
+  Netherlands, with low commissions and quick service. Offers crypto to
+  crypto exchanges, as well as purchases through credit/debit cards.
+
+.. _over-the-counter:
+
+Over the Counter
+================
+
+eBitcoinics
+  .. image:: exchanges/ebitcoinics.png
+     :width: 200px
+     :align: right
+     :target: http://www.ebitcoinics.com
+
+  http://www.ebitcoinics.com
+
+  eBitcoinics is a cryptocurrency exchange and education platform for
+  the African market. SmartCash is available for exchange against Nigerian
+  Naira (NGN) and Ghanaian Cedi (GHS).
+
+BitPrime
+  .. image:: exchanges/bitprime.png
+     :width: 200px
+     :align: right
+     :target: https://www.bitprime.co.nz
+
+  https://www.bitprime.co.nz
+
+  BitPrime operates a secure and compliant platform for easy retail
+  trading in New Zealand. SmartCash is available OTC for both purchase and
+  sale together with many other cryptocurrencies.
+
+
+Changelly
+  .. image:: exchanges/changelly.png
+     :width: 200px
+     :align: right
+     :target: https://changelly.com
+
+  https://changelly.com
+
+  Changelly is a popular instantaneous crypto to crypto exchange
+  platform with more than 100 different coins and tokens listed. Also
+  offers purchases via credit/debit cards.
+
+
+Stratum CoinBR
+  .. image:: exchanges/stratum.png
+     :width: 200px
+     :align: right
+     :target: https://coinbr.io
+
+  https://coinbr.io
+
+  CoinBR is a Brazil-based cryptocurrency company offering a variety of
+  services including an exchange, mining, bill payment, point-of-sale,
+  and more. Smartcash is available for purchase at over 13,000 locations
+  around Brazil.
+
+.. _atms:
+
+ATMs
+====
+
+ATMs are a popular method of buying cryptocurrency at businesses to
+encourage adoption and spending in these currencies. A number of ATMs
+support SmartCash, and the mapping services listed on this page can help you
+find one near you. It is also possible to operate your own ATM to sell
+SmartCash on-site at your business - simply contact the companies listed on
+this page.
+
+General Bytes
+  .. image:: exchanges/generalbytes.png
+     :width: 75px
+     :align: right
+     :target: https://www.generalbytes.com
+
+  https://www.generalbytes.com
+
+  General Bytes offers a range of two-way cash ATM and Point of Sale
+  solutions integrating SmartCash.
