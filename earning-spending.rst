@@ -14,7 +14,8 @@ personal finances using SmartCash.
 
 Earning
 =======
-
+Receive payment from your employer in SmartCash directly.
+You can then withdraw your wage to any SmartCash wallet for spending or saving.
 
 Spending
 ========
