@@ -8,8 +8,6 @@
 SmartHive
 =========
 
-SmartHive included 3 parts.
-
 
 SmartHive Teams
 ---------------

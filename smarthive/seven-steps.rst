@@ -88,7 +88,7 @@ Consider arrangements for large requests
   proposals out of the budget. Consider breaking your proposal into
   smaller monthly payments instead.
 
-See :ref:`this documentation <using-smarthive>` for specific
+See :ref:`this documentation <using-smartvote>` for specific
 instructions on how to create a proposal when you are ready. Good luck!
 
 A few additional points:
@@ -98,4 +98,4 @@ A few additional points:
 . It is not recommended to request funding for period of longer than three months. smartcash holder don't want to see and vote on the same proposal without updates several months in a row, and price volatility makes it a risky proposition both to the network and yourself.
     
 . Before entering your budget proposal on the blockchain, check how many proposals already exist for the current budget cycle. If it is likely to become very crowded or if some proposals are requesting a significant portion of the budget, voting is likely to be very competitive with weaker projects being forced out of the budget, even if they collect sufficient votes to pass the 10% threshold. See
-   :ref:`here <understanding-smarthive>` for more details.
+   :ref:`here <understanding-smartvote>` for more details.

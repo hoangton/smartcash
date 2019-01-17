@@ -2,11 +2,11 @@
    :description: Discussion of theory and motivation behind the SmartCash governance system and treasury
    :keywords: smartcash, smarthive, funding, voting, blockchain, development, block reward, treasury, project treasury
 
-.. _understanding-smarthive:
+.. _understanding-smartvote:
 
-=================================
-Understanding SmartCash SmartHive
-=================================
+=======================
+Understanding SmartVote
+=======================
 
 One of the greatest challenges of building a cryptocurrency platform is
 ensuring you create a decentralized system of governance to manage,

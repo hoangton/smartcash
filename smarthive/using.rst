@@ -2,11 +2,11 @@
    :description: Practical guide to using the SmartCash governance system and treasury
    :keywords: smartcash, governance, funding, voting, proposals, smartnodes
 
-.. _using-smarthive:
+.. _using-smartvote:
 
-=========================
-Using SmartCash SmartHive
-=========================
+===============
+Using SmartVote
+===============
 
 SmartCash SmartHive is voting and funding platform. This documentation introduces and details the
 theory and practice to use the system.
@@ -37,19 +37,9 @@ Votes
 - Votes are cast using the address that have > 1 smartcash
 - Votes can be changed at any time
 
-Fund Allocated
---------------
 
-- Fund Allocated are proposals which receive a net total of yes votes equal to
-  or greater than 10% of the total possible votes (for example over 448
-  out of 4480)
-- Fund Allocated can be nullified at any time if vote totals (cast or re-cast)
-  fall below the approval threshold
-- Fund Allocated are processed (paid) in order of yes minus no votes. More
-  popular Fund Allocated get payment priority. 
-
-Object structure
-----------------
+Proposal structure
+------------------
 
 The following information is required to create a proposal:
 
@@ -59,6 +49,7 @@ The following information is required to create a proposal:
 - block-start: the requested start of proposal payments
 - SmartCash Payment Address: the address to receive proposal payments
 - Total Cost: the requested payment amount
+- And More
 
 Detail here: https://vote.smartcash.cc/Proposal/Create
 
