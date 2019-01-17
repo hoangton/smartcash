@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 12:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,11 +78,11 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:72
+#: ../../marketing.rst:70
 msgid "Flyers"
 msgstr ""
 
-#: ../../marketing.rst:74
+#: ../../marketing.rst:72
 msgid ""
 "An attractive flyer about SmartCash, designed to be folded in half and "
 "placed on flat surfaces at conferences and events. This design can be "
@@ -93,17 +93,17 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:88
+#: ../../marketing.rst:87
 msgid "Handouts"
 msgstr ""
 
-#: ../../marketing.rst:90
+#: ../../marketing.rst:89
 msgid ""
 "This handout is ideal for dual-sided printing as a handout for "
 "conferences."
 msgstr ""
 
-#: ../../marketing.rst:93
+#: ../../marketing.rst:92
 msgid ""
 "This design can be translated into your language at `Crowdin here "
 "<https://crowdin.com/project/smartcash-website/>`__. For more information"
@@ -112,15 +112,15 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:107
+#: ../../marketing.rst:106
 msgid "Infographics"
 msgstr ""
 
-#: ../../marketing.rst:110
+#: ../../marketing.rst:109
 msgid "The SmartCash Difference"
 msgstr ""
 
-#: ../../marketing.rst:112
+#: ../../marketing.rst:111
 msgid ""
 "This engaging infographic details the improvements the SmartCash network "
 "has delivered by building on the Bitcoin code base. This design can be "
@@ -131,11 +131,30 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:127
+#: ../../marketing.rst:120 ../../marketing.rst:137 ../../marketing.rst:156
+msgid "Language"
+msgstr ""
+
+#: ../../marketing.rst:120 ../../marketing.rst:137 ../../marketing.rst:156
+#: ../../marketing.rst:171 ../../marketing.rst:183
+msgid "Download"
+msgstr ""
+
+#: ../../marketing.rst:122 ../../marketing.rst:139 ../../marketing.rst:158
+msgid "English"
+msgstr ""
+
+#: ../../marketing.rst:122
+msgid ""
+"`PPTX "
+"<https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__"
+msgstr ""
+
+#: ../../marketing.rst:126
 msgid "Ten Misconceptions About SmartCash"
 msgstr ""
 
-#: ../../marketing.rst:129
+#: ../../marketing.rst:128
 msgid ""
 "This infographic refutes many common yet uninformed arguments made "
 "against SmartCash. This design can be translated into your language at "
@@ -146,41 +165,67 @@ msgid ""
 "translation."
 msgstr ""
 
-#: ../../marketing.rst:145
+#: ../../marketing.rst:139 ../../marketing.rst:158
+msgid ""
+"`PPTX <https://www.dropbox.com/s/e2kkoa3xzzdlpq8/SmartCash%20BR-"
+"ALT%201.3.pptx?dl=0#>`__"
+msgstr ""
+
+#: ../../marketing.rst:144
 msgid "Presentations"
 msgstr ""
 
-#: ../../marketing.rst:148
+#: ../../marketing.rst:147
 msgid "SmartCash Meetup"
 msgstr ""
 
-#: ../../marketing.rst:153
+#: ../../marketing.rst:152
 msgid ""
 "An attractive presentation about SmartCash, designed to guide the "
 "audience through the basics of cryptocurrency and advantages of "
 "SmartCash."
 msgstr ""
 
-#: ../../marketing.rst:164
+#: ../../marketing.rst:163
 msgid "Business Templates"
 msgstr ""
 
-#: ../../marketing.rst:167
+#: ../../marketing.rst:166
 msgid "Document templates"
 msgstr ""
 
-#: ../../marketing.rst:169
+#: ../../marketing.rst:168
 msgid "Official SmartCash document templates."
 msgstr ""
 
-#: ../../marketing.rst:178
+#: ../../marketing.rst:171 ../../marketing.rst:183 ../../marketing.rst:204
+msgid "Name"
+msgstr ""
+
+#: ../../marketing.rst:173
+msgid "Word document with cover page and paragraph styles"
+msgstr ""
+
+#: ../../marketing.rst:173
+msgid ""
+"`DOCX "
+"<https://drive.google.com/open?id=1mKP1C_yaRPC_H5UrMNkUTWv7mD9W4av0>`__"
+msgstr ""
+
+#: ../../marketing.rst:177
 msgid "Presentation templates"
 msgstr ""
 
-#: ../../marketing.rst:180
+#: ../../marketing.rst:179
 msgid ""
 "Official SmartCash presentation templates. We strongly recommend using "
 "predefined presentation slide layouts."
+msgstr ""
+
+#: ../../marketing.rst:185
+msgid ""
+"PowerPoint template      | `PPTX "
+"<https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__"
 msgstr ""
 
 #: ../../marketing.rst:189
@@ -193,7 +238,17 @@ msgid ""
 " cards, or to hand out to explain and promote SmartCash."
 msgstr ""
 
-#: ../../marketing.rst:200
+#: ../../marketing.rst:201
 msgid "Fonts"
+msgstr ""
+
+#: ../../marketing.rst:204
+msgid "Download version"
+msgstr ""
+
+#: ../../marketing.rst:206
+msgid ""
+"Sans Pro / PT Sans| ` "
+"<https://fonts.google.com/specimen/Source+Sans+Pro>`_"
 msgstr ""
 

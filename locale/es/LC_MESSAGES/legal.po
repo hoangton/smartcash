@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 12:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -203,12 +203,12 @@ msgid ""
 " will enter into lines of business with new risks. This risk-based "
 "approach requires, at the outset, an independent risk assessment. By and "
 "large, the risks faced by exchanges who begin to support SmartCash will "
-"be similar to the risks associated with other virtual currencies. - "
-"Exchanges should consider revising their risk assessments and AML"
+"be similar to the risks associated with other virtual currencies."
 msgstr ""
 
 #: ../../legal.rst:143
 msgid ""
+"Exchanges should consider revising their risk assessments and AML "
 "policies to account for the unique characteristics of SmartCash. For "
 "example, including blockchain addresses in Suspicious Activity Reports "
 "(SARs) will be less descriptive and effective for investigations based on"
@@ -216,15 +216,15 @@ msgid ""
 "explanation in SARs."
 msgstr ""
 
-#: ../../legal.rst:150
+#: ../../legal.rst:151
 msgid "ATM & Fiat Compliance"
 msgstr ""
 
-#: ../../legal.rst:153
+#: ../../legal.rst:154
 msgid "Introduction"
 msgstr ""
 
-#: ../../legal.rst:155
+#: ../../legal.rst:156
 msgid ""
 "An aspect that required legal research is what are the compliance "
 "requirements to facilitate SmartCash-fiat exchange. This can be in the "
@@ -232,7 +232,7 @@ msgid ""
 "SmartCash to fiat exchange services."
 msgstr ""
 
-#: ../../legal.rst:160
+#: ../../legal.rst:161
 msgid ""
 "For this purpose we hired **Cogent Law**, who have a lot of experience "
 "working in compliance for digital money services. They have put together "
@@ -240,74 +240,74 @@ msgid ""
 "SmartCash service if they require it. This includes:"
 msgstr ""
 
-#: ../../legal.rst:165
+#: ../../legal.rst:166
 msgid ""
 "A finCEN BSA compliant written Principal MSB/KYC AML Program designed to "
 "prevent the Principal MSB from being used to facilitate money laundering "
 "and the financing of terrorist activities"
 msgstr ""
 
-#: ../../legal.rst:168
+#: ../../legal.rst:169
 msgid ""
 "A comprehensive risk based assessment by a third party compliance "
 "consultant expert"
 msgstr ""
 
-#: ../../legal.rst:171
+#: ../../legal.rst:172
 msgid ""
 "Our lawyer for this project is **Adella Toulon-Foerster** who has "
 "extensive experience in this field including:"
 msgstr ""
 
-#: ../../legal.rst:174
+#: ../../legal.rst:175
 msgid ""
 "Banking Secrecy Act (BSA), Anti-Money Laundering (AML), and Know Your "
 "Customer (KYC) regulations"
 msgstr ""
 
-#: ../../legal.rst:176
+#: ../../legal.rst:177
 msgid "FinCEN requirements and guidance"
 msgstr ""
 
-#: ../../legal.rst:177
+#: ../../legal.rst:178
 msgid "Written and on-going AML compliance programs"
 msgstr ""
 
-#: ../../legal.rst:178
+#: ../../legal.rst:179
 msgid "State-by-state money transmitter laws and licensure requirements"
 msgstr ""
 
-#: ../../legal.rst:180
+#: ../../legal.rst:181
 msgid ""
 "We now have full documentation of the program from Cogent Law, the "
 "package includes:"
 msgstr ""
 
-#: ../../legal.rst:183
+#: ../../legal.rst:184
 msgid "BSA AML Compliance training"
 msgstr ""
 
-#: ../../legal.rst:184
+#: ../../legal.rst:185
 msgid "KYC CDD Policy"
 msgstr ""
 
-#: ../../legal.rst:185
+#: ../../legal.rst:186
 msgid "AML Program"
 msgstr ""
 
-#: ../../legal.rst:186
+#: ../../legal.rst:187
 msgid "Risk Assessment"
 msgstr ""
 
-#: ../../legal.rst:187
+#: ../../legal.rst:188
 msgid "Surveillance and Monitoring Policy"
 msgstr ""
 
-#: ../../legal.rst:188
+#: ../../legal.rst:189
 msgid "Different Reports to file in different situations"
 msgstr ""
 
-#: ../../legal.rst:190
+#: ../../legal.rst:191
 #, python-format
 msgid ""
 "The documents have a format as if they were created for the fictional "
@@ -320,7 +320,7 @@ msgid ""
 "topic for most crypto enthusiasts."
 msgstr ""
 
-#: ../../legal.rst:199
+#: ../../legal.rst:200
 msgid ""
 "This program is directed at SmartCash investors that are interested in "
 "running a compliant service in regulated markets. If some users prefer to"
@@ -328,11 +328,11 @@ msgid ""
 "completely respect that too."
 msgstr ""
 
-#: ../../legal.rst:205
+#: ../../legal.rst:206
 msgid "SmartCash ATM Compliance Program"
 msgstr ""
 
-#: ../../legal.rst:207
+#: ../../legal.rst:208
 msgid ""
 "Please first read the `Quick Guide To Operating a Virtual Currency Kiosk "
 "<https://github.com/SmartCashpay/docs/blob/master/binary "
@@ -341,57 +341,57 @@ msgid ""
 "MSB. It is crucial you start here."
 msgstr ""
 
-#: ../../legal.rst:213
+#: ../../legal.rst:214
 msgid "Listen to the Audio Guides on BSA AML and read the BSA AML Training Manual"
 msgstr ""
 
-#: ../../legal.rst:216
+#: ../../legal.rst:217
 msgid ""
 "`BSA AML Compliance Training manual "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_"
 msgstr ""
 
-#: ../../legal.rst:217
+#: ../../legal.rst:218
 msgid "`AML 101 <https://soundcloud.com/SmartCashpay/aml-101-SmartCash>`_"
 msgstr ""
 
-#: ../../legal.rst:218
+#: ../../legal.rst:219
 msgid ""
 "`AML In Depth <https://soundcloud.com/SmartCashpay/aml-indepth-"
 "SmartCash>`_"
 msgstr ""
 
-#: ../../legal.rst:220
+#: ../../legal.rst:221
 msgid ""
 "Get familiar with the documentation you will need by looking at the "
 "following templates"
 msgstr ""
 
-#: ../../legal.rst:223
+#: ../../legal.rst:224
 msgid ""
 "`Surveillance and Monitoring "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:224
+#: ../../legal.rst:225
 msgid ""
 "`KYC CDD Policy "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:225
+#: ../../legal.rst:226
 msgid ""
 "`AML Program "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:226
+#: ../../legal.rst:227
 msgid ""
 "`Risk Assessment "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:228
+#: ../../legal.rst:229
 msgid ""
 "Get familiar with some of the reports you may need to file as part of "
 "operations. In the Quick Guide in Step 1, we go through registration on "
@@ -401,23 +401,55 @@ msgid ""
 "file them as part of operations. Sample reports:"
 msgstr ""
 
-#: ../../legal.rst:235
+#: ../../legal.rst:236
 msgid ""
 "`Currency Transaction Report "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
 msgstr ""
 
-#: ../../legal.rst:236
+#: ../../legal.rst:237
 msgid ""
 "`Suspicious Activity Report "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
 msgstr ""
 
-#: ../../legal.rst:238
+#: ../../legal.rst:239
 msgid ""
 "If you would now like to move forward with your project, we recommend "
 "getting in contact with `Cogent Law <http://www.cogentlaw.co>`_, our "
 "recommended legal counsel. Preferential rates are available for SmartCash"
 " users. Please email: atoulon@cogentlaw.co"
 msgstr ""
+
+#~ msgid ""
+#~ "The Bank Secrecy Act (BSA) is the"
+#~ " law that primarily governs exchanges "
+#~ "in the United States. The BSA does"
+#~ " not contain any prohibition on "
+#~ "supporting SmartCash transactions. Indeed, the"
+#~ " BSA take a flexible, risk- based "
+#~ "approach to regulation and contemplate "
+#~ "that financial institutions will enter "
+#~ "into lines of business with new "
+#~ "risks. This risk-based approach "
+#~ "requires, at the outset, an independent"
+#~ " risk assessment. By and large, the"
+#~ " risks faced by exchanges who begin"
+#~ " to support SmartCash will be similar"
+#~ " to the risks associated with other"
+#~ " virtual currencies. - Exchanges should "
+#~ "consider revising their risk assessments "
+#~ "and AML"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "policies to account for the unique "
+#~ "characteristics of SmartCash. For example, "
+#~ "including blockchain addresses in Suspicious"
+#~ " Activity Reports (SARs) will be less"
+#~ " descriptive and effective for "
+#~ "investigations based on such addresses. "
+#~ "Exchanges might consider adding additional "
+#~ "context and explanation in SARs."
+#~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 23:54+0700\n"
+"POT-Creation-Date: 2019-01-17 12:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,6 +159,58 @@ msgid ""
 "SmartCash folder. Then close SmartCash NodeClient and copy the "
 "*wallet.dat* file you want to restore to the SmartCash folder in the "
 "location specified below, replacing or renaming the existing file."
+msgstr ""
+
+#: ../../wallets/recovery.rst:90
+msgid "Platform"
+msgstr ""
+
+#: ../../wallets/recovery.rst:90
+msgid "Path to data folder"
+msgstr ""
+
+#: ../../wallets/recovery.rst:90
+msgid "How to navigate"
+msgstr ""
+
+#: ../../wallets/recovery.rst:92
+msgid "Linux"
+msgstr ""
+
+#: ../../wallets/recovery.rst:92
+msgid "~/"
+msgstr ""
+
+#: ../../wallets/recovery.rst:92
+msgid ""
+"Go to your home folder and press **Ctrl+H** to show hidden files, then "
+"open ``.smartcash``"
+msgstr ""
+
+#: ../../wallets/recovery.rst:94
+msgid "macOS"
+msgstr ""
+
+#: ../../wallets/recovery.rst:94
+msgid "~/Library/Application Support/"
+msgstr ""
+
+#: ../../wallets/recovery.rst:94
+msgid ""
+"Press **Shift + Control + G**, type ``~/Library/Application Support``, "
+"then open ``SmartCash``"
+msgstr ""
+
+#: ../../wallets/recovery.rst:96
+msgid "Windows"
+msgstr ""
+
+#: ../../wallets/recovery.rst:96
+msgid "%APPDATA%"
+msgstr ""
+
+#: ../../wallets/recovery.rst:96
+msgid "Press **Windows Key + R** and type ``%APPDATA%``, then open ``SmartCash``"
 msgstr ""
 
 #: ../../wallets/recovery.rst:100

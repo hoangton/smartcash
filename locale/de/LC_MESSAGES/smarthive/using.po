@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 11:42+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -229,8 +229,8 @@ msgstr ""
 
 #: ../../smarthive/using.rst:94
 msgid ""
-"You can voting on proposals from Web wallet, Node Client Wallet, Electrum"
-" Wallet and any kind of wallet that support sign message."
+"You can voting on proposals from Web wallet, NodeClient Wallet, Electrum "
+"Wallet and any kind of wallet that support sign message."
 msgstr ""
 
 #: ../../smarthive/using.rst:96
@@ -238,4 +238,11 @@ msgid ""
 "For information on how to create a proposal, see :ref:`here <creating-"
 "proposals>`."
 msgstr ""
+
+#~ msgid ""
+#~ "You can voting on proposals from "
+#~ "Web wallet, Node Client Wallet, Electrum"
+#~ " Wallet and any kind of wallet "
+#~ "that support sign message."
+#~ msgstr ""
 

@@ -116,6 +116,28 @@ Smartvote
 =========
 
 All Smartcash users deserve a voice, from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive, the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.
+The one feature that sets SmartCash apart is the SmartHive
+governance model and how the community can vote to fund the best
+projects with block rewards stored in the SmartHive Project Treasury
+and administered by the SmartHive.
+The idea is that the SmartHive Governance Portal engages community
+members and other 3rd parties interested in growing SmartCash into a
+global currency. Everyone can create a proposal that helps SmartCash
+in some way with a fee of 100 SMART. Then every SmartCash holder
+also can participate in the voting process and help decide if its worth
+getting funded or not by the SmartHive Project Treasury.
+All users have the ability to vote; 1 SMART equals 1 vote. Proposals are
+open to vote for 14 days, with one day extensions if the vote outcome
+changes at the end of that period and payments will be made in
+accordance with the delivered milestones. Proposals open to vote can
+be found at: vote.smartcash.cc
+A major difference compared to other cryptocurrencies is that we
+believe core teams can ultimately lead to inefficiency and centralization.
+In order to create and maintain a decentralized governance structure
+SmartCash has Hive Structuring Teams. These teams are in charge of
+vital project areas, such as development, outreach and support and
+consist of people directly involved in the project. Every Hive Team runs
+independently, but cooperatively resulting in organic growth.
 
 Basically, each SmartCash coin is worth 1 vote, to keep it simple.
 .. _smartcard:
@@ -165,32 +187,13 @@ Band, this pioneering cooperation allows SmartCash to be accepted
 broadly by merchants with no additional steps, technology, or training
 required.
 
-.. _smartvote:
+.. _hivestructuringteams:
 
-SmartHive Governance and Hive Teams
-===================================
-The one feature that sets SmartCash apart is the SmartHive
-governance model and how the community can vote to fund the best
-projects with block rewards stored in the SmartHive Project Treasury
-and administered by the SmartHive.
-The idea is that the SmartHive Governance Portal engages community
-members and other 3rd parties interested in growing SmartCash into a
-global currency. Everyone can create a proposal that helps SmartCash
-in some way with a fee of 100 SMART. Then every SmartCash holder
-also can participate in the voting process and help decide if its worth
-getting funded or not by the SmartHive Project Treasury.
-All users have the ability to vote; 1 SMART equals 1 vote. Proposals are
-open to vote for 14 days, with one day extensions if the vote outcome
-changes at the end of that period and payments will be made in
-accordance with the delivered milestones. Proposals open to vote can
-be found at: vote.smartcash.cc
-A major difference compared to other cryptocurrencies is that we
-believe core teams can ultimately lead to inefficiency and centralization.
-In order to create and maintain a decentralized governance structure
-SmartCash has Hive Structuring Teams. These teams are in charge of
-vital project areas, such as development, outreach and support and
-consist of people directly involved in the project. Every Hive Team runs
-independently, but cooperatively resulting in organic growth.
+Hive Structuring Teams
+======================
+The Hive Structuring Teams (HST) will lay the groundwork for the project and set the framework for the project’s evolution. Initially, the Hive Structuring Teams will operate three separate departments in charge of vital project areas, such as development, outreach and support. Each of these three departments will end up employing people. As teams grow larger, bigger than eight members, more teams will be created, each with its own budget and team coordinator, operating autonomously without a central command and control structure in place.
+
+The Hive Structuring Teams will consist of people directly involved in the project on a day to day basis, while the overall SmartHive will aim to enrol and engage community members and other 3rd parties interested in growing SmartCash into a global worldwide currency..
 
 .. _keccak-hash-algorithm:
 

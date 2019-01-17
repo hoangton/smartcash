@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 23:54+0700\n"
+"POT-Creation-Date: 2019-01-17 12:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: ../../smartnodes/maintenance.rst:21
 msgid ""
-"The SmartCash Node Client software requires regular updates in order to "
+"The SmartCash NodeClient software requires regular updates in order to "
 "remain consistent with the current network consensus. Depending on "
 "whether you installed SmartCash manually or using ppa, you must follow "
 "the procedure appropriate for your smartnode, as described below."
@@ -66,7 +66,7 @@ msgstr ""
 msgid "Check the status of your smartnode::"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:41 ../../smartnodes/maintenance.rst:82
+#: ../../smartnodes/maintenance.rst:41 ../../smartnodes/maintenance.rst:83
 msgid "The SmartCash software on the smartnode is now updated."
 msgstr ""
 
@@ -105,22 +105,22 @@ msgstr ""
 msgid "sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:71
+#: ../../smartnodes/maintenance.rst:72
 msgid "Extract the compressed archive and run wallet from this directory::"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:77
+#: ../../smartnodes/maintenance.rst:78
 msgid ""
 "You will see a message reading \"SmartCash Wallet starting\". Finally, "
 "uncomment the line to automatically restart SmartCash in your crontab by "
 "invoking ``crontab -e`` again and deleting the ``#`` character."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:85
+#: ../../smartnodes/maintenance.rst:86
 msgid "Monitoring"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:86
+#: ../../smartnodes/maintenance.rst:87
 msgid ""
 "Goto http://discord.smartcash.cc use @SmartNodeMonitor#5083 > You can use"
 " this bot to monitor your SmartNodes and subscribe event notifications. "
@@ -129,21 +129,21 @@ msgid ""
 "occured event!"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:90
+#: ../../smartnodes/maintenance.rst:91
 msgid "> Common commands"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:92
+#: ../../smartnodes/maintenance.rst:93
 msgid ""
 "> help - Print this help > info - Print the current status of the "
 "SmartNode network > faq - Print the frequently asked question"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:96
+#: ../../smartnodes/maintenance.rst:97
 msgid "> User commands"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:98
+#: ../../smartnodes/maintenance.rst:99
 msgid ""
 "> status :enabled - Set :enabled to 0 to disable or to 1 to receive a "
 "notification when one of your node's status changed. > reward :enabled - "
@@ -152,15 +152,15 @@ msgid ""
 " 0 to disable or to 1 to enable network notifications"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:102
+#: ../../smartnodes/maintenance.rst:103
 msgid "> me - List your user info and notification states"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:105
+#: ../../smartnodes/maintenance.rst:106
 msgid "> Node configuration"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:107
+#: ../../smartnodes/maintenance.rst:108
 msgid ""
 "> add ip0;name0 ip1;name1 ... ipN;nameN - Add one or multiple nodes. Use "
 "a list of ip;name pairs as arguments. >   Example: add "
@@ -169,11 +169,11 @@ msgid ""
 "nodes with its IP-Address"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:112
+#: ../../smartnodes/maintenance.rst:113
 msgid "> Node review"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:114
+#: ../../smartnodes/maintenance.rst:115
 #, python-format
 msgid ""
 "> lookup ip0 .. ipN - Check the payout requirements of one or multiple "
@@ -186,21 +186,21 @@ msgid ""
 " information about past payouts of your SmartNodes"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:122
+#: ../../smartnodes/maintenance.rst:123
 msgid "smartnode monitoring tools"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:124
+#: ../../smartnodes/maintenance.rst:125
 msgid ""
 "Several sites operated by community members are available to monitor key "
 "information and statistics relating to the smartnode network."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:128
+#: ../../smartnodes/maintenance.rst:129
 msgid "Block Explorers"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:130
+#: ../../smartnodes/maintenance.rst:131
 msgid ""
 "Since SmartCash is a public blockchain, it is possible to use block "
 "explorers to view the balances of any SmartCash public address, as well "
@@ -209,7 +209,7 @@ msgid ""
 "are available for the SmartCash network."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:136
+#: ../../smartnodes/maintenance.rst:137
 msgid ""
 "`Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain "
 "explorer <https://smart.ccore.online/>`__ and a `function "
@@ -217,27 +217,27 @@ msgid ""
 "smartnodes."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:140
+#: ../../smartnodes/maintenance.rst:141
 msgid ""
 "`CoinCheckup <https://coincheckup.com/coins/SmartCash/charts>`__ offers a"
 " range of statistics and data on most blockchains, including SmartCash."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:142
+#: ../../smartnodes/maintenance.rst:143
 msgid ""
 "`explorer.smartcash.cc <http://eexplorer.smartcash.cc/>`__ and "
 "`insight.smartcash.cc <http://insight.smartcash.cc/>`__."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:146
+#: ../../smartnodes/maintenance.rst:147
 msgid "SmartCash smartstats smartnode"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:148
+#: ../../smartnodes/maintenance.rst:149
 msgid "https://smartstats.cc/smartnodes"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:150
+#: ../../smartnodes/maintenance.rst:151
 msgid ""
 "This site, offers a visual representation of many key statistics of the "
 "SmartCash smartnode network, including graphs of the total smartnode "
@@ -245,5 +245,16 @@ msgid ""
 msgstr ""
 
 #~ msgid "Option 1: Updating from SmartCash"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The SmartCash Node Client software "
+#~ "requires regular updates in order to "
+#~ "remain consistent with the current "
+#~ "network consensus. Depending on whether "
+#~ "you installed SmartCash manually or "
+#~ "using ppa, you must follow the "
+#~ "procedure appropriate for your smartnode, "
+#~ "as described below."
 #~ msgstr ""
 

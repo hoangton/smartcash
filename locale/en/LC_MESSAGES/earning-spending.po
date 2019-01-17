@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 11:42+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,32 +40,38 @@ msgstr ""
 msgid "Earning"
 msgstr ""
 
-#: ../../earning-spending.rst:20
+#: ../../earning-spending.rst:17
+msgid ""
+"Receive payment from your employer in SmartCash directly. You can then "
+"withdraw your wage to any SmartCash wallet for spending or saving."
+msgstr ""
+
+#: ../../earning-spending.rst:21
 msgid "Spending"
 msgstr ""
 
-#: ../../earning-spending.rst:23
+#: ../../earning-spending.rst:24
 msgid "Merchant Directory"
 msgstr ""
 
-#: ../../earning-spending.rst:25
+#: ../../earning-spending.rst:26
 msgid ""
 "SmartCash can be spent in hundreds of stores and services both online and"
 " in physical locations."
 msgstr ""
 
-#: ../../earning-spending.rst:32
+#: ../../earning-spending.rst:33
 msgid ""
 "**Find SmartCash** lists businesses around the world accepting SmartCash,"
 " sorted by category. It's easy to add your business to the list, and also"
 " features a short introduction for new SmartCash users."
 msgstr ""
 
-#: ../../earning-spending.rst:37
+#: ../../earning-spending.rst:38
 msgid "Debit Cards"
 msgstr ""
 
-#: ../../earning-spending.rst:39
+#: ../../earning-spending.rst:40
 msgid ""
 "Debit cards work by prepaying in SmartCash to load the account, then "
 "withdrawing cash from an ATM or spending online or anywhere debit/credit "
@@ -77,44 +83,44 @@ msgid ""
 "updates on the availability of SmartCash debit cards."
 msgstr ""
 
-#: ../../earning-spending.rst:49
+#: ../../earning-spending.rst:50
 msgid ""
 "Disclaimer: This list is provided for informational purposes only. "
 "SmartCash Team is not liable for any funds transmitted in error to these "
 "providers, or for the accuracy of information on this page."
 msgstr ""
 
-#: ../../earning-spending.rst:58
+#: ../../earning-spending.rst:59
 msgid "pungo.krd"
 msgstr ""
 
-#: ../../earning-spending.rst:60
+#: ../../earning-spending.rst:61
 msgid "https://pungo.krd/home/"
 msgstr ""
 
-#: ../../earning-spending.rst:62
+#: ../../earning-spending.rst:63
 msgid ""
 "A prepaid debit card that can be acquired in many places without an ID "
 "and with no bank account linked. It can be used by anyone residing "
 "legally in the EU once the owner gets verified."
 msgstr ""
 
-#: ../../earning-spending.rst:66
+#: ../../earning-spending.rst:67
 msgid "Tax"
 msgstr ""
 
-#: ../../earning-spending.rst:68
+#: ../../earning-spending.rst:69
 msgid ""
 "Taxation law is different depending on where you qualify as a resident "
 "for tax purposes. The following services are available to help you "
 "calculate your tax obligations."
 msgstr ""
 
-#: ../../earning-spending.rst:72
+#: ../../earning-spending.rst:73
 msgid "https://cointracking.info"
 msgstr ""
 
-#: ../../earning-spending.rst:73
+#: ../../earning-spending.rst:74
 msgid "https://bitcoin.tax"
 msgstr ""
 

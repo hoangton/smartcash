@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 12:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -115,20 +115,20 @@ msgstr ""
 msgid "Marketplace comparison websites"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:83 ../../introduction/how-to-buy.rst:129
-msgid "Exmo"
+#: ../../introduction/how-to-buy.rst:83
+msgid "Coingecko"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:81
-msgid "https://exmo.com/en/trade#?pair=SMART_USD"
+msgid "https://www.coingecko.com/en/coins/smartcash/trading_exchanges#panel"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:83
 msgid ""
-"EXMO was founded in 2013, and has offices in London, Kiev, Barcelona and "
-"Moscow. According to EXMO’s website, the cryptocurrency exchange has 1.5 "
-"million users. At press time, EXMO is the 47th largest crypto exchange by"
-" 24 hour trade volume on CoinMarketCap at over $26 million."
+"CoinGecko provides a fundamental analysis of the crypto market. In "
+"addition to tracking price, volume and market capitalization, CoinGecko "
+"tracks community growth, open-source code development, major events and "
+"on-chain metrics."
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:89
@@ -170,6 +170,10 @@ msgid ""
 "HitBTC offers facilities to major investors to credit USD, EUR and GBP, "
 "as well as BTC, ETH and USDT trading pairs against SMART for normal "
 "users."
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:129
+msgid "Exmo"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:125
@@ -254,35 +258,35 @@ msgstr ""
 msgid "https://www.coinexchange.io/market/SMART/BTC"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:194
-msgid "stex"
+#: ../../introduction/how-to-buy.rst:195
+msgid "Stex"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:196
+#: ../../introduction/how-to-buy.rst:197
 msgid "https://app.stex.com/en/basic-trade/pair/BTC/SMART/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:201
-msgid "ebitcoinics"
+#: ../../introduction/how-to-buy.rst:203 ../../introduction/how-to-buy.rst:264
+msgid "eBitcoinics"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:203
+#: ../../introduction/how-to-buy.rst:205
 msgid "https://www.ebitcoinics.com/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:208
+#: ../../introduction/how-to-buy.rst:210
 msgid "Instant exchanges"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:221 ../../introduction/how-to-buy.rst:288
+#: ../../introduction/how-to-buy.rst:223 ../../introduction/how-to-buy.rst:300
 msgid "Changelly"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:216 ../../introduction/how-to-buy.rst:283
+#: ../../introduction/how-to-buy.rst:218 ../../introduction/how-to-buy.rst:295
 msgid "https://changelly.com"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:218
+#: ../../introduction/how-to-buy.rst:220
 msgid ""
 "Changelly is a broker service offering a range of cryptocurrency, "
 "including SmartCash, for instant exchange against other cryptocurrencies "
@@ -290,86 +294,94 @@ msgid ""
 " before purchasing."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:233
+#: ../../introduction/how-to-buy.rst:235
 msgid "CoinSwitch"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:229
+#: ../../introduction/how-to-buy.rst:231
 msgid "https://coinswitch.co"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:231
+#: ../../introduction/how-to-buy.rst:233
 msgid ""
 "CoinSwitch is a crypto to crypto exchange aggregate with more than 300 "
 "different coins and tokens listed. Also offers purchases through "
 "credit/debit cards."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:245
+#: ../../introduction/how-to-buy.rst:247
 msgid "changeNOW"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:241
+#: ../../introduction/how-to-buy.rst:243
 msgid "https://changenow.io"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:243
+#: ../../introduction/how-to-buy.rst:245
 msgid ""
 "changeNOW is a non-custodian exchange service based in the Netherlands, "
 "with low commissions and quick service. Offers crypto to crypto "
 "exchanges, as well as purchases through credit/debit cards."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:250
+#: ../../introduction/how-to-buy.rst:252
 msgid "Over the Counter"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:262
-msgid "eBitcoinics"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:258
+#: ../../introduction/how-to-buy.rst:260
 msgid "http://www.ebitcoinics.com"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:260
+#: ../../introduction/how-to-buy.rst:262
 msgid ""
 "eBitcoinics is a cryptocurrency exchange and education platform for the "
 "African market. SmartCash is available for exchange against Nigerian "
 "Naira (NGN) and Ghanaian Cedi (GHS)."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:275
-msgid "BitPrime"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:270
-msgid "https://www.bitprime.co.nz"
+#: ../../introduction/how-to-buy.rst:274
+msgid "Bitcoin-Avenue"
 msgstr ""
 
 #: ../../introduction/how-to-buy.rst:272
+msgid "http://bitcoin-avenue.com/"
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:274
+msgid "The French Bitcoin Avenue, a brick and mortar cryptocurrency shop."
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:287
+msgid "BitPrime"
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:282
+msgid "https://www.bitprime.co.nz"
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:284
 msgid ""
 "BitPrime operates a secure and compliant platform for easy retail trading"
 " in New Zealand. SmartCash is available OTC for both purchase and sale "
 "together with many other cryptocurrencies."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:285
+#: ../../introduction/how-to-buy.rst:297
 msgid ""
 "Changelly is a popular instantaneous crypto to crypto exchange platform "
 "with more than 100 different coins and tokens listed. Also offers "
 "purchases via credit/debit cards."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:301
+#: ../../introduction/how-to-buy.rst:313
 msgid "Stratum CoinBR"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:296
+#: ../../introduction/how-to-buy.rst:308
 msgid "https://coinbr.io"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:298
+#: ../../introduction/how-to-buy.rst:310
 msgid ""
 "CoinBR is a Brazil-based cryptocurrency company offering a variety of "
 "services including an exchange, mining, bill payment, point-of-sale, and "
@@ -377,11 +389,11 @@ msgid ""
 " Brazil."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:306
+#: ../../introduction/how-to-buy.rst:318
 msgid "ATMs"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:308
+#: ../../introduction/how-to-buy.rst:320
 msgid ""
 "ATMs are a popular method of buying cryptocurrency at businesses to "
 "encourage adoption and spending in these currencies. A number of ATMs "
@@ -391,17 +403,37 @@ msgid ""
 "listed on this page."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:323
+#: ../../introduction/how-to-buy.rst:335
 msgid "General Bytes"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:321
+#: ../../introduction/how-to-buy.rst:333
 msgid "https://www.generalbytes.com"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:323
+#: ../../introduction/how-to-buy.rst:335
 msgid ""
 "General Bytes offers a range of two-way cash ATM and Point of Sale "
 "solutions integrating SmartCash."
 msgstr ""
+
+#~ msgid "https://exmo.com/en/trade#?pair=SMART_USD"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "EXMO was founded in 2013, and has"
+#~ " offices in London, Kiev, Barcelona "
+#~ "and Moscow. According to EXMO’s website,"
+#~ " the cryptocurrency exchange has 1.5 "
+#~ "million users. At press time, EXMO "
+#~ "is the 47th largest crypto exchange "
+#~ "by 24 hour trade volume on "
+#~ "CoinMarketCap at over $26 million."
+#~ msgstr ""
+
+#~ msgid "stex"
+#~ msgstr ""
+
+#~ msgid "ebitcoinics"
+#~ msgstr ""
 
