@@ -260,6 +260,16 @@ eBitcoinics
   eBitcoinics is a cryptocurrency exchange and education platform for
   the African market. SmartCash is available for exchange against Nigerian
   Naira (NGN) and Ghanaian Cedi (GHS).
+  
+Bitcoin-Avenue
+  .. image:: exchanges/bitcoin-avenue.png
+     :width: 200px
+     :align: right
+     :target: http://bitcoin-avenue.com/
+
+  http://bitcoin-avenue.com/
+
+  The French Bitcoin Avenue, a brick and mortar cryptocurrency shop.
 
 BitPrime
   .. image:: exchanges/bitprime.png
