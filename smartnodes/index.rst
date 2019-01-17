@@ -5,7 +5,7 @@
 .. _smartnodes:
 
 ===========
-Smartnodes
+SmartNodes
 ===========
 
 SmartNodes are servers that run a SmartCash wallet and make decisions, such as locking transactions with InstantPay

@@ -37,7 +37,7 @@ and electricity. The following links provide up to date information:
 - `Mining difficulty <https://smartstats.cc/mining>`_
 - `Profitability calculation tool <https://whattomine.com/coins/197-smart-keccak>`_
 
-smartnodes vs. Mining
+SmartNodes vs. Mining
 ======================
 
 smartcash, like Bitcoin and most other cryptocurrencies, is based on a
@@ -113,7 +113,7 @@ address to receive your payout. To do this in smartcash NodeClient wallet, see
 
 
 CPU Mining
-==========
+----------
 
 Please note that the prevalence of GPU and ASIC miners mean that unless you have free electricity, this is highly unlikely to be profitable! 
 

@@ -5,7 +5,7 @@
 .. _smartreward:
 
 ===========
-Smartreward
+SmartReward
 ===========
 
 .. image:: img/smartreward.jpg
