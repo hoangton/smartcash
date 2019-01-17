@@ -166,8 +166,29 @@ For further information about how the system works and how both
 merchants and customers will benefit from using the SmartCard and
 SmartCash POS App please visit: smartcash.cc/smartcard/
 
+Advantages
+----------
+
+* No 3rd Party. Instant SmartCash payments to merchants anywhere in the world with 0% fees.
+* Pay only with your SmartCard QR. You don’t need to carry your phone or have internet connection.
+* Have all the SmartCards you need under your account and they don’t expire.
+* Print anywhere you love the most. Tattoos included.
+* Purchase online or offline from your favorite SmartMerchants.
+* Convenience that all family understands.
+* Open Source code with world wide contributors.
+
+Security
+--------
+
+* Protections such as card on/off toggle, country whitelisting, daily spend limit and PIN reset.
+* Zero knowledge of SmartCard private keys.
+* Never exposes private keys to the internet.
+* Private keys are generated and encrypted in the browser and printed by you.
+* Payment authorisation and signing is done in the browser and SmartPay merchant application.
+* A decentralised payment system that gives you full control of your funds.
+
 SmartBand
----------
+=========
 
 The SmartBand is a partnership between Stratum, ATAR, and
 SmartCash. ATAR launched a wristband which is linked to an account
