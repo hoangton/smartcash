@@ -6,6 +6,8 @@
 SmartCash Documentation
 =======================
 
+Under review
+
 .. image:: img/SmartCash-Logo-S.png
    :width: 60 %
    :align: center
