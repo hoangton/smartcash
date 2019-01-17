@@ -180,7 +180,7 @@ Presentation templates
 Official SmartCash presentation templates. We strongly recommend using
 predefined presentation slide layouts.
 
-+------------------------------------------------------------+------------------------------------------------+
++--------------------------+----------------------------------------------------------------------------------+
 | Name                     |                                   Download                                       |
 +==========================+==================================================================================+
 | PowerPoint template      | `PPTX <https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__  |
