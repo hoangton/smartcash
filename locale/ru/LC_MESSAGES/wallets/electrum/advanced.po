@@ -1,26 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-16 23:54+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-16 11:29+0000\n"
+"Language-Team: Russian (https://www.transifex.com/smartcash/teams/95224/ru/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #: ../../wallets/electrum/advanced.rst:1
 msgid ""
-"Smartnodes, multisig, sweeping paper wallets, command line in the "
-"SmartCash Electrum wallet."
+"Smartnodes, multisig, sweeping paper wallets, command line in the SmartCash "
+"Electrum wallet."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:1
@@ -33,12 +33,12 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:11
 msgid ""
-"SmartCash Electrum is based on `Electrum <https://electrum.org>`_, a "
-"Bitcoin wallet. Most functions are identical, which means it is not "
-"necessary to reproduce the entirety of the Electrum documentation here. "
-"The following sections describe some frequently used advanced functions. "
-"For further details on other advanced functions in Electrum for both "
-"Bitcoin and SmartCash, please click the links below."
+"SmartCash Electrum is based on `Electrum <https://electrum.org>`_, a Bitcoin"
+" wallet. Most functions are identical, which means it is not necessary to "
+"reproduce the entirety of the Electrum documentation here. The following "
+"sections describe some frequently used advanced functions. For further "
+"details on other advanced functions in Electrum for both Bitcoin and "
+"SmartCash, please click the links below."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:18
@@ -65,18 +65,17 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:22
 msgid ""
-"`Simple Payment Verification "
-"<http://docs.electrum.org/en/latest/spv.html>`_"
+"`Simple Payment Verification <http://docs.electrum.org/en/latest/spv.html>`_"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:23
-msgid "`The Python Console <http://docs.electrum.org/en/latest/console.html>`_"
+msgid ""
+"`The Python Console <http://docs.electrum.org/en/latest/console.html>`_"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:24
 msgid ""
-"`Using Electrum Through Tor "
-"<http://docs.electrum.org/en/latest/tor.html>`_"
+"`Using Electrum Through Tor <http://docs.electrum.org/en/latest/tor.html>`_"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:27
@@ -85,8 +84,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:29
 msgid ""
-"SmartCash Electrum supports smartnode creation through an interface "
-"called the **Smartnode Manager**."
+"SmartCash Electrum supports smartnode creation through an interface called "
+"the **Smartnode Manager**."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:33
@@ -96,15 +95,15 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:35
 msgid ""
 "The Smartnode Manager can be accessed via Smartnodes tab. This manager "
-"displays the status of your smartnode(s). A wallet with no Smartnodes "
-"will begin with a default smartnode for which you can fill in the "
-"necessary information."
+"displays the status of your smartnode(s). A wallet with no Smartnodes will "
+"begin with a default smartnode for which you can fill in the necessary "
+"information."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:40
 msgid ""
-"The manager displays the following data about each smartnode you have set"
-" up:"
+"The manager displays the following data about each smartnode you have set "
+"up:"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:43
@@ -133,11 +132,11 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:53
 msgid ""
-"A smartnode requires a \"smartnode\" key, which is known to both "
-"SmartCash Electrum and your smartnode. Your smartnode will use this key "
-"to sign messages, and the SmartCash network will know that you authorized"
-" it to. A smartnode key can either be one of your SmartCash Electrum "
-"keys, or an imported key."
+"A smartnode requires a \"smartnode\" key, which is known to both SmartCash "
+"Electrum and your smartnode. Your smartnode will use this key to sign "
+"messages, and the SmartCash network will know that you authorized it to. A "
+"smartnode key can either be one of your SmartCash Electrum keys, or an "
+"imported key."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:60
@@ -147,8 +146,8 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:62
 msgid ""
 "Certain information about your smartnode is required. The IP address and "
-"port that your smartnode uses must be supplied. Also, the Alias that your"
-" smartnode. This information is filled in automatically if you import a "
+"port that your smartnode uses must be supplied. Also, the Alias that your "
+"smartnode. This information is filled in automatically if you import a "
 "\"smartnode.conf\" file."
 msgstr ""
 
@@ -162,17 +161,17 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:75
 msgid ""
-"To start a smartnode, you must have a 10000 SMART payment available in "
-"your wallet. You can scan your wallet for 10000 SMART payments in the "
-"**Create Smartnode** tab of the Smartnode Manager."
+"To start a smartnode, you must have a 10000 SMART payment available in your "
+"wallet. You can scan your wallet for 10000 SMART payments in the **Create "
+"Smartnode** tab of the Smartnode Manager."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:79
 msgid ""
-"After scanning, a list of available 10000 SMART collateral payments will "
-"be displayed. Selecting one of them will cause the selected smartnode's "
-"data to be filled in, though these changes won't be saved until you click"
-" the **Save** button in the lower-right corner of the tab."
+"After scanning, a list of available 10000 SMART collateral payments will be "
+"displayed. Selecting one of them will cause the selected smartnode's data to"
+" be filled in, though these changes won't be saved until you click the "
+"**Save** button in the lower-right corner of the tab."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:87
@@ -185,21 +184,20 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:92
 msgid ""
-"After selecting a collateral payment and specifying a delegate key, you "
-"can activate your smartnode. Do this by clicking **Activate Smartnode** "
-"in the **Activate Smartnode** tab of the Smartnode Manager. If the "
-"**Activate Smartnode** button cannot be clicked, look at the message in "
-"the **Status** bar. It will show you why your smartnode cannot be "
-"activated."
+"After selecting a collateral payment and specifying a delegate key, you can "
+"activate your smartnode. Do this by clicking **Activate Smartnode** in the "
+"**Activate Smartnode** tab of the Smartnode Manager. If the **Activate "
+"Smartnode** button cannot be clicked, look at the message in the **Status** "
+"bar. It will show you why your smartnode cannot be activated."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:99
 msgid ""
-"Activation will require your password if your wallet is encrypted, "
-"because a message must be signed. After waiting for SmartCash Electrum to"
-" sign and broadcast your smartnode announcement, you will be presented "
-"with a message detailing the result. The status of your smartnode will be"
-" updated in the table and the **View Smartnode** tab."
+"Activation will require your password if your wallet is encrypted, because a"
+" message must be signed. After waiting for SmartCash Electrum to sign and "
+"broadcast your smartnode announcement, you will be presented with a message "
+"detailing the result. The status of your smartnode will be updated in the "
+"table and the **View Smartnode** tab."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:108
@@ -212,12 +210,12 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:113
 msgid ""
-"You can import a *smartnode.conf* file using the **Smartnode.conf** tab "
-"of the Smartnode Manager. This is the recommended way of setting up "
-"Smartnodes, as it allows you to configure Smartnodes for SmartCash Core "
-"and SmartCash Electrum in the same way. Importing a *smartnode.conf* file"
-" will automatically set up one or more smartnode configurations in the "
-"Smartnode Manager."
+"You can import a *smartnode.conf* file using the **Smartnode.conf** tab of "
+"the Smartnode Manager. This is the recommended way of setting up Smartnodes,"
+" as it allows you to configure Smartnodes for SmartCash Core and SmartCash "
+"Electrum in the same way. Importing a *smartnode.conf* file will "
+"automatically set up one or more smartnode configurations in the Smartnode "
+"Manager."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:121
@@ -227,24 +225,24 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:123
 msgid ""
 "This tutorial shows how to create a 2 of 2 multisig wallet. A 2 of 2 "
-"multisig consists of 2 separate wallets (usually on separate machines and"
-" potentially controlled by separate people) that have to be used in "
-"conjunction in order to access the funds. Both wallets have the same set "
-"of addresses."
+"multisig consists of 2 separate wallets (usually on separate machines and "
+"potentially controlled by separate people) that have to be used in "
+"conjunction in order to access the funds. Both wallets have the same set of "
+"addresses."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:129
 msgid ""
-"A common use-case for this is if you want to collaboratively control "
-"funds: maybe you and your friend run a company together and certain funds"
-" should only be spendable if you both agree."
+"A common use-case for this is if you want to collaboratively control funds: "
+"maybe you and your friend run a company together and certain funds should "
+"only be spendable if you both agree."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:133
 msgid ""
 "Another one is security: one of the wallets can be on your main machine, "
-"while the other one is on a offline machine. That way you make it very "
-"hard for an attacker or malware to steal your coins."
+"while the other one is on a offline machine. That way you make it very hard "
+"for an attacker or malware to steal your coins."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:138
@@ -263,8 +261,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:148
 msgid ""
-"After generating and confirming your recovery seed, you will be shown the"
-" xpub address for this wallet."
+"After generating and confirming your recovery seed, you will be shown the "
+"xpub address for this wallet."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:153
@@ -274,8 +272,8 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:155
 msgid ""
 "After generating a seed (keep it safely!) you will need to provide the "
-"master public key of the other wallet. Of course when you create the "
-"other wallet, you put the master public key of the first wallet."
+"master public key of the other wallet. Of course when you create the other "
+"wallet, you put the master public key of the first wallet."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:162
@@ -284,8 +282,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:164
 msgid ""
-"You will need to do this in parallel for the two wallets. Note that you "
-"can press cancel during this step, and reopen the file later."
+"You will need to do this in parallel for the two wallets. Note that you can "
+"press cancel during this step, and reopen the file later."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:168
@@ -294,9 +292,9 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:170
 msgid ""
-"Check that both wallets generate the same set of Addresses. You can now "
-"send to these **Addresses** (note they start with a “7”) with any wallet "
-"that can send to P2SH Addresses."
+"Check that both wallets generate the same set of Addresses. You can now send"
+" to these **Addresses** (note they start with a “7”) with any wallet that "
+"can send to P2SH Addresses."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:175
@@ -306,15 +304,15 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:177
 msgid ""
 "To spend coins from a 2-of-2 wallet, two cosigners need to sign a "
-"transaction collaboratively. To accomplish this, create a transaction "
-"using one of the wallets (by filling out the form on the **Send** tab). "
-"After signing, a window is shown with the transaction details."
+"transaction collaboratively. To accomplish this, create a transaction using "
+"one of the wallets (by filling out the form on the **Send** tab). After "
+"signing, a window is shown with the transaction details."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:183
 msgid ""
-"The transaction now has to be sent to the second wallet. Several options "
-"are available for this:"
+"The transaction now has to be sent to the second wallet. Several options are"
+" available for this:"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:186
@@ -323,10 +321,10 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:188
 msgid ""
-"You can save the partially signed transaction to a file (using the "
-"**Save** button), transfer that to the machine where the second wallet is"
-" running (via USB stick, for example) and load it there (using **Tools > "
-"Load transaction > From file**)"
+"You can save the partially signed transaction to a file (using the **Save** "
+"button), transfer that to the machine where the second wallet is running "
+"(via USB stick, for example) and load it there (using **Tools > Load "
+"transaction > From file**)"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:193
@@ -335,16 +333,16 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:195
 msgid ""
-"A button showing a QR code icon is also available. Clicking this button "
-"will display a QR code containing the transaction, which can be scanned "
-"into the second wallet (**Tools > Load Transaction > From QR Code**)"
+"A button showing a QR code icon is also available. Clicking this button will"
+" display a QR code containing the transaction, which can be scanned into the"
+" second wallet (**Tools > Load Transaction > From QR Code**)"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:200
 msgid ""
-"With both of the above methods, you can now add the second signature to "
-"the transaction (using the **Sign** button). It will then be broadcast to"
-" the network."
+"With both of the above methods, you can now add the second signature to the "
+"transaction (using the **Sign** button). It will then be broadcast to the "
+"network."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:206
@@ -353,38 +351,38 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:208
 msgid ""
-"You may have received a paper wallet as a gift from another SmartCash "
-"user, or previously stored one in a safe deposit box. Funds are swept "
-"from a :ref:`paper wallet <paper-wallets>` into a live wallet by "
-"importing its `private key <http://bitzuma.com/posts /six-things-bitcoin-"
-"users-should- know-about-private-keys/>`_, which is a long sequence of "
-"characters starting with the number \"7\" or the capital letter \"X\". "
-"The example below displays a private key (WIF format)."
+"You may have received a paper wallet as a gift from another SmartCash user, "
+"or previously stored one in a safe deposit box. Funds are swept from a "
+":ref:`paper wallet <paper-wallets>` into a live wallet by importing its "
+"`private key <http://bitzuma.com/posts /six-things-bitcoin-users-should- "
+"know-about-private-keys/>`_, which is a long sequence of characters starting"
+" with the number \"7\" or the capital letter \"X\". The example below "
+"displays a private key (WIF format)."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:219
 msgid ""
-"Public address and associated private key produced by SmartCash Paper "
-"Wallet Generator"
+"Public address and associated private key produced by SmartCash Paper Wallet"
+" Generator"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:222
 msgid ""
 "Funds from paper wallets are swept into an SmartCash Electrum Wallet by "
-"creating a transaction using the private key and sending it to a new "
-"address from your wallet. This is necessary because it is not possible to"
-" add new public or private keys to an existing deterministic series of "
-"addresses derived from a seed phrase."
+"creating a transaction using the private key and sending it to a new address"
+" from your wallet. This is necessary because it is not possible to add new "
+"public or private keys to an existing deterministic series of addresses "
+"derived from a seed phrase."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:228
 msgid ""
-"Begin by selecting the **Wallet** > **Private Keys** > **Sweep** menu "
-"item. The **Sweep private keys** dialog will appear, where you can paste "
-"your private key(s). An unused address controlled by your SmartCash "
-"Electrum wallet appears in the lower field, and can be changed by "
-"clicking the **Address** button. Once you have pasted your private key, "
-"click the **Sweep** button."
+"Begin by selecting the **Wallet** > **Private Keys** > **Sweep** menu item. "
+"The **Sweep private keys** dialog will appear, where you can paste your "
+"private key(s). An unused address controlled by your SmartCash Electrum "
+"wallet appears in the lower field, and can be changed by clicking the "
+"**Address** button. Once you have pasted your private key, click the "
+"**Sweep** button."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:238
@@ -394,11 +392,11 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:240
 msgid ""
 "SmartCash Electrum then prepares a transaction using the private key you "
-"just imported to derive the public address for the transaction input and "
-"the address from your wallet as the output, and signs the message. Click "
-"**Broadcast** to enter the transaction on the blockchain. The balance "
-"will then appear in your wallet under the specified address. The address "
-"you swept is left with zero balance."
+"just imported to derive the public address for the transaction input and the"
+" address from your wallet as the output, and signs the message. Click "
+"**Broadcast** to enter the transaction on the blockchain. The balance will "
+"then appear in your wallet under the specified address. The address you "
+"swept is left with zero balance."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:249
@@ -407,8 +405,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:251
 msgid ""
-"SmartCash Electrum has a powerful command line available when running "
-"under Linux or macOS. This section will show you a few basic principles."
+"SmartCash Electrum has a powerful command line available when running under "
+"Linux or macOS. This section will show you a few basic principles."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:255
@@ -429,15 +427,15 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:268
 msgid ""
-"The arguments passed to commands may be one of the following magic words:"
-" `! ? : -`."
+"The arguments passed to commands may be one of the following magic words: `!"
+" ? : -`."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:270
 msgid ""
 "The exclamation mark `!` is a shortcut that means ‘the maximum amount "
-"available’. Note that the transaction fee will be computed and deducted "
-"from the amount. Example::"
+"available’. Note that the transaction fee will be computed and deducted from"
+" the amount. Example::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:276
@@ -448,15 +446,15 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:281
 msgid ""
-"Use a colon `:` if you want the prompted parameter to be hidden (not "
-"echoed in your terminal). Note that you will be prompted twice in this "
-"example, first for the private key, then for your wallet password::"
+"Use a colon `:` if you want the prompted parameter to be hidden (not echoed "
+"in your terminal). Note that you will be prompted twice in this example, "
+"first for the private key, then for your wallet password::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:287
 msgid ""
-"A parameter replaced by a smartcash `-` will be read from standard input "
-"(in a pipe)::"
+"A parameter replaced by a smartcash `-` will be read from standard input (in"
+" a pipe)::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:293
@@ -464,7 +462,8 @@ msgid "Aliases"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:295
-msgid "You can use DNS aliases in place of bitcoin addresses, in most commands::"
+msgid ""
+"You can use DNS aliases in place of bitcoin addresses, in most commands::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:300
@@ -473,8 +472,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:302
 msgid ""
-"Command outputs are either simple strings or json structured data. A very"
-" useful utility is the ‘jq’ program. Install it with::"
+"Command outputs are either simple strings or json structured data. A very "
+"useful utility is the ‘jq’ program. Install it with::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:307
@@ -500,8 +499,8 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:323
 msgid ""
 "The `listunspent` command returns a list of dict objects, with various "
-"fields. Suppose we want to extract the `value` field of each record. This"
-" can be achieved with the jq command::"
+"fields. Suppose we want to extract the `value` field of each record. This "
+"can be achieved with the jq command::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:330
@@ -554,15 +553,14 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:372
 msgid ""
-"The following command will export the private keys of all wallet "
-"addresses that hold some SmartCash::"
+"The following command will export the private keys of all wallet addresses "
+"that hold some SmartCash::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:377
 msgid ""
-"This will return a list of lists of private keys. In most cases, you want"
-" to get a simple list. This can be done by adding a jq filer, as "
-"follows::"
+"This will return a list of lists of private keys. In most cases, you want to"
+" get a simple list. This can be done by adding a jq filer, as follows::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:383
@@ -586,14 +584,14 @@ msgid "Create an unsigned transaction"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:396
-msgid "With your online (watching-only) wallet, create an unsigned transaction::"
+msgid ""
+"With your online (watching-only) wallet, create an unsigned transaction::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:400
 msgid ""
-"The unsigned transaction is stored in a file named ‘unsigned.txn’. Note "
-"that the –unsigned option is not needed if you use a watching-only "
-"wallet."
+"The unsigned transaction is stored in a file named ‘unsigned.txn’. Note that"
+" the –unsigned option is not needed if you use a watching-only wallet."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:404
@@ -606,16 +604,16 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:411
 msgid ""
-"The serialization format of SmartCash Electrum contains the master public"
-" key needed and key derivation used by the offline wallet to sign the "
+"The serialization format of SmartCash Electrum contains the master public "
+"key needed and key derivation used by the offline wallet to sign the "
 "transaction. Thus we only need to pass the serialized transaction to the "
 "offline wallet::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:418
 msgid ""
-"The command will ask for your password, and save the signed transaction "
-"in ‘signed.txn’."
+"The command will ask for your password, and save the signed transaction in "
+"‘signed.txn’."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:421
@@ -636,8 +634,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:432
 msgid ""
-"This tutorial will show you how to accept smartcash on a website with SSL"
-" signed payment requests. It is updated for SmartCash Electrum 2.6."
+"This tutorial will show you how to accept smartcash on a website with SSL "
+"signed payment requests. It is updated for SmartCash Electrum 2.6."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:436
@@ -666,8 +664,8 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:449
 msgid ""
-"You can also use a watching only wallet (restored from xpub), if you want"
-" to keep private keys off the server. Once your wallet is created, start "
+"You can also use a watching only wallet (restored from xpub), if you want to"
+" keep private keys off the server. Once your wallet is created, start "
 "SmartCash Electrum as a daemon::"
 msgstr ""
 
@@ -688,8 +686,8 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:469
 msgid ""
 "Create another file that contains your certificate and the list of "
-"certificates it depends on, up to the root CA. Your certificate must be "
-"at the top of the list, and the root CA at the end::"
+"certificates it depends on, up to the root CA. Your certificate must be at "
+"the top of the list, and the root CA at the end::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:483
@@ -748,9 +746,9 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:539
 msgid ""
-"The page shows the payment request. You can open the smartcash: URI with "
-"a wallet, or scan the QR code. The bottom line displays the time "
-"remaining until the request expires."
+"The page shows the payment request. You can open the smartcash: URI with a "
+"wallet, or scan the QR code. The bottom line displays the time remaining "
+"until the request expires."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:546
@@ -782,11 +780,10 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:569
 msgid ""
-"Now, the page is fully interactive: it will update itself when the "
-"payment is received. Please notice that higher ports might be blocked on "
-"some client’s firewalls, so it is more safe for example to reverse proxy "
-"websockets transmission using standard 443 port on an additional "
-"subdomain."
+"Now, the page is fully interactive: it will update itself when the payment "
+"is received. Please notice that higher ports might be blocked on some "
+"client’s firewalls, so it is more safe for example to reverse proxy "
+"websockets transmission using standard 443 port on an additional subdomain."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:576
@@ -795,15 +792,15 @@ msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:578
 msgid ""
-"Commands to the SmartCash Electrum daemon can be sent using JSONRPC. This"
-" is useful if you want to use SmartCash Electrum in a PHP script."
+"Commands to the SmartCash Electrum daemon can be sent using JSONRPC. This is"
+" useful if you want to use SmartCash Electrum in a PHP script."
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:581
 msgid ""
-"Note that the daemon uses a random port number by default. In order to "
-"use a stable port number, you need to set the `rpcport` configuration "
-"variable (and to restart the daemon)::"
+"Note that the daemon uses a random port number by default. In order to use a"
+" stable port number, you need to set the `rpcport` configuration variable "
+"(and to restart the daemon)::"
 msgstr ""
 
 #: ../../wallets/electrum/advanced.rst:587
@@ -817,16 +814,3 @@ msgstr ""
 #: ../../wallets/electrum/advanced.rst:595
 msgid "Create a payment request::"
 msgstr ""
-
-#~ msgid ""
-#~ "Smartnodes, multisig, sweeping paper wallets,"
-#~ " cold storage and command line in "
-#~ "the SmartCash Electrum wallet."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "smartcash, wallet, electrum, smartnode, "
-#~ "multisig, paper, cold storage, command "
-#~ "line"
-#~ msgstr ""
-

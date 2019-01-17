@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 11:42+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"PO-Revision-Date: 2019-01-16 11:32+0000\n"
+"Language-Team: Dutch (https://www.transifex.com/smartcash/teams/95224/nl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../wallets/third-party.rst:1
 msgid ""
@@ -34,13 +34,12 @@ msgstr ""
 #: ../../wallets/third-party.rst:10
 msgid ""
 "The SmartCash protocol and many SmartCash products such as SmartCash "
-"NodeClient are entirely open source, which makes it easy for third "
-"parties to integrate SmartCash with their existing cryptocurrency wallet "
-"solutions. This section describes some of the third party wallets "
-"available and the functions they offer. Please note that SmartCash does "
-"not provide support for any of these wallets, and any listing here should"
-" not be considered an endorsement or recommendation. Contact the software"
-" vendor for support."
+"NodeClient are entirely open source, which makes it easy for third parties "
+"to integrate SmartCash with their existing cryptocurrency wallet solutions. "
+"This section describes some of the third party wallets available and the "
+"functions they offer. Please note that SmartCash does not provide support "
+"for any of these wallets, and any listing here should not be considered an "
+"endorsement or recommendation. Contact the software vendor for support."
 msgstr ""
 
 #: ../../wallets/third-party.rst:20
@@ -53,10 +52,10 @@ msgstr ""
 
 #: ../../wallets/third-party.rst:29
 msgid ""
-"Atomic Wallet is a multi-asset custody-free wallet with atomic swap "
-"exchange and decentralized orderbook functionality. It provides a "
-"powerful, secure service that transparently and reliablly allows users to"
-" reduce effort spent on managing and exchanging crypto assets​."
+"Atomic Wallet is a multi-asset custody-free wallet with atomic swap exchange"
+" and decentralized orderbook functionality. It provides a powerful, secure "
+"service that transparently and reliablly allows users to reduce effort spent"
+" on managing and exchanging crypto assets​."
 msgstr ""
 
 #: ../../wallets/third-party.rst:35 ../../wallets/third-party.rst:121
@@ -78,8 +77,8 @@ msgstr ""
 #: ../../wallets/third-party.rst:43
 msgid ""
 "Atomic Wallet offers detailed documentation of all functions at "
-"https://atomicwallet.freshdesk.com and a few quick links are also "
-"collected here:"
+"https://atomicwallet.freshdesk.com and a few quick links are also collected "
+"here:"
 msgstr ""
 
 #: ../../wallets/third-party.rst:47
@@ -124,11 +123,11 @@ msgstr ""
 
 #: ../../wallets/third-party.rst:68
 msgid ""
-"Coinomi is an open-source multi-currency mobile wallet available for iOS "
-"and Android. Your private keys never leave your device, and strong wallet"
-" encryption guarantees that your funds are always under your control "
-"only. Instant exchange is available directly in the wallet through "
-"ShapeShift and Changelly integrations."
+"Coinomi is an open-source multi-currency mobile wallet available for iOS and"
+" Android. Your private keys never leave your device, and strong wallet "
+"encryption guarantees that your funds are always under your control only. "
+"Instant exchange is available directly in the wallet through ShapeShift and "
+"Changelly integrations."
 msgstr ""
 
 #: ../../wallets/third-party.rst:75
@@ -138,8 +137,8 @@ msgstr ""
 #: ../../wallets/third-party.rst:85
 msgid ""
 "Coinomi is available from the `Google Play Store for Android "
-"<https://play.google.com/store/apps/details?id=com.coinomi.wallet>`__ and"
-" the `Apple App Store for iOS <https://itunes.apple.com/us/app/coinomi- "
+"<https://play.google.com/store/apps/details?id=com.coinomi.wallet>`__ and "
+"the `Apple App Store for iOS <https://itunes.apple.com/us/app/coinomi- "
 "wallet/id1333588809>`__."
 msgstr ""
 
@@ -164,27 +163,25 @@ msgstr ""
 #: ../../wallets/third-party.rst:112
 msgid ""
 "Edge is a secure multi-currency wallet for iOS and Android. It offers a "
-"unique login system to store your encrypted HD seed on the cloud while "
-"still performing all sensitive operations requiring a private key on your"
-" device. Edge is fast and simple to use, allowing you to scan QR codes "
-"and sign transactions using your fingerprint ID or a simple PIN code. "
-"ShapeShift is also integrated to facilitate exchange between different "
-"cryptocurrencies."
+"unique login system to store your encrypted HD seed on the cloud while still"
+" performing all sensitive operations requiring a private key on your device."
+" Edge is fast and simple to use, allowing you to scan QR codes and sign "
+"transactions using your fingerprint ID or a simple PIN code. ShapeShift is "
+"also integrated to facilitate exchange between different cryptocurrencies."
 msgstr ""
 
 #: ../../wallets/third-party.rst:131
 msgid ""
 "Edge is available from the `Google Play Store for Android "
-"<https://play.google.com/store/apps/details?id=co.edgesecure.app>`__ and "
-"the `Apple App Store for iOS <https://itunes.apple.com/us/app/edge- "
-"bitcoin-wallet/id1344400091>`__."
+"<https://play.google.com/store/apps/details?id=co.edgesecure.app>`__ and the"
+" `Apple App Store for iOS <https://itunes.apple.com/us/app/edge- bitcoin-"
+"wallet/id1344400091>`__."
 msgstr ""
 
 #: ../../wallets/third-party.rst:139
 msgid ""
 "Edge offers detailed documentation of all functions at "
-"https://support.edgesecure.co and a few quick links are also collected "
-"here:"
+"https://support.edgesecure.co and a few quick links are also collected here:"
 msgstr ""
 
 #: ../../wallets/third-party.rst:143
@@ -231,19 +228,18 @@ msgstr ""
 
 #: ../../wallets/third-party.rst:164
 msgid ""
-"The Ethos Universal Wallet allows you to store SmartCash and over 100 "
-"other cryptocurrencies. It features a single recovery phrase, known as "
-"the SmartKey, with which you can restore all balances on another device. "
-"Features include human-readable usernames, ShapeShift coin conversion and"
-" a portfolio tracker."
+"The Ethos Universal Wallet allows you to store SmartCash and over 100 other "
+"cryptocurrencies. It features a single recovery phrase, known as the "
+"SmartKey, with which you can restore all balances on another device. "
+"Features include human-readable usernames, ShapeShift coin conversion and a "
+"portfolio tracker."
 msgstr ""
 
 #: ../../wallets/third-party.rst:181
 msgid ""
-"Ethos Universal Wallet is available from the `Google Play Store for "
-"Android "
-"<https://play.google.com/store/apps/details?id=io.ethos.universalwallet>`__"
-" and the `Apple App Store for iOS <https://itunes.apple.com/us/app/ethos-"
+"Ethos Universal Wallet is available from the `Google Play Store for Android "
+"<https://play.google.com/store/apps/details?id=io.ethos.universalwallet>`__ "
+"and the `Apple App Store for iOS <https://itunes.apple.com/us/app/ethos-"
 "universal-wallet/id1376959464>`__."
 msgstr ""
 
@@ -270,8 +266,8 @@ msgstr ""
 #: ../../wallets/third-party.rst:195
 msgid ""
 "`How to Add Coins to a SmartWallet "
-"<https://support.ethos.io/support/solutions/articles/35000077328-how-to-"
-"add-coins-to-a-smartwallet>`_"
+"<https://support.ethos.io/support/solutions/articles/35000077328-how-to-add-"
+"coins-to-a-smartwallet>`_"
 msgstr ""
 
 #: ../../wallets/third-party.rst:196
@@ -291,22 +287,3 @@ msgstr ""
 #: ../../wallets/third-party.rst:202
 msgid "Ethos Universal Wallet on Android"
 msgstr ""
-
-#~ msgid ""
-#~ "The SmartCash protocol and many "
-#~ "SmartCash products such as SmartCash "
-#~ "Node Client are entirely open source,"
-#~ " which makes it easy for third "
-#~ "parties to integrate SmartCash with "
-#~ "their existing cryptocurrency wallet "
-#~ "solutions. This section describes some "
-#~ "of the third party wallets available "
-#~ "and the functions they offer. Please "
-#~ "note that SmartCash does not provide "
-#~ "support for any of these wallets, "
-#~ "and any listing here should not be"
-#~ " considered an endorsement or "
-#~ "recommendation. Contact the software vendor"
-#~ " for support."
-#~ msgstr ""
-
