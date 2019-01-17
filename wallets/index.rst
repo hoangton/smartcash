@@ -39,8 +39,7 @@ both a full node or smartnode on the network. Because of the
 requirement to hold a full copy of the blockchain, some time is required
 for synchronisation when starting the wallet. Once this is done, the
 correct balances will be displayed and the functions in the wallet can
-be used. SmartCash NodeClient Wallet is available for macOS, Linux, Raspberry Pi
-and Windows.
+be used. SmartCash NodeClient Wallet is available for macOS, Linux,and Windows.
 
 Features:
 
@@ -48,7 +47,8 @@ Features:
 -  Wallet encryption
 -  Coin control and fee control
 -  QR code generation and address book
--  smartnode commands and voting
+-  SmartRewards Monitoring
+-  SmartNode and SmartVote
 -  Automated backup
 -  Debug console
 

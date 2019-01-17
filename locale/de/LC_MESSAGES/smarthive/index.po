@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 15:08+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid ""
 msgstr ""
 
 #: ../../smarthive/index.rst:9
-msgid "SmartHive"
+msgid "SmartHive Teams"
 msgstr ""
 
 #: ../../smarthive/index.rst:11
@@ -71,10 +71,26 @@ msgid ""
 msgstr ""
 
 #: ../../smarthive/index.rst:19
-msgid "SMARTVOTING"
+msgid "Right now we have 6 teams <https://smartcash.cc/hive-teams/>"
 msgstr ""
 
-#: ../../smarthive/index.rst:21
+#: ../../smarthive/index.rst:23
+msgid "Discussion"
+msgstr ""
+
+#: ../../smarthive/index.rst:25
+msgid "Are forum where peoples discussing about Pre-Proposal"
+msgstr ""
+
+#: ../../smarthive/index.rst:27
+msgid "https://forum.smartcash.cc/c/smarthive"
+msgstr ""
+
+#: ../../smarthive/index.rst:31
+msgid "SmartVote"
+msgstr ""
+
+#: ../../smarthive/index.rst:33
 msgid ""
 "All Smartcash users deserve a voice, from day #1. That is why Smartcash "
 "is pioneering in the crypto-governance space and was built around "
@@ -83,11 +99,21 @@ msgid ""
 "in depth."
 msgstr ""
 
-#: ../../smarthive/index.rst:23
+#: ../../smarthive/index.rst:35
 msgid "Basically, each SmartCash coin is worth 1 vote, to keep it simple."
 msgstr ""
 
-#: ../../smarthive/index.rst:31
+#: ../../smarthive/index.rst:37
+msgid "https://vote.smartcash.cc/"
+msgstr ""
+
+#: ../../smarthive/index.rst:45
 msgid "You can learn more about SmartCash Governance in the following sections:"
 msgstr ""
+
+#~ msgid "SmartHive"
+#~ msgstr ""
+
+#~ msgid "SMARTVOTING"
+#~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 15:24+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,8 +23,8 @@ msgstr ""
 
 #: ../../introduction/about.rst:1
 msgid ""
-"smartcash, cryptocurrency, videos, documentation, roadmap, governance, "
-"funding, payments, whitepaper, roadmap"
+"smartcash, cryptocurrency, videos, documentation, roadmap, smarthive, "
+"funding, payments, whitepaper"
 msgstr ""
 
 #: ../../introduction/about.rst:9
@@ -38,11 +38,15 @@ msgid ""
 "people who aren‘t crypto geeks, on being merchant friendly. The SmartCash"
 " network features :ref:`instant transaction confirmation <instantpay>`, "
 "double spend protection, a :ref:`self-governing, self-funding model "
-"<smarthive>` and a `clear roadmap <https://smartcash.cc/roadmap/>`. While"
-" SmartCash is based on Bitcoin and compatible with many key components of"
-" the Bitcoin ecosystem. This section of the documentation describes these"
-" and many more key features that set SmartCash apart in the blockchain "
-"economy."
+"<smarthive>` and a :ref:`roadmap <roadmap>` . While SmartCash is based on"
+" Bitcoin and compatible with many key components of the Bitcoin "
+"ecosystem."
+msgstr ""
+
+#: ../../introduction/about.rst:15
+msgid ""
+"This section of the documentation describes these and many more key "
+"features that set SmartCash apart in the blockchain economy."
 msgstr ""
 
 #: ../../introduction/about.rst:18
@@ -68,6 +72,8 @@ msgstr ""
 msgid ""
 "SmartCash Explained is a six-part video series. It explains SmartCash "
 "from a beginner's level up to descriptions of the more advanced features."
+" Please note some content in this video are out of date like smartreward "
+"payments times, Fungibility and Privacy features."
 msgstr ""
 
 #: ../../introduction/about.rst:45
@@ -92,23 +98,20 @@ msgid ""
 "and key innovations in SmartCash from an academic and theoretical "
 "perspective. It is a living document maintained on "
 "https://smartcash.cc/brochure/, receiving ongoing updates and frequent "
-"community translations as new features are implemented. Various other "
-"brochure/whitepapers describing particular features in additional detail "
-"and (for historical reasons) the original brochure/whitepapers are "
-"available for download as PDF files."
+"community translations as new features are implemented."
 msgstr ""
 
-#: ../../introduction/about.rst:72
+#: ../../introduction/about.rst:70
 msgid ""
 "`Latest whitepaper and official translations <https://smartcash.cc/wp-"
 "content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
 msgstr ""
 
-#: ../../introduction/about.rst:76
+#: ../../introduction/about.rst:75
 msgid "Roadmap"
 msgstr ""
 
-#: ../../introduction/about.rst:78
+#: ../../introduction/about.rst:77
 msgid ""
 "The SmartCash Roadmap sets out delivery milestones for future releases of"
 " SmartCash and includes specific technical details describing how the "
@@ -116,7 +119,58 @@ msgid ""
 "Brochure/Whitepaper, it is versioned and maintained on ."
 msgstr ""
 
-#: ../../introduction/about.rst:83
+#: ../../introduction/about.rst:82
 msgid "`SmartCash Roadmap <https://smartcash.cc/roadmap/>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "smartcash, cryptocurrency, videos, documentation,"
+#~ " roadmap, governance, funding, payments, "
+#~ "whitepaper, roadmap"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SmartCash is a peer-to-peer "
+#~ "digital currency that can be used "
+#~ "without having to trust a third "
+#~ "party. By focusing on being ease "
+#~ "to use even for people who aren‘t"
+#~ " crypto geeks, on being merchant "
+#~ "friendly. The SmartCash network features "
+#~ ":ref:`instant transaction confirmation "
+#~ "<instantpay>`, double spend protection, a "
+#~ ":ref:`self-governing, self-funding model "
+#~ "<smarthive>` and a `clear roadmap "
+#~ "<https://smartcash.cc/roadmap/>`. While SmartCash is"
+#~ " based on Bitcoin and compatible with"
+#~ " many key components of the Bitcoin"
+#~ " ecosystem. This section of the "
+#~ "documentation describes these and many "
+#~ "more key features that set SmartCash "
+#~ "apart in the blockchain economy."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SmartCash Explained is a six-part "
+#~ "video series. It explains SmartCash from"
+#~ " a beginner's level up to "
+#~ "descriptions of the more advanced "
+#~ "features."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The SmartCash Brochure/Whitepaper describes "
+#~ "the unique value proposition and key "
+#~ "innovations in SmartCash from an "
+#~ "academic and theoretical perspective. It "
+#~ "is a living document maintained on "
+#~ "https://smartcash.cc/brochure/, receiving ongoing "
+#~ "updates and frequent community translations"
+#~ " as new features are implemented. "
+#~ "Various other brochure/whitepapers describing "
+#~ "particular features in additional detail "
+#~ "and (for historical reasons) the "
+#~ "original brochure/whitepapers are available "
+#~ "for download as PDF files."
+#~ msgstr ""
 

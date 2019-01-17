@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 23:54+0700\n"
+"POT-Creation-Date: 2019-01-17 15:57+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,7 +100,7 @@ msgid "Help"
 msgstr ""
 
 #: ../../wallets/nodeclient/interface.rst:43
-msgid "The Help menu links to Debug Window, documentation SmartCash NodeClient."
+msgid "The Help menu links to Debug Window, Command-line options Documents"
 msgstr ""
 
 #: ../../wallets/nodeclient/interface.rst:46
@@ -295,7 +295,7 @@ msgid "SmartCash NodeClient is downloading blocks from the network."
 msgstr ""
 
 #: ../../wallets/nodeclient/interface.rst:158
-msgid "Synchronizing smartnodes/smartnode smartreward/smartvote objects"
+msgid "Synchronizing smartnodes database smartrewards database"
 msgstr ""
 
 #: ../../wallets/nodeclient/interface.rst:158
@@ -699,8 +699,8 @@ msgid ""
 "The Console tab provides an interface with the SmartCash NodeClient RPC "
 "(remote procedure call) console. This is equivalent to the ``smartcash-"
 "cli`` command on headless versions of SmartCash, such as ``smartcashd`` "
-"running on a smartnode. Click the red ``–`` icon to clear the console, "
-"and see the detailed documentation on RPC commands to learn about the "
+"running on a smartnode. Click the ``x`` icon to clear the console, and "
+"see the detailed documentation on RPC commands to learn about the "
 "possible commands you can issue."
 msgstr ""
 
@@ -1183,5 +1183,27 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The Wallet Repair tab of the SmartCash Node Client Tools dialog"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Help menu links to Debug "
+#~ "Window, documentation SmartCash NodeClient."
+#~ msgstr ""
+
+#~ msgid "Synchronizing smartnodes/smartnode smartreward/smartvote objects"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Console tab provides an interface"
+#~ " with the SmartCash NodeClient RPC "
+#~ "(remote procedure call) console. This is"
+#~ " equivalent to the ``smartcash-cli`` "
+#~ "command on headless versions of "
+#~ "SmartCash, such as ``smartcashd`` running "
+#~ "on a smartnode. Click the red ``–`` "
+#~ "icon to clear the console, and see"
+#~ " the detailed documentation on RPC "
+#~ "commands to learn about the possible "
+#~ "commands you can issue."
 #~ msgstr ""
 

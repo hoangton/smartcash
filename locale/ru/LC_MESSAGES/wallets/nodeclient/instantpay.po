@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 15:57+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgid ""
 msgstr ""
 
 #: ../../wallets/nodeclient/instantpay.rst:22
-msgid "SmartCash Node Client Wallet"
+msgid "SmartCash NodeClient Wallet"
 msgstr ""
 
 #: ../../wallets/nodeclient/instantpay.rst:23
@@ -55,7 +55,7 @@ msgid "SmartCash iOS Wallet"
 msgstr ""
 
 #: ../../wallets/nodeclient/instantpay.rst:25
-msgid "My SmartCash Wallet"
+msgid "SmartCash Web Wallet"
 msgstr ""
 
 #: ../../wallets/nodeclient/instantpay.rst:26
@@ -97,10 +97,24 @@ msgstr ""
 msgid ""
 "To pay with instantpay, simply check the relevant checkbox in your app. "
 "The following screenshots indicate where this setting can be found in the"
-" SmartCash Node Client wallets."
+" SmartCash NodeClient wallets."
 msgstr ""
 
 #: ../../wallets/nodeclient/instantpay.rst:59
 msgid "SmartCash Wallets showing instantpay option"
 msgstr ""
+
+#~ msgid "SmartCash Node Client Wallet"
+#~ msgstr ""
+
+#~ msgid "My SmartCash Wallet"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To pay with instantpay, simply check "
+#~ "the relevant checkbox in your app. "
+#~ "The following screenshots indicate where "
+#~ "this setting can be found in the"
+#~ " SmartCash Node Client wallets."
+#~ msgstr ""
 

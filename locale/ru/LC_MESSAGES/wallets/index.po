@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 15:57+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,32 +70,36 @@ msgid ""
 "requirement to hold a full copy of the blockchain, some time is required "
 "for synchronisation when starting the wallet. Once this is done, the "
 "correct balances will be displayed and the functions in the wallet can be"
-" used. SmartCash NodeClient Wallet is available for macOS, Linux, "
-"Raspberry Pi and Windows."
+" used. SmartCash NodeClient Wallet is available for macOS, Linux,and "
+"Windows."
 msgstr ""
 
-#: ../../wallets/index.rst:45
+#: ../../wallets/index.rst:44
 msgid "Features:"
 msgstr ""
 
-#: ../../wallets/index.rst:47
+#: ../../wallets/index.rst:46
 msgid "InstantPay"
 msgstr ""
 
-#: ../../wallets/index.rst:48
+#: ../../wallets/index.rst:47
 msgid "Wallet encryption"
 msgstr ""
 
-#: ../../wallets/index.rst:49
+#: ../../wallets/index.rst:48
 msgid "Coin control and fee control"
 msgstr ""
 
-#: ../../wallets/index.rst:50
+#: ../../wallets/index.rst:49
 msgid "QR code generation and address book"
 msgstr ""
 
+#: ../../wallets/index.rst:50
+msgid "SmartRewards Monitoring"
+msgstr ""
+
 #: ../../wallets/index.rst:51
-msgid "smartnode commands and voting"
+msgid "SmartNode and SmartVote"
 msgstr ""
 
 #: ../../wallets/index.rst:52
@@ -400,4 +404,33 @@ msgid ""
 "Documentation in this section describes common tasks and questions "
 "relating to all wallets."
 msgstr ""
+
+#~ msgid ""
+#~ "SmartCash NodeClient Wallet is the full"
+#~ " official release of SmartCash, and "
+#~ "supports all SmartCash features as they"
+#~ " are released, including InstantPay and "
+#~ "SmartNodes, as well as an RPC "
+#~ "console and Voting features. SmartCash "
+#~ "NodeClient Wallet (sometimes known as "
+#~ "the QT wallet, due to the QT "
+#~ "software framework used in development) "
+#~ "is a professional or heavy wallet "
+#~ "which downloads the full blockchain "
+#~ "(several GB in size) and can "
+#~ "operate as both a full node or "
+#~ "smartnode on the network. Because of "
+#~ "the requirement to hold a full "
+#~ "copy of the blockchain, some time "
+#~ "is required for synchronisation when "
+#~ "starting the wallet. Once this is "
+#~ "done, the correct balances will be "
+#~ "displayed and the functions in the "
+#~ "wallet can be used. SmartCash NodeClient"
+#~ " Wallet is available for macOS, "
+#~ "Linux, Raspberry Pi and Windows."
+#~ msgstr ""
+
+#~ msgid "smartnode commands and voting"
+#~ msgstr ""
 

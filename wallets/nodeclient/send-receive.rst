@@ -135,3 +135,6 @@ Once you have been paid, you can see the balance both on the
    The received transaction
 
 **How to Create New Receiving Addresses in SmartCashQT**
+
+	Go to Receive Tab and click Request payments
+

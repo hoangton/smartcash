@@ -50,7 +50,9 @@ saved the file, and run the sha256sum command.
 
 If the hashes match, then you have an authentic copy of SmartCash NodeClient for
 Linux.
-View more here [https://smartcash.freshdesk.com/support/solutions/articles/35000087793]()
+
+View more here <https://smartcash.freshdesk.com/support/solutions/articles/35000087793>_
+
 Extracting SmartCash NodeClient
 -------------------------------
 

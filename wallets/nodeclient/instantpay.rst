@@ -19,10 +19,10 @@ funds to any other SmartCash user around the world. SmartCash instantpay is
 supported by many wallets and vendors, including (but not limited to)
 the following:
 
-- SmartCash Node Client Wallet
+- SmartCash NodeClient Wallet
 - SmartCash Android Wallet
 - SmartCash iOS Wallet
-- My SmartCash Wallet
+- SmartCash Web Wallet
 - and many more...
 
 You can read more about instantpay theory and processes :ref:`here
@@ -51,7 +51,7 @@ need to wait for standard block confirmations.
 
 To pay with instantpay, simply check the relevant checkbox in your app.
 The following screenshots indicate where this setting can be found in
-the SmartCash Node Client wallets.
+the SmartCash NodeClient wallets.
 
 .. figure:: img/instantpay-nodeclient.png
    :width: 400px

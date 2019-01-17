@@ -40,7 +40,7 @@ Settings
   The Settings menu provides access to wallet encryption options and
   general software settings.
 Help
-  The Help menu links to Debug Window, documentation SmartCash NodeClient.
+  The Help menu links to Debug Window, Command-line options Documents
    
 The Tab Bar
 -----------
@@ -154,7 +154,7 @@ No block source available
   required by SmartCash NodeClient are blocked by a firewall.
 Synchronizing with network
   SmartCash NodeClient is downloading blocks from the network.
-Synchronizing smartnodes/smartnode smartreward/smartvote objects
+Synchronizing smartnodes database smartrewards database
   SmartCash NodeClient is synchronizing other data with the second layer network.
 
 Once synchronization is complete, the progress bar will disappear and a
@@ -406,7 +406,7 @@ Console tab
 The Console tab provides an interface with the SmartCash NodeClient RPC (remote
 procedure call) console. This is equivalent to the ``smartcash-cli`` command
 on headless versions of SmartCash, such as ``smartcashd`` running on a smartnode.
-Click the red ``–`` icon to clear the console, and see the detailed
+Click the ``x`` icon to clear the console, and see the detailed
 documentation on RPC commands to learn about the possible commands you can 
 issue.
 

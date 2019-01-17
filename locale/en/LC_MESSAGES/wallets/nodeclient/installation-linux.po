@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 23:54+0700\n"
+"POT-Creation-Date: 2019-01-17 15:57+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -99,12 +99,20 @@ msgstr ""
 #: ../../wallets/nodeclient/installation-linux.rst:51
 msgid ""
 "If the hashes match, then you have an authentic copy of SmartCash "
-"NodeClient for Linux. View more here "
-"[https://smartcash.freshdesk.com/support/solutions/articles/35000087793]()"
-" Extracting SmartCash NodeClient -------------------------------"
+"NodeClient for Linux."
+msgstr ""
+
+#: ../../wallets/nodeclient/installation-linux.rst:54
+msgid ""
+"View more here "
+"<https://smartcash.freshdesk.com/support/solutions/articles/35000087793>_"
 msgstr ""
 
 #: ../../wallets/nodeclient/installation-linux.rst:57
+msgid "Extracting SmartCash NodeClient"
+msgstr ""
+
+#: ../../wallets/nodeclient/installation-linux.rst:59
 msgid ""
 "SmartCash NodeClient for Linux is distributed as a compressed archive and"
 " not an installer. This is because this same archive also contains other "
@@ -113,18 +121,18 @@ msgid ""
 "interface (GUI) designed for use by end users as a wallet."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:63
+#: ../../wallets/nodeclient/installation-linux.rst:65
 msgid ""
 "Begin by creating a folder for the SmartCash NodeClient executable file "
 "on the Desktop. Browse to the Desktop (or the location of your choice) "
 "and create the folder."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:66
+#: ../../wallets/nodeclient/installation-linux.rst:69
 msgid "Creating a folder on the Desktop Renaming the folder to SmartCash"
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:69
+#: ../../wallets/nodeclient/installation-linux.rst:72
 msgid ""
 "Next, open the archive by double-clicking on it. The Archive Manager will"
 " appear. Browse to the smartcash-1.2.6/bin/ folder and extract the "
@@ -132,14 +140,14 @@ msgid ""
 "drag and drop."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:74
+#: ../../wallets/nodeclient/installation-linux.rst:77
 msgid ""
 "To run SmartCash NodeClient for the first time, open Terminal and browse "
 "to the SmartCash folder on the Desktop, or where you chose to extract the"
 " file. Type ``./smartcash-qt`` to run the file."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:78
+#: ../../wallets/nodeclient/installation-linux.rst:81
 msgid ""
 "The first time the program is launched, you will be offered a choice of "
 "where you want to store your blockchain and wallet data. Choose a "
@@ -147,18 +155,18 @@ msgid ""
 "size. It is recommended to use the default data folder if possible."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:83
+#: ../../wallets/nodeclient/installation-linux.rst:86
 msgid ""
 "SmartCash NodeClient will then start up. This will take a little longer "
 "than usual the first time you run it, since SmartCash NodeClient needs to"
 " generate cryptographic data to secure your wallet."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:89
+#: ../../wallets/nodeclient/installation-linux.rst:92
 msgid "Synchronizing SmartCash NodeClient to the SmartCash network"
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:91
+#: ../../wallets/nodeclient/installation-linux.rst:94
 msgid ""
 "Once SmartCash NodeClient is successfully installed and started, you will"
 " see the wallet overview screen. You will notice that the wallet is “out "
@@ -166,7 +174,7 @@ msgid ""
 "synchronization progress."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:96
+#: ../../wallets/nodeclient/installation-linux.rst:99
 msgid ""
 "During this process, SmartCash NodeClient will download a full copy of "
 "the SmartCash blockchain from other nodes to your device. Depending on "
@@ -176,15 +184,15 @@ msgid ""
 " right corner."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:102
+#: ../../wallets/nodeclient/installation-linux.rst:105
 msgid "You can now begin to use your wallet to send and receive funds."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:105
+#: ../../wallets/nodeclient/installation-linux.rst:108
 msgid "Encrypting your SmartCash wallet"
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:107
+#: ../../wallets/nodeclient/installation-linux.rst:110
 msgid ""
 "After your wallet has synchronized with the SmartCash network, it is "
 "strongly advised to encrypt the wallet with a password or passphrase to "
@@ -194,11 +202,11 @@ msgid ""
 "access to your funds."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:114
+#: ../../wallets/nodeclient/installation-linux.rst:117
 msgid "To encrypt your wallet, click **Settings** > **Encrypt wallet**."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:116
+#: ../../wallets/nodeclient/installation-linux.rst:119
 msgid ""
 "When the encryption process is complete, you will see a warning that past"
 " backups of your wallet will no longer be usable, and be asked to shut "
@@ -206,11 +214,11 @@ msgid ""
 "will see a small blue lock in the lower right corner."
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:122
+#: ../../wallets/nodeclient/installation-linux.rst:125
 msgid "Using the Ubuntu Repository to install SmartCash NodeClient"
 msgstr ""
 
-#: ../../wallets/nodeclient/installation-linux.rst:124
+#: ../../wallets/nodeclient/installation-linux.rst:127
 msgid ""
 "Ubuntu allows you to add third-party repositories to install and update "
 "software using the apt command line utility. SmartCash NodeClient team "
@@ -384,5 +392,14 @@ msgstr ""
 #~ "Node Client from the repository, open"
 #~ " the Terminal and enter the following"
 #~ " commands::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If the hashes match, then you have"
+#~ " an authentic copy of SmartCash "
+#~ "NodeClient for Linux. View more here "
+#~ "[https://smartcash.freshdesk.com/support/solutions/articles/35000087793]()"
+#~ " Extracting SmartCash NodeClient "
+#~ "-------------------------------"
 #~ msgstr ""
 

@@ -75,6 +75,7 @@ if possible.
 SmartCash NodeClient will then start up. This will take a little longer than usual
 the first time you run it, since SmartCash NodeClient needs to generate
 cryptographic data to secure your wallet.
+
 Synchronizing SmartCash NodeClient to the SmartCash network
 --------------------------------------------------------------
 
