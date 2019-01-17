@@ -24,7 +24,7 @@ SmartCash, please click the links below.
 - `Using Electrum Through Tor <http://docs.electrum.org/en/latest/tor.html>`_
 
 Smartnodes in SmartCash Electrum
-============================
+================================
 
 SmartCash Electrum supports smartnode creation through an interface called
 the **Smartnode Manager**.
@@ -427,7 +427,7 @@ Send your transaction to the SmartCash network, using broadcast::
 If successful, the command will return the ID of the transaction.
 
 How to accept SmartCash on a website using SmartCash Electrum
-===================================================
+=============================================================
 
 This tutorial will show you how to accept smartcash on a website with SSL
 signed payment requests. It is updated for SmartCash Electrum 2.6.

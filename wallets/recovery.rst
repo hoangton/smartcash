@@ -89,11 +89,11 @@ replacing or renaming the existing file.
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
 | Platform | Path to data folder            | How to navigate                                                                               |
 +==========+================================+===============================================================================================+
-| Linux    | ~/                             | Go to your home folder and press **Ctrl+H** to show hidden files, then open ``.smartcash``     |
+| Linux    | ~/                             | Go to your home folder and press **Ctrl+H** to show hidden files, then open ``.smartcash``    |
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
-| macOS    | ~/Library/Application Support/ | Press **Shift + Control + G**, type ``~/Library/Application Support``, then open ``SmartCash`` |
+| macOS    | ~/Library/Application Support/ | Press **Shift + Control + G**, type ``~/Library/Application Support``, then open ``SmartCash``|
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
-| Windows  | %APPDATA%                      | Press **Windows Key + R** and type ``%APPDATA%``, then open ``SmartCash``                      |
+| Windows  | %APPDATA%                      | Press **Windows Key + R** and type ``%APPDATA%``, then open ``SmartCash``                     |
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
 
 

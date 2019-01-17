@@ -306,7 +306,7 @@ Open PuTTY or a console again and connect using the username and
 password you just created for your new, non-root user.
 
 Option 1: Automated installation using Bash installer
-----------------------------------------------
+-----------------------------------------------------
 
 To install SmartCash using Bash installer, enter the following commands after
 logging in::

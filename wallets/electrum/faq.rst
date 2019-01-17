@@ -89,7 +89,7 @@ Type an exclamation mark (!) in the **Amount** field or simply click the
 **Max** button. The fee will be automatically adjusted for that amount.
 
 How can I send SmartCash without paying a transaction fee?
------------------------------------------------------
+----------------------------------------------------------
 
 You can create a zero fee transaction in the GUI by following these
 steps:
@@ -102,7 +102,7 @@ Note that transactions without fees might not be relayed by the SmartCash
 Electrum server, or by the SmartCash network.
 
 Is there a way to enter amounts in USD in SmartCash Electrum?
---------------------------------------------------------
+-------------------------------------------------------------
 
 Yes, go to **Tools > Prefernce > Fiat** and select a **Fiat currency**
 to display the current exchange rate from the chosen **Source**.
@@ -114,7 +114,7 @@ to display the current exchange rate from the chosen **Source**.
 
 
 What does it mean to “Freeze” an address in SmartCash Electrum?
-----------------------------------------------------------
+---------------------------------------------------------------
 
 When you freeze an address, the funds in that address will not be used
 for sending SmartCash. You cannot send SmartCash if you don’t have enough funds
@@ -157,7 +157,7 @@ seed phrase.
 
 
 Can I import private keys from other SmartCash clients?
---------------------------------------------------
+-------------------------------------------------------
 
 In SmartCash Electrum 4.0, you cannot import private keys in a wallet that
 has a seed. You should sweep them instead.
@@ -177,7 +177,7 @@ recovered from seed.
    Importing a list of private keys to create a wallet
 
 Can I sweep private keys from other SmartCash clients?
--------------------------------------------------
+------------------------------------------------------
 
 Sweeping private keys means to send all the SmartCash they control to an
 existing address in your wallet. The private keys you sweep do not
@@ -206,7 +206,7 @@ first run the application. It is located under the `/wallets` folder.
   and paste it in to the address bar
 
 Can I do bulk payments with SmartCash Electrum?
-------------------------------------------
+-----------------------------------------------
 
 You can create a transaction with several outputs. In the GUI, type each
 address and amount on a line, separated by a comma.
@@ -221,13 +221,13 @@ the GUI. You can also import a CSV file in the **Pay to** field by
 clicking on the folder icon.
 
 Can SmartCash Electrum create and sign raw transactions?
----------------------------------------------------
+--------------------------------------------------------
 
 SmartCash Electrum lets you create and sign raw transactions right from the
 user interface using a form.
 
 SmartCash Electrum freezes when I try to send SmartCash
-------------------------------------------------------
+-------------------------------------------------------
 
 This might happen if you are trying to spend a large number of
 transactions outputs (for example, if you have collected hundreds of

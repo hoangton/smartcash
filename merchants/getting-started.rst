@@ -28,7 +28,7 @@ Many major merchants accept SmartCash - check out `Taco
 <https://www.taco.com.br/>`__ or `boralatour
 <https://boralatour.com.br/>`__ for examples of what merchant integration
 can look like. Once you are up and running accepting SmartCash, consider
-adding your business to the directory maintained at `Find SmartCash
+adding your business to the directory maintained at `SmartCash Merchant Directory
 <https://find.smartcash.cc>`_ for increased visibility.
 
 Payment Processors

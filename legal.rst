@@ -139,6 +139,7 @@ will enter into lines of business with new risks. This risk-based
 approach requires, at the outset, an independent risk assessment. By and
 large, the risks faced by exchanges who begin to support SmartCash will be
 similar to the risks associated with other virtual currencies. 
+
 - Exchanges should consider revising their risk assessments and AML
   policies to account for the unique characteristics of SmartCash. For
   example, including blockchain addresses in Suspicious Activity Reports

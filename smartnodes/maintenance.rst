@@ -68,6 +68,7 @@ Verify the integrity of your download by running the following command
 and comparing the output against the value for SHA256 Checksum
 
     sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz
+
 Extract the compressed archive and run wallet from this directory::
 
     tar xfv smartcash-1.2.6-x86_64-linux-gnu.tar.gz

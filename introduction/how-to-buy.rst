@@ -188,18 +188,20 @@ coinexchange
 
 https://www.coinexchange.io/market/SMART/BTC
 
-stex
+Stex
   .. image:: exchanges/stex.png
      :width: 200px
      :align: right
      :target: https://app.stex.com/en/basic-trade/pair/BTC/SMART/
+	 
 https://app.stex.com/en/basic-trade/pair/BTC/SMART/
 
-ebitcoinics
+eBitcoinics
   .. image:: exchanges/ebitcoinics.png
      :width: 200px
      :align: right
      :target: https://www.ebitcoinics.com/
+	 
 https://www.ebitcoinics.com/
 
 .. _instant_exchanges:

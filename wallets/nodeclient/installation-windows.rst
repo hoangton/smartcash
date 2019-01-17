@@ -24,6 +24,7 @@ how to check this in other versions of Windows, see
 
    Under the System section, click About to view the System type. This is
    a 64 bit system.
+   
 Save the file you downloaded to your Downloads folder.
 
 Verifying SmartCash NodeClient
@@ -49,6 +50,7 @@ Double-click the file to start installing SmartCash NodeClient.
 At this point, you may see a warning from Windows SmartScreen that the
 app is unrecognized. You can safely skip past this warning by clicking
 **More info**, then **Run anyway**.
+
    Bypassing Windows SmartScreen to run the app. This warning is known 
    as a “false positive”.
 

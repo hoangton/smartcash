@@ -63,6 +63,7 @@ we will extract the executable file with a graphical user interface
 Begin by creating a folder for the SmartCash NodeClient executable file on the
 Desktop. Browse to the Desktop (or the location of your choice) and
 create the folder.
+
    Creating a folder on the Desktop
    Renaming the folder to SmartCash
 

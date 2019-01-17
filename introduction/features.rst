@@ -165,7 +165,7 @@ Band, this pioneering cooperation allows SmartCash to be accepted
 broadly by merchants with no additional steps, technology, or training
 required.
 
-.. _smarthive:
+.. _smartvote:
 
 SmartHive Governance and Hive Teams
 ===================================
