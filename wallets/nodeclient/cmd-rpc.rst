@@ -56,7 +56,9 @@ SmartCash version v1.2.6 (64-bit)
 
 Usage:
 ^^^^^^
-  smartcash-qt [command-line options]                     
+
+  smartcash-qt [command-line options] 
+  
 
 Options:
 ^^^^^^^^
@@ -108,7 +110,7 @@ Connection options:
 --rpcserialversion	Sets the serialization of raw transaction or block hex returned in non--verbose mode, non--segwit(0) or segwit(1) (default: 1) 
 --seednode=<ip>	Connect to a node to retrieve peer addresses, and disconnect 
 --timeout=<n>	Specify connection timeout in milliseconds (minimum: 1, default: 5000) 
---torcontrol=<ip>:<port>	Tor control port to use if onion listening enabled (default: 127.0.0.1:9051) 
+--torcontrol=<ip:port>	Tor control port to use if onion listening enabled (default: 127.0.0.1:9051) 
 --torpassword=<pass>	Tor control port password (default: empty) 
 --upnp	Use UPnP to map the listening port (default: 0) 
 --whitebind=<addr>	Bind to given address and whitelist peers connecting to it. Use [host]:port notation for IPv6 
