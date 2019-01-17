@@ -100,7 +100,7 @@ Connection options:
 --maxreceivebuffer=<n>	Maximum per--connection receive buffer, <n>*1000 bytes (default: 5000) 
 --maxsendbuffer=<n>	Maximum per--connection send buffer, <n>*1000 bytes (default: 1000) 
 --maxtimeadjustment	Maximum allowed median peer time offset adjustment. Local perspective of time may be influenced by peers forward or backward by this amount. (default: 4200 seconds) 
---onion=<ip:port>	Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: --proxy) 
+--onion=<ip:port>	Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: proxy) 
 --onlynet=<net>	Only connect to nodes in network <net> (ipv4, ipv6 or onion) 
 --permitbaremultisig	Relay non--P2SH multisig (default: 0) 
 --peerbloomfilters	Support filtering of blocks and transaction with bloom filters (default: 1) 

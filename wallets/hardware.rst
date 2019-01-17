@@ -2,7 +2,7 @@
    :description: How to use SmartCash cryptocurrency with hardware wallets
    :keywords: smartcash, hardware, wallet, trezor, secure, private key
 
-.. _smartcash-hardware-wallet:
+.. _hardware-wallet:
 
 Introduction
 ============
@@ -52,7 +52,7 @@ wallet to use it with. Trezor supports the following SmartCash wallets:
 - `Trezor Wallet <https://wallet.trezor.io>`_ (`documentation
   <https://doc.satoshilabs.com/trezor-apps/trezorwallet.html>`__)
 - `SmartCash Electrum Wallet <https://smartcash.cc/wallets/#electrum>`__
-  (:ref:`documentation <smartcash-electrum-wallet>`)
+  (:ref:`documentation <electrum-wallet>`)
 
 This documentation describes how to get started using the official
 Trezor web wallet at `https://wallet.trezor.io

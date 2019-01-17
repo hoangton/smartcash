@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 15:57+0700\n"
+"POT-Creation-Date: 2019-01-17 16:46+0700\n"
 "PO-Revision-Date: 2019-01-16 11:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -57,7 +57,7 @@ msgid ""
 "wallet <hardware-wallets>`."
 msgstr ""
 
-#: ../../wallets/index.rst:30 ../../wallets/index.rst:71
+#: ../../wallets/index.rst:30
 msgid "SmartCash NodeClient Wallet"
 msgstr ""
 
@@ -117,8 +117,12 @@ msgstr ""
 msgid "Available documentation:"
 msgstr ""
 
-#: ../../wallets/index.rst:76 ../../wallets/index.rst:105
-msgid "SmartCash Electrum Wallet"
+#: ../../wallets/index.rst:71
+msgid "NodeClient Wallet"
+msgstr ""
+
+#: ../../wallets/index.rst:76
+msgid "Electrum Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:78
@@ -141,8 +145,12 @@ msgid ""
 "<http://docs.electrum.org>`_."
 msgstr ""
 
+#: ../../wallets/index.rst:105
+msgid "SmartCash Electrum Wallet"
+msgstr ""
+
 #: ../../wallets/index.rst:110
-msgid "SmartCash Android Wallet"
+msgid "Android Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:112
@@ -156,11 +164,11 @@ msgid "https://play.google.com/store/apps/details?id=cc.smartcash.wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:116
-msgid "*SmartCash Android Wallet*"
+msgid "*Android Wallet*"
 msgstr ""
 
 #: ../../wallets/index.rst:121
-msgid "SmartCash iOS Wallet"
+msgid "iOS Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:123
@@ -174,40 +182,46 @@ msgid "https://itunes.apple.com/us/app/smartcash-wallet/id1438215565?mt=8"
 msgstr ""
 
 #: ../../wallets/index.rst:127
-msgid "*SmartCash iOS Wallet*"
+msgid "*iOS Wallet*"
 msgstr ""
 
 #: ../../wallets/index.rst:132
-msgid "SmartCash smartcard Wallet"
+msgid "Smartcard Wallet"
 msgstr ""
 
-#: ../../wallets/index.rst:134
-msgid ""
-"FUTURE POTENTIAL OF SMARTCARD… Debit and credit card payments have "
-"arguably become the dominant way for many to carry out most, if not all, "
-"of their daily transactions. Adoption of card payments became "
-"increasingly simple for smaller businesses, and now quick and affordable "
-"smartphone-powered solutions are already a reality. SmartCard emerged "
-"offering to solve many of the problems facing traditional systems. "
-"SmartCard  is blockchain-based solution that aims to improve on the "
-"digital payment card model. Our main goals are to streamline crypto "
-"transactions and make them practical for use in real-life payment "
-"scenarios. At the same time, we aim to drastically reduce fees and "
-"confirmation time frames over those found in current solutions."
+#: ../../wallets/index.rst:135
+msgid "FUTURE POTENTIAL OF SMARTCARD…"
 msgstr ""
 
-#: ../../wallets/index.rst:138
-#, python-format
+#: ../../wallets/index.rst:137
 msgid ""
-"SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION As they currently stand, "
-"both traditional cards and crypto payment solutions leave a lot to be "
-"desired. Transaction fees of over 3% for some cards can add up to "
-"substantial losses over time for businesses of all sizes. For even small "
-"businesses, it’s normal for more than $50,000 a year to be lost in "
-"processing fees."
+"Debit and credit card payments have arguably become the dominant way for "
+"many to carry out most, if not all, of their daily transactions. Adoption"
+" of card payments became increasingly simple for smaller businesses, and "
+"now quick and affordable smartphone-powered solutions are already a "
+"reality. SmartCard emerged offering to solve many of the problems facing "
+"traditional systems. SmartCard  is blockchain-based solution that aims to"
+" improve on the digital payment card model. Our main goals are to "
+"streamline crypto transactions and make them practical for use in real-"
+"life payment scenarios. At the same time, we aim to drastically reduce "
+"fees and confirmation time frames over those found in current solutions."
 msgstr ""
 
 #: ../../wallets/index.rst:141
+msgid "SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION"
+msgstr ""
+
+#: ../../wallets/index.rst:143
+#, python-format
+msgid ""
+"As they currently stand, both traditional cards and crypto payment "
+"solutions leave a lot to be desired. Transaction fees of over 3% for some"
+" cards can add up to substantial losses over time for businesses of all "
+"sizes. For even small businesses, it’s normal for more than $50,000 a "
+"year to be lost in processing fees."
+msgstr ""
+
+#: ../../wallets/index.rst:145
 msgid ""
 "In addition to this, both buyers and sellers must have access to major "
 "banks and their services in order to facilitate these types of "
@@ -222,7 +236,7 @@ msgid ""
 "everyday applications."
 msgstr ""
 
-#: ../../wallets/index.rst:143
+#: ../../wallets/index.rst:147
 msgid ""
 "Using their new feature called the SmartCard, the developers of SmartCash"
 " are looking to improve upon and/or eliminate entirely the present "
@@ -236,7 +250,7 @@ msgid ""
 "of the actual funds."
 msgstr ""
 
-#: ../../wallets/index.rst:145
+#: ../../wallets/index.rst:149
 msgid ""
 "In a way, the purchases made with SmartCard combine the best of cash, "
 "card, and crypto payments. The funds are moved between parties instantly,"
@@ -247,13 +261,17 @@ msgid ""
 "to send cryptocurrency manually from a mobile app."
 msgstr ""
 
-#: ../../wallets/index.rst:147
-msgid ""
-"HOW IT ALL WORKS There are just two main applications: the card app for "
-"the consumer and the Point of Sale (PoS) app for the merchant."
+#: ../../wallets/index.rst:152
+msgid "HOW IT ALL WORKS"
 msgstr ""
 
-#: ../../wallets/index.rst:150
+#: ../../wallets/index.rst:154
+msgid ""
+"There are just two main applications: the card app for the consumer and "
+"the Point of Sale (PoS) app for the merchant."
+msgstr ""
+
+#: ../../wallets/index.rst:156
 msgid ""
 "The card app allows anyone to create a SmartCard with just a few taps. "
 "Each card has an associated public address which can be used to load more"
@@ -264,7 +282,7 @@ msgid ""
 "paid debit card."
 msgstr ""
 
-#: ../../wallets/index.rst:152
+#: ../../wallets/index.rst:158
 msgid ""
 "The PoS app is equally responsible for this convenience. The merchant "
 "only has to specify the transaction amount in the local currency, and the"
@@ -279,25 +297,28 @@ msgid ""
 "easy for everyone to get used to."
 msgstr ""
 
-#: ../../wallets/index.rst:154
-msgid ""
-"A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE This ease of use and "
-"familiarity present the key advantage of this system over other crypto "
-"payments, which require both parties to be online for a transaction. Once"
-" the card is created and loaded, only the merchant is responsible for "
-"having a live connection to the internet and the consumer can take the "
-"funds anywhere without worrying about a dead battery or lack of signal in"
-" remote areas. No need for fumbling with mobile wallet apps, nor any "
-"memorization beyond the simple numerical pin just like the ones used for "
-"debit purchases. In addition to this, it also offers the advantage of "
-"being usable in places where traditional banking services are only "
-"partially available, or even absent entirely. Whereas other mobile "
-"payment solutions require bank accounts for both parties to send/receive "
-"the funds, this one uses the SmartCash blockchain instead and is thus "
-"accessible to anyone who wishes to use it."
+#: ../../wallets/index.rst:161
+msgid "A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE"
 msgstr ""
 
-#: ../../wallets/index.rst:157
+#: ../../wallets/index.rst:163
+msgid ""
+"This ease of use and familiarity present the key advantage of this system"
+" over other crypto payments, which require both parties to be online for "
+"a transaction. Once the card is created and loaded, only the merchant is "
+"responsible for having a live connection to the internet and the consumer"
+" can take the funds anywhere without worrying about a dead battery or "
+"lack of signal in remote areas. No need for fumbling with mobile wallet "
+"apps, nor any memorization beyond the simple numerical pin just like the "
+"ones used for debit purchases. In addition to this, it also offers the "
+"advantage of being usable in places where traditional banking services "
+"are only partially available, or even absent entirely. Whereas other "
+"mobile payment solutions require bank accounts for both parties to "
+"send/receive the funds, this one uses the SmartCash blockchain instead "
+"and is thus accessible to anyone who wishes to use it."
+msgstr ""
+
+#: ../../wallets/index.rst:165
 msgid ""
 "Naturally, these benefits would also be quite attractive to buyers and "
 "sellers in more developed nations as well. Other crypto solutions fall "
@@ -312,15 +333,15 @@ msgid ""
 "global adoption across a wide range of markets and economies."
 msgstr ""
 
-#: ../../wallets/index.rst:169
-msgid "*SmartCash smartcard Wallet*"
+#: ../../wallets/index.rst:177
+msgid "*Smartcard Wallet*"
 msgstr ""
 
-#: ../../wallets/index.rst:174 ../../wallets/index.rst:189
-msgid "SmartCash Paper Wallet"
+#: ../../wallets/index.rst:182
+msgid "Paper Wallet"
 msgstr ""
 
-#: ../../wallets/index.rst:176
+#: ../../wallets/index.rst:184
 msgid ""
 "The `SmartCash Paper Wallet generator "
 "<https://paperwallet.smartcash.cc/>`_ allows you to generate, encrypt and"
@@ -329,11 +350,15 @@ msgid ""
 "storage."
 msgstr ""
 
-#: ../../wallets/index.rst:195
+#: ../../wallets/index.rst:197
+msgid "SmartCash Paper Wallet"
+msgstr ""
+
+#: ../../wallets/index.rst:203
 msgid "Hardware Wallets"
 msgstr ""
 
-#: ../../wallets/index.rst:197
+#: ../../wallets/index.rst:205
 msgid ""
 "A hardware wallet is a type of device which stores private keys for a "
 "blockchain in a secure hardware device, instead of in a database file "
@@ -345,7 +370,7 @@ msgid ""
 "private keys used with software wallets."
 msgstr ""
 
-#: ../../wallets/index.rst:206
+#: ../../wallets/index.rst:214
 msgid ""
 "Hardware wallets function by storing your private keys in a protected "
 "area of a microcontroller. It is impossible for the private key to leave "
@@ -356,22 +381,22 @@ msgid ""
 "sending to is correct."
 msgstr ""
 
-#: ../../wallets/index.rst:214
+#: ../../wallets/index.rst:222
 msgid ""
 "This section lists the most common commercial hardware wallets supporting"
 " SmartCash, although some other enthusiast projects may also be "
 "available."
 msgstr ""
 
-#: ../../wallets/index.rst:225
+#: ../../wallets/index.rst:233
 msgid "Trezor and Electrum SmartCash Wallet"
 msgstr ""
 
-#: ../../wallets/index.rst:230
+#: ../../wallets/index.rst:238
 msgid "Third Party Wallets"
 msgstr ""
 
-#: ../../wallets/index.rst:232
+#: ../../wallets/index.rst:240
 msgid ""
 "These wallets have been developed by external developers to support "
 "SmartCash. Many third party wallets support multiple different "
@@ -379,30 +404,30 @@ msgid ""
 "exchanges."
 msgstr ""
 
-#: ../../wallets/index.rst:245
+#: ../../wallets/index.rst:253
 msgid "Edge Wallet"
 msgstr ""
 
-#: ../../wallets/index.rst:251
+#: ../../wallets/index.rst:259
 msgid "Web Wallets"
 msgstr ""
 
-#: ../../wallets/index.rst:253
+#: ../../wallets/index.rst:261
 msgid ""
 "https://wallet.smartcash.cc/, which provides a secure web interface to "
 "the SmartCash blockchain while leaving you with full control of your "
 "private keys."
 msgstr ""
 
-#: ../../wallets/index.rst:265
+#: ../../wallets/index.rst:273
 msgid "My SmartCash Wallet"
 msgstr ""
 
-#: ../../wallets/index.rst:268
+#: ../../wallets/index.rst:276
 msgid "Wallet Guides"
 msgstr ""
 
-#: ../../wallets/index.rst:270
+#: ../../wallets/index.rst:278
 msgid ""
 "Documentation in this section describes common tasks and questions "
 "relating to all wallets."
@@ -435,5 +460,100 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "smartnode commands and voting"
+#~ msgstr ""
+
+#~ msgid "SmartCash Android Wallet"
+#~ msgstr ""
+
+#~ msgid "*SmartCash Android Wallet*"
+#~ msgstr ""
+
+#~ msgid "SmartCash iOS Wallet"
+#~ msgstr ""
+
+#~ msgid "*SmartCash iOS Wallet*"
+#~ msgstr ""
+
+#~ msgid "SmartCash smartcard Wallet"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "FUTURE POTENTIAL OF SMARTCARD… Debit and"
+#~ " credit card payments have arguably "
+#~ "become the dominant way for many "
+#~ "to carry out most, if not all, "
+#~ "of their daily transactions. Adoption of"
+#~ " card payments became increasingly simple"
+#~ " for smaller businesses, and now "
+#~ "quick and affordable smartphone-powered "
+#~ "solutions are already a reality. "
+#~ "SmartCard emerged offering to solve many"
+#~ " of the problems facing traditional "
+#~ "systems. SmartCard  is blockchain-based "
+#~ "solution that aims to improve on "
+#~ "the digital payment card model. Our "
+#~ "main goals are to streamline crypto "
+#~ "transactions and make them practical for"
+#~ " use in real-life payment scenarios."
+#~ " At the same time, we aim to"
+#~ " drastically reduce fees and confirmation"
+#~ " time frames over those found in "
+#~ "current solutions."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SOLVING MAJOR CHALLENGES WITH A SIMPLE"
+#~ " SOLUTION As they currently stand, "
+#~ "both traditional cards and crypto "
+#~ "payment solutions leave a lot to "
+#~ "be desired. Transaction fees of over "
+#~ "3% for some cards can add up "
+#~ "to substantial losses over time for "
+#~ "businesses of all sizes. For even "
+#~ "small businesses, it’s normal for more"
+#~ " than $50,000 a year to be lost"
+#~ " in processing fees."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "HOW IT ALL WORKS There are just"
+#~ " two main applications: the card app"
+#~ " for the consumer and the Point "
+#~ "of Sale (PoS) app for the "
+#~ "merchant."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A REVOLUTIONARY PAYMENT SYSTEM EVERYONE "
+#~ "CAN LOVE This ease of use and "
+#~ "familiarity present the key advantage of"
+#~ " this system over other crypto "
+#~ "payments, which require both parties to"
+#~ " be online for a transaction. Once"
+#~ " the card is created and loaded, "
+#~ "only the merchant is responsible for "
+#~ "having a live connection to the "
+#~ "internet and the consumer can take "
+#~ "the funds anywhere without worrying "
+#~ "about a dead battery or lack of"
+#~ " signal in remote areas. No need "
+#~ "for fumbling with mobile wallet apps,"
+#~ " nor any memorization beyond the "
+#~ "simple numerical pin just like the "
+#~ "ones used for debit purchases. In "
+#~ "addition to this, it also offers "
+#~ "the advantage of being usable in "
+#~ "places where traditional banking services "
+#~ "are only partially available, or even"
+#~ " absent entirely. Whereas other mobile "
+#~ "payment solutions require bank accounts "
+#~ "for both parties to send/receive the "
+#~ "funds, this one uses the SmartCash "
+#~ "blockchain instead and is thus "
+#~ "accessible to anyone who wishes to "
+#~ "use it."
+#~ msgstr ""
+
+#~ msgid "*SmartCash smartcard Wallet*"
 #~ msgstr ""
 

@@ -68,12 +68,12 @@ Available documentation:
 .. figure:: nodeclient/img/windows/1.png
    :width: 400 px
 
-   SmartCash NodeClient Wallet
+   NodeClient Wallet
 
-.. _smartcash-electrum-wallet:
+.. _electrum-wallet:
 
-SmartCash Electrum Wallet
-=========================
+Electrum Wallet
+===============
 
 SmartCash Electrum is a light wallet which uses powerful external servers to
 index the blockchain, while still securing the keys on your personal
@@ -104,38 +104,42 @@ available at the `official documentation site
 
    SmartCash Electrum Wallet
 
-.. _smartcash-android-wallet:
+.. _android-wallet:
 
-SmartCash Android Wallet
-========================
+Android Wallet
+==============
 
 SmartCash offers wallet for Android, this is the mobile versions of web wallet so have all features of web wallet.
 
 https://play.google.com/store/apps/details?id=cc.smartcash.wallet
 
-*SmartCash Android Wallet*
+*Android Wallet*
 
-.. _smartcash-ios-wallet:
+.. _ios-wallet:
 
-SmartCash iOS Wallet
-====================
+iOS Wallet
+==========
 
 SmartCash offers wallet for iOS, this is the mobile versions of web wallet so have all features of web wallet.
 
 https://itunes.apple.com/us/app/smartcash-wallet/id1438215565?mt=8
 
-*SmartCash iOS Wallet*
+*iOS Wallet*
 
-.. _smartcash-smartcard-wallet:
+.. _smartcard-wallet:
 
-SmartCash smartcard Wallet
+Smartcard Wallet
 ==========================
 
 FUTURE POTENTIAL OF SMARTCARD…
+------------------------------
+
 Debit and credit card payments have arguably become the dominant way for many to carry out most, if not all, of their daily transactions. Adoption of card payments became increasingly simple for smaller businesses, and now quick and affordable smartphone-powered solutions are already a reality.
 SmartCard emerged offering to solve many of the problems facing traditional systems. SmartCard  is blockchain-based solution that aims to improve on the digital payment card model. Our main goals are to streamline crypto transactions and make them practical for use in real-life payment scenarios. At the same time, we aim to drastically reduce fees and confirmation time frames over those found in current solutions. 
 
 SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION
+-----------------------------------------------
+
 As they currently stand, both traditional cards and crypto payment solutions leave a lot to be desired. Transaction fees of over 3% for some cards can add up to substantial losses over time for businesses of all sizes. For even small businesses, it’s normal for more than $50,000 a year to be lost in processing fees.
 
 In addition to this, both buyers and sellers must have access to major banks and their services in order to facilitate these types of transactions; a major problem in many parts of the world. Also, traditional services inherently have long confirmation times of up to several days, which can themselves lead to other issues. Cryptocurrencies have indeed proposed solutions to many of these challenges, as it is easy to find many projects today that offer instant transactions and virtually no fees. But, this doesn’t change the fact that using this new technology in its current form is like trying to send an email in the 80s – too time-consuming to setup and operate to be practical for most everyday applications.
@@ -145,6 +149,8 @@ Using their new feature called the SmartCard, the developers of SmartCash are lo
 In a way, the purchases made with SmartCard combine the best of cash, card, and crypto payments. The funds are moved between parties instantly, like cash, but the transaction is authorized by the buyer with a simple code that can be either digitally stored on a smartphone or printed and carried separately as a physical QR code. This makes the payment process just as convenient as regular card payments, and far easier than having to send cryptocurrency manually from a mobile app.
 
 HOW IT ALL WORKS
+----------------
+
 There are just two main applications: the card app for the consumer and the Point of Sale (PoS) app for the merchant.
 
 The card app allows anyone to create a SmartCard with just a few taps. Each card has an associated public address which can be used to load more funds onto the card from any wallet or exchange that offers SmartCash. Also included into each one is a QR code which can be scanned by the PoS application from either a phone screen or from a simple piece of paper. Once loaded through this address, the card works very similar to a pre-paid debit card.
@@ -152,6 +158,8 @@ The card app allows anyone to create a SmartCard with just a few taps. Each card
 The PoS app is equally responsible for this convenience. The merchant only has to specify the transaction amount in the local currency, and the app automatically initiates a transaction in the equivalent amount of SmartCash. The merchant uses the app to scan the code and requests the buyer to enter a confirmation pin. After entering it on the merchant’s smartphone, the app connects to the blockchain to submit the transaction. If the code and pin match, and there are enough funds in the card address, the transaction is instantly verified and recorded on the blockchain. The process of scanning a card and entering a pin to confirm is already well familiar to current debit card users, and so it would be easy for everyone to get used to.
 
 A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE
+------------------------------------------------
+
 This ease of use and familiarity present the key advantage of this system over other crypto payments, which require both parties to be online for a transaction. Once the card is created and loaded, only the merchant is responsible for having a live connection to the internet and the consumer can take the funds anywhere without worrying about a dead battery or lack of signal in remote areas. No need for fumbling with mobile wallet apps, nor any memorization beyond the simple numerical pin just like the ones used for debit purchases. In addition to this, it also offers the advantage of being usable in places where traditional banking services are only partially available, or even absent entirely. Whereas other mobile payment solutions require bank accounts for both parties to send/receive the funds, this one uses the SmartCash blockchain instead and is thus accessible to anyone who wishes to use it.
 
 Naturally, these benefits would also be quite attractive to buyers and sellers in more developed nations as well. Other crypto solutions fall somewhat short of their promises. Crypto debit cards suffer from the same fees and transaction delays as any other current plastic card, and sending money through current mobile wallets requires a lot of time and effort to make the payments. Compared to these options, SmartCard payments are in a league of their own in convenience and speed. Add to this the fact that the SmartCash community is actively seeking, recruiting, and sponsoring business owners and entrepreneurs globally, and it is easy to imagine how the SmartCard could increasingly gain global adoption across a wide range of markets and economies.
@@ -166,12 +174,12 @@ Naturally, these benefits would also be quite attractive to buyers and sellers i
 .. image:: smartcard/img/details.png
     :width: 160 px
 
-*SmartCash smartcard Wallet*
+*Smartcard Wallet*
 
 .. _paper-wallets:
 
-SmartCash Paper Wallet
-======================
+Paper Wallet
+============
 
 The `SmartCash Paper Wallet generator <https://paperwallet.smartcash.cc/>`_ allows you
 to generate, encrypt and secure the keys to a single SmartCash address on a

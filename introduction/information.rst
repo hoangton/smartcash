@@ -508,8 +508,8 @@ Digital Wallet
     your wallet files to ensure that you don't lose access to your 
     funds.
 
-  - **Mobile Wallet** (:ref:`Android <smartcash-android-wallet>`, :ref:`iOS
-    <smartcash-ios-wallet>`): These wallets can be downloaded through Google
+  - **Mobile Wallet** (:ref:`Android <android-wallet>`, :ref:`iOS
+    <ios-wallet>`): These wallets can be downloaded through Google
     Play or Apple (iTunes) App Stores. Mobile wallets allow you to use
     SmartCash on-the-go by scanning a QR code to send payment. Make backup
     copies of your mobile wallet files to ensure that you don't lose

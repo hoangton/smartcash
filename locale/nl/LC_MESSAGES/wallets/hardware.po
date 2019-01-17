@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 16:51+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -102,7 +102,7 @@ msgstr ""
 #: ../../wallets/hardware.rst:54
 msgid ""
 "`SmartCash Electrum Wallet <https://smartcash.cc/wallets/#electrum>`__ "
-"(:ref:`documentation <smartcash-electrum-wallet>`)"
+"(:ref:`documentation <electrum-wallet>`)"
 msgstr ""
 
 #: ../../wallets/hardware.rst:57
@@ -200,4 +200,10 @@ msgstr ""
 #: ../../wallets/hardware.rst:110
 msgid "Trezor Web Wallet for SmartCash ready for first use"
 msgstr ""
+
+#~ msgid ""
+#~ "`SmartCash Electrum Wallet "
+#~ "<https://smartcash.cc/wallets/#electrum>`__ (:ref:`documentation"
+#~ " <smartcash-electrum-wallet>`)"
+#~ msgstr ""
 

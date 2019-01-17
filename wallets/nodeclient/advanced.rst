@@ -165,7 +165,7 @@ You can now use the two icons to quickly and easily open different
 wallets simultaneously from your desktop. Both wallets maintain separate
 and full copies of the blockchain, which may use a lot of drive space.
 For more efficient use of drive space, consider using an SPV or "light"
-wallet such as :ref:`smartcash Electrum <smartcash-electrum-wallet>` to maintain
+wallet such as :ref:`smartcash Electrum <electrum-wallet>` to maintain
 multiple separate wallets without keeping a full copy of the blockchain.
 
 .. figure:: img/2wallets.png

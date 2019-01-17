@@ -28,10 +28,10 @@ A few general safety guidelines:
 - Do not trust any online service or person because they sound or look
   reputable. Always use an escrow service if you are buying peer-to-
   peer.
-- Store your SmartCash on a :ref:`hardware wallet <smartcash-hardware-wallet>` if 
+- Store your SmartCash on a :ref:`hardware wallet <hardware-wallet>` if 
   possible. If not, then store your coins in the official 
   :ref:`SmartCash NodeClient Wallet <nodeclient-wallet>` or the official 
-  :ref:`SmartCash Electrum Wallet <smartcash-electrum-wallet>`.
+  :ref:`SmartCash Electrum Wallet <electrum-wallet>`.
 - Do not use exchanges as wallets. Exchanges are for trading, not for
   savings.
 - Mobile wallets should be used for day-to-day purchases, but do not
