@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, SmartCash
+# This file is distributed under the same license as the SmartCash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartCash latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"PO-Revision-Date: 2019-01-16 11:30+0000\n"
+"Language-Team: French (https://www.transifex.com/smartcash/teams/95224/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../smartnodes/understanding.rst:1
+msgid ""
+"Explanation of how SmartCash smartnodes work in theory and practice to "
+"support InstantPay, smartreward"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:1
+msgid ""
+"smartcash, smartnodes, hosting, linux, payment, instantpay, smartreward,"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:9
+msgid "Understanding Smartnodes"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:17
+msgid ""
+"This section of the documentation describes the principles and mechanisms of"
+" smartnodes and the services they provide to the SmartCash network "
+"specifically."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:20
+msgid ""
+"Simply put, a smartnode is a server with a full copy of the SmartCash "
+"blockchain, which guarantees a certain minimum level of performance and "
+"functionality to perform certain tasks related to block validation, as well "
+"as InstantPay, as the anonymity and instant transaction features in "
+"SmartCash are called. The smartnodes are paid for this service, using a "
+"concept known as Proof of Service. This is in addition to the Proof of Work "
+"done by miners to secure the blockchain."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:28
+msgid ""
+"Anyone can run a smartnode. The objective is to have enough decentralization"
+" to ensure that no single person controls a significant fraction of the "
+"smartnodes. However, to avoid bloating the network with unnecessary "
+"smartnodes or encouraging reckless operators, there is one condition that "
+"needs to be fulfilled: proof of ownership of 10000 SmartCash. The coins "
+"don't need to be in the smartnode, but they need to be kept in a certain way"
+" that is transparent to the entire network. If the owner moves or spends "
+"those coins, the smartnode stops working and payment ceases."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:38
+msgid ""
+"Smartnodes are paid by the network for the Smartreward, InstantPay they "
+"provide. 10% of the block reward is paid out to the smartnodes. As more "
+"smartnodes are created, the duration between payments increases. If the "
+"collateral behind a smartnode is spent, or if a smartnode stops providing "
+"services to the network for more than one hour, it is removed from the list "
+"until normal service resumes. In this way, smartnodes are given incentive to"
+" provide efficient and reliable services to the network."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:46
+msgid ""
+"Having so many servers holding a full copy of the blockchain and working for"
+" the coin can be extremely useful. Thanks to the reward system, there is no "
+"risk of not having enough smartnodes, and the developers can rely on them "
+"quickly deploying any new decentralized feature they want to implement. This"
+" is where the true strength of SmartCash lies - an incentivized system of "
+"thousands of distributed servers working 24x7 means that SmartCash can scale"
+" more efficiently and deploy services more quickly than a blockchain run "
+"entirely by unpaid volunteers. The more smartnodes, the better and safer the"
+" SmartCash network."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:56
+msgid "The process of setting up or upgrading a smartnode is as follows:"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:58
+msgid "Set up your server and operating system"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:59
+msgid "Install the SmartCash software and synchronize the blockchain"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:60
+msgid ""
+"Generate a smartnode gen key and enter the private key on the smartnode"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:61
+msgid "Prepare a 10000 SMART transaction"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:63
+msgid ""
+"Step 1 can be omitted if you have an existing server. Steps 2 and 3 require "
+"direct access to the smartnode. Steps 3 and 4 require access to a SmartCash "
+"Wallet."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:68
+msgid "Smartnodes vs. mining"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:70
+msgid ""
+"SmartCash, like Bitcoin and most other cryptocurrencies, is based on a "
+"decentralized ledger of all transactions, known as a blockchain. This "
+"blockchain is secured through a consensus mechanism; in the case of both "
+"SmartCash and Bitcoin, the consensus mechanism is Proof of Work (PoW). "
+":ref:`Miners <mining>` attempt to solve difficult problems with specialized "
+"computers, and when they solve the problem, they receive the right to add a "
+"new block to the blockchain. If all the other people running the software "
+"agree that the problem was solved correctly, the block is added to the "
+"blockchain and the miner is rewarded."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:80
+msgid ""
+"SmartCash works a little differently from Bitcoin, however, because it has a"
+" two-tier network. The second tier is powered by smartnodes (Full Nodes), "
+"which enable instant transactions (InstantPay). Because this second tier is "
+"so important, smartnodes are also rewarded when miners discover new blocks."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:86
+msgid ""
+"The smartnode system is referred to as Proof of Service (PoSe), since the "
+"smartnodes provide crucial services to the network. In fact, the entire "
+"network is overseen by the smartnodes, which have the power to reject "
+"improperly formed blocks from miners. If a miner tried to take the entire "
+"block reward for themselves or tried to run an old version of the SmartCash "
+"software, the smartnode network would orphan that block, and it would not be"
+" added to the blockchain."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:94
+msgid ""
+"In short, miners power the first tier, which is the basic sending and "
+"receiving of funds and prevention of doublespending. Smartnodes power the "
+"second tier, which provide the added features that make SmartCash different "
+"from other cryptocurrencies. Smartnodes do not mine, and mining computers "
+"cannot serve as smartnodes. Additionally, each smartnode is “secured” by "
+"10000 SMART. Those SMART remain under the sole control of their owner at all"
+" times, and can still be freely spent. The funds are not locked in any way. "
+"However, if the funds are moved or spent, the associated smartnode will go "
+"offline and stop receiving rewards."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:109
+msgid "Payment Determination"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:112
+msgid "Smartnode requirements"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:114
+msgid ""
+"10,000 Smart: Arguably the hardest part. Smart can be obtained from "
+"exchanges such as CryptoBridge, HitBTC. For the full list of places to "
+"obtain Smart click here."
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:115
+msgid "A computer for running a local wallet to start nodes and hold funds"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:116
+msgid ""
+"A VPS server installed Ubuntu for remote node running 24hrs/day with the "
+"following specs: - 1GB RAM (about half used for OS and half for daemon) - "
+"20GB drive (less than 1GB used for wallet, some for OS, and some for "
+"future.) - 1 Static IPV4 Address per node (IPV4 address that never changes) "
+"(No IPV6)"
+msgstr ""
