@@ -30,7 +30,7 @@ A few general safety guidelines:
   peer.
 - Store your SmartCash on a :ref:`hardware wallet <smartcash-hardware-wallet>` if 
   possible. If not, then store your coins in the official 
-  :ref:`SmartCash Node Client Wallet <nodeclient-wallet>` or the official 
+  :ref:`SmartCash NodeClient Wallet <nodeclient-wallet>` or the official 
   :ref:`SmartCash Electrum Wallet <smartcash-electrum-wallet>`.
 - Do not use exchanges as wallets. Exchanges are for trading, not for
   savings.

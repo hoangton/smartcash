@@ -101,7 +101,7 @@ If you’d like to be added to this list please reach out to
 hoangton@smartcash.cc
 
 In addition to joining a pool, you will also need to create a smartcash
-address to receive your payout. To do this in smartcash Node Client wallet, see
+address to receive your payout. To do this in smartcash NodeClient wallet, see
 :ref:`here <nodeclient-send-receive>`.
 
 .. toctree::

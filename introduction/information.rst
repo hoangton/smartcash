@@ -445,9 +445,9 @@ Cryptography
   science, and electrical engineering. Applications of cryptography
   include ATM cards, computer passwords, and electronic commerce.
 
-Node Client Wallet 
-  The :ref:`SmartCash Node Client Wallet <nodeclient-installation>` (known also as the QT
-  wallet) is the "official" SmartCash wallet that is compiled by the SmartCash Team and allows  InstantPay. The Node Client
+NodeClient Wallet 
+  The :ref:`SmartCash NodeClient Wallet <nodeclient-installation>` (known also as the QT
+  wallet) is the "official" SmartCash wallet that is compiled by the SmartCash Team and allows  InstantPay. The NodeClient
   wallet will download the entire blockchain and serve it over the
   internet to any peers who request it.
 
@@ -479,7 +479,7 @@ Decentralized
 Desktop Wallet
   A wallet is a piece of software that stores your SmartCash. There are many
   different wallet options, but it is imperative to choose a secure one.
-  We recommend any of the following: :ref:`SmartCash Node Client Wallet
+  We recommend any of the following: :ref:`SmartCash NodeClient Wallet
   <nodeclient-installation>` / :ref:`SmartCash Electrum Wallet
   <electrum-installation>` / :ref:`Hardware Wallets <hardware-wallets>`
 
@@ -506,7 +506,7 @@ Digital Wallet
   many devices:
 
   - **Desktop Wallet** (:ref:`SmartCash Electrum Wallet
-    <electrum-installation>`, :ref:`SmartCash Node Client Wallet 
+    <electrum-installation>`, :ref:`SmartCash NodeClient Wallet 
     <nodeclient-installation>`): Wallet programs that you install on a laptop 
     or desktop computer. You are solely responsible for protecting the 
     wallet file and the private keys it contains. Make backup copies of 
@@ -658,7 +658,7 @@ Fork
   network. 
 Full Nodes
   Any SmartCash client that is serving a full version of the blockchain to
-  peers. This can be a user running a SmartCash Node Client wallet on his/her
+  peers. This can be a user running a SmartCash NodeClient wallet on his/her
   desktop, or it could be a :ref:`smartnodes <smartnodes>`. Full nodes
   promote decentralization by allowing any user to double check the
   validity of the blockchain.

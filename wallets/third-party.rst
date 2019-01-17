@@ -7,7 +7,7 @@
 Introduction
 ============
 
-The SmartCash protocol and many SmartCash products such as SmartCash Node Client are entirely open source, which makes it easy for third
+The SmartCash protocol and many SmartCash products such as SmartCash NodeClient are entirely open source, which makes it easy for third
 parties to integrate SmartCash with their existing cryptocurrency wallet
 solutions. This section describes some of the third party wallets
 available and the functions they offer. Please note that SmartCash does not

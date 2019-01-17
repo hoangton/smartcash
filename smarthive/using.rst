@@ -91,7 +91,7 @@ https://vote.smartcash.cc/Proposal/Create
 Voting on proposals
 ===================
 
-You can voting on proposals from Web wallet, Node Client Wallet, Electrum Wallet and any kind of wallet that support sign message.
+You can voting on proposals from Web wallet, NodeClient Wallet, Electrum Wallet and any kind of wallet that support sign message.
 
 For information on how to create a proposal, see :ref:`here
 <creating-proposals>`.

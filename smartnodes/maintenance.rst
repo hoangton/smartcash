@@ -18,7 +18,7 @@ well as maintaining the security and performance of the server.
 smartnode Software Update
 ==========================
 
-The SmartCash Node Client software requires regular updates in order to remain
+The SmartCash NodeClient software requires regular updates in order to remain
 consistent with the current network consensus. Depending on whether you
 installed SmartCash manually or using ppa, you must follow the procedure
 appropriate for your smartnode, as described below.

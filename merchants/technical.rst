@@ -11,8 +11,8 @@ Technical Guides
 SmartCash Wallet Integration
 ============================
 
-`SmartCash Node Client <https://github.com/SmartCash/Core-Smart/releases/>`__ is a fork of
-Bitcoin and the majority of functionality included in the SmartCash Node Client
+`SmartCash NodeClient <https://github.com/SmartCash/Core-Smart/releases/>`__ is a fork of
+Bitcoin and the majority of functionality included in the SmartCash NodeClient
 Daemon can be integrated in a similar manner. Key differences relate to
 customizations to existing JSON-RPC commands to support unique
 functionalities such as InstantPay. These differences, as well as more
@@ -21,7 +21,7 @@ general information, are summarized below.
 1. **General Information:** SmartCash is a “Proof of Work” blockchain with
    attributes similar to that of Bitcoin.
 
-   a. Block Time: ~455 seconds per Block
+   a. Block Time: ~55 seconds per Block
    b. Blockchain Confirmations: 6 Confirmations (or 1 in the case of 
       InstantPay)
    c. Github Source: https://github.com/SmartCash/Core-Smart
@@ -328,6 +328,6 @@ simplify entry of the SmartCash address. Printing these codes or posting the
 on your website makes it easy to receive payment and tips in SmartCash, both
 online and offline.
 
-- In SmartCash Node Client, go to the **Receive** tab, generate an address if
+- In SmartCash NodeClient, go to the **Receive** tab, generate an address if
   necessary, and double-click it to display a QR code. Right click on
   the QR code and select **Save Image** to save a PNG file.
