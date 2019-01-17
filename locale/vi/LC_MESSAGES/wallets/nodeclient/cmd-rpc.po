@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 00:17+0700\n"
+"POT-Creation-Date: 2019-01-17 11:42+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,7 +100,9 @@ msgid ""
 msgstr ""
 
 #: ../../wallets/nodeclient/cmd-rpc.rst:30
-msgid "(2000-XP) C:\\\\Documents and Settings\\\\username\\\\Application Data\\\\"
+msgid ""
+"(2000-XP) C:\\\\Documents and Settings\\\\username\\\\Application "
+"Data\\\\SmartCash\\\\smartcash.conf"
 msgstr ""
 
 #: ../../wallets/nodeclient/cmd-rpc.rst:33
@@ -631,56 +633,83 @@ msgid ""
 "*smartcash-cli* for headless wallets and *smartcashd*."
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:262
-msgid ""
-"== Addressindex == getaddressbalance getaddressdeltas getaddressmempool "
-"getaddresstxids getaddressutxos"
+#: ../../wallets/nodeclient/cmd-rpc.rst:267
+msgid "== Addressindex =="
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:269
+#: ../../wallets/nodeclient/cmd-rpc.rst:263
 msgid ""
-"== Blockchain == getbestblockhash getblock \"hash\" ( verbose ) "
-"getblockchaininfo getblockcount getblockhash index getblockhashes "
-"timestamp getblockheader \"hash\" ( verbose ) getblockheaders \"hash\" ( "
-"count verbose ) getchaintips getdifficulty getmempoolinfo getrawmempool ("
-" verbose ) getspentinfo gettxout \"txid\" n ( includemempool ) "
-"gettxoutproof [\"txid\",...] ( blockhash ) gettxoutsetinfo verifychain ( "
-"checklevel numblocks ) verifytxoutproof \"proof\""
+"getaddressbalance getaddressdeltas getaddressmempool getaddresstxids "
+"getaddressutxos"
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:289
+#: ../../wallets/nodeclient/cmd-rpc.rst:287
+msgid "== Blockchain =="
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:270
 msgid ""
-"== Control == debug ( "
+"getbestblockhash getblock \"hash\" ( verbose ) getblockchaininfo "
+"getblockcount getblockhash index getblockhashes timestamp getblockheader "
+"\"hash\" ( verbose ) getblockheaders \"hash\" ( count verbose ) "
+"getchaintips getdifficulty getmempoolinfo getrawmempool ( verbose ) "
+"getspentinfo gettxout \"txid\" n ( includemempool ) gettxoutproof "
+"[\"txid\",...] ( blockhash ) gettxoutsetinfo verifychain ( checklevel "
+"numblocks ) verifytxoutproof \"proof\""
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:293
+msgid "== Control =="
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:290
+msgid ""
+"debug ( "
 "0|1|addrman|alert|bench|coindb|db|lock|rand|rpc|selectcoins|mempool|mempoolrej|net|proxy|prune|http|libevent|tor|zmq|smartcash|privatesend|instantsend|smartnode|spork|keepass|mnpayments|gobject"
 " ) getinfo help ( \"command\" ) stop"
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:295
-msgid ""
-"== Generating == generate numblocks ( maxtries ) getgenerate setgenerate "
-"generate ( genproclimit )"
+#: ../../wallets/nodeclient/cmd-rpc.rst:298
+msgid "== Generating =="
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:300
+#: ../../wallets/nodeclient/cmd-rpc.rst:296
 msgid ""
-"== Mining == getblocktemplate ( SigningAddress ) getmininginfo "
-"getnetworkhashps ( blocks height ) prioritisetransaction <txid> <priority"
-" delta> <fee delta> submitblock \"hexdata\" ( \"jsonparametersobject\" )"
+"generate numblocks ( maxtries ) getgenerate setgenerate generate ( "
+"genproclimit )"
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:307
-msgid ""
-"== Network == addnode \"node\" \"add|remove|onetry\" clearbanned "
-"disconnectnode \"node\" getaddednodeinfo dummy ( \"node\" ) "
-"getconnectioncount getnettotals getnetworkinfo getpeerinfo listbanned "
-"ping setban \"ip(/netmask)\" \"add|remove\" (bantime) (absolute) "
-"setnetworkactive true|false"
+#: ../../wallets/nodeclient/cmd-rpc.rst:305
+msgid "== Mining =="
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:321
+#: ../../wallets/nodeclient/cmd-rpc.rst:301
 msgid ""
-"== Rawtransactions == createrawtransaction "
-"[{\"txid\":\"id\",\"vout\":n},...] "
+"getblocktemplate ( SigningAddress ) getmininginfo getnetworkhashps ( "
+"blocks height ) prioritisetransaction <txid> <priority delta> <fee delta>"
+" submitblock \"hexdata\" ( \"jsonparametersobject\" )"
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:319
+msgid "== Network =="
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:308
+msgid ""
+"addnode \"node\" \"add|remove|onetry\" clearbanned disconnectnode "
+"\"node\" getaddednodeinfo dummy ( \"node\" ) getconnectioncount "
+"getnettotals getnetworkinfo getpeerinfo listbanned ping setban "
+"\"ip(/netmask)\" \"add|remove\" (bantime) (absolute) setnetworkactive "
+"true|false"
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:328
+msgid "== Rawtransactions =="
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:322
+msgid ""
+"createrawtransaction [{\"txid\":\"id\",\"vout\":n},...] "
 "{\"address\":amount,\"data\":\"hex\",...} ( locktime ) "
 "decoderawtransaction \"hexstring\" decodescript \"hex\" "
 "fundrawtransaction \"hexstring\" ( options ) getrawtransaction \"txid\" ("
@@ -690,27 +719,38 @@ msgid ""
 " [\"privatekey1\",...] sighashtype )"
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:330
-msgid ""
-"== Smartcash == smartmining \"command\"... smartnode \"command\"... "
-"smartnodebroadcast \"command\"... smartnodelist ( \"mode\" \"filter\" ) "
-"smartrewards \"command\"... snsync [status|next|reset] spork <name> "
-"[<value>]"
+#: ../../wallets/nodeclient/cmd-rpc.rst:337
+msgid "== Smartcash =="
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:339
+#: ../../wallets/nodeclient/cmd-rpc.rst:331
 msgid ""
-"== Util == createmultisig nrequired [\"key\",...] estimatefee nblocks "
+"smartmining \"command\"... smartnode \"command\"... smartnodebroadcast "
+"\"command\"... smartnodelist ( \"mode\" \"filter\" ) smartrewards "
+"\"command\"... snsync [status|next|reset] spork <name> [<value>]"
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:346
+msgid "== Util =="
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:340
+msgid ""
+"createmultisig nrequired [\"key\",...] estimatefee nblocks "
 "estimatepriority nblocks estimatesmartfee nblocks estimatesmartpriority "
 "nblocks validateaddress \"smartcashaddress\" verifymessage "
 "\"smartcashaddress\" \"signature\" \"message\""
 msgstr ""
 
-#: ../../wallets/nodeclient/cmd-rpc.rst:348
+#: ../../wallets/nodeclient/cmd-rpc.rst:390
+msgid "== Wallet =="
+msgstr ""
+
+#: ../../wallets/nodeclient/cmd-rpc.rst:349
 msgid ""
-"== Wallet == abandontransaction \"txid\" addmultisigaddress nrequired "
-"[\"key\",...] ( \"account\" ) backupwallet \"destination\" dumphdinfo "
-"dumpprivkey \"smartcashaddress\" dumpwallet \"filename\" getaccount "
+"abandontransaction \"txid\" addmultisigaddress nrequired [\"key\",...] ( "
+"\"account\" ) backupwallet \"destination\" dumphdinfo dumpprivkey "
+"\"smartcashaddress\" dumpwallet \"filename\" getaccount "
 "\"smartcashaddress\" getaccountaddress \"account\" getaddressesbyaccount "
 "\"account\" getbalance ( \"account\" minconf includeWatchonly ) "
 "getnewaddress ( \"account\" ) getrawchangeaddress getreceivedbyaccount "
@@ -948,5 +988,143 @@ msgstr ""
 #~ "￼ == Addressindex == getaddressbalance "
 #~ "getaddressdeltas getaddressmempool getaddresstxids "
 #~ "getaddressutxos"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "(2000-XP) C:\\\\Documents and "
+#~ "Settings\\\\username\\\\Application Data\\\\"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Addressindex == getaddressbalance "
+#~ "getaddressdeltas getaddressmempool getaddresstxids "
+#~ "getaddressutxos"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Blockchain == getbestblockhash getblock "
+#~ "\"hash\" ( verbose ) getblockchaininfo "
+#~ "getblockcount getblockhash index getblockhashes "
+#~ "timestamp getblockheader \"hash\" ( verbose"
+#~ " ) getblockheaders \"hash\" ( count "
+#~ "verbose ) getchaintips getdifficulty "
+#~ "getmempoolinfo getrawmempool ( verbose ) "
+#~ "getspentinfo gettxout \"txid\" n ( "
+#~ "includemempool ) gettxoutproof [\"txid\",...] "
+#~ "( blockhash ) gettxoutsetinfo verifychain "
+#~ "( checklevel numblocks ) verifytxoutproof "
+#~ "\"proof\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Control == debug ( "
+#~ "0|1|addrman|alert|bench|coindb|db|lock|rand|rpc|selectcoins|mempool|mempoolrej|net|proxy|prune|http|libevent|tor|zmq|smartcash|privatesend|instantsend|smartnode|spork|keepass|mnpayments|gobject"
+#~ " ) getinfo help ( \"command\" ) "
+#~ "stop"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Generating == generate numblocks ("
+#~ " maxtries ) getgenerate setgenerate "
+#~ "generate ( genproclimit )"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Mining == getblocktemplate ( "
+#~ "SigningAddress ) getmininginfo getnetworkhashps "
+#~ "( blocks height ) prioritisetransaction "
+#~ "<txid> <priority delta> <fee delta> "
+#~ "submitblock \"hexdata\" ( \"jsonparametersobject\""
+#~ " )"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Network == addnode \"node\" "
+#~ "\"add|remove|onetry\" clearbanned disconnectnode "
+#~ "\"node\" getaddednodeinfo dummy ( \"node\" "
+#~ ") getconnectioncount getnettotals getnetworkinfo "
+#~ "getpeerinfo listbanned ping setban "
+#~ "\"ip(/netmask)\" \"add|remove\" (bantime) (absolute)"
+#~ " setnetworkactive true|false"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Rawtransactions == createrawtransaction "
+#~ "[{\"txid\":\"id\",\"vout\":n},...] "
+#~ "{\"address\":amount,\"data\":\"hex\",...} ( locktime "
+#~ ") decoderawtransaction \"hexstring\" decodescript"
+#~ " \"hex\" fundrawtransaction \"hexstring\" ( "
+#~ "options ) getrawtransaction \"txid\" ( "
+#~ "verbose ) sendrawtransaction \"hexstring\" ("
+#~ " allowhighfees instantsend ) signrawtransaction"
+#~ " \"hexstring\" ( "
+#~ "[{\"txid\":\"id\",\"vout\":n,\"scriptPubKey\":\"hex\",\"redeemScript\":\"hex\"},...]"
+#~ " [\"privatekey1\",...] sighashtype )"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Smartcash == smartmining \"command\"... "
+#~ "smartnode \"command\"... smartnodebroadcast "
+#~ "\"command\"... smartnodelist ( \"mode\" "
+#~ "\"filter\" ) smartrewards \"command\"... "
+#~ "snsync [status|next|reset] spork <name> "
+#~ "[<value>]"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Util == createmultisig nrequired "
+#~ "[\"key\",...] estimatefee nblocks estimatepriority"
+#~ " nblocks estimatesmartfee nblocks "
+#~ "estimatesmartpriority nblocks validateaddress "
+#~ "\"smartcashaddress\" verifymessage \"smartcashaddress\""
+#~ " \"signature\" \"message\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "== Wallet == abandontransaction \"txid\" "
+#~ "addmultisigaddress nrequired [\"key\",...] ( "
+#~ "\"account\" ) backupwallet \"destination\" "
+#~ "dumphdinfo dumpprivkey \"smartcashaddress\" "
+#~ "dumpwallet \"filename\" getaccount "
+#~ "\"smartcashaddress\" getaccountaddress \"account\" "
+#~ "getaddressesbyaccount \"account\" getbalance ( "
+#~ "\"account\" minconf includeWatchonly ) "
+#~ "getnewaddress ( \"account\" ) "
+#~ "getrawchangeaddress getreceivedbyaccount \"account\" "
+#~ "( minconf ) getreceivedbyaddress "
+#~ "\"smartcashaddress\" ( minconf ) "
+#~ "gettransaction \"txid\" ( includeWatchonly )"
+#~ " getunconfirmedbalance getwalletinfo importaddress "
+#~ "\"address\" ( \"label\" rescan p2sh )"
+#~ " importelectrumwallet \"filename\" index "
+#~ "importprivkey \"smartcashprivkey\" ( \"label\" "
+#~ "rescan ) importpubkey \"pubkey\" ( "
+#~ "\"label\" rescan ) importwallet \"filename\""
+#~ " instantsendtoaddress \"smartcashaddress\" amount "
+#~ "( \"comment\" \"comment-to\" "
+#~ "subtractfeefromamount ) keypoolrefill ( "
+#~ "newsize ) listaccounts ( minconf "
+#~ "includeWatchonly) listaddressgroupings listlockunspent "
+#~ "listreceivedbyaccount ( minconf includeempty "
+#~ "includeWatchonly) listreceivedbyaddress ( minconf"
+#~ " includeempty includeWatchonly) listsinceblock ("
+#~ " \"blockhash\" target-confirmations "
+#~ "includeWatchonly) listtransactions ( \"account\" "
+#~ "count from includeWatchonly) listunspent ( "
+#~ "minconf maxconf  [\"address\",...] ) "
+#~ "lockunspent unlock ([{\"txid\":\"txid\",\"vout\":n},...])"
+#~ " move \"fromaccount\" \"toaccount\" amount "
+#~ "( minconf \"comment\" ) sendfrom "
+#~ "\"fromaccount\" \"tosmartcashaddress\" amount ( "
+#~ "minconf \"comment\" \"comment-to\" ) "
+#~ "sendmany \"fromaccount\" {\"address\":amount,...} ("
+#~ " minconf \"comment\" [\"address\",...] ) "
+#~ "sendtoaddress \"smartcashaddress\" amount ( "
+#~ "\"comment\" \"comment-to\" subtractfeefromamount "
+#~ ") setaccount \"smartcashaddress\" \"account\" "
+#~ "settxfee amount signmessage \"smartcashaddress\" "
+#~ "\"message\" walletlock walletpassphrase "
+#~ "\"passphrase\" timeout walletpassphrasechange "
+#~ "\"oldpassphrase\" \"newpassphrase\""
 #~ msgstr ""
 

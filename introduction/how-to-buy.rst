@@ -78,7 +78,7 @@ Coingecko
      :align: right
      :target: https://www.coingecko.com/en/coins/smartcash/trading_exchanges#panel
 
-  https://www.coingecko.com/en/coins/smartcash/trading_exchanges#panel
+https://www.coingecko.com/en/coins/smartcash/trading_exchanges#panel
 
   CoinGecko provides a fundamental analysis of the crypto market. In addition to tracking price, volume and market capitalization, CoinGecko tracks community growth, open-source code development, major events and on-chain metrics.
 
@@ -102,6 +102,18 @@ List of exchanges
 The exchanges listed here are for informational purposes only and do not
 indicate endorsement or affiliation with any particular platform.
 
+Exmo
+  .. image:: exchanges/exmo.png
+     :width: 200px
+     :align: right
+     :target: https://exmo.com
+
+  https://exmo.com
+
+  Exmo is a UK-registered exchange offering fiat deposits in USD, EUR,
+  USD and UAH (Ukrainian Hryvnia). SMARTCASH trading pairs exist for BTC, USD
+  and RUB.
+
 HitBTC
   .. image:: exchanges/hitbtc.png
      :width: 200px
@@ -114,19 +126,6 @@ HitBTC
   GBP, as well as BTC, ETH and USDT trading pairs against SMART for
   normal users.
 
-
-
-Exmo
-  .. image:: exchanges/exmo.png
-     :width: 200px
-     :align: right
-     :target: https://exmo.com
-
-  https://exmo.com
-
-  Exmo is a UK-registered exchange offering fiat deposits in USD, EUR,
-  USD and UAH (Ukrainian Hryvnia). SMARTCASH trading pairs exist for BTC, USD
-  and RUB.
 
 Cryptopia
   .. image:: exchanges/cryptopia.png
@@ -172,19 +171,24 @@ https://crypto-bridge.org/
 
   Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash.
 
-coinbene
+Coinbene
   .. image:: exchanges/coinbene.png
      :width: 200px
      :align: right
      :target: https://www.coinbene.com
+	 
+  The World's Leading Trustworthy Crypto Assets Platform | Bitcoin、Ethereum、Blockchain Asset Trading Platform
 
 https://www.coinbene.com
 
-coinexchange
+Coinexchange
   .. image:: exchanges/coinexchange.png
      :width: 200px
      :align: right
      :target: https://www.coinexchange.io/market/SMART/BTC
+
+  CoinExchange.io is an online altcoin exchange focussed on ease of use, security and customer support.
+  Our mission is to become a pillar in the online crypto currency market place.
 
 https://www.coinexchange.io/market/SMART/BTC
 
@@ -194,6 +198,8 @@ Stex
      :align: right
      :target: https://app.stex.com/en/basic-trade/pair/BTC/SMART/
 	 
+  Cryptotrading platform
+	 
 https://app.stex.com/en/basic-trade/pair/BTC/SMART/
 
 eBitcoinics
@@ -202,7 +208,179 @@ eBitcoinics
      :align: right
      :target: https://www.ebitcoinics.com/
 	 
+  The largest Bitcoin & CryptoCurrency educational platform in Africa & your best eCurrency exchange platform
+	 
 https://www.ebitcoinics.com/
+
+pungo.cash
+  .. image:: exchanges/peer2cash-logo.png
+     :width: 200px
+     :align: right
+     :target: https://pungo.cash
+	 
+  Buy and sell Cryptocurrency
+	 
+https://pungo.cash
+
+BiteBTC
+  .. image:: exchanges/bitebtc.png
+     :width: 200px
+     :align: right
+     :target: https://bitebtc.com/trade/smart_btc
+	 
+  Buy and sell Cryptocurrency
+	 
+https://bitebtc.com/trade/smart_btc
+
+Criptohub
+  .. image:: exchanges/criptohub.jpg
+     :width: 200px
+     :align: right
+     :target: https://criptohub.com.br/smartcash/
+	 
+  Exchange de Criptomoedas com as Menores Taxas do Brasil
+	 
+https://criptohub.com.br/smartcash/
+
+Cryptowolf
+  .. image:: exchanges/cryptowolf.png
+     :width: 200px
+     :align: right
+     :target: https://cryptowolf.eu/
+	 
+  Privacy reinvented
+	 
+https://cryptowolf.eu/
+
+localbitcoincash
+  .. image:: exchanges/localbitcoincash.png
+     :width: 200px
+     :align: right
+     :target: https://localbitcoincash.org/index.asp
+	 
+  Buy Bitcoin Cash, Sell Bitcoin Cash, Trade Bitcoin Cash Locally
+	 
+https://localbitcoincash.org/index.asp
+
+Cryptochange
+  .. image:: exchanges/cryptochange.png
+     :width: 200px
+     :align: right
+     :target: https://www.cryptochange.co.za/
+	 
+  South Africa Bitcoin Exchange | Exchange Your Cryptocurrency To ZAR
+	 
+https://www.cryptochange.co.za/
+
+Bitcoinp2p
+  .. image:: exchanges/bitcoinp2p.png
+     :width: 200px
+     :align: right
+     :target: https://bitcoinp2p.com.br/index.html
+	 
+  Compre bitcoin no P2P, não precisa de documentos, é anônimo e não tem fila de espera.
+	 
+https://bitcoinp2p.com.br/index.html
+
+Komodoplatform
+  .. image:: exchanges/komodoplatform.png
+     :width: 200px
+     :align: right
+     :target: https://komodoplatform.com/technology/
+	 
+  Complete Blockchain Solutions | Decentralised ICO Platform
+	 
+https://komodoplatform.com/technology/
+
+Stratum
+  .. image:: exchanges/stratum.png
+     :width: 200px
+     :align: right
+     :target: https://stratum.hk/
+	 
+  Stratum
+	 
+https://stratum.hk/
+
+Tradesatoshi
+  .. image:: exchanges/tradesatoshi.png
+     :width: 200px
+     :align: right
+     :target: https://tradesatoshi.com/Exchange/?market=SMART_BTC
+	 
+  CryptoCurrency Exchange
+	 
+https://tradesatoshi.com/Exchange/?market=SMART_BTC
+
+Bitscoin
+  .. image:: exchanges/bitscoin.png
+     :width: 200px
+     :align: right
+     :target: https://bitscoin.co.kr/
+	 
+  비츠코인
+	 
+https://bitscoin.co.kr/
+
+Bleutrade
+  .. image:: exchanges/bleutrade.png
+     :width: 200px
+     :align: right
+     :target: https://bleutrade.com/exchange/SMART/BTC
+	 
+  Cryptocurrency Exchange
+	 
+https://bleutrade.com/exchange/SMART/BTC
+
+Troca.ninja
+  .. image:: exchanges/troca-ninja.png
+     :width: 200px
+     :align: right
+     :target: https://troca.ninja/markets/coin/BTC-SMART
+	 
+  Cryptocurrency Exchange
+	 
+https://troca.ninja/markets/coin/BTC-SMART
+
+NewCash
+  .. image:: exchanges/newcash.jpg
+     :width: 200px
+     :align: right
+     :target: https://newc.com.br/
+	 
+  Negocie na mais inovadora plataforma de Criptoativos do Brasil
+	 
+https://newc.com.br/
+
+Smartport
+  .. image:: exchanges/smartport.jpg
+     :width: 200px
+     :align: right
+     :target: https://www.smartport.cc/
+	 
+  SmartCash cryptocurrencies kopen
+	 
+https://www.smartport.cc/
+
+Bitprime
+  .. image:: exchanges/bitprime.jpg
+     :width: 200px
+     :align: right
+     :target: https://www.bitprime.co.nz/product/smartcash-smart/
+	 
+  BitPrime operates a secure and compliant platform for easy retail trading in New Zealand.
+	 
+https://www.bitprime.co.nz/product/smartcash-smart/
+
+Exccripto
+  .. image:: exchanges/exccripto.png
+     :width: 200px
+     :align: right
+     :target: https://exccripto.com/v2/
+	 
+  Exccripto.
+	 
+https://exccripto.com/v2/
 
 .. _instant_exchanges:
 
@@ -233,6 +411,26 @@ CoinSwitch
   CoinSwitch is a crypto to crypto exchange aggregate with more than 300
   different coins and tokens listed. Also offers purchases through
   credit/debit cards.
+
+SimpleSwap
+  .. image:: exchanges/simpleswap.png
+     :width: 200px
+     :align: right
+     :target: https://simpleswap.io/
+
+  https://simpleswap.io/
+
+  SimpleSwap is a simple and easy-to-use platform for cryptocurrency exchanges that works without registration and limits
+  
+Atomicwallet
+  .. image:: exchanges/atomicwallet.jpg
+     :width: 200px
+     :align: right
+     :target: https://atomicwallet.io/downloads
+
+  https://atomicwallet.io/downloads
+
+  Cryptocurrency Wallet support atomic exchange.
 
 changeNOW
   .. image:: exchanges/changenow.png

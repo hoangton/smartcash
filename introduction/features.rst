@@ -36,6 +36,7 @@ community. This allows for a more decentralized creation of block
 rewards. Payouts occur 200 Blocks after the cycle ends and every
 second block 1000 addresses receive rewards. SmartNodes will keep
 track on which addresses are eligible and which are not.
+
 .. _smartnodes:
 
 Smartnodes
@@ -58,7 +59,14 @@ Smartnodes enable the following services:
 -  **Electrum Servers** Servers used for Electrum wallets.
 -  **SmartCard SDK** Build the SmartCash payment card that can handle world usage in replacement of card schemes.
 
-SmartNodes are required to have 10,000 SMART collateral, a dedicated VPS (IPv4 address, 1GB RAM, 20GB drive) and be able to run 24 hours a day without a more than two hour of connection loss.
+SmartNodes are required to have 
+
+- 10,000 SMART collateral
+- A computer for running a local wallet
+- A dedicated VPS server running 24/7 with the following specifications:
+-- 1 GB RAM
+-- 20 GB drive
+-- Static IPV4 Address per node
 
 SmartNodes cost money and effort to host so they are paid a percentage
 of the block reward as an incentivize.
@@ -98,11 +106,7 @@ revolutionize cryptocurrency by shortening the delay in confirmation of
 transactions from as long as an hour (with Bitcoin) to as little as a 
 few seconds.
 
-You can view a practical guide to use InstantPay 
-:ref:`here <instantpay>`.
-
-**How SmartCash 'InstantPay' Protects Merchants from Double Spends**,
-SmartCash Detailed
+**SmartCash InstantPay Faster Than Visa or Mastercard**
 
 .. raw:: html
 
@@ -115,15 +119,15 @@ SmartCash Detailed
 Smartvote
 =========
 
-All Smartcash users deserve a voice, from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive, the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.
+All Smartcash users deserve a voice, from day #1.
+That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive, the platform that lets all users vote on the direction of the project.
 The one feature that sets SmartCash apart is the SmartHive
 governance model and how the community can vote to fund the best
-projects with block rewards stored in the SmartHive Project Treasury
-and administered by the SmartHive.
+projects with block rewards stored in the SmartHive Project Treasury.
 The idea is that the SmartHive Governance Portal engages community
 members and other 3rd parties interested in growing SmartCash into a
 global currency. Everyone can create a proposal that helps SmartCash
-in some way with a fee of 100 SMART. Then every SmartCash holder
+in some way. Then every SmartCash holder
 also can participate in the voting process and help decide if its worth
 getting funded or not by the SmartHive Project Treasury.
 All users have the ability to vote; 1 SMART equals 1 vote. Proposals are
@@ -131,15 +135,8 @@ open to vote for 14 days, with one day extensions if the vote outcome
 changes at the end of that period and payments will be made in
 accordance with the delivered milestones. Proposals open to vote can
 be found at: vote.smartcash.cc
-A major difference compared to other cryptocurrencies is that we
-believe core teams can ultimately lead to inefficiency and centralization.
-In order to create and maintain a decentralized governance structure
-SmartCash has Hive Structuring Teams. These teams are in charge of
-vital project areas, such as development, outreach and support and
-consist of people directly involved in the project. Every Hive Team runs
-independently, but cooperatively resulting in organic growth.
-
 Basically, each SmartCash coin is worth 1 vote, to keep it simple.
+
 .. _smartcard:
 
 Smartcard
@@ -229,11 +226,15 @@ circulation, known as the coin emission rate.
 
 While SmartCash is based on Bitcoin, it significantly modifies the coin
 emission rate to offer a smoother reduction in coin emission over time.
-While Bitcoin reduces the coin emission rate by 50% every 4 years, SmartCash first year is approximately then 717,565,000+998,173,000=1,715,738,000 or 34.31% of the maximum supply.
+While Bitcoin reduces the coin emission rate by 50% every 4 years.
 
-Year 2 generates an additional 500 Million SmartCash, bringing the total supply to about 2.2 Billion out of the total 5 Billion, or 44% (calculation here).
+SmartCash first year is approximately then
 
-Year 3 generates even less about 291.7 Million more SmartCash (calculation here), for a total supply of about 50%, or 2.5Billion out of 5 Billion. The remainder is spread over the next 121 years.
+	717,565,000+998,173,000=1,715,738,000 or 34.31% of the maximum supply.
+
+Year 2 generates an additional 500 Million SmartCash, bringing the total supply to about 2.2 Billion out of the total 5 Billion, or 44%.
+
+Year 3 generates even less about 291.7 Million more SmartCash, for a total supply of about 50%, or 2.5Billion out of 5 Billion. The remainder is spread over the next 121 years.
 
 
 .. figure:: img/coin_emission.png
@@ -254,7 +255,8 @@ of all bitcoin will be in circulation by 2036, and 99.9% by 2048.
 `SmartCash's total coin emission <https://www.wolframalpha.com/input/?i=plot+5000+*+143500%2F(x*573454.54),+x+from+1+to+125>`_. SmartCash will emit coins for
 approximately 124.3 years before a full year of mining creates less than 1
 SMART. After 2141 no more SMART will be created. 
-`Read more here <https://smartcash.blockchainlibrary.org/2018/06/understanding-the-smartcash-emission-curve-and-distribution-rates/>`
+
+`Read more here <https://smartcash.blockchainlibrary.org/2018/06/understanding-the-smartcash-emission-curve-and-distribution-rates/>`_.
 
 Block reward allocation
 -----------------------
@@ -297,7 +299,8 @@ included as an incentive to the miner to process the transaction. Most
 wallets include a small fee by default, although some miners will
 process transactions even if no fee is included.
 
-SmartCash also supports
+instantpay fee
+--------------
 
 :ref:`instantpay` transactions, which operate on
 a different and mandatory fee schedule. SmartCash introduced

@@ -4,9 +4,9 @@
 
 .. _smarthive:
 
-==========
-SmartHive
-==========
+===============
+SmartHive Teams
+===============
 
 We believe ‘Core’ teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies. 
 
@@ -16,11 +16,25 @@ The Hive Structuring Teams (HST) will lay the groundwork for the project and set
 
 The Hive Structuring Teams will consist of people directly involved in the project on a day to day basis, while the overall SmartHive will aim to enrol and engage community members and other 3rd parties interested in growing SmartCash into a global worldwide currency.
 
-SMARTVOTING
+Right now we have 6 teams <https://smartcash.cc/hive-teams/>
+
+==========
+Discussion
+==========
+
+Are forum where peoples discussing about Pre-Proposal
+
+https://forum.smartcash.cc/c/smarthive
+
+=========
+SmartVote
+=========
 
 All Smartcash users deserve a voice, from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive, the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.
 
 Basically, each SmartCash coin is worth 1 vote, to keep it simple.
+
+https://vote.smartcash.cc/
 
 .. raw:: html
 

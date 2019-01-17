@@ -75,6 +75,7 @@ Official sites
 
 - **Roadmap**:
    https://smartcash.cc/roadmap/
+   
 - **SmartBand**:
     https://wearatar.com/band
 
@@ -93,6 +94,7 @@ Official sites
     Cryptobridge: https://crypto-bridge.org/
     Cryptopia: https://www.cryptopia.co.nz/
     Changelly: https://changelly.com/(edited)
+	
 - **SmartNodes**:
     https://smartnodes.cc/
     https://github.com/SmartCash/smartnode
@@ -134,6 +136,7 @@ Community sites
 - **Mining Stats**:
     https://whattomine.com/coins/197-smart-keccak
     https://smartstats.cc/mining
+	
 - **SmartCash News**:
     https://medium.com/@smartcashnews
 
@@ -143,8 +146,8 @@ Forums
 ------
 - https://forum.smartcash.cc
 
-Chat
-----
+Charts
+------
 - https://bravenewcoin.com/smartcash
 - https://coinmarketcap.com/currencies/smartcash/
 - https://www.coingecko.com/en/coins/smartcash
@@ -167,26 +170,17 @@ Social media
    https://gab.ai/smartcash
 
 
-Facebook
---------
-
-
-
-Twitter
--------
-
-
 
 News
 ----
 
+- https://smartcash.cc/news/
+- https://steemit.com/@smartcashnews/
+- https://www.mycryptopedia.com/smartcash-masternode-explained/
 
 
 Blogs
 -----
-
-
-
 
 Wikipedia
 ---------
@@ -230,16 +224,17 @@ Price monitoring and statistics
 
 - https://www.coingecko.com/en/coins/smartcash
 - https://coinmarketcap.com/currencies/smartcash
-- https://www.cryptonator.com/widget
+
 
 
 SmartCash Community project
 ---------------------------
 
-
-
-DarkNet pages
--------------
+- https://smartie.shop/wp/
+- https://smartcash.blockchainlibrary.org/
+- https://smartstats.cc/
+- https://smartrewards.cc/
+- https://smartcashradio.libsyn.com/
 
 
 Mobile Apps
