@@ -24,9 +24,9 @@ Specifications
 - Decentralized Governance By Blockchain allows SMART owners to
   vote on budget proposals and decisions that affect SmartCash
 
-.. _smartrewards:
+.. _smartreward:
 
-Smartrewards
+Smartreward
 ============
 SmartRewards are a method of distributing block rewards among
 SmartCash addresses holding at least 1000 SmartCash and has no
@@ -39,7 +39,7 @@ track on which addresses are eligible and which are not.
 
 .. _smartnode:
 
-SmartNode
+Smartnode
 =========
 
 In addition to traditional Proof of Work (PoW) rewards for mining SmartCash,

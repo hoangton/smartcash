@@ -2,11 +2,11 @@
    :description: Information and guides on how to mine the SmartCash cryptocurrency
    :keywords: smartcash, smartreward
 
-.. _smartreward:
+.. _smartrewards:
 
-===========
-SmartReward
-===========
+============
+SmartRewards
+============
 
 .. image:: img/smartreward.jpg
    :width: 60 %
