@@ -213,7 +213,7 @@ eBitcoinics
 https://www.ebitcoinics.com/
 
 pungo.cash
-  .. image:: exchanges/peer2cash-logo.png
+  .. image:: exchanges/peer2cash-logo.jpg
      :width: 200px
      :align: right
      :target: https://pungo.cash
@@ -303,7 +303,7 @@ Stratum
 https://stratum.hk/
 
 Tradesatoshi
-  .. image:: exchanges/tradesatoshi.png
+  .. image:: exchanges/tradeshatoshi.png
      :width: 200px
      :align: right
      :target: https://tradesatoshi.com/Exchange/?market=SMART_BTC
@@ -333,7 +333,7 @@ Bleutrade
 https://bleutrade.com/exchange/SMART/BTC
 
 Troca.ninja
-  .. image:: exchanges/troca-ninja.png
+  .. image:: exchanges/troca-ninja.jpg
      :width: 200px
      :align: right
      :target: https://troca.ninja/markets/coin/BTC-SMART
@@ -363,7 +363,7 @@ Smartport
 https://www.smartport.cc/
 
 Bitprime
-  .. image:: exchanges/bitprime.jpg
+  .. image:: exchanges/bitprime.png
      :width: 200px
      :align: right
      :target: https://www.bitprime.co.nz/product/smartcash-smart/

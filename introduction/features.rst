@@ -64,6 +64,7 @@ SmartNodes are required to have
 - 10,000 SMART collateral
 - A computer for running a local wallet
 - A dedicated VPS server running 24/7 with the following specifications:
+
 -- 1 GB RAM
 -- 20 GB drive
 -- Static IPV4 Address per node
@@ -137,7 +138,7 @@ accordance with the delivered milestones. Proposals open to vote can
 be found at: vote.smartcash.cc
 Basically, each SmartCash coin is worth 1 vote, to keep it simple.
 
-.. _smartcard:
+.. _smartcards:
 
 Smartcard
 ==========

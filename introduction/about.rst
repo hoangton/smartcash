@@ -1,6 +1,6 @@
 .. meta::
    :description: Introduction to the SmartCash cryptocurrency and links to further reading
-   :keywords: smartcash, cryptocurrency, videos, documentation, roadmap, smarthive, funding, payments, whitepaper, roadmap
+   :keywords: smartcash, cryptocurrency, videos, documentation, roadmap, smarthive, funding, payments, whitepaper
 
 .. _about:
 
@@ -10,9 +10,7 @@ What is SmartCash?
 
 SmartCash is a peer-to-peer digital currency that can be used without having to trust a third party. By focusing on being ease to use even for people who aren‘t crypto geeks, on being merchant friendly. The SmartCash network features 
 :ref:`instant transaction confirmation <instantpay>`, double spend 
-protection, a 
-:ref:`self-governing, self-funding model <smarthive>` and a :ref:`roadmap <roadmap>`. While SmartCash is based on Bitcoin and compatible with many key
-components of the Bitcoin ecosystem.
+protection, a :ref:`self-governing, self-funding model <smarthive>` and a :ref:`roadmap <roadmap>` . While SmartCash is based on Bitcoin and compatible with many key components of the Bitcoin ecosystem.
 
 This section of the documentation describes these and many
 more key features that set SmartCash apart in the blockchain economy.
@@ -71,6 +69,7 @@ and frequent community translations as new features are implemented.
 
 - `Latest whitepaper and official translations <https://smartcash.cc/wp-content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_
 
+.. _roadmap:
 
 Roadmap
 -------
