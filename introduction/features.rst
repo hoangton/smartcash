@@ -37,10 +37,10 @@ rewards. Payouts occur 200 Blocks after the cycle ends and every
 second block 1000 addresses receive rewards. SmartNodes will keep
 track on which addresses are eligible and which are not.
 
-.. _smartnodes:
+.. _smartnode:
 
-Smartnodes
-==========
+SmartNode
+=========
 
 In addition to traditional Proof of Work (PoW) rewards for mining SmartCash,
 users are also rewarded for running and maintaining special servers
