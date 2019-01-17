@@ -1,12 +1,18 @@
 .. meta::
-   :description: The SmartHive system is funded by 46% of the block reward
+   :description: The SmartHive system is funded by 70% of the block reward
    :keywords: smartcash, SmartHive, funding, voting, blockchain, development, block reward
 
 .. _smarthive:
 
-===============
+=========
+SmartHive
+=========
+
+SmartHive included 3 parts.
+
+
 SmartHive Teams
-===============
+---------------
 
 We believe ‘Core’ teams are a bad idea and something that ultimately leads to inefficiency and corruption. We want to move past it and create a decentralized organizational model inspired by ant and bee colonies. 
 
@@ -18,17 +24,17 @@ The Hive Structuring Teams will consist of people directly involved in the proje
 
 Right now we have 6 teams <https://smartcash.cc/hive-teams/>
 
-==========
+
 Discussion
-==========
+----------
 
 Are forum where peoples discussing about Pre-Proposal
 
 https://forum.smartcash.cc/c/smarthive
 
-=========
+
 SmartVote
-=========
+---------
 
 All Smartcash users deserve a voice, from day #1. That is why Smartcash is pioneering in the crypto-governance space and was built around Smarthive, the platform that lets all users vote on the direction of the project. More information will be released soon describing this platform in depth.
 
