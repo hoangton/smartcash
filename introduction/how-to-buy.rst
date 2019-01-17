@@ -72,15 +72,15 @@ introduces some of the most popular exchanges for trading SMART.
 Marketplace comparison websites
 -------------------------------
 
-Exmo
-  .. image:: exchanges/exmo.png
+Coingecko
+  .. image:: exchanges/coingecko.png
      :width: 200px
      :align: right
-     :target: https://exmo.com/en/trade#?pair=SMART_USD
+     :target: https://www.coingecko.com/en/coins/smartcash/trading_exchanges#panel
 
-  https://exmo.com/en/trade#?pair=SMART_USD
+  https://www.coingecko.com/en/coins/smartcash/trading_exchanges#panel
 
-  EXMO was founded in 2013, and has offices in London, Kiev, Barcelona and Moscow. According to EXMO’s website, the cryptocurrency exchange has 1.5 million users. At press time, EXMO is the 47th largest crypto exchange by 24 hour trade volume on CoinMarketCap at over $26 million.  
+  CoinGecko provides a fundamental analysis of the crypto market. In addition to tracking price, volume and market capitalization, CoinGecko tracks community growth, open-source code development, major events and on-chain metrics.
 
 CoinMarketCap
   .. image:: exchanges/coinmarketcap.png
