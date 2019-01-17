@@ -6,7 +6,7 @@
 SmartCash Documentation
 =======================
 
-Under review
+HAS NOT BEEN OFFICIAL RELEASED YET 
 
 .. image:: img/main-logo.png
    :width: 60 %
