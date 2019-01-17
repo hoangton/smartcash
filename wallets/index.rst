@@ -26,8 +26,8 @@ more than the device you use to store it, you should purchase a
 
 .. _nodeclient-wallet:
 
-SmartCash NodeClient Wallet
-============================
+NodeClient Wallet
+=================
 
 SmartCash NodeClient Wallet is the full official release of SmartCash, and supports all
 SmartCash features as they are released, including InstantPay and

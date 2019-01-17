@@ -53,53 +53,13 @@ The following documentation describes the various projects and any
 special features specific to the programming language in which the
 product is written.
 
-SmartCash NodeClient
-====================
-
-https://www.transifex.com/SmartCash/NodeClient/
-
-This project contains a file named ``NodeClient_en.ts``, which is an export of
-all translatable user-facing content in the :ref:`SmartCash NodeClient
-<nodeclient-wallet>`. Languages with 80% or more of the translations
-complete will be integrated in the next release. Note that the software
-will often replace placeholders in the text with actual numbers,
-addresses or usernames. If you see a placeholder in the source text, it
-must also appear in the target text. If it does not, your translation
-cannot be used. The **Copy source string** button can help you copy
-everything over, so all you need to do is replace the English words
-surrounding the placeholders. You can change the order of the
-placeholders as necessary, according to the grammar of your target
-language.
-
-Placeholders
-  **Source:** ``E&xit``
-
-  **Target:** ``&Beenden``
-
-  Note that the ``&`` character is placeholder used to indicate a
-  keyboard shortcut in a program menu, and must appear next to the
-  appropriate character in your target language with no adjacent space.
-  Placeholders such as ``%1`` or ``%s`` will be replaced by the software
-  as it is running to indicate a name or number of something relating to
-  the message. You must insert these placeholders in the grammatically
-  appropriate position in your target text.
-
-
-Punctuation
-  **Source:** ``change from %1 (%2)``
-
-  **Target:** ``Wechselgeld von %1 (%2)``
-
-  Note that any brackets ``()`` and punctuation such as full stops ``.``
-  at the end of a sentence must also exist in the target text.
-
 SmartCash Docs
 ==============
 
 https://www.transifex.com/SmartCash/smart-docs
 
 This project contains all content from the SmartCash Documentation hosted at
-https://docs.smartcash.cc. Each
+https://smartcash.readthedocs.io. Each
 ``.html`` page in the documentation appears as a file in the resources
 section, named according to the navigation steps required to open the
 page. The SmartCash Documentation is written in a documentation language
@@ -110,9 +70,9 @@ no markup or code marks at all, but hyperlinks and certain formatting
 must be reproduced in the target language as follows:
 
 Inline literals
-  **Source:** Type \`\`./SmartCash-qt\`\` to run the file.
+  **Source:** Type \`\`./smartcash-qt\`\` to run the file.
 
-  **Target:** Escriba \`\`./SmartCash-qt\`\` para correr el archivo.
+  **Target:** Escriba \`\`./smartcash-qt\`\` para correr el archivo.
   
   Note that two backticks `````` before and after a word or phrase will
   cause that text to appear as an ``inline literal``. This is commonly
@@ -158,7 +118,7 @@ External hyperlinks
 SmartCash Graphics
 ==================
 
-https://www.transifex.com/SmartCash/SmartCash-graphics
+https://www.transifex.com/smartcash/graphics
 
 SmartCash visual products such as infographics, flyers and conference
 handouts are produced using Adobe InDesign, Adobe Illustrator or
@@ -179,9 +139,33 @@ in the visual design.
 SmartCash Website
 =================
 
-https://www.transifex.com/SmartCash/SmartCash-website
+https://www.transifex.com/smartcash/website
 
 The SmartCash website at https://smartcash.cc is available for translation in
+Transifex. Please have the website open while you translate to correctly
+understand the context of the source text. Once your translation is
+complete, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
+`Discord <http://discord.smartcash.cc>`_ to request a build of your translation
+onto the website.
+
+SmartCash Web Wallet
+====================
+
+https://www.transifex.com/smartcash/webwallet
+
+The SmartCash Web Wallet at https://wallet.smartcash.cc is available for translation in
+Transifex. Please have the website open while you translate to correctly
+understand the context of the source text. Once your translation is
+complete, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
+`Discord <http://discord.smartcash.cc>`_ to request a build of your translation
+onto the website.
+
+SmartCard & Business
+====================
+
+https://www.transifex.com/smartcash/smartcard-business
+
+The SmartCard & Business at https://card.smartcash.cc and https://business.smartcash.cc/ is available for translation in
 Transifex. Please have the website open while you translate to correctly
 understand the context of the source text. Once your translation is
 complete, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
