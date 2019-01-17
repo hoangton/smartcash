@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 16:46+0700\n"
+"POT-Creation-Date: 2019-01-17 20:49+0700\n"
 "PO-Revision-Date: 2019-01-16 11:23+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -57,8 +57,8 @@ msgid ""
 "wallet <hardware-wallets>`."
 msgstr ""
 
-#: ../../wallets/index.rst:30
-msgid "SmartCash NodeClient Wallet"
+#: ../../wallets/index.rst:30 ../../wallets/index.rst:71
+msgid "NodeClient Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:32
@@ -115,10 +115,6 @@ msgstr ""
 
 #: ../../wallets/index.rst:55
 msgid "Available documentation:"
-msgstr ""
-
-#: ../../wallets/index.rst:71
-msgid "NodeClient Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:76
@@ -555,5 +551,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "*SmartCash smartcard Wallet*"
+#~ msgstr ""
+
+#~ msgid "SmartCash NodeClient Wallet"
 #~ msgstr ""
 

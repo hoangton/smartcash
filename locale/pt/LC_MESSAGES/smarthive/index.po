@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 17:03+0700\n"
+"POT-Creation-Date: 2019-01-17 20:49+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,22 +32,18 @@ msgstr ""
 msgid "SmartHive"
 msgstr ""
 
-#: ../../smarthive/index.rst:11
-msgid "SmartHive included 3 parts."
-msgstr ""
-
-#: ../../smarthive/index.rst:15
+#: ../../smarthive/index.rst:13
 msgid "SmartHive Teams"
 msgstr ""
 
-#: ../../smarthive/index.rst:17
+#: ../../smarthive/index.rst:15
 msgid ""
 "We believe ‘Core’ teams are a bad idea and something that ultimately "
 "leads to inefficiency and corruption. We want to move past it and create "
 "a decentralized organizational model inspired by ant and bee colonies."
 msgstr ""
 
-#: ../../smarthive/index.rst:19
+#: ../../smarthive/index.rst:17
 msgid ""
 "In order to create and maintain a decentralized governance structure, we "
 "are introducing two concepts SmartHive and Hive Structuring Teams (HST). "
@@ -58,7 +54,7 @@ msgid ""
 "management structure."
 msgstr ""
 
-#: ../../smarthive/index.rst:21
+#: ../../smarthive/index.rst:19
 msgid ""
 "The Hive Structuring Teams (HST) will lay the groundwork for the project "
 "and set the framework for the project’s evolution. Initially, the Hive "
@@ -70,7 +66,7 @@ msgid ""
 "central command and control structure in place."
 msgstr ""
 
-#: ../../smarthive/index.rst:23
+#: ../../smarthive/index.rst:21
 msgid ""
 "The Hive Structuring Teams will consist of people directly involved in "
 "the project on a day to day basis, while the overall SmartHive will aim "
@@ -78,27 +74,27 @@ msgid ""
 " growing SmartCash into a global worldwide currency."
 msgstr ""
 
-#: ../../smarthive/index.rst:25
+#: ../../smarthive/index.rst:23
 msgid "Right now we have 6 teams <https://smartcash.cc/hive-teams/>"
 msgstr ""
 
-#: ../../smarthive/index.rst:29
+#: ../../smarthive/index.rst:27
 msgid "Discussion"
 msgstr ""
 
-#: ../../smarthive/index.rst:31
+#: ../../smarthive/index.rst:29
 msgid "Are forum where peoples discussing about Pre-Proposal"
 msgstr ""
 
-#: ../../smarthive/index.rst:33
+#: ../../smarthive/index.rst:31
 msgid "https://forum.smartcash.cc/c/smarthive"
 msgstr ""
 
-#: ../../smarthive/index.rst:37
+#: ../../smarthive/index.rst:35
 msgid "SmartVote"
 msgstr ""
 
-#: ../../smarthive/index.rst:39
+#: ../../smarthive/index.rst:37
 msgid ""
 "All Smartcash users deserve a voice, from day #1. That is why Smartcash "
 "is pioneering in the crypto-governance space and was built around "
@@ -107,15 +103,15 @@ msgid ""
 "in depth."
 msgstr ""
 
-#: ../../smarthive/index.rst:41
+#: ../../smarthive/index.rst:39
 msgid "Basically, each SmartCash coin is worth 1 vote, to keep it simple."
 msgstr ""
 
-#: ../../smarthive/index.rst:43
+#: ../../smarthive/index.rst:41
 msgid "https://vote.smartcash.cc/"
 msgstr ""
 
-#: ../../smarthive/index.rst:51
+#: ../../smarthive/index.rst:49
 msgid "You can learn more about SmartCash Governance in the following sections:"
 msgstr ""
 
@@ -126,5 +122,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "The SmartHive system is funded by 46% of the block reward"
+#~ msgstr ""
+
+#~ msgid "SmartHive included 3 parts."
 #~ msgstr ""
 

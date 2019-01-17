@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 20:49+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgid "smartcash, smartreward"
 msgstr ""
 
 #: ../../smartreward/index.rst:9
-msgid "Smartreward"
+msgid "SmartRewards"
 msgstr ""
 
 #: ../../smartreward/index.rst:16
@@ -52,4 +52,7 @@ msgid ""
 "before the snapshot to be counted. - If you spend ANY amount from an "
 "address, it will be ineligible for SmartRewards until the next round."
 msgstr ""
+
+#~ msgid "Smartreward"
+#~ msgstr ""
 

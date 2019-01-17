@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 20:49+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -167,7 +167,7 @@ msgstr ""
 
 #: ../../smarthive/seven-steps.rst:91
 msgid ""
-"See :ref:`this documentation <using-smarthive>` for specific instructions"
+"See :ref:`this documentation <using-smartvote>` for specific instructions"
 " on how to create a proposal when you are ready. Good luck!"
 msgstr ""
 
@@ -200,6 +200,16 @@ msgid ""
 msgstr ""
 
 #: ../../smarthive/seven-steps.rst:101
-msgid ":ref:`here <understanding-smarthive>` for more details."
+msgid ":ref:`here <understanding-smartvote>` for more details."
 msgstr ""
+
+#~ msgid ""
+#~ "See :ref:`this documentation <using-"
+#~ "smarthive>` for specific instructions on "
+#~ "how to create a proposal when you"
+#~ " are ready. Good luck!"
+#~ msgstr ""
+
+#~ msgid ":ref:`here <understanding-smarthive>` for more details."
+#~ msgstr ""
 

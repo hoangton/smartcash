@@ -18,17 +18,17 @@ existing web and sticker designs, please see the following links.
 SmartCash uses the following color scheme to promote a consistent visual
 identity.
 
-+---------------+-------------+--------------+---------------------+
-| Color         | RGB         | HEX          | HSV          	   |       
-+===============+=============+==============+=====================+
-| Orange        | 254,198,13  |#FEC60D       |46.06° 94.88% 99.61% |
-+---------------+-------------+--------------+---------------------+
-| Deep Orange   | 244,181,23  | #f4b517      | 				 	   |
-+---------------+-------------+--------------+---------------------+
-| Grey          | 251,252,252 | #FBFCFC      |180° 0.4% 98.82%     | 
-+---------------+-------------+--------------+---------------------+
-| Black         | 0,0,0       | #000000      | 0° 0% 0%            | 
-+---------------+-------------+--------------+---------------------+
++---------------+-------------+--------------+----------------------+
+| Color         | RGB         | HEX          | HSV          	    |       
++===============+=============+==============+======================+
+| Orange        | 254,198,13  | #FEC60D      | 46.06° 94.88% 99.61% |
++---------------+-------------+--------------+----------------------+
+| Deep Orange   | 244,181,23  | #f4b517      | 0				 	|
++---------------+-------------+--------------+----------------------+
+| Grey          | 251,252,252 | #FBFCFC      | 180° 0.4% 98.82%     | 
++---------------+-------------+--------------+----------------------+
+| Black         | 0,0,0       | #000000      | 0° 0% 0%             | 
++---------------+-------------+--------------+----------------------+
 
  
 Design Materials
@@ -50,19 +50,19 @@ translation is complete to request layout of the completed translation.
 +------------+------------------------------------------------------------------------------------------------------------------+
 | Language   | Download                                                                                           				|
 +============+==================================================================================================================+
-| English    | `PDF <https://smartcash.cc/wp-content/uploads/2018/07/SmartCash-v1.2.4.pdf>`__ 					  				|
+| English    | `PDF <https://smartcash.cc/wp-content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_				  					|
 +------------+------------------------------------------------------------------------------------------------------------------+
-| Russian     | `PDF <https://smartcash.cc/wp-content/uploads/2018/12/SmartCash_Brochure_Russian_opt.pdf>`__      				|
+| Russian    | `PDF <https://smartcash.cc/wp-content/uploads/2018/12/SmartCash_Brochure_Russian_opt.pdf>`_	     				|
 +------------+------------------------------------------------------------------------------------------------------------------+
-| German     | `PDF <https://smartcash.cc/wp-content/uploads/2018/10/SmartCash_brochure_DE_1.4.pdf>`__           				|
+| German     | `PDF <https://smartcash.cc/wp-content/uploads/2018/10/SmartCash_brochure_DE_1.4.pdf>`_           				|
 +------------+------------------------------------------------------------------------------------------------------------------+
-| Spanish    | `PDF <https://smartcash.cc/wp-content/uploads/2018/08/SmartCash_presentation_brochure_v1.2.4_Spanish_web.pdf>`__ |
+| Spanish    | `PDF <https://smartcash.cc/wp-content/uploads/2018/08/SmartCash_presentation_brochure_v1.2.4_Spanish_web.pdf>`_	|
 +------------+------------------------------------------------------------------------------------------------------------------+
-| Portuguese | `PDF <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_presentation_brochure_v1.2_PTBR.pdf>`__          |
+| Portuguese | `PDF <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_presentation_brochure_v1.2_PTBR.pdf>`_           |
 +------------+------------------------------------------------------------------------------------------------------------------+
-| Japanesese | `PDF <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_ENG_JAP_1.2.pdf>`__ 					|
+| Japanesese | `PDF <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_ENG_JAP_1.2.pdf>`_	 					|
 +------------+------------------------------------------------------------------------------------------------------------------+
-| Vietnamese | `PDF <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_EN_VN_v1.2.pdf>`__ 						|
+| Vietnamese | `PDF <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_EN_VN_v1.2.pdf>`_ 						|
 +------------+------------------------------------------------------------------------------------------------------------------+
 
 

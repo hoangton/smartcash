@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-17 20:49+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,152 +97,85 @@ msgid ""
 msgstr ""
 
 #: ../../developers/translating.rst:57
-msgid "SmartCash NodeClient"
-msgstr ""
-
-#: ../../developers/translating.rst:59
-msgid "https://www.transifex.com/SmartCash/NodeClient/"
-msgstr ""
-
-#: ../../developers/translating.rst:61
-#, python-format
-msgid ""
-"This project contains a file named ``NodeClient_en.ts``, which is an "
-"export of all translatable user-facing content in the :ref:`SmartCash "
-"NodeClient <nodeclient-wallet>`. Languages with 80% or more of the "
-"translations complete will be integrated in the next release. Note that "
-"the software will often replace placeholders in the text with actual "
-"numbers, addresses or usernames. If you see a placeholder in the source "
-"text, it must also appear in the target text. If it does not, your "
-"translation cannot be used. The **Copy source string** button can help "
-"you copy everything over, so all you need to do is replace the English "
-"words surrounding the placeholders. You can change the order of the "
-"placeholders as necessary, according to the grammar of your target "
-"language."
-msgstr ""
-
-#: ../../developers/translating.rst:86
-msgid "Placeholders"
-msgstr ""
-
-#: ../../developers/translating.rst:75
-msgid "**Source:** ``E&xit``"
-msgstr ""
-
-#: ../../developers/translating.rst:77
-msgid "**Target:** ``&Beenden``"
-msgstr ""
-
-#: ../../developers/translating.rst:79
-#, python-format
-msgid ""
-"Note that the ``&`` character is placeholder used to indicate a keyboard "
-"shortcut in a program menu, and must appear next to the appropriate "
-"character in your target language with no adjacent space. Placeholders "
-"such as ``%1`` or ``%s`` will be replaced by the software as it is "
-"running to indicate a name or number of something relating to the "
-"message. You must insert these placeholders in the grammatically "
-"appropriate position in your target text."
-msgstr ""
-
-#: ../../developers/translating.rst:94
-msgid "Punctuation"
-msgstr ""
-
-#: ../../developers/translating.rst:89
-msgid "**Source:** ``change from %1 (%2)``"
-msgstr ""
-
-#: ../../developers/translating.rst:91
-msgid "**Target:** ``Wechselgeld von %1 (%2)``"
-msgstr ""
-
-#: ../../developers/translating.rst:93
-msgid ""
-"Note that any brackets ``()`` and punctuation such as full stops ``.`` at"
-" the end of a sentence must also exist in the target text."
-msgstr ""
-
-#: ../../developers/translating.rst:97
 msgid "SmartCash Docs"
 msgstr ""
 
-#: ../../developers/translating.rst:99
+#: ../../developers/translating.rst:59
 msgid "https://www.transifex.com/SmartCash/smart-docs"
 msgstr ""
 
-#: ../../developers/translating.rst:101
+#: ../../developers/translating.rst:61
 msgid ""
 "This project contains all content from the SmartCash Documentation hosted"
-" at https://docs.smartcash.cc. Each ``.html`` page in the documentation "
-"appears as a file in the resources section, named according to the "
-"navigation steps required to open the page. The SmartCash Documentation "
-"is written in a documentation language called `reStructuredText "
-"<http://docutils.sourceforge.net/rst.html>`_ and built using the open-"
-"source `Sphinx Documentation Generator <http://www.sphinx-doc.org>`_. To "
-"simplify layout, most of the text has no markup or code marks at all, but"
-" hyperlinks and certain formatting must be reproduced in the target "
-"language as follows:"
+" at https://smartcash.readthedocs.io. Each ``.html`` page in the "
+"documentation appears as a file in the resources section, named according"
+" to the navigation steps required to open the page. The SmartCash "
+"Documentation is written in a documentation language called "
+"`reStructuredText <http://docutils.sourceforge.net/rst.html>`_ and built "
+"using the open-source `Sphinx Documentation Generator <http://www.sphinx-"
+"doc.org>`_. To simplify layout, most of the text has no markup or code "
+"marks at all, but hyperlinks and certain formatting must be reproduced in"
+" the target language as follows:"
 msgstr ""
 
-#: ../../developers/translating.rst:119
+#: ../../developers/translating.rst:79
 msgid "Inline literals"
 msgstr ""
 
-#: ../../developers/translating.rst:113
-msgid "**Source:** Type \\`\\`./SmartCash-qt\\`\\` to run the file."
+#: ../../developers/translating.rst:73
+msgid "**Source:** Type \\`\\`./smartcash-qt\\`\\` to run the file."
 msgstr ""
 
-#: ../../developers/translating.rst:115
-msgid "**Target:** Escriba \\`\\`./SmartCash-qt\\`\\` para correr el archivo."
+#: ../../developers/translating.rst:75
+msgid "**Target:** Escriba \\`\\`./smartcash-qt\\`\\` para correr el archivo."
 msgstr ""
 
-#: ../../developers/translating.rst:117
+#: ../../developers/translating.rst:77
 msgid ""
 "Note that two backticks `````` before and after a word or phrase will "
 "cause that text to appear as an ``inline literal``. This is commonly used"
 " to highlight code or commands to be typed by the user."
 msgstr ""
 
-#: ../../developers/translating.rst:129
+#: ../../developers/translating.rst:89
 msgid "Bold and italic"
 msgstr ""
 
-#: ../../developers/translating.rst:122
+#: ../../developers/translating.rst:82
 msgid ""
 "**Source:** ``To encrypt your wallet, click **Settings** > **Encrypt** "
 "wallet.``"
 msgstr ""
 
-#: ../../developers/translating.rst:125
+#: ../../developers/translating.rst:85
 msgid ""
 "**Target:** ``Para encriptar su billetera, haga click en **Settings** > "
 "**Encrypt** billetera.``"
 msgstr ""
 
-#: ../../developers/translating.rst:128
+#: ../../developers/translating.rst:88
 msgid ""
 "A single ``*`` before and after a word or phrase will render it in an "
 "*italic* font, while a double ``**`` will render it in **bold**."
 msgstr ""
 
-#: ../../developers/translating.rst:140
+#: ../../developers/translating.rst:100
 msgid "Internal hyperlinks"
 msgstr ""
 
-#: ../../developers/translating.rst:132
+#: ../../developers/translating.rst:92
 msgid ""
 "**Source:** ``See :ref:`here <sporks>` for a brief introduction to "
 "sporks.``"
 msgstr ""
 
-#: ../../developers/translating.rst:134
+#: ../../developers/translating.rst:94
 msgid ""
 "**Target:** ``Ver :ref:`aquí <sporks>` para una breve introducción a "
 "sporks``"
 msgstr ""
 
-#: ../../developers/translating.rst:136
+#: ../../developers/translating.rst:96
 msgid ""
 "An internal hyperlink consists of the phrase ``:ref:``, followed by a "
 "single backtick `````, followed by some text which must be translated, "
@@ -251,24 +184,24 @@ msgid ""
 " inside the angle brackets."
 msgstr ""
 
-#: ../../developers/translating.rst:156
+#: ../../developers/translating.rst:116
 msgid "External hyperlinks"
 msgstr ""
 
-#: ../../developers/translating.rst:143
+#: ../../developers/translating.rst:103
 msgid ""
 "**Source:** ``The `official SmartCash website <https://smartcash.cc>`_ "
 "also provides a list of major exchanges offering SmartCash.``"
 msgstr ""
 
-#: ../../developers/translating.rst:146
+#: ../../developers/translating.rst:106
 msgid ""
 "**Target:** ``El `sitio web oficial de SmartCash <https://smartcash.cc>`_"
 " también proporciona una lista de las principales Casas de cambio o "
 "Exchanges que ofrecen SmartCash.``"
 msgstr ""
 
-#: ../../developers/translating.rst:150
+#: ../../developers/translating.rst:110
 msgid ""
 "An external hyperlink consists of a single backtick `````, followed by "
 "some text which must be translated, followed by angle brackets with the "
@@ -278,15 +211,15 @@ msgid ""
 "target language)."
 msgstr ""
 
-#: ../../developers/translating.rst:159
+#: ../../developers/translating.rst:119
 msgid "SmartCash Graphics"
 msgstr ""
 
-#: ../../developers/translating.rst:161
-msgid "https://www.transifex.com/SmartCash/SmartCash-graphics"
+#: ../../developers/translating.rst:121
+msgid "https://www.transifex.com/smartcash/graphics"
 msgstr ""
 
-#: ../../developers/translating.rst:163
+#: ../../developers/translating.rst:123
 msgid ""
 "SmartCash visual products such as infographics, flyers and conference "
 "handouts are produced using Adobe InDesign, Adobe Illustrator or "
@@ -298,7 +231,7 @@ msgid ""
 "an item in a diagram."
 msgstr ""
 
-#: ../../developers/translating.rst:172
+#: ../../developers/translating.rst:132
 msgid ""
 "Because these proprietary file formats are not easily handled by "
 "Transifex, the language content is exported to a text or Microsoft Excel "
@@ -308,15 +241,15 @@ msgid ""
 "finished to request layout in the visual design."
 msgstr ""
 
-#: ../../developers/translating.rst:180
+#: ../../developers/translating.rst:140
 msgid "SmartCash Website"
 msgstr ""
 
-#: ../../developers/translating.rst:182
-msgid "https://www.transifex.com/SmartCash/SmartCash-website"
+#: ../../developers/translating.rst:142
+msgid "https://www.transifex.com/smartcash/website"
 msgstr ""
 
-#: ../../developers/translating.rst:184
+#: ../../developers/translating.rst:144
 msgid ""
 "The SmartCash website at https://smartcash.cc is available for "
 "translation in Transifex. Please have the website open while you "
@@ -326,4 +259,146 @@ msgid ""
 "<http://discord.smartcash.cc>`_ to request a build of your translation "
 "onto the website."
 msgstr ""
+
+#: ../../developers/translating.rst:152
+msgid "SmartCash Web Wallet"
+msgstr ""
+
+#: ../../developers/translating.rst:154
+msgid "https://www.transifex.com/smartcash/webwallet"
+msgstr ""
+
+#: ../../developers/translating.rst:156
+msgid ""
+"The SmartCash Web Wallet at https://wallet.smartcash.cc is available for "
+"translation in Transifex. Please have the website open while you "
+"translate to correctly understand the context of the source text. Once "
+"your translation is complete, please send an email to "
+"hoangton@smartcash.cc or @hoangton#6301 on `Discord "
+"<http://discord.smartcash.cc>`_ to request a build of your translation "
+"onto the website."
+msgstr ""
+
+#: ../../developers/translating.rst:164
+msgid "SmartCard & Business"
+msgstr ""
+
+#: ../../developers/translating.rst:166
+msgid "https://www.transifex.com/smartcash/smartcard-business"
+msgstr ""
+
+#: ../../developers/translating.rst:168
+msgid ""
+"The SmartCard & Business at https://card.smartcash.cc and "
+"https://business.smartcash.cc/ is available for translation in Transifex."
+" Please have the website open while you translate to correctly understand"
+" the context of the source text. Once your translation is complete, "
+"please send an email to hoangton@smartcash.cc or @hoangton#6301 on "
+"`Discord <http://discord.smartcash.cc>`_ to request a build of your "
+"translation onto the website."
+msgstr ""
+
+#~ msgid "SmartCash NodeClient"
+#~ msgstr ""
+
+#~ msgid "https://www.transifex.com/SmartCash/NodeClient/"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This project contains a file named "
+#~ "``NodeClient_en.ts``, which is an export "
+#~ "of all translatable user-facing content"
+#~ " in the :ref:`SmartCash NodeClient "
+#~ "<nodeclient-wallet>`. Languages with 80% or"
+#~ " more of the translations complete "
+#~ "will be integrated in the next "
+#~ "release. Note that the software will "
+#~ "often replace placeholders in the text"
+#~ " with actual numbers, addresses or "
+#~ "usernames. If you see a placeholder "
+#~ "in the source text, it must also"
+#~ " appear in the target text. If "
+#~ "it does not, your translation cannot "
+#~ "be used. The **Copy source string** "
+#~ "button can help you copy everything "
+#~ "over, so all you need to do "
+#~ "is replace the English words surrounding"
+#~ " the placeholders. You can change the"
+#~ " order of the placeholders as "
+#~ "necessary, according to the grammar of"
+#~ " your target language."
+#~ msgstr ""
+
+#~ msgid "Placeholders"
+#~ msgstr ""
+
+#~ msgid "**Source:** ``E&xit``"
+#~ msgstr ""
+
+#~ msgid "**Target:** ``&Beenden``"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Note that the ``&`` character is "
+#~ "placeholder used to indicate a keyboard"
+#~ " shortcut in a program menu, and "
+#~ "must appear next to the appropriate "
+#~ "character in your target language with"
+#~ " no adjacent space. Placeholders such "
+#~ "as ``%1`` or ``%s`` will be "
+#~ "replaced by the software as it is"
+#~ " running to indicate a name or "
+#~ "number of something relating to the "
+#~ "message. You must insert these "
+#~ "placeholders in the grammatically appropriate"
+#~ " position in your target text."
+#~ msgstr ""
+
+#~ msgid "Punctuation"
+#~ msgstr ""
+
+#~ msgid "**Source:** ``change from %1 (%2)``"
+#~ msgstr ""
+
+#~ msgid "**Target:** ``Wechselgeld von %1 (%2)``"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Note that any brackets ``()`` and "
+#~ "punctuation such as full stops ``.`` "
+#~ "at the end of a sentence must "
+#~ "also exist in the target text."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This project contains all content from"
+#~ " the SmartCash Documentation hosted at "
+#~ "https://docs.smartcash.cc. Each ``.html`` page "
+#~ "in the documentation appears as a "
+#~ "file in the resources section, named "
+#~ "according to the navigation steps "
+#~ "required to open the page. The "
+#~ "SmartCash Documentation is written in a"
+#~ " documentation language called `reStructuredText"
+#~ " <http://docutils.sourceforge.net/rst.html>`_ and built"
+#~ " using the open-source `Sphinx "
+#~ "Documentation Generator <http://www.sphinx-"
+#~ "doc.org>`_. To simplify layout, most of"
+#~ " the text has no markup or code"
+#~ " marks at all, but hyperlinks and "
+#~ "certain formatting must be reproduced in"
+#~ " the target language as follows:"
+#~ msgstr ""
+
+#~ msgid "**Source:** Type \\`\\`./SmartCash-qt\\`\\` to run the file."
+#~ msgstr ""
+
+#~ msgid "**Target:** Escriba \\`\\`./SmartCash-qt\\`\\` para correr el archivo."
+#~ msgstr ""
+
+#~ msgid "https://www.transifex.com/SmartCash/SmartCash-graphics"
+#~ msgstr ""
+
+#~ msgid "https://www.transifex.com/SmartCash/SmartCash-website"
+#~ msgstr ""
 
