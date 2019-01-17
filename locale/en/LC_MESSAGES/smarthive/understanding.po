@@ -155,6 +155,3 @@ msgid ""
 "blockchain."
 msgstr ""
 
-#~ msgid "Understanding SmartCash SmartHive"
-#~ msgstr ""
-

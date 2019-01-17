@@ -203,13 +203,3 @@ msgstr ""
 msgid ":ref:`here <understanding-smartvote>` for more details."
 msgstr ""
 
-#~ msgid ""
-#~ "See :ref:`this documentation <using-"
-#~ "smarthive>` for specific instructions on "
-#~ "how to create a proposal when you"
-#~ " are ready. Good luck!"
-#~ msgstr ""
-
-#~ msgid ":ref:`here <understanding-smarthive>` for more details."
-#~ msgstr ""
-

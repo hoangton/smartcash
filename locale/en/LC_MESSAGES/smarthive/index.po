@@ -115,15 +115,3 @@ msgstr ""
 msgid "You can learn more about SmartCash Governance in the following sections:"
 msgstr ""
 
-#~ msgid "SmartHive"
-#~ msgstr ""
-
-#~ msgid "SMARTVOTING"
-#~ msgstr ""
-
-#~ msgid "The SmartHive system is funded by 46% of the block reward"
-#~ msgstr ""
-
-#~ msgid "SmartHive included 3 parts."
-#~ msgstr ""
-

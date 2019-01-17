@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-17 20:49+0700\n"
-"PO-Revision-Date: 2019-01-16 11:35+0000\n"
-"Language-Team: German (https://www.transifex.com/smartcash/teams/95224/de/)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../smarthive/using.rst:1
 msgid "Practical guide to using the SmartCash governance system and treasury"
@@ -45,7 +45,8 @@ msgstr ""
 
 #: ../../smarthive/using.rst:20
 msgid ""
-"smarthive consists of three components: Proposals, Votes, and Fund Allocated"
+"smarthive consists of three components: Proposals, Votes, and Fund "
+"Allocated"
 msgstr ""
 
 #: ../../smarthive/using.rst:21
@@ -53,8 +54,7 @@ msgid "Anyone can submit a proposal for a small fee"
 msgstr ""
 
 #: ../../smarthive/using.rst:22
-msgid ""
-"Each valid smartcash holder can vote for, against or abstain on proposals"
+msgid "Each valid smartcash holder can vote for, against or abstain on proposals"
 msgstr ""
 
 #: ../../smarthive/using.rst:23
@@ -63,7 +63,8 @@ msgstr ""
 
 #: ../../smarthive/using.rst:24
 msgid ""
-"Fund Allocated are paid directly from Project Treasury to the proposal owner"
+"Fund Allocated are paid directly from Project Treasury to the proposal "
+"owner"
 msgstr ""
 
 #: ../../smarthive/using.rst:27
@@ -76,8 +77,8 @@ msgstr ""
 
 #: ../../smarthive/using.rst:30
 msgid ""
-"Proposals can be submitted by anyone for a fee of 100 SMART. The proposal "
-"fee is irreversibly destroyed on submission."
+"Proposals can be submitted by anyone for a fee of 100 SMART. The proposal"
+" fee is irreversibly destroyed on submission."
 msgstr ""
 
 #: ../../smarthive/using.rst:32
@@ -113,8 +114,7 @@ msgid "Summary: a proposer-created webpage"
 msgstr ""
 
 #: ../../smarthive/using.rst:48
-msgid ""
-"Forum Proposal Link: forum post containing detailed proposal information"
+msgid "Forum Proposal Link: forum post containing detailed proposal information"
 msgstr ""
 
 #: ../../smarthive/using.rst:49
@@ -143,22 +143,22 @@ msgstr ""
 
 #: ../../smarthive/using.rst:59
 msgid ""
-"Proposal Funds can not be transferred back to the community as a kickback, "
-"rebate, or donation nor can they be used to fund third parties. Proposals "
-"that have this objectives will be removed."
+"Proposal Funds can not be transferred back to the community as a "
+"kickback, rebate, or donation nor can they be used to fund third parties."
+" Proposals that have this objectives will be removed."
 msgstr ""
 
 #: ../../smarthive/using.rst:60
 msgid ""
 "Your proposal will be validated by our team before it goes live. We will "
-"check if it does not hurt any of the terms, only after this will be released"
-" on the site"
+"check if it does not hurt any of the terms, only after this will be "
+"released on the site"
 msgstr ""
 
 #: ../../smarthive/using.rst:61
 msgid ""
-"Proposals will be open for 14 days. If during the last day of voting, the "
-"status change, the proposal will be extended for another 24h"
+"Proposals will be open for 14 days. If during the last day of voting, the"
+" status change, the proposal will be extended for another 24h"
 msgstr ""
 
 #: ../../smarthive/using.rst:62
@@ -171,9 +171,9 @@ msgstr ""
 
 #: ../../smarthive/using.rst:67
 msgid ""
-"The following two Microsoft Word templates are available to help facilitate "
-"standardized proposal submission and updates. Usage is recommended, but not "
-"required."
+"The following two Microsoft Word templates are available to help "
+"facilitate standardized proposal submission and updates. Usage is "
+"recommended, but not required."
 msgstr ""
 
 #: ../../smarthive/using.rst:70
@@ -195,7 +195,8 @@ msgstr ""
 #: ../../smarthive/using.rst:78
 msgid ""
 "Once you have prepared the text of your proposal and set up a website or "
-"forum post, it is time to submit your proposal to the blockchain for voting."
+"forum post, it is time to submit your proposal to the blockchain for "
+"voting."
 msgstr ""
 
 #: ../../smarthive/using.rst:80
@@ -217,3 +218,4 @@ msgid ""
 "For information on how to create a proposal, see :ref:`here <creating-"
 "proposals>`."
 msgstr ""
+

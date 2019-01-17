@@ -124,9 +124,3 @@ msgid ""
 " card at payment time."
 msgstr ""
 
-#~ msgid "Using explorer"
-#~ msgstr ""
-
-#~ msgid "More information here https://smartcash.cc/smartcard"
-#~ msgstr ""
-

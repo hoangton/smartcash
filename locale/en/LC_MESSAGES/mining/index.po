@@ -224,15 +224,3 @@ msgid ""
 "hashing power globally to different pools to avoid forking."
 msgstr ""
 
-#~ msgid ""
-#~ "In addition to joining a pool, you"
-#~ " will also need to create a "
-#~ "smartcash address to receive your "
-#~ "payout. To do this in smartcash "
-#~ "Node Client wallet, see :ref:`here "
-#~ "<nodeclient-send-receive>`."
-#~ msgstr ""
-
-#~ msgid "smartnodes vs. Mining"
-#~ msgstr ""
-

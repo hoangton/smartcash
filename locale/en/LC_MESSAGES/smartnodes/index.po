@@ -78,6 +78,3 @@ msgid ""
 " self-operated smartnode."
 msgstr ""
 
-#~ msgid "Smartnodes"
-#~ msgstr ""
-

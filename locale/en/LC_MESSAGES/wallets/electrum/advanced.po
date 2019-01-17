@@ -818,15 +818,3 @@ msgstr ""
 msgid "Create a payment request::"
 msgstr ""
 
-#~ msgid ""
-#~ "Smartnodes, multisig, sweeping paper wallets,"
-#~ " cold storage and command line in "
-#~ "the SmartCash Electrum wallet."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "smartcash, wallet, electrum, smartnode, "
-#~ "multisig, paper, cold storage, command "
-#~ "line"
-#~ msgstr ""
-

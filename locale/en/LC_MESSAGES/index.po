@@ -93,6 +93,3 @@ msgstr ""
 msgid "Network"
 msgstr ""
 
-#~ msgid "Under review"
-#~ msgstr ""
-

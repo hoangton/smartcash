@@ -53,6 +53,3 @@ msgid ""
 "address, it will be ineligible for SmartRewards until the next round."
 msgstr ""
 
-#~ msgid "Smartreward"
-#~ msgstr ""
-

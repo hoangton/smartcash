@@ -425,8 +425,3 @@ msgstr ""
 msgid "` <https://fonts.google.com/specimen/Source+Sans+Pro>`_"
 msgstr ""
 
-#~ msgid ""
-#~ "Sans Pro / PT Sans| ` "
-#~ "<https://fonts.google.com/specimen/Source+Sans+Pro>`_"
-#~ msgstr ""
-
