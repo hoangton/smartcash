@@ -28,39 +28,36 @@ Linux
 -----
 
 SmartCash Electrum for Linux is available from a PPA for Ubuntu and Linux
-Mint, and as a source tarball for other systems. As of version 3.0.6, it
+Mint, and as a source tarball for other systems. As of version 4.0, it
 requires Python 3 to run. Enter the following commands to install from
 PPA::
 
-  sudo add-apt-repository ppa:smartcash/electrum-smart
-  sudo apt update
-  sudo apt install electrum-smart
+    sudo add-apt-repository ppa:smartcash/electrum-smart
+    sudo apt update
+    sudo apt install electrum-smart
 
 Enter the following commands (changing the version number to match the
 current version as necessary) in the terminal to install SmartCash Electrum
 from the source tarball::
 
-  sudo apt-get install python3-setuptools python3-pyqt5 python3-pip && sudo pip3 install
-  wget https://github.com/SmartCash/electrum-smart/releases/download/v4.0.0/Linux.electrum-smart-4.0.0.tar.gz
-  tar -zxvf Linux.electrum-smart-4.0.0.tar.gz
-  cd electrum-smart-4.0.0
-  sudo python3 setup.py install
+    sudo apt-get install python3-setuptools python3-pyqt5 python3-pip && sudo pip3 install
+    wget https://github.com/SmartCash/electrum-smart/releases/download/v4.0.0/Linux.electrum-smart-4.0.0.tar.gz
+    tar -zxvf Linux.electrum-smart-4.0.0.tar.gz
+    cd electrum-smart-4.0.0
+    sudo python3 setup.py install
 
 
 macOS
 -----
 
 Simply download and run the DMG file. You may need to grant permission
-to install, depending on your security settings. Click through the
-installation wizard and run SmartCash Electrum from your Applications folder
-when complete.
+to install, depending on your security settings. Click through the installation wizard and run SmartCash Electrum from your Applications folder when complete.
 
 
 Windows
 -------
 
-Simply download and run the installer file to set up SmartCash Electrum. You
-may need to grant permission to install, depending on your security
+Simply download and run the installer file to set up SmartCash Electrum. You may need to grant permission to install, depending on your security
 settings. Click through the installation wizard and run SmartCash Electrum
 from the Start menu when complete.
 

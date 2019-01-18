@@ -91,8 +91,7 @@ following a specific descriptor ("recipe"), cryptographically sign the
 result, and upload the resulting signature. These results are compared
 and only if they match, the build is accepted and uploaded to SmartCash.org.
 
-Instructions on how to build SmartCash NodeClient 1.2.6 will appear here once the
-Docker build system for Gitian is available. Instructions to create
+Instructions on how to build SmartCash NodeClient 1.2.6 will appear here once the Docker build system for Gitian is available. Instructions to create
 deterministic builds of SmartCash NodeClient 1.2.6 or older are available `here
 <https://github.com/SmartCash/Core-Smart/blob/master/doc/gitian-building.md>`__ 
 on a previous version of this page.

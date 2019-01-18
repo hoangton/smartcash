@@ -131,3 +131,35 @@ older than what is available on the website. To install SmartCash NodeClient fro
 the repository, open the Terminal and enter the following commands::
 
     sudo add-apt-repository ppa:smartcash/ppa -y && sudo apt update && sudo apt install smartcashd -y 
+
+Raspberry Pi
+------------
+
+install needed dependencies: ((Install of Python, a Programming Language and PIP, a package manager for Python packages))
+
+
+
+    sudo apt-get install python3-setuptools python3-pyqt5 python3-pip
+
+
+
+Use the Python installer (pip) to download and install SmartCash Wallet:
+
+Enter the following commands (changing the version number to match the
+current version as necessary)
+
+    sudo pip3 install https://github.com/SmartCash/Core-Smart/releases/download/v1.2.6/smartcash-1.2.6-arm-RPi.tar.gz
+
+
+
+Launch the desktop:
+
+    startx
+
+
+
+To launch SmartCash Wallet  you can either open a terminal and run:
+
+
+
+    smartcash-qt

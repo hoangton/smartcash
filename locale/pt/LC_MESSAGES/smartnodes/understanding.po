@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 00:11+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -186,9 +186,32 @@ msgstr ""
 #: ../../smartnodes/understanding.rst:116
 msgid ""
 "A VPS server installed Ubuntu for remote node running 24hrs/day with the "
-"following specs: - 1GB RAM (about half used for OS and half for daemon) -"
-" 20GB drive (less than 1GB used for wallet, some for OS, and some for "
-"future.) - 1 Static IPV4 Address per node (IPV4 address that never "
-"changes) (No IPV6)"
+"following specs:"
 msgstr ""
+
+#: ../../smartnodes/understanding.rst:118
+msgid "1GB RAM (about half used for OS and half for daemon)"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:119
+msgid ""
+"20GB drive (less than 1GB used for wallet, some for OS, and some for "
+"future.)"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:120
+msgid "1 Static IPV4 Address per node (IPV4 address that never changes) (No IPV6)"
+msgstr ""
+
+#~ msgid ""
+#~ "A VPS server installed Ubuntu for "
+#~ "remote node running 24hrs/day with the"
+#~ " following specs: - 1GB RAM (about"
+#~ " half used for OS and half for"
+#~ " daemon) - 20GB drive (less than "
+#~ "1GB used for wallet, some for OS,"
+#~ " and some for future.) - 1 "
+#~ "Static IPV4 Address per node (IPV4 "
+#~ "address that never changes) (No IPV6)"
+#~ msgstr ""
 

@@ -114,6 +114,7 @@ Smartnode requirements
 - 10,000 Smart: Arguably the hardest part. Smart can be obtained from exchanges such as CryptoBridge, HitBTC. For the full list of places to obtain Smart click here.
 - A computer for running a local wallet to start nodes and hold funds
 - A VPS server installed Ubuntu for remote node running 24hrs/day with the following specs:
-  - 1GB RAM (about half used for OS and half for daemon)
-  - 20GB drive (less than 1GB used for wallet, some for OS, and some for future.)
-  - 1 Static IPV4 Address per node (IPV4 address that never changes) (No IPV6)
+
+    * 1GB RAM (about half used for OS and half for daemon)
+    * 20GB drive (less than 1GB used for wallet, some for OS, and some for future.)
+    * 1 Static IPV4 Address per node (IPV4 address that never changes) (No IPV6)

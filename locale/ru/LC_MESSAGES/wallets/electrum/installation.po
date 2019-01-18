@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 00:11+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,8 +62,8 @@ msgstr ""
 #: ../../wallets/electrum/installation.rst:30
 msgid ""
 "SmartCash Electrum for Linux is available from a PPA for Ubuntu and Linux"
-" Mint, and as a source tarball for other systems. As of version 3.0.6, it"
-" requires Python 3 to run. Enter the following commands to install from "
+" Mint, and as a source tarball for other systems. As of version 4.0, it "
+"requires Python 3 to run. Enter the following commands to install from "
 "PPA::"
 msgstr ""
 
@@ -86,11 +86,11 @@ msgid ""
 "folder when complete."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:60
+#: ../../wallets/electrum/installation.rst:58
 msgid "Windows"
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:62
+#: ../../wallets/electrum/installation.rst:60
 msgid ""
 "Simply download and run the installer file to set up SmartCash Electrum. "
 "You may need to grant permission to install, depending on your security "
@@ -98,11 +98,11 @@ msgid ""
 "Electrum from the Start menu when complete."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:69
+#: ../../wallets/electrum/installation.rst:66
 msgid "Creating a New Wallet"
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:71
+#: ../../wallets/electrum/installation.rst:68
 msgid ""
 "SmartCash Electrum gathers configuration data when run for the first "
 "time. For more on the concepts behind this process, skip to the later "
@@ -115,11 +115,11 @@ msgid ""
 "default name) and click **Next** to create your wallet."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:84
+#: ../../wallets/electrum/installation.rst:81
 msgid "Selecting the server and naming your first wallet"
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:86
+#: ../../wallets/electrum/installation.rst:83
 msgid ""
 "You will be asked what kind of wallet you want to create. Choose between "
 "**Standard wallet**, **Multi-signature wallet** and **Import SmartCash "
@@ -133,11 +133,11 @@ msgid ""
 "continue."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:102
+#: ../../wallets/electrum/installation.rst:99
 msgid "Selecting the wallet type and keystore"
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:104
+#: ../../wallets/electrum/installation.rst:101
 msgid ""
 "Electrum SmartCash will generate your wallet and display the recovery "
 "seed. Write this seed down, ideally on paper and not in an electronic "
@@ -148,11 +148,11 @@ msgid ""
 "**Next** to continue."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:118
+#: ../../wallets/electrum/installation.rst:115
 msgid "Generating and confirming the recovery seed"
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:120
+#: ../../wallets/electrum/installation.rst:117
 msgid ""
 "A password optionally secures your wallet against unauthorized access. "
 "Adding a memorable, strong password now improves the security of your "
@@ -163,15 +163,25 @@ msgid ""
 "to continue."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:131
+#: ../../wallets/electrum/installation.rst:128
 msgid "Entering and confirming a wallet encryption password"
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:133
+#: ../../wallets/electrum/installation.rst:130
 msgid "Your SmartCash Electrum wallet is now set up and ready for use."
 msgstr ""
 
-#: ../../wallets/electrum/installation.rst:138
+#: ../../wallets/electrum/installation.rst:135
 msgid "SmartCash Electrum after setup is complete"
 msgstr ""
+
+#~ msgid ""
+#~ "SmartCash Electrum for Linux is "
+#~ "available from a PPA for Ubuntu "
+#~ "and Linux Mint, and as a source"
+#~ " tarball for other systems. As of "
+#~ "version 3.0.6, it requires Python 3 "
+#~ "to run. Enter the following commands "
+#~ "to install from PPA::"
+#~ msgstr ""
 
