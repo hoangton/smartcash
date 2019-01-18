@@ -118,7 +118,6 @@ External hyperlinks
 SmartCash Graphics
 ==================
 
-https://www.transifex.com/smartcash/graphics
 
 SmartCash visual products such as infographics, flyers and conference
 handouts are produced using Adobe InDesign, Adobe Illustrator or
@@ -138,7 +137,6 @@ in the visual design.
 SmartCash Website
 =================
 
-https://www.transifex.com/smartcash/website
 
 The SmartCash website at https://smartcash.cc can be translated into your language at `Crowdin here
 <https://crowdin.com/project/smartcash-website>`__. Please have the website open while you translate to correctly
@@ -150,7 +148,6 @@ onto the website.
 SmartCash Web Wallet
 ====================
 
-https://www.transifex.com/smartcash/webwallet
 
 The SmartCash Web Wallet at https://wallet.smartcash.cc is available for translation in
 `poeditor here
@@ -163,7 +160,6 @@ onto the website.
 SmartCard & Business
 ====================
 
-https://www.transifex.com/smartcash/smartcard-business
 
 The SmartCard & Business at https://card.smartcash.cc and https://business.smartcash.cc/ is available for translation in
 `Crowdin here
