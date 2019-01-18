@@ -228,7 +228,7 @@ Pungo Wallet is available from the `Google Play Store for Android
 Documentation
 -------------
 
-Pungo Wallet offers detailed documentation of all functions at https://pungo.app 
+Pungo Wallet offers detailed documentation of all functions at <https://pungo.app>_
 
 .. figure:: img/pungo-wallet.png
    :width: 133px
