@@ -232,5 +232,6 @@ Pungo Wallet offers detailed documentation of all functions at https://pungo.app
 
 .. figure:: img/pungo-wallet.png
    :width: 133px
-
+   :target: https://play.google.com/store/apps/details?id=cloud.peer2.pungo_wallet
+   
   Pungo Wallet on Android
