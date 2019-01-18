@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-18 11:11+0700\n"
+"POT-Creation-Date: 2019-01-18 11:15+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,64 +55,64 @@ msgstr ""
 msgid "Step 1. Install dependencies required for the SmartCash Wallet"
 msgstr ""
 
-#: ../../developers/compiling.rst:24
+#: ../../developers/compiling.rst:25
 msgid ""
-"sudo apt-get install checkinstall subversion git git-core build-essential"
-" sudo apt-get install libssl-dev libboost-dev libboost-system-dev "
-"libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev "
-"libcurl4-openssl-dev libminiupnpc-dev"
+"`sudo apt-get install checkinstall subversion git git-core build-"
+"essential sudo apt-get install libssl-dev libboost-dev libboost-system-"
+"dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-"
+"dev libcurl4-openssl-dev libminiupnpc-dev`"
 msgstr ""
 
-#: ../../developers/compiling.rst:28
+#: ../../developers/compiling.rst:29
 msgid "Step 2. Installing BerkeleyDB4.8 from source"
 msgstr ""
 
-#: ../../developers/compiling.rst:30
+#: ../../developers/compiling.rst:31
 msgid "(Most Wallets use 4.8 whereas most repositories contain 5.3+)"
 msgstr ""
 
-#: ../../developers/compiling.rst:32
+#: ../../developers/compiling.rst:33
 msgid ""
-"cd ~/ wget http://download.oracle.com/berkeley-db/db-4.8.30.tar.gz tar "
+"`cd ~/ wget http://download.oracle.com/berkeley-db/db-4.8.30.tar.gz tar "
 "xvf db-4.8.30.tar.gz cd ~/db-4.8.30/build_unix ../dist/configure "
-"--enable-cxx make"
+"--enable-cxx make`"
 msgstr ""
 
-#: ../../developers/compiling.rst:39
+#: ../../developers/compiling.rst:40
 msgid "this might take a while - even on RPi3"
 msgstr ""
 
-#: ../../developers/compiling.rst:41
+#: ../../developers/compiling.rst:42
 msgid ""
-"sudo make install export "
+"`sudo make install export "
 "BDB_INCLUDE_PATH=\"/usr/local/BerkeleyDB.4.8/include\" export "
 "BDB_LIB_PATH=\"/usr/local/BerkeleyDB.4.8/lib\" sudo ln -s "
 "/usr/local/BerkeleyDB.4.8/lib/libdb-4.8.so /usr/lib/libdb-4.8.so sudo ln "
 "-s /usr/local/BerkeleyDB.4.8/lib/libdb_cxx-4.8.so "
-"/usr/lib/libdb_cxx-4.8.so"
+"/usr/lib/libdb_cxx-4.8.so`"
 msgstr ""
 
-#: ../../developers/compiling.rst:47
+#: ../../developers/compiling.rst:48
 msgid "Link libminiupnpc"
 msgstr ""
 
-#: ../../developers/compiling.rst:49
-msgid "sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10"
-msgstr ""
-
-#: ../../developers/compiling.rst:52
-msgid "Step 3. Compile smartcashd from source"
+#: ../../developers/compiling.rst:50
+msgid "`sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10`"
 msgstr ""
 
 #: ../../developers/compiling.rst:53
+msgid "Step 3. Compile smartcashd from source"
+msgstr ""
+
+#: ../../developers/compiling.rst:54
 msgid ""
 "If this is your first time compiling a binary be aware that the build "
 "process can take a while to complete."
 msgstr ""
 
-#: ../../developers/compiling.rst:55
+#: ../../developers/compiling.rst:56
 msgid ""
-"$ cd ~ $ git clone https://github.com/SmartCash/Core-Smart.git # clone "
+"`$ cd ~ $ git clone https://github.com/SmartCash/Core-Smart.git # clone "
 "SmartCash repository locally $ cd smartcash # Go to repository directory "
 "$ git tag # Retrieve a list of tags and find the most recent stable tag. "
 "$ git checkout 1.2.6 # Grab correct version $ cd src # Go to source "
@@ -124,32 +124,32 @@ msgid ""
 "chmod a+x /usr/bin/smartcashd # move smartcashd and make it executable $ "
 "sudo rm -r ~/smartcash/ # Remove directory with sources (optional) $ sudo"
 " swapoff /swapfile# clean up the previously initiated swap $ sudo rm "
-"/swapfile"
+"/swapfile`"
 msgstr ""
 
-#: ../../developers/compiling.rst:71
+#: ../../developers/compiling.rst:72
 msgid ""
 "You're done and should now have the smartcashd daemon installed. To run "
 "this binary simply start the daemon with:"
 msgstr ""
 
-#: ../../developers/compiling.rst:73
-msgid "smartcashd -daemon"
+#: ../../developers/compiling.rst:74
+msgid "`smartcashd -daemon`"
 msgstr ""
 
-#: ../../developers/compiling.rst:75
+#: ../../developers/compiling.rst:76
 msgid "You can check on your wallet daemon with:"
 msgstr ""
 
-#: ../../developers/compiling.rst:77
-msgid "smartcashd getinfo"
+#: ../../developers/compiling.rst:78
+msgid "`smartcashd getinfo`"
 msgstr ""
 
-#: ../../developers/compiling.rst:82
+#: ../../developers/compiling.rst:83
 msgid "Gitian"
 msgstr ""
 
-#: ../../developers/compiling.rst:84
+#: ../../developers/compiling.rst:85
 msgid ""
 "Gitian is the deterministic build process that is used to build the "
 "SmartCash Core executables. It provides a way to be reasonably sure that "
@@ -162,7 +162,7 @@ msgid ""
 "SmartCash.org."
 msgstr ""
 
-#: ../../developers/compiling.rst:93
+#: ../../developers/compiling.rst:94
 msgid ""
 "Instructions on how to build SmartCash NodeClient 1.2.6 will appear here "
 "once the Docker build system for Gitian is available. Instructions to "
@@ -170,4 +170,68 @@ msgid ""
 "available `here <https://github.com/SmartCash/Core-Smart/blob/master/doc"
 "/gitian-building.md>`__ on a previous version of this page."
 msgstr ""
+
+#~ msgid ""
+#~ "sudo apt-get install checkinstall "
+#~ "subversion git git-core build-essential"
+#~ " sudo apt-get install libssl-dev "
+#~ "libboost-dev libboost-system-dev "
+#~ "libboost-filesystem-dev libboost-program-"
+#~ "options-dev libboost-thread-dev libcurl4"
+#~ "-openssl-dev libminiupnpc-dev"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "cd ~/ wget http://download.oracle.com/berkeley-"
+#~ "db/db-4.8.30.tar.gz tar xvf db-4.8.30.tar.gz "
+#~ "cd ~/db-4.8.30/build_unix ../dist/configure "
+#~ "--enable-cxx make"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "sudo make install export "
+#~ "BDB_INCLUDE_PATH=\"/usr/local/BerkeleyDB.4.8/include\" export"
+#~ " BDB_LIB_PATH=\"/usr/local/BerkeleyDB.4.8/lib\" sudo ln"
+#~ " -s /usr/local/BerkeleyDB.4.8/lib/libdb-4.8.so "
+#~ "/usr/lib/libdb-4.8.so sudo ln -s "
+#~ "/usr/local/BerkeleyDB.4.8/lib/libdb_cxx-4.8.so "
+#~ "/usr/lib/libdb_cxx-4.8.so"
+#~ msgstr ""
+
+#~ msgid "sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "$ cd ~ $ git clone "
+#~ "https://github.com/SmartCash/Core-Smart.git # clone"
+#~ " SmartCash repository locally $ cd "
+#~ "smartcash # Go to repository directory"
+#~ " $ git tag # Retrieve a list"
+#~ " of tags and find the most "
+#~ "recent stable tag. $ git checkout "
+#~ "1.2.6 # Grab correct version $ cd"
+#~ " src # Go to source directory $"
+#~ " sudo dd if=/dev/zero of=/swapfile bs=64M"
+#~ " count=16 # extra swap partition for"
+#~ " speed $ sudo mkswap /swapfile $ "
+#~ "sudo swapon /swapfile $ make -f "
+#~ "makefile.unix # Build smartcashd. This "
+#~ "can take up hours and will produce"
+#~ " a binary : smartcashd $ strip "
+#~ "smartcashd # Reduce file size by "
+#~ "stripping symbols $ sudo mv smartcashd"
+#~ " /usr/bin/smartcashd && sudo chmod a+x "
+#~ "/usr/bin/smartcashd # move smartcashd and "
+#~ "make it executable $ sudo rm -r"
+#~ " ~/smartcash/ # Remove directory with "
+#~ "sources (optional) $ sudo swapoff "
+#~ "/swapfile# clean up the previously "
+#~ "initiated swap $ sudo rm /swapfile"
+#~ msgstr ""
+
+#~ msgid "smartcashd -daemon"
+#~ msgstr ""
+
+#~ msgid "smartcashd getinfo"
+#~ msgstr ""
 
