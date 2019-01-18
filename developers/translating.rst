@@ -129,10 +129,9 @@ context of the text you are translating. For example, many words should
 be translated differently depending if they are a heading, a sentence or
 an item in a diagram.
 
-Because these proprietary file formats are not easily handled by
-Transifex, the language content is exported to a text or Microsoft Excel
-file and uploaded to Transifex for processing. If you translate SmartCash
-Graphics, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
+This design can be translated into your language at `Crowdin here
+<https://crowdin.com/project/smartcash-website>`__
+If you translate SmartCash Graphics, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
 `Discord <http://discord.smartcash.cc>`_ when you are finished to request layout
 in the visual design.
 
@@ -141,8 +140,8 @@ SmartCash Website
 
 https://www.transifex.com/smartcash/website
 
-The SmartCash website at https://smartcash.cc is available for translation in
-Transifex. Please have the website open while you translate to correctly
+The SmartCash website at https://smartcash.cc can be translated into your language at `Crowdin here
+<https://crowdin.com/project/smartcash-website>`__. Please have the website open while you translate to correctly
 understand the context of the source text. Once your translation is
 complete, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
 `Discord <http://discord.smartcash.cc>`_ to request a build of your translation
@@ -154,7 +153,8 @@ SmartCash Web Wallet
 https://www.transifex.com/smartcash/webwallet
 
 The SmartCash Web Wallet at https://wallet.smartcash.cc is available for translation in
-Transifex. Please have the website open while you translate to correctly
+`poeditor here
+<https://poeditor.com/projects/view?id=189685>`__. Please have the website open while you translate to correctly
 understand the context of the source text. Once your translation is
 complete, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
 `Discord <http://discord.smartcash.cc>`_ to request a build of your translation
@@ -166,7 +166,8 @@ SmartCard & Business
 https://www.transifex.com/smartcash/smartcard-business
 
 The SmartCard & Business at https://card.smartcash.cc and https://business.smartcash.cc/ is available for translation in
-Transifex. Please have the website open while you translate to correctly
+`Crowdin here
+<https://crowdin.com/project/smartcash-website>`__. Please have the website open while you translate to correctly
 understand the context of the source text. Once your translation is
 complete, please send an email to hoangton@smartcash.cc or @hoangton#6301 on
 `Discord <http://discord.smartcash.cc>`_ to request a build of your translation

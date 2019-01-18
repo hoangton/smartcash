@@ -47,23 +47,23 @@ For more information on translating SmartCash products on Crowdin, see
 :ref:`here <translating-SmartCash>`. Please contact hoangton@smartcash.cc once
 translation is complete to request layout of the completed translation.
 
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| Language   | Download															|
-+============+==========================================================================================================================+
-| English    | `PDF_en <https://smartcash.cc/wp-content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_						|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| Russian    | `PDF_ru <https://smartcash.cc/wp-content/uploads/2018/12/SmartCash_Brochure_Russian_opt.pdf>`_				|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| German     | `PDF_de <https://smartcash.cc/wp-content/uploads/2018/10/SmartCash_brochure_DE_1.4.pdf>`_				|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| Spanish    | `PDF_es <https://smartcash.cc/wp-content/uploads/2018/08/SmartCash_presentation_brochure_v1.2.4_Spanish_web.pdf>`_	|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| Portuguese | `PDF_pt <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_presentation_brochure_v1.2_PTBR.pdf>`_		|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| Japanesese | `PDF_ja <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_ENG_JAP_1.2.pdf>`_				|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
-| Vietnamese | `PDF_vi <https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_EN_VN_v1.2.pdf>`_				|
-+------------+--------------------------------------------------------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Language    | Download																	|
++=============+=================================================================================================================================================+
+| English     | `PDF_SmartCash_brochure_en-1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Russian     | `PDF_SmartCash_brochure_ru_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| German      | `PDF_SmartCash_brochure_DE_1.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Spanish     | `PDF_SmartCash_brochure_es_1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Portuguese  | `PDF_SmartCash_brochure_ptbr_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Japanese    | `PDF_SmartCash_brochure_ja_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vietnamese  | `PDF_SmartCash_brochure_vi_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Flyers
@@ -77,11 +77,16 @@ For more information on translating SmartCash products on Crowdin, see
 :ref:`here <translating-SmartCash>`. Please contact hoangton@smartcash.cc once
 translation is complete to request layout of the completed translation.
 
-+-----------------------+---------------------------------------------------------------------------------------------------------------------------------+
-| Language              | Download                                                                                   					  |
-+=======================+=================================================================================================================================+
-| English               | `PDF <https://www.dropbox.com/sh/u3wtklnz37x47xx/AABK5zLDcJnGgtJwIvy0eal-a/Flyers/SmartCash_OnePageFlyer_Community.pdf?dl=0>`__ |
-+-----------------------+---------------------------------------------------------------------------------------------------------------------------------+
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Language              | Download                                                                                   					  			|
++=======================+=======================================================================================================================================================+
+| English               | `PDF SmartCash_OnePageFlyer_Community <https://github.com/hoangton/smartcash/blob/master/binary/flyers/SmartCash_OnePageFlyer_Community.pdf>`__ 	|
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| English               | `PDF SmartCash_OnePageFlyer_Business <https://github.com/hoangton/smartcash/blob/master/binary/flyers/SmartCash_OnePageFlyer_Business.pdf>`__ 	|
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| English               | `PDF SmartCash_flyer <https://github.com/hoangton/smartcash/blob/master/binary/flyers/SmartCash_flyer.pdf>`__ 					|
++-----------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 
 Handouts
 --------
@@ -95,68 +100,29 @@ For more information on translating SmartCash products on Crowdin, see
 :ref:`here <translating-SmartCash>`. Please contact hoangton@smartcash.cc once
 translation is complete to request layout of the completed translation.
 
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-| Language   | Download                                                                                        						  |
-+============+============================================================================================================================================+
-| English    | `PDF <https://www.dropbox.com/sh/u3wtklnz37x47xx/AABHC8Czl-foy2MCGY72uXWNa/Brochures/SmartCash_TriFoId_Brochure_Business_02.pdf?dl=0>`__   |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------+
++------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Language   | Download                                                                                        						  	|
++============+==================================================================================================================================================+
+| English    | `PDF SmartCash_BusinessCard_Folded <https://github.com/hoangton/smartcash/blob/master/binary/handouts/SmartCash_BusinessCard_Folded.pdf>`__	|
++------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Infographics
 ------------
 
-The SmartCash Difference
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-This engaging infographic details the improvements the SmartCash network has
-delivered by building on the Bitcoin code base.
-This design can be translated into your language at `Crowdin here
-<https://crowdin.com/project/smartcash-website/>`__. For more information on translating SmartCash products
-on Crowdin, see :ref:`here <translating-SmartCash>`. Please contact
-hoangton@smartcash.cc once translation is complete to request layout of
-the completed translation.
-
-+-----------------------+---------------------------------------------------------------------------------+
-| Language              | Download                                                                        |
-+=======================+=================================================================================+
-| English               | `PPTX <https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__ |
-+-----------------------+---------------------------------------------------------------------------------+
-
-Ten Misconceptions About SmartCash
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-This infographic refutes many common yet uninformed arguments made
-against SmartCash.
-This design can be translated into your language at `Crowdin here
-<https://crowdin.com/project/smartcash-website/>`__.
-For more information on translating SmartCash products on Crowdin, see
-:ref:`here <translating-SmartCash>`. Please contact hoangton@smartcash.cc once
-translation is complete to request layout of the completed translation.
-
-+------------------------+-----------------------------------------------------------------------------------------+
-| Language               | Download                                                                                |
-+========================+=========================================================================================+
-| English                | `PPTX <https://www.dropbox.com/s/e2kkoa3xzzdlpq8/SmartCash%20BR-ALT%201.3.pptx?dl=0#>`__|
-+------------------------+-----------------------------------------------------------------------------------------+
-
 
 Presentations
 -------------
 
-SmartCash Meetup
-^^^^^^^^^^^^^^^^
-
-.. image:: img/meetup.png
-   :width: 400px
 
 An attractive presentation about SmartCash, designed to guide the audience
 through the basics of cryptocurrency and advantages of SmartCash. 
 
-+------------------------+-----------------------------------------------------------------------------------------+
-| Language               | Download                                                                                |
-+========================+=========================================================================================+
-| English                | `PPTX <https://www.dropbox.com/s/e2kkoa3xzzdlpq8/SmartCash%20BR-ALT%201.3.pptx?dl=0#>`__|
-+------------------------+-----------------------------------------------------------------------------------------+
++------------------------+------------------------------------------------------------------------------------------------------------+
+| Language               | Download                                                                  			              |
++========================+============================================================================================================+
+| English                | `PPTX <https://github.com/hoangton/smartcash/blob/master/binary/presentations/SmartCash_en_4.14.pptx>`__   |
++------------------------+------------------------------------------------------------------------------------------------------------+
 
 
 Business Templates
@@ -167,11 +133,11 @@ Document templates
 
 Official SmartCash document templates.
 
-+----------------------------------------------------+------------------------------------------------------------------------------+
-| Name                                               | Download                                                                     |
-+====================================================+==============================================================================+
-| Word document with cover page and paragraph styles | `DOCX <https://drive.google.com/open?id=1mKP1C_yaRPC_H5UrMNkUTWv7mD9W4av0>`__|              
-+----------------------------------------------------+------------------------------------------------------------------------------+
++----------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
+| Name                                               | Download                                                                    				 |
++====================================================+===========================================================================================================+
+| Word document with cover page and paragraph styles | `DOCX <https://github.com/hoangton/smartcash/blob/master/binary/templates/SmartCash-Word-Document.docx>`__|              
++----------------------------------------------------+-----------------------------------------------------------------------------------------------------------+
 
 
 Presentation templates
@@ -180,11 +146,11 @@ Presentation templates
 Official SmartCash presentation templates. We strongly recommend using
 predefined presentation slide layouts.
 
-+--------------------------+----------------------------------------------------------------------------------+
-| Name                     |                                   Download                                       |
-+==========================+==================================================================================+
-| PowerPoint template      | `PPTX <https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__  |
-+------------------------------------------------------------+------------------------------------------------+
++--------------------------+--------------------------------------------------------------------------------------------------------------+
+| Name                     |                                   Download                                     				  |
++==========================+==============================================================================================================+
+| PowerPoint template      | `PPTX <https://github.com/hoangton/smartcash/blob/master/binary/presentations/SmartCash_en_4.14.pptx>`__  	  |
++------------------------------------------------------------+----------------------------------------------------------------------------+
 
 
 Cards
@@ -193,20 +159,20 @@ Cards
 High resolution cards for printing. Great for use as the back of
 business cards, or to hand out to explain and promote SmartCash.
 
-+--------------+------------------------------------------------------------------------------------------------------------------------+
-| Name         | Download version                                                                                      			|
-+==============+========================================================================================================================+
-| Handout Card | `English <https://contattafiles.s3.us-west-1.amazonaws.com/tnt19836/6dBmEu-p83MizD2/SmartCash%20Business%20Card.pdf>`_ |
-+--------------+------------------------------------------------------------------------------------------------------------------------+
++---------------+------------------------------------------------------------------------------------------------------------------------+
+| Name          | Download version                                                                                      		 |
++===============+========================================================================================================================+
+| Business Card | `English <https://github.com/hoangton/smartcash/blob/master/binary/cards/SmartCash_Business_Card.pdf>`_ 		 |
++---------------+------------------------------------------------------------------------------------------------------------------------+
 
 
 Fonts
 -----
 
-+---------------------+-----------------------------------------------------------------+
-| Name                | Download version                                      	       |
-+=====================+=================================================================+
-| Sans Pro / PT Sans  | `Download <https://fonts.google.com/specimen/Source+Sans+Pro>`_ |
-+---------------------+-----------------------------------------------------------------+
++---------------------+------------------------------------------------------------------------------------------------+
+| Name                | Download version                                      	       				       |
++=====================+================================================================================================+
+| Sans Pro / PT Sans  | `Download <https://github.com/hoangton/smartcash/blob/master/binary/fonts/SourceSansPro.zip>`_ |
++---------------------+------------------------------------------------------------------------------------------------+
 
 
