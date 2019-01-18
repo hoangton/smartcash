@@ -29,30 +29,30 @@ Step 2. Installing BerkeleyDB4.8 from source
 
 (Most Wallets use 4.8 whereas most repositories contain 5.3+)
  
-cd ~/
+`cd ~/
 wget http://download.oracle.com/berkeley-db/db-4.8.30.tar.gz
 tar xvf db-4.8.30.tar.gz
 cd ~/db-4.8.30/build_unix
 ../dist/configure --enable-cxx
-make
+make`
 
 this might take a while - even on RPi3
 
-sudo make install
+`sudo make install
 export BDB_INCLUDE_PATH="/usr/local/BerkeleyDB.4.8/include"
 export BDB_LIB_PATH="/usr/local/BerkeleyDB.4.8/lib"
 sudo ln -s /usr/local/BerkeleyDB.4.8/lib/libdb-4.8.so /usr/lib/libdb-4.8.so
-sudo ln -s /usr/local/BerkeleyDB.4.8/lib/libdb_cxx-4.8.so /usr/lib/libdb_cxx-4.8.so
+sudo ln -s /usr/local/BerkeleyDB.4.8/lib/libdb_cxx-4.8.so /usr/lib/libdb_cxx-4.8.so`
 
 Link libminiupnpc
 
-sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10
+`sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10`
 
 Step 3. Compile smartcashd from source
 --------------------------------------
 If this is your first time compiling a binary be aware that the build process can take a while to complete.
 
-$ cd ~
+`$ cd ~
 $ git clone https://github.com/SmartCash/Core-Smart.git # clone SmartCash repository locally
 $ cd smartcash # Go to repository directory
 $ git tag # Retrieve a list of tags and find the most recent stable tag.
@@ -66,15 +66,15 @@ $ strip smartcashd # Reduce file size by stripping symbols
 $ sudo mv smartcashd /usr/bin/smartcashd && sudo chmod a+x /usr/bin/smartcashd # move smartcashd and make it executable
 $ sudo rm -r ~/smartcash/ # Remove directory with sources (optional)
 $ sudo swapoff /swapfile# clean up the previously initiated swap
-$ sudo rm /swapfile
+$ sudo rm /swapfile`
 
 You're done and should now have the smartcashd daemon installed. To run this binary simply start the daemon with:
 
-smartcashd -daemon
+`smartcashd -daemon`
 
 You can check on your wallet daemon with:
 
-smartcashd getinfo
+`smartcashd getinfo`
 
 .. _gitian-build:
 
