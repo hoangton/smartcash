@@ -200,3 +200,37 @@ here:
    :width: 133px
 
    Ethos Universal Wallet on Android
+
+Pungo
+=====
+
+https://pungo.app/
+
+.. image:: img/pungo.png
+   :width: 100px
+   :align: right
+   :target: https://pungo.app/
+
+Pungo Wallet is focused on ease of use, security, and especially on maintaining the end user's financial independence as it’s a noncustodial wallet. Our company never has access to the user’s funds.
+Pungo Wallet offers a multicrypto wallet which supports a growing amount of coins. We provide a built-in fiat gateway to be able to buy and sell from the wallet through convenient methods. We also provide a debit card which can be ordered and loaded from the wallet interface. Our goal is to become a gateway for blockchain based services and a reference wallet for those users searching for independence from mainstream financial solutions by providing a full set of convenient services seamlessly integrated within the wallet.
+
+Installation
+------------
+
+.. image:: img/google-play-badge.png
+   :width: 200px
+   :target: https://play.google.com/store/apps/details?id=cloud.peer2.pungo_wallet
+
+Pungo Wallet is available from the `Google Play Store for Android 
+<https://play.google.com/store/apps/details?id=cloud.peer2.pungo_wallet>`__ 
+
+
+Documentation
+-------------
+
+Pungo Wallet offers detailed documentation of all functions at https://pungo.app 
+
+.. figure:: img/pungo-wallet.png
+   :width: 133px
+
+  Pungo Wallet on Android
