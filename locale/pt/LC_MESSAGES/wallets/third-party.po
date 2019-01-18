@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-18 15:01+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,7 +60,7 @@ msgid ""
 msgstr ""
 
 #: ../../wallets/third-party.rst:35 ../../wallets/third-party.rst:121
-#: ../../wallets/third-party.rst:171
+#: ../../wallets/third-party.rst:171 ../../wallets/third-party.rst:218
 msgid "Installation"
 msgstr ""
 
@@ -72,6 +72,7 @@ msgstr ""
 
 #: ../../wallets/third-party.rst:41 ../../wallets/third-party.rst:91
 #: ../../wallets/third-party.rst:137 ../../wallets/third-party.rst:187
+#: ../../wallets/third-party.rst:229
 msgid "Documentation"
 msgstr ""
 
@@ -291,4 +292,48 @@ msgstr ""
 #: ../../wallets/third-party.rst:202
 msgid "Ethos Universal Wallet on Android"
 msgstr ""
+
+#: ../../wallets/third-party.rst:205
+msgid "Pungo"
+msgstr ""
+
+#: ../../wallets/third-party.rst:207
+msgid "https://pungo.app/"
+msgstr ""
+
+#: ../../wallets/third-party.rst:214
+msgid ""
+"Pungo Wallet is focused on ease of use, security, and especially on "
+"maintaining the end user's financial independence as it’s a noncustodial "
+"wallet. Our company never has access to the user’s funds. Pungo Wallet "
+"offers a multicrypto wallet which supports a growing amount of coins. We "
+"provide a built-in fiat gateway to be able to buy and sell from the "
+"wallet through convenient methods. We also provide a debit card which can"
+" be ordered and loaded from the wallet interface. Our goal is to become a"
+" gateway for blockchain based services and a reference wallet for those "
+"users searching for independence from mainstream financial solutions by "
+"providing a full set of convenient services seamlessly integrated within "
+"the wallet."
+msgstr ""
+
+#: ../../wallets/third-party.rst:224
+msgid ""
+"Pungo Wallet is available from the `Google Play Store for Android "
+"<https://play.google.com/store/apps/details?id=cloud.peer2.pungo_wallet>`__"
+msgstr ""
+
+#: ../../wallets/third-party.rst:231
+msgid ""
+"Pungo Wallet offers detailed documentation of all functions at "
+"<https://pungo.app>_"
+msgstr ""
+
+#: ../../wallets/third-party.rst:237
+msgid "Pungo Wallet on Android"
+msgstr ""
+
+#~ msgid ""
+#~ "Pungo Wallet offers detailed documentation "
+#~ "of all functions at https://pungo.app"
+#~ msgstr ""
 

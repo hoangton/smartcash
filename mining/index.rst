@@ -82,9 +82,10 @@ Mining Pools
 Mining smartcash in pools is more likely to generate rewards than solo mining directly on the blockchain.
 
 Official Pool 0%Fee
-1	eu-mine.smartcash.cc
-2	asia-mine.smartcash.cc
-3	us-mine.smartcash.cc
+
+* https://eu-mine.smartcash.cc
+* https://asia-mine.smartcash.cc
+* https://us-mine.smartcash.cc
 
 Other pools are also available and may be advantageous for different
 reasons such as ping latency, uptime, fee, users, etc.:
