@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-18 10:37+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,11 +215,7 @@ msgstr ""
 msgid "SmartCash Graphics"
 msgstr ""
 
-#: ../../developers/translating.rst:121
-msgid "https://www.transifex.com/smartcash/graphics"
-msgstr ""
-
-#: ../../developers/translating.rst:123
+#: ../../developers/translating.rst:122
 msgid ""
 "SmartCash visual products such as infographics, flyers and conference "
 "handouts are produced using Adobe InDesign, Adobe Illustrator or "
@@ -231,70 +227,130 @@ msgid ""
 "an item in a diagram."
 msgstr ""
 
-#: ../../developers/translating.rst:132
+#: ../../developers/translating.rst:131
 msgid ""
-"Because these proprietary file formats are not easily handled by "
-"Transifex, the language content is exported to a text or Microsoft Excel "
-"file and uploaded to Transifex for processing. If you translate SmartCash"
-" Graphics, please send an email to hoangton@smartcash.cc or "
+"This design can be translated into your language at `Crowdin here "
+"<https://crowdin.com/project/smartcash-website>`__ If you translate "
+"SmartCash Graphics, please send an email to hoangton@smartcash.cc or "
 "@hoangton#6301 on `Discord <http://discord.smartcash.cc>`_ when you are "
 "finished to request layout in the visual design."
 msgstr ""
 
-#: ../../developers/translating.rst:140
+#: ../../developers/translating.rst:138
 msgid "SmartCash Website"
 msgstr ""
 
-#: ../../developers/translating.rst:142
-msgid "https://www.transifex.com/smartcash/website"
-msgstr ""
-
-#: ../../developers/translating.rst:144
+#: ../../developers/translating.rst:141
 msgid ""
-"The SmartCash website at https://smartcash.cc is available for "
-"translation in Transifex. Please have the website open while you "
-"translate to correctly understand the context of the source text. Once "
-"your translation is complete, please send an email to "
-"hoangton@smartcash.cc or @hoangton#6301 on `Discord "
-"<http://discord.smartcash.cc>`_ to request a build of your translation "
-"onto the website."
+"The SmartCash website at https://smartcash.cc can be translated into your"
+" language at `Crowdin here <https://crowdin.com/project/smartcash-"
+"website>`__. Please have the website open while you translate to "
+"correctly understand the context of the source text. Once your "
+"translation is complete, please send an email to hoangton@smartcash.cc or"
+" @hoangton#6301 on `Discord <http://discord.smartcash.cc>`_ to request a "
+"build of your translation onto the website."
 msgstr ""
 
-#: ../../developers/translating.rst:152
+#: ../../developers/translating.rst:149
 msgid "SmartCash Web Wallet"
 msgstr ""
 
-#: ../../developers/translating.rst:154
-msgid "https://www.transifex.com/smartcash/webwallet"
-msgstr ""
-
-#: ../../developers/translating.rst:156
+#: ../../developers/translating.rst:152
 msgid ""
 "The SmartCash Web Wallet at https://wallet.smartcash.cc is available for "
-"translation in Transifex. Please have the website open while you "
-"translate to correctly understand the context of the source text. Once "
-"your translation is complete, please send an email to "
-"hoangton@smartcash.cc or @hoangton#6301 on `Discord "
+"translation in `poeditor here "
+"<https://poeditor.com/projects/view?id=189685>`__. Please have the "
+"website open while you translate to correctly understand the context of "
+"the source text. Once your translation is complete, please send an email "
+"to hoangton@smartcash.cc or @hoangton#6301 on `Discord "
 "<http://discord.smartcash.cc>`_ to request a build of your translation "
 "onto the website."
 msgstr ""
 
-#: ../../developers/translating.rst:164
+#: ../../developers/translating.rst:161
 msgid "SmartCard & Business"
 msgstr ""
 
-#: ../../developers/translating.rst:166
-msgid "https://www.transifex.com/smartcash/smartcard-business"
-msgstr ""
-
-#: ../../developers/translating.rst:168
+#: ../../developers/translating.rst:164
 msgid ""
 "The SmartCard & Business at https://card.smartcash.cc and "
-"https://business.smartcash.cc/ is available for translation in Transifex."
-" Please have the website open while you translate to correctly understand"
-" the context of the source text. Once your translation is complete, "
-"please send an email to hoangton@smartcash.cc or @hoangton#6301 on "
-"`Discord <http://discord.smartcash.cc>`_ to request a build of your "
-"translation onto the website."
+"https://business.smartcash.cc/ is available for translation in `Crowdin "
+"here <https://crowdin.com/project/smartcash-website>`__. Please have the "
+"website open while you translate to correctly understand the context of "
+"the source text. Once your translation is complete, please send an email "
+"to hoangton@smartcash.cc or @hoangton#6301 on `Discord "
+"<http://discord.smartcash.cc>`_ to request a build of your translation "
+"onto the website."
 msgstr ""
+
+#~ msgid "https://www.transifex.com/smartcash/graphics"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Because these proprietary file formats "
+#~ "are not easily handled by Transifex, "
+#~ "the language content is exported to "
+#~ "a text or Microsoft Excel file and"
+#~ " uploaded to Transifex for processing. "
+#~ "If you translate SmartCash Graphics, "
+#~ "please send an email to "
+#~ "hoangton@smartcash.cc or @hoangton#6301 on "
+#~ "`Discord <http://discord.smartcash.cc>`_ when you"
+#~ " are finished to request layout in"
+#~ " the visual design."
+#~ msgstr ""
+
+#~ msgid "https://www.transifex.com/smartcash/website"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The SmartCash website at https://smartcash.cc"
+#~ " is available for translation in "
+#~ "Transifex. Please have the website open"
+#~ " while you translate to correctly "
+#~ "understand the context of the source "
+#~ "text. Once your translation is complete,"
+#~ " please send an email to "
+#~ "hoangton@smartcash.cc or @hoangton#6301 on "
+#~ "`Discord <http://discord.smartcash.cc>`_ to request"
+#~ " a build of your translation onto "
+#~ "the website."
+#~ msgstr ""
+
+#~ msgid "https://www.transifex.com/smartcash/webwallet"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The SmartCash Web Wallet at "
+#~ "https://wallet.smartcash.cc is available for "
+#~ "translation in Transifex. Please have "
+#~ "the website open while you translate "
+#~ "to correctly understand the context of"
+#~ " the source text. Once your "
+#~ "translation is complete, please send an"
+#~ " email to hoangton@smartcash.cc or "
+#~ "@hoangton#6301 on `Discord "
+#~ "<http://discord.smartcash.cc>`_ to request a "
+#~ "build of your translation onto the "
+#~ "website."
+#~ msgstr ""
+
+#~ msgid "https://www.transifex.com/smartcash/smartcard-business"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The SmartCard & Business at "
+#~ "https://card.smartcash.cc and "
+#~ "https://business.smartcash.cc/ is available for "
+#~ "translation in Transifex. Please have "
+#~ "the website open while you translate "
+#~ "to correctly understand the context of"
+#~ " the source text. Once your "
+#~ "translation is complete, please send an"
+#~ " email to hoangton@smartcash.cc or "
+#~ "@hoangton#6301 on `Discord "
+#~ "<http://discord.smartcash.cc>`_ to request a "
+#~ "build of your translation onto the "
+#~ "website."
+#~ msgstr ""
 

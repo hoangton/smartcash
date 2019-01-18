@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 22:47+0700\n"
+"POT-Creation-Date: 2019-01-18 10:27+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,26 +157,25 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:51 ../../marketing.rst:81 ../../marketing.rst:99
-#: ../../marketing.rst:120 ../../marketing.rst:137 ../../marketing.rst:156
+#: ../../marketing.rst:51 ../../marketing.rst:81 ../../marketing.rst:104
+#: ../../marketing.rst:122
 msgid "Language"
 msgstr ""
 
-#: ../../marketing.rst:51 ../../marketing.rst:81 ../../marketing.rst:99
-#: ../../marketing.rst:120 ../../marketing.rst:137 ../../marketing.rst:156
-#: ../../marketing.rst:171 ../../marketing.rst:184
+#: ../../marketing.rst:51 ../../marketing.rst:81 ../../marketing.rst:104
+#: ../../marketing.rst:122 ../../marketing.rst:137 ../../marketing.rst:150
 msgid "Download"
 msgstr ""
 
-#: ../../marketing.rst:53 ../../marketing.rst:83 ../../marketing.rst:101
-#: ../../marketing.rst:122 ../../marketing.rst:139 ../../marketing.rst:158
+#: ../../marketing.rst:53 ../../marketing.rst:83 ../../marketing.rst:85
+#: ../../marketing.rst:87 ../../marketing.rst:106 ../../marketing.rst:124
 msgid "English"
 msgstr ""
 
 #: ../../marketing.rst:53
 msgid ""
-"`PDF_en <https://smartcash.cc/wp-"
-"content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+"`PDF_SmartCash_brochure_en-1.2.4 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:55
@@ -185,8 +184,8 @@ msgstr ""
 
 #: ../../marketing.rst:55
 msgid ""
-"`PDF_ru <https://smartcash.cc/wp-"
-"content/uploads/2018/12/SmartCash_Brochure_Russian_opt.pdf>`_"
+"`PDF_SmartCash_brochure_ru_1.2 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:57
@@ -195,8 +194,8 @@ msgstr ""
 
 #: ../../marketing.rst:57
 msgid ""
-"`PDF_de <https://smartcash.cc/wp-"
-"content/uploads/2018/10/SmartCash_brochure_DE_1.4.pdf>`_"
+"`PDF_SmartCash_brochure_DE_1.4 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:59
@@ -205,8 +204,8 @@ msgstr ""
 
 #: ../../marketing.rst:59
 msgid ""
-"`PDF_es <https://smartcash.cc/wp-"
-"content/uploads/2018/08/SmartCash_presentation_brochure_v1.2.4_Spanish_web.pdf>`_"
+"`PDF_SmartCash_brochure_es_1.2.4 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:61
@@ -215,18 +214,18 @@ msgstr ""
 
 #: ../../marketing.rst:61
 msgid ""
-"`PDF_pt <https://smartcash.cc/wp-"
-"content/uploads/2018/09/SmartCash_presentation_brochure_v1.2_PTBR.pdf>`_"
+"`PDF_SmartCash_brochure_ptbr_1.2 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:63
-msgid "Japanesese"
+msgid "Japanese"
 msgstr ""
 
 #: ../../marketing.rst:63
 msgid ""
-"`PDF_ja <https://smartcash.cc/wp-"
-"content/uploads/2018/09/SmartCash_Brochure_ENG_JAP_1.2.pdf>`_"
+"`PDF_SmartCash_brochure_ja_1.2 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:65
@@ -235,8 +234,8 @@ msgstr ""
 
 #: ../../marketing.rst:65
 msgid ""
-"`PDF_vi <https://smartcash.cc/wp-"
-"content/uploads/2018/09/SmartCash_Brochure_EN_VN_v1.2.pdf>`_"
+"`PDF_SmartCash_brochure_vi_1.2 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:70
@@ -256,21 +255,33 @@ msgstr ""
 
 #: ../../marketing.rst:83
 msgid ""
-"`PDF "
-"<https://www.dropbox.com/sh/u3wtklnz37x47xx/AABK5zLDcJnGgtJwIvy0eal-a/Flyers/SmartCash_OnePageFlyer_Community.pdf?dl=0>`__"
+"`PDF SmartCash_OnePageFlyer_Community "
+"<https://github.com/hoangton/smartcash/blob/master/binary/flyers/SmartCash_OnePageFlyer_Community.pdf>`__"
+msgstr ""
+
+#: ../../marketing.rst:85
+msgid ""
+"`PDF SmartCash_OnePageFlyer_Business "
+"<https://github.com/hoangton/smartcash/blob/master/binary/flyers/SmartCash_OnePageFlyer_Business.pdf>`__"
 msgstr ""
 
 #: ../../marketing.rst:87
+msgid ""
+"`PDF SmartCash_flyer "
+"<https://github.com/hoangton/smartcash/blob/master/binary/flyers/SmartCash_flyer.pdf>`__"
+msgstr ""
+
+#: ../../marketing.rst:92
 msgid "Handouts"
 msgstr ""
 
-#: ../../marketing.rst:89
+#: ../../marketing.rst:94
 msgid ""
 "This handout is ideal for dual-sided printing as a handout for "
 "conferences."
 msgstr ""
 
-#: ../../marketing.rst:92
+#: ../../marketing.rst:97
 msgid ""
 "This design can be translated into your language at `Crowdin here "
 "<https://crowdin.com/project/smartcash-website/>`__. For more information"
@@ -279,149 +290,229 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:101
-msgid ""
-"`PDF <https://www.dropbox.com/sh/u3wtklnz37x47xx/AABHC8Czl-"
-"foy2MCGY72uXWNa/Brochures/SmartCash_TriFoId_Brochure_Business_02.pdf?dl=0>`__"
-msgstr ""
-
 #: ../../marketing.rst:106
-msgid "Infographics"
-msgstr ""
-
-#: ../../marketing.rst:109
-msgid "The SmartCash Difference"
+msgid ""
+"`PDF SmartCash_BusinessCard_Folded "
+"<https://github.com/hoangton/smartcash/blob/master/binary/handouts/SmartCash_BusinessCard_Folded.pdf>`__"
 msgstr ""
 
 #: ../../marketing.rst:111
-msgid ""
-"This engaging infographic details the improvements the SmartCash network "
-"has delivered by building on the Bitcoin code base. This design can be "
-"translated into your language at `Crowdin here "
-"<https://crowdin.com/project/smartcash-website/>`__. For more information"
-" on translating SmartCash products on Crowdin, see :ref:`here "
-"<translating-SmartCash>`. Please contact hoangton@smartcash.cc once "
-"translation is complete to request layout of the completed translation."
+msgid "Infographics"
 msgstr ""
 
-#: ../../marketing.rst:122
-msgid ""
-"`PPTX "
-"<https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__"
-msgstr ""
-
-#: ../../marketing.rst:126
-msgid "Ten Misconceptions About SmartCash"
-msgstr ""
-
-#: ../../marketing.rst:128
-msgid ""
-"This infographic refutes many common yet uninformed arguments made "
-"against SmartCash. This design can be translated into your language at "
-"`Crowdin here <https://crowdin.com/project/smartcash-website/>`__. For "
-"more information on translating SmartCash products on Crowdin, see "
-":ref:`here <translating-SmartCash>`. Please contact hoangton@smartcash.cc"
-" once translation is complete to request layout of the completed "
-"translation."
-msgstr ""
-
-#: ../../marketing.rst:139 ../../marketing.rst:158
-msgid ""
-"`PPTX <https://www.dropbox.com/s/e2kkoa3xzzdlpq8/SmartCash%20BR-"
-"ALT%201.3.pptx?dl=0#>`__"
-msgstr ""
-
-#: ../../marketing.rst:144
+#: ../../marketing.rst:115
 msgid "Presentations"
 msgstr ""
 
-#: ../../marketing.rst:147
-msgid "SmartCash Meetup"
-msgstr ""
-
-#: ../../marketing.rst:152
+#: ../../marketing.rst:118
 msgid ""
 "An attractive presentation about SmartCash, designed to guide the "
 "audience through the basics of cryptocurrency and advantages of "
 "SmartCash."
 msgstr ""
 
-#: ../../marketing.rst:163
+#: ../../marketing.rst:124
+msgid ""
+"`PPTX "
+"<https://github.com/hoangton/smartcash/blob/master/binary/presentations/SmartCash_en_4.14.pptx>`__"
+msgstr ""
+
+#: ../../marketing.rst:129
 msgid "Business Templates"
 msgstr ""
 
-#: ../../marketing.rst:166
+#: ../../marketing.rst:132
 msgid "Document templates"
 msgstr ""
 
-#: ../../marketing.rst:168
+#: ../../marketing.rst:134
 msgid "Official SmartCash document templates."
 msgstr ""
 
-#: ../../marketing.rst:171 ../../marketing.rst:184 ../../marketing.rst:197
-#: ../../marketing.rst:207
+#: ../../marketing.rst:137 ../../marketing.rst:150 ../../marketing.rst:163
+#: ../../marketing.rst:173
 msgid "Name"
 msgstr ""
 
-#: ../../marketing.rst:173
+#: ../../marketing.rst:139
 msgid "Word document with cover page and paragraph styles"
 msgstr ""
 
-#: ../../marketing.rst:173
+#: ../../marketing.rst:139
 msgid ""
-"`DOCX "
-"<https://drive.google.com/open?id=1mKP1C_yaRPC_H5UrMNkUTWv7mD9W4av0>`__"
+"`DOCX <https://github.com/hoangton/smartcash/blob/master/binary/templates"
+"/SmartCash-Word-Document.docx>`__"
 msgstr ""
 
-#: ../../marketing.rst:178
+#: ../../marketing.rst:144
 msgid "Presentation templates"
 msgstr ""
 
-#: ../../marketing.rst:180
+#: ../../marketing.rst:146
 msgid ""
 "Official SmartCash presentation templates. We strongly recommend using "
 "predefined presentation slide layouts."
 msgstr ""
 
-#: ../../marketing.rst:186
+#: ../../marketing.rst:152
 msgid ""
 "PowerPoint template      | `PPTX "
-"<https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__"
+"<https://github.com/hoangton/smartcash/blob/master/binary/presentations/SmartCash_en_4.14.pptx>`__"
 msgstr ""
 
-#: ../../marketing.rst:191
+#: ../../marketing.rst:157
 msgid "Cards"
 msgstr ""
 
-#: ../../marketing.rst:193
+#: ../../marketing.rst:159
 msgid ""
 "High resolution cards for printing. Great for use as the back of business"
 " cards, or to hand out to explain and promote SmartCash."
 msgstr ""
 
-#: ../../marketing.rst:197 ../../marketing.rst:207
+#: ../../marketing.rst:163 ../../marketing.rst:173
 msgid "Download version"
 msgstr ""
 
-#: ../../marketing.rst:199
-msgid "Handout Card"
+#: ../../marketing.rst:165
+msgid "Business Card"
 msgstr ""
 
-#: ../../marketing.rst:199
+#: ../../marketing.rst:165
 msgid ""
-"`English <https://contattafiles.s3.us-west-1.amazonaws.com/tnt19836"
-"/6dBmEu-p83MizD2/SmartCash%20Business%20Card.pdf>`_"
+"`English "
+"<https://github.com/hoangton/smartcash/blob/master/binary/cards/SmartCash_Business_Card.pdf>`_"
 msgstr ""
 
-#: ../../marketing.rst:204
+#: ../../marketing.rst:170
 msgid "Fonts"
 msgstr ""
 
-#: ../../marketing.rst:209
+#: ../../marketing.rst:175
 msgid "Sans Pro / PT Sans"
 msgstr ""
 
-#: ../../marketing.rst:209
-msgid "` <https://fonts.google.com/specimen/Source+Sans+Pro>`_"
+#: ../../marketing.rst:175
+msgid ""
+"`Download "
+"<https://github.com/hoangton/smartcash/blob/master/binary/fonts/SourceSansPro.zip>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "`PDF_en <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_ru <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/12/SmartCash_Brochure_Russian_opt.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_de <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/10/SmartCash_brochure_DE_1.4.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_es <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/08/SmartCash_presentation_brochure_v1.2.4_Spanish_web.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_pt <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/09/SmartCash_presentation_brochure_v1.2_PTBR.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "Japanesese"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_ja <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/09/SmartCash_Brochure_ENG_JAP_1.2.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_vi <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/09/SmartCash_Brochure_EN_VN_v1.2.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF "
+#~ "<https://www.dropbox.com/sh/u3wtklnz37x47xx/AABK5zLDcJnGgtJwIvy0eal-a/Flyers/SmartCash_OnePageFlyer_Community.pdf?dl=0>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF <https://www.dropbox.com/sh/u3wtklnz37x47xx/AABHC8Czl-"
+#~ "foy2MCGY72uXWNa/Brochures/SmartCash_TriFoId_Brochure_Business_02.pdf?dl=0>`__"
+#~ msgstr ""
+
+#~ msgid "The SmartCash Difference"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This engaging infographic details the "
+#~ "improvements the SmartCash network has "
+#~ "delivered by building on the Bitcoin "
+#~ "code base. This design can be "
+#~ "translated into your language at "
+#~ "`Crowdin here <https://crowdin.com/project/smartcash-"
+#~ "website/>`__. For more information on "
+#~ "translating SmartCash products on Crowdin, "
+#~ "see :ref:`here <translating-SmartCash>`. "
+#~ "Please contact hoangton@smartcash.cc once "
+#~ "translation is complete to request "
+#~ "layout of the completed translation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PPTX "
+#~ "<https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__"
+#~ msgstr ""
+
+#~ msgid "Ten Misconceptions About SmartCash"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This infographic refutes many common yet"
+#~ " uninformed arguments made against "
+#~ "SmartCash. This design can be translated"
+#~ " into your language at `Crowdin here"
+#~ " <https://crowdin.com/project/smartcash-website/>`__. "
+#~ "For more information on translating "
+#~ "SmartCash products on Crowdin, see "
+#~ ":ref:`here <translating-SmartCash>`. Please "
+#~ "contact hoangton@smartcash.cc once translation "
+#~ "is complete to request layout of "
+#~ "the completed translation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PPTX <https://www.dropbox.com/s/e2kkoa3xzzdlpq8/SmartCash"
+#~ "%20BR-ALT%201.3.pptx?dl=0#>`__"
+#~ msgstr ""
+
+#~ msgid "SmartCash Meetup"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`DOCX "
+#~ "<https://drive.google.com/open?id=1mKP1C_yaRPC_H5UrMNkUTWv7mD9W4av0>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "PowerPoint template      | `PPTX "
+#~ "<https://www.dropbox.com/s/du9ol2scmthe211/SmartCash-v4.14.pptx?dl=0#>`__"
+#~ msgstr ""
+
+#~ msgid "Handout Card"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`English <https://contattafiles.s3.us-"
+#~ "west-1.amazonaws.com/tnt19836/6dBmEu-"
+#~ "p83MizD2/SmartCash%20Business%20Card.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "` <https://fonts.google.com/specimen/Source+Sans+Pro>`_"
+#~ msgstr ""
 
