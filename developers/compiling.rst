@@ -21,8 +21,9 @@ previous version of this page.
 
 Step 1. Install dependencies required for the SmartCash Wallet
 --------------------------------------------------------------
-sudo apt-get install checkinstall subversion git git-core build-essential
-sudo apt-get install libssl-dev libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libcurl4-openssl-dev libminiupnpc-dev
+
+`sudo apt-get install checkinstall subversion git git-core build-essential
+sudo apt-get install libssl-dev libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libcurl4-openssl-dev libminiupnpc-dev`
 
 Step 2. Installing BerkeleyDB4.8 from source
 --------------------------------------------
