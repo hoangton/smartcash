@@ -1,19 +1,12 @@
 .. meta::
-   :description: SmartCash testnet and devnets are used by SmartCash developers for testing
+   :description: SmartCash testnet are used by SmartCash developers for testing
    :keywords: smartcash, smartnodes, testnet, devnet, faucet, smartnodes, testing, pool, explorer, mining pools, block explorer
 
 .. _testnet:
 
-===================
-Testnet and devnets
-===================
-
-With the release of SmartCash NodeClient 1.2.6, SmartCash added support for a great new
-feature — **named devnets**. Devnets are developer networks that combine
-some aspects of testnet (the global and public testing network) and some
-aspects of regtest (the local-only regression testing mode that provides
-controlled block generation). Unlike testnet, multiple independent
-devnets can be created and coexist without interference. 
+=======
+Testnet
+=======
 
 Testnet is a fully functioning SmartCash blockchain with the one key
 exception that because the SmartCash on the network can be created freely, it
