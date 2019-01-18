@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-18 11:41+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -240,5 +240,84 @@ msgstr ""
 
 #: ../../wallets/nodeclient/advanced.rst:174
 msgid "Two instances of SmartCash NodeClient running simultaneously"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:177
+msgid "Secure"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:179
+msgid ""
+"Securing your SmartCash QT wallet is as important as securing the "
+"physical wallet. Same principles apply but with SmartCash QT wallet more "
+"attack vectors are present. Because of it, it is more important to pay "
+"attention to securing your funds against attackers and malicious "
+"software."
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:184
+msgid "Password Protection"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:186
+msgid ""
+"Every single SmartCash QT wallet should be encrypted with a strong "
+"password! Encrypting the wallet means that the data file holding private "
+"keys (such as SmartCash QT's wallet.dat) is not readable by default. When"
+" the file gets stolen the attacker can't easily extract keys and spend "
+"your SmartCash."
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:190
+msgid ""
+"He'd need to brute force the file which takes a lot of time - thus the "
+"importance of a strong password. It should be reasonably long (at least "
+"16 chars) and comprises of numbers, lowercase, uppercase and special "
+"characters."
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:192
+msgid ""
+"Click `<https://www.howtogeek.com/195430/how-to-create-a-strong-password-"
+"and-remember-it/>`_ here and here `<https://www.cloudwards.net/how-to-"
+"set-up-a-strong-password/>`_ for more info on strong passwords."
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:196
+msgid "Store smaller Amounts"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:198
+msgid ""
+"As with your physical wallet, you shouldn't have all eggs in one basket. "
+"It's a good practice to load your regular mobile/computer wallet with "
+"smaller amounts and replenish it when needed. The rest should be kept "
+"somewhere secure in a cold storage. (SmartCash are working with some cold"
+" storage provider to support SmartCash)"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:202
+msgid "Keep it Up to Date"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:204
+msgid ""
+"Every software has bugs and SmartCash QT wallets are no exception. Make "
+"sure to check for updates regularly as they bring new features and most "
+"importantly security and stability fixes. You should use modern operating"
+" systems such as Linux, Mac OS X, iOS and Android to keep your software "
+"updated automatically."
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:209
+msgid "Backup"
+msgstr ""
+
+#: ../../wallets/nodeclient/advanced.rst:211
+msgid ""
+"Always backup your wallet and store it in a safe place. :ref:`nodeclient-"
+"backup <nodeclient-backup>` It prevents you from losing your SmartCash in"
+" a case of a hardware and software failure. It also lets you recover "
+"funds after your PC or mobile was stolen or lost."
 msgstr ""
 

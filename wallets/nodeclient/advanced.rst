@@ -172,3 +172,43 @@ multiple separate wallets without keeping a full copy of the blockchain.
    :height: 250px
 
    Two instances of SmartCash NodeClient running simultaneously
+
+Secure
+======
+
+Securing your SmartCash QT wallet is as important as securing the physical wallet.
+Same principles apply but with SmartCash QT wallet more attack vectors are present.
+Because of it, it is more important to pay attention to securing your funds against attackers and malicious software.
+
+Password Protection
+-------------------
+
+Every single SmartCash QT wallet should be encrypted with a strong password!
+Encrypting the wallet means that the data file holding private keys (such as SmartCash QT's wallet.dat) is not readable by default.
+When the file gets stolen the attacker can't easily extract keys and spend your SmartCash.
+
+He'd need to brute force the file which takes a lot of time - thus the importance of a strong password. It should be reasonably long (at least 16 chars) and comprises of numbers, lowercase, uppercase and special characters.
+
+Click `<https://www.howtogeek.com/195430/how-to-create-a-strong-password-and-remember-it/>`_ here and here `<https://www.cloudwards.net/how-to-set-up-a-strong-password/>`_ for more info on strong passwords.
+
+
+Store smaller Amounts
+---------------------
+
+As with your physical wallet, you shouldn't have all eggs in one basket.
+It's a good practice to load your regular mobile/computer wallet with smaller amounts and replenish it when needed. The rest should be kept somewhere secure in a cold storage. (SmartCash are working with some cold storage provider to support SmartCash) 
+
+Keep it Up to Date
+------------------
+
+Every software has bugs and SmartCash QT wallets are no exception.
+Make sure to check for updates regularly as they bring new features and most importantly security and stability fixes.
+You should use modern operating systems such as Linux, Mac OS X, iOS and Android to keep your software updated automatically.
+
+Backup
+------
+
+Always backup your wallet and store it in a safe place.
+:ref:`nodeclient-backup <nodeclient-backup>`
+It prevents you from losing your SmartCash in a case of a hardware and software failure. It also lets you recover funds after your PC or mobile was stolen or lost.
+
