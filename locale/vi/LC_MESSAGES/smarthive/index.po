@@ -1,31 +1,29 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-19 13:32+0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-16 11:35+0000\n"
+"Language-Team: Vietnamese (https://www.transifex.com/smartcash/teams/95224/vi/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../smarthive/index.rst:1
-#, python-format
 msgid "The SmartHive system is funded by 70% of the block reward"
 msgstr ""
 
 #: ../../smarthive/index.rst:1
 msgid ""
-"smartcash, SmartHive, funding, voting, blockchain, development, block "
-"reward"
+"smartcash, SmartHive, funding, voting, blockchain, development, block reward"
 msgstr ""
 
 #: ../../smarthive/index.rst:9
@@ -38,40 +36,40 @@ msgstr ""
 
 #: ../../smarthive/index.rst:15
 msgid ""
-"We believe ‘Core’ teams are a bad idea and something that ultimately "
-"leads to inefficiency and corruption. We want to move past it and create "
-"a decentralized organizational model inspired by ant and bee colonies."
+"We believe ‘Core’ teams are a bad idea and something that ultimately leads "
+"to inefficiency and corruption. We want to move past it and create a "
+"decentralized organizational model inspired by ant and bee colonies."
 msgstr ""
 
 #: ../../smarthive/index.rst:17
 msgid ""
-"In order to create and maintain a decentralized governance structure, we "
-"are introducing two concepts SmartHive and Hive Structuring Teams (HST). "
-"SmartHive enables anyone that holds coins to vote on proposals submitted "
-"by the community. SmartHive will be the lifeblood of the project, which "
-"will allow anyone to get involved and submit proposals, helping to "
-"generate organic growth at a grassroots level, creating a bottom-up "
-"management structure."
+"In order to create and maintain a decentralized governance structure, we are"
+" introducing two concepts SmartHive and Hive Structuring Teams (HST). "
+"SmartHive enables anyone that holds coins to vote on proposals submitted by "
+"the community. SmartHive will be the lifeblood of the project, which will "
+"allow anyone to get involved and submit proposals, helping to generate "
+"organic growth at a grassroots level, creating a bottom-up management "
+"structure."
 msgstr ""
 
 #: ../../smarthive/index.rst:19
 msgid ""
-"The Hive Structuring Teams (HST) will lay the groundwork for the project "
-"and set the framework for the project’s evolution. Initially, the Hive "
-"Structuring Teams will operate three separate departments in charge of "
-"vital project areas, such as development, outreach and support. Each of "
-"these three departments will end up employing people. As teams grow "
-"larger, bigger than eight members, more teams will be created, each with "
-"its own budget and team coordinator, operating autonomously without a "
-"central command and control structure in place."
+"The Hive Structuring Teams (HST) will lay the groundwork for the project and"
+" set the framework for the project’s evolution. Initially, the Hive "
+"Structuring Teams will operate three separate departments in charge of vital"
+" project areas, such as development, outreach and support. Each of these "
+"three departments will end up employing people. As teams grow larger, bigger"
+" than eight members, more teams will be created, each with its own budget "
+"and team coordinator, operating autonomously without a central command and "
+"control structure in place."
 msgstr ""
 
 #: ../../smarthive/index.rst:21
 msgid ""
-"The Hive Structuring Teams will consist of people directly involved in "
-"the project on a day to day basis, while the overall SmartHive will aim "
-"to enrol and engage community members and other 3rd parties interested in"
-" growing SmartCash into a global worldwide currency."
+"The Hive Structuring Teams will consist of people directly involved in the "
+"project on a day to day basis, while the overall SmartHive will aim to enrol"
+" and engage community members and other 3rd parties interested in growing "
+"SmartCash into a global worldwide currency."
 msgstr ""
 
 #: ../../smarthive/index.rst:23
@@ -96,11 +94,10 @@ msgstr ""
 
 #: ../../smarthive/index.rst:37
 msgid ""
-"All Smartcash users deserve a voice, from day #1. That is why Smartcash "
-"is pioneering in the crypto-governance space and was built around "
-"Smarthive, the platform that lets all users vote on the direction of the "
-"project. More information will be released soon describing this platform "
-"in depth."
+"All Smartcash users deserve a voice, from day #1. That is why Smartcash is "
+"pioneering in the crypto-governance space and was built around Smarthive, "
+"the platform that lets all users vote on the direction of the project. More "
+"information will be released soon describing this platform in depth."
 msgstr ""
 
 #: ../../smarthive/index.rst:39
@@ -112,12 +109,6 @@ msgid "`SmartHive Governance Portal <https://vote.smartcash.cc/>`_"
 msgstr ""
 
 #: ../../smarthive/index.rst:49
-msgid "You can learn more about SmartCash Governance in the following sections:"
+msgid ""
+"You can learn more about SmartCash Governance in the following sections:"
 msgstr ""
-
-#~ msgid "Right now we have 6 teams <https://smartcash.cc/hive-teams/>"
-#~ msgstr ""
-
-#~ msgid "https://vote.smartcash.cc/"
-#~ msgstr ""
-
