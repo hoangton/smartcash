@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 11:24+0700\n"
+"POT-Creation-Date: 2019-01-19 11:32+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,25 +31,69 @@ msgstr ""
 msgid "Legal"
 msgstr ""
 
-#: ../../legal.rst:12
-msgid "How the Law Applies to SmartCash"
+#: ../../legal.rst:13
+msgid "Smartcash Deemed Not a Security Under Singapore Law"
 msgstr ""
 
 #: ../../legal.rst:14
+msgid ""
+"The SmartCash Community received good news today as it was announced that"
+" SmartCash tokens are unlikely to be considered a financial “security” "
+"under the Singapore Securities and Futures Act."
+msgstr ""
+
+#: ../../legal.rst:16
+msgid ""
+"Additionally, SmartCash is unlikely be defined as a “share”, “debenture”,"
+" “collective investment scheme”.  This means that local securities laws, "
+"which can slow down adoption of the new payment platform, should not "
+"apply."
+msgstr ""
+
+#: ../../legal.rst:18
+msgid ""
+"Obtaining legal opinion letters is a requirement to list on the top "
+"exchanges in the region in order to comply with local financial "
+"regulations. With the confirmation that SmartCash is indeed not a "
+"security the process for listing on exchanges within the jurisdiction of "
+"Singapore can continue."
+msgstr ""
+
+#: ../../legal.rst:20
+msgid ""
+"In order to establish the legal basis for the SmartCash token, SmartCash "
+"Outreach had engaged the Singapore law firm, Christopher Bridges Law "
+"Corporation, to provide their legal opinion regarding the whether the "
+"SmartCash tokens are securities under the Singapore Securities and "
+"Futures."
+msgstr ""
+
+#: ../../legal.rst:22
+msgid ""
+"SmartCash Outreach continues to work with with other law firms and "
+"exchanges in other jurisdictions throughout the world to in order to "
+"expand the global reach of the SmartCash platform."
+msgstr ""
+
+#: ../../legal.rst:27
+msgid "How the Law Applies to SmartCash"
+msgstr ""
+
+#: ../../legal.rst:29
 msgid ""
 "One of the most common questions we receive is *How are smartnode "
 "operators treated under the US tax laws?*"
 msgstr ""
 
-#: ../../legal.rst:18
+#: ../../legal.rst:33
 msgid "Tax Treatment"
 msgstr ""
 
-#: ../../legal.rst:21
+#: ../../legal.rst:36
 msgid "Block rewards"
 msgstr ""
 
-#: ../../legal.rst:23
+#: ../../legal.rst:38
 msgid ""
 "As many already know, block rewards are paid to smartnode operators in "
 "exchange for validating transactions on the SmartCash network. The IRS "
@@ -62,11 +106,11 @@ msgid ""
 "treat as regular income the fair market value of the block reward."
 msgstr ""
 
-#: ../../legal.rst:34
+#: ../../legal.rst:49
 msgid "SmartCash Collateral"
 msgstr ""
 
-#: ../../legal.rst:35
+#: ../../legal.rst:50
 msgid ""
 "A SmartCash user may demonstrate to the network his or her control over "
 "10,000 SMART in order to run a smartnode. These tokens never leave the "
@@ -87,11 +131,11 @@ msgid ""
 "and burdens of ownership."
 msgstr ""
 
-#: ../../legal.rst:54
+#: ../../legal.rst:69
 msgid "Capital Gains"
 msgstr ""
 
-#: ../../legal.rst:55
+#: ../../legal.rst:70
 msgid ""
 "Assuming that the 10,000 SMART are sold, whether that SmartCash is a "
 "“capital asset” will determine the tax treatment of the sale. Stocks, "
@@ -105,11 +149,11 @@ msgid ""
 "term capital gains” tax rate."
 msgstr ""
 
-#: ../../legal.rst:68
+#: ../../legal.rst:83
 msgid "Legal Liability"
 msgstr ""
 
-#: ../../legal.rst:70
+#: ../../legal.rst:85
 msgid ""
 "As with cash or any other currency system, users may use SmartCash in "
 "connection with illegal activity. A common question we receive is whether"
@@ -119,11 +163,11 @@ msgid ""
 " operators."
 msgstr ""
 
-#: ../../legal.rst:78
+#: ../../legal.rst:93
 msgid "Primary Liability"
 msgstr ""
 
-#: ../../legal.rst:79
+#: ../../legal.rst:94
 msgid ""
 "Almost all crimes require that a defendant have a defined *mens rea* at "
 "the time of an offense. *Mens rea* is a mental state like purposefulness,"
@@ -137,7 +181,7 @@ msgid ""
 "particular consequence of their actions, but were not."
 msgstr ""
 
-#: ../../legal.rst:91
+#: ../../legal.rst:106
 msgid ""
 "Most smartnodes have no awareness, while relaying SmartCash transactions,"
 " of the identity of the users involved, the ultimate destination of "
@@ -147,11 +191,11 @@ msgid ""
 "relaying the transaction would have a culpable *mens rea*."
 msgstr ""
 
-#: ../../legal.rst:99
+#: ../../legal.rst:114
 msgid "Secondary Liability"
 msgstr ""
 
-#: ../../legal.rst:101
+#: ../../legal.rst:116
 msgid ""
 "Even if someone is not the principal actor in the commission of a crime, "
 "that person can be secondarily liable for their involvement in it. As "
@@ -163,7 +207,7 @@ msgid ""
 "*mens rea* as required for the principal offense."
 msgstr ""
 
-#: ../../legal.rst:110
+#: ../../legal.rst:125
 msgid ""
 "No matter the requisite *mens rea* of a particular principal offense "
 "committed by a SmartCash user, it is unlikely that a mere smartnode "
@@ -181,7 +225,7 @@ msgid ""
 "furtherance of a particular crime."
 msgstr ""
 
-#: ../../legal.rst:125
+#: ../../legal.rst:140
 msgid ""
 "“Conspiracy” liability is even less likely. Conspiracy generally requires"
 " i) an agreement to commit a crime, ii) knowledge of the unlawful purpose"
@@ -190,11 +234,11 @@ msgid ""
 "met by mere smartnode operators."
 msgstr ""
 
-#: ../../legal.rst:132
+#: ../../legal.rst:147
 msgid "Exchange Liability"
 msgstr ""
 
-#: ../../legal.rst:134
+#: ../../legal.rst:149
 msgid ""
 "The Bank Secrecy Act (BSA) is the law that primarily governs exchanges in"
 " the United States. The BSA does not contain any prohibition on "
@@ -206,7 +250,7 @@ msgid ""
 "be similar to the risks associated with other virtual currencies."
 msgstr ""
 
-#: ../../legal.rst:143
+#: ../../legal.rst:158
 msgid ""
 "Exchanges should consider revising their risk assessments and AML "
 "policies to account for the unique characteristics of SmartCash. For "
@@ -216,15 +260,15 @@ msgid ""
 "explanation in SARs."
 msgstr ""
 
-#: ../../legal.rst:151
+#: ../../legal.rst:166
 msgid "ATM & Fiat Compliance"
 msgstr ""
 
-#: ../../legal.rst:154
+#: ../../legal.rst:169
 msgid "Introduction"
 msgstr ""
 
-#: ../../legal.rst:156
+#: ../../legal.rst:171
 msgid ""
 "An aspect that required legal research is what are the compliance "
 "requirements to facilitate SmartCash-fiat exchange. This can be in the "
@@ -232,7 +276,7 @@ msgid ""
 "SmartCash to fiat exchange services."
 msgstr ""
 
-#: ../../legal.rst:161
+#: ../../legal.rst:176
 msgid ""
 "For this purpose we found **Cogent Law**, who have a lot of experience "
 "working in compliance for digital money services. They have put together "
@@ -240,74 +284,74 @@ msgid ""
 "SmartCash service if they require it. This includes:"
 msgstr ""
 
-#: ../../legal.rst:166
+#: ../../legal.rst:181
 msgid ""
 "A finCEN BSA compliant written Principal MSB/KYC AML Program designed to "
 "prevent the Principal MSB from being used to facilitate money laundering "
 "and the financing of terrorist activities"
 msgstr ""
 
-#: ../../legal.rst:169
+#: ../../legal.rst:184
 msgid ""
 "A comprehensive risk based assessment by a third party compliance "
 "consultant expert"
 msgstr ""
 
-#: ../../legal.rst:172
+#: ../../legal.rst:187
 msgid ""
 "Lawyer for this project is **Adella Toulon-Foerster** who has extensive "
 "experience in this field including:"
 msgstr ""
 
-#: ../../legal.rst:175
+#: ../../legal.rst:190
 msgid ""
 "Banking Secrecy Act (BSA), Anti-Money Laundering (AML), and Know Your "
 "Customer (KYC) regulations"
 msgstr ""
 
-#: ../../legal.rst:177
+#: ../../legal.rst:192
 msgid "FinCEN requirements and guidance"
 msgstr ""
 
-#: ../../legal.rst:178
+#: ../../legal.rst:193
 msgid "Written and on-going AML compliance programs"
 msgstr ""
 
-#: ../../legal.rst:179
+#: ../../legal.rst:194
 msgid "State-by-state money transmitter laws and licensure requirements"
 msgstr ""
 
-#: ../../legal.rst:181
+#: ../../legal.rst:196
 msgid ""
 "We now have full documentation of the program from Cogent Law, the "
 "package includes:"
 msgstr ""
 
-#: ../../legal.rst:184
+#: ../../legal.rst:199
 msgid "BSA AML Compliance training"
 msgstr ""
 
-#: ../../legal.rst:185
+#: ../../legal.rst:200
 msgid "KYC CDD Policy"
 msgstr ""
 
-#: ../../legal.rst:186
+#: ../../legal.rst:201
 msgid "AML Program"
 msgstr ""
 
-#: ../../legal.rst:187
+#: ../../legal.rst:202
 msgid "Risk Assessment"
 msgstr ""
 
-#: ../../legal.rst:188
+#: ../../legal.rst:203
 msgid "Surveillance and Monitoring Policy"
 msgstr ""
 
-#: ../../legal.rst:189
+#: ../../legal.rst:204
 msgid "Different Reports to file in different situations"
 msgstr ""
 
-#: ../../legal.rst:191
+#: ../../legal.rst:206
 #, python-format
 msgid ""
 "The documents have a format as if they were created for the fictional "
@@ -320,7 +364,7 @@ msgid ""
 "topic for most crypto enthusiasts."
 msgstr ""
 
-#: ../../legal.rst:200
+#: ../../legal.rst:215
 msgid ""
 "This program is directed at SmartCash investors that are interested in "
 "running a compliant service in regulated markets. If some users prefer to"
@@ -328,11 +372,11 @@ msgid ""
 "completely respect that too."
 msgstr ""
 
-#: ../../legal.rst:206
+#: ../../legal.rst:221
 msgid "SmartCash ATM Compliance Program"
 msgstr ""
 
-#: ../../legal.rst:208
+#: ../../legal.rst:223
 msgid ""
 "Please first read the `Quick Guide To Operating a Virtual Currency Kiosk "
 "<https://github.com/hoangton/smartcash/blob/master/binary "
@@ -341,59 +385,59 @@ msgid ""
 "MSB. It is crucial you start here."
 msgstr ""
 
-#: ../../legal.rst:214
+#: ../../legal.rst:229
 msgid "Listen to the Audio Guides on BSA AML and read the BSA AML Training Manual"
 msgstr ""
 
-#: ../../legal.rst:217
+#: ../../legal.rst:232
 msgid ""
 "`BSA AML Compliance Training manual "
 "<https://github.com/hoangton/smartcash/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_"
 msgstr ""
 
-#: ../../legal.rst:218
+#: ../../legal.rst:233
 msgid ""
 "`AML 101 "
 "<https://github.com/hoangton/smartcash/raw/master/binary/aml-101-SmartCash>`_"
 msgstr ""
 
-#: ../../legal.rst:219
+#: ../../legal.rst:234
 msgid ""
 "`AML In Depth <https://github.com/hoangton/smartcash/raw/master/binary"
 "/aml-indepth-SmartCash>`_"
 msgstr ""
 
-#: ../../legal.rst:221
+#: ../../legal.rst:236
 msgid ""
 "Get familiar with the documentation you will need by looking at the "
 "following templates"
 msgstr ""
 
-#: ../../legal.rst:224
+#: ../../legal.rst:239
 msgid ""
 "`Surveillance and Monitoring "
 "<https://github.com/hoangton/smartcash/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:225
+#: ../../legal.rst:240
 msgid ""
 "`KYC CDD Policy "
 "<https://github.com/hoangton/smartcash/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:226
+#: ../../legal.rst:241
 msgid ""
 "`AML Program "
 "<https://github.com/hoangton/smartcash/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:227
+#: ../../legal.rst:242
 msgid ""
 "`Risk Assessment "
 "<https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
 msgstr ""
 
-#: ../../legal.rst:229
+#: ../../legal.rst:244
 msgid ""
 "Get familiar with some of the reports you may need to file as part of "
 "operations. In the Quick Guide in Step 1, we go through registration on "
@@ -403,19 +447,19 @@ msgid ""
 "file them as part of operations. Sample reports:"
 msgstr ""
 
-#: ../../legal.rst:236
+#: ../../legal.rst:251
 msgid ""
 "`Currency Transaction Report "
 "<hhttps://github.com/hoangton/smartcash/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
 msgstr ""
 
-#: ../../legal.rst:237
+#: ../../legal.rst:252
 msgid ""
 "`Suspicious Activity Report "
 "<https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
 msgstr ""
 
-#: ../../legal.rst:239
+#: ../../legal.rst:254
 msgid ""
 "If you would now like to move forward with your project, we recommend "
 "getting in contact with `Cogent Law <http://www.cogentlaw.co>`_, our "

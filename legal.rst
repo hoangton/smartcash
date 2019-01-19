@@ -8,6 +8,21 @@
 Legal
 =====
 
+
+Smartcash Deemed Not a Security Under Singapore Law
+=================================================== 	
+The SmartCash Community received good news today as it was announced that SmartCash tokens are unlikely to be considered a financial “security” under the Singapore Securities and Futures Act.
+
+Additionally, SmartCash is unlikely be defined as a “share”, “debenture”, “collective investment scheme”.  This means that local securities laws, which can slow down adoption of the new payment platform, should not apply.
+
+Obtaining legal opinion letters is a requirement to list on the top exchanges in the region in order to comply with local financial regulations. With the confirmation that SmartCash is indeed not a security the process for listing on exchanges within the jurisdiction of Singapore can continue.
+
+In order to establish the legal basis for the SmartCash token, SmartCash Outreach had engaged the Singapore law firm, Christopher Bridges Law Corporation, to provide their legal opinion regarding the whether the SmartCash tokens are securities under the Singapore Securities and Futures.
+
+SmartCash Outreach continues to work with with other law firms and exchanges in other jurisdictions throughout the world to in order to expand the global reach of the SmartCash platform.
+
+
+
 How the Law Applies to SmartCash
 ================================
 
