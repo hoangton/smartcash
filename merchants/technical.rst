@@ -164,16 +164,16 @@ SmartCard SDK
 
 https://github.com/SmartCash/Core-Smart
 
-Easy create your smartcard from your website:
+Easy create your smartcard from your website
 
-Open with button click - Auto Open False::
+Open with button click - Auto Open False
 
 .. code-block:: html
 
     <button type="submit" onclick="SmartCard.openModal()">Create SmartCard</button><script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"></script>
 
 
-Open on page load - Auto Open True::
+Open on page load - Auto Open True
 
 .. code-block:: html
 
@@ -181,7 +181,7 @@ Open on page load - Auto Open True::
     data-auto-open="true">
     data-generate-csv="true"></script>
 
-Add CSV to zip - Generate CSV True::
+Add CSV to zip - Generate CSV True
 
 .. code-block:: html
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:56+0700\n"
+"POT-Creation-Date: 2019-01-19 16:58+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -268,40 +268,19 @@ msgid "SmartCard SDK"
 msgstr ""
 
 #: ../../merchants/technical.rst:167
-msgid "Easy create your smartcard from your website:"
+msgid "Easy create your smartcard from your website"
 msgstr ""
 
 #: ../../merchants/technical.rst:169
-msgid "Open with button click - Auto Open False::"
-msgstr ""
-
-#: ../../merchants/technical.rst:173
-msgid ""
-"<button type=\"submit\" onclick=\"SmartCard.openModal()\">Create "
-"SmartCard</button><script type=\"text/javascript\" "
-"src=\"https://card.smartcash.cc/js/v1/smartcard.js\"></script>"
+msgid "Open with button click - Auto Open False"
 msgstr ""
 
 #: ../../merchants/technical.rst:176
-msgid "Open on page load - Auto Open True::"
-msgstr ""
-
-#: ../../merchants/technical.rst:180
-msgid ""
-"<script type=\"text/javascript\" "
-"src=\"https://card.smartcash.cc/js/v1/smartcard.js\" data-auto-"
-"open=\"true\"> data-generate-csv=\"true\"></script>"
+msgid "Open on page load - Auto Open True"
 msgstr ""
 
 #: ../../merchants/technical.rst:184
-msgid "Add CSV to zip - Generate CSV True::"
-msgstr ""
-
-#: ../../merchants/technical.rst:188
-msgid ""
-"<script type=\"text/javascript\" "
-"src=\"https://card.smartcash.cc/js/v1/smartcard.js\" data-auto-"
-"open=\"true\" data-generate-csv=\"true\"></script>"
+msgid "Add CSV to zip - Generate CSV True"
 msgstr ""
 
 #: ../../merchants/technical.rst:195
@@ -612,5 +591,38 @@ msgstr ""
 #~ "<script type=\"text/javascript\" "
 #~ "src=\"https://card.smartcash.cc/js/v1/smartcard.js\" data-"
 #~ "auto-open=\"true\" data-generate-csv=\"true\">"
+#~ msgstr ""
+
+#~ msgid "Easy create your smartcard from your website:"
+#~ msgstr ""
+
+#~ msgid "Open with button click - Auto Open False::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<button type=\"submit\" "
+#~ "onclick=\"SmartCard.openModal()\">Create "
+#~ "SmartCard</button><script type=\"text/javascript\" "
+#~ "src=\"https://card.smartcash.cc/js/v1/smartcard.js\"></script>"
+#~ msgstr ""
+
+#~ msgid "Open on page load - Auto Open True::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<script type=\"text/javascript\" "
+#~ "src=\"https://card.smartcash.cc/js/v1/smartcard.js\" data-"
+#~ "auto-open=\"true\"> data-generate-"
+#~ "csv=\"true\"></script>"
+#~ msgstr ""
+
+#~ msgid "Add CSV to zip - Generate CSV True::"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<script type=\"text/javascript\" "
+#~ "src=\"https://card.smartcash.cc/js/v1/smartcard.js\" data-"
+#~ "auto-open=\"true\" data-generate-"
+#~ "csv=\"true\"></script>"
 #~ msgstr ""
 
