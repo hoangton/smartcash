@@ -166,24 +166,29 @@ https://github.com/SmartCash/Core-Smart
 
 Easy create your smartcard from your website:
 
-Open with button click - Auto Open False:
+Open with button click - Auto Open False::
+
+.. code-block:: html
+
+    <button type="submit" onclick="SmartCard.openModal()">Create SmartCard</button><script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"></script>
+
+
+Open on page load - Auto Open True::
+
+.. code-block:: html
 
     <script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"
     data-auto-open="true">
-    data-generate-csv="true">
-</script>
+    data-generate-csv="true"></script>
 
-Open on page load - Auto Open True:
+Add CSV to zip - Generate CSV True::
 
-    <button type="submit" onclick="SmartCard.openModal()">Create SmartCard</button>
-<script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"></script>
-
-Add CSV to zip - Generate CSV True:
+.. code-block:: html
 
     <script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"
     data-auto-open="true"
-    data-generate-csv="true">
-</script>
+    data-generate-csv="true"></script>
+
 
 
 PHP: Bitcoin-PHP
