@@ -154,6 +154,38 @@ executable.
 
 - Documentation: https://github.com/SmartCash/Core-Smart
 
+SmartCard SDK
+-------------
+
+.. image:: img/smartcard.png
+   :width: 200px
+   :align: right
+   :target: https://github.com/SmartCash/Core-Smart
+
+https://github.com/SmartCash/Core-Smart
+
+Easy create your smartcard from your website:
+
+Open with button click - Auto Open False:
+
+    <script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"
+    data-auto-open="true">
+    data-generate-csv="true">
+</script>
+
+Open on page load - Auto Open True:
+
+    <button type="submit" onclick="SmartCard.openModal()">Create SmartCard</button>
+<script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"></script>
+
+Add CSV to zip - Generate CSV True:
+
+    <script type="text/javascript" src="https://card.smartcash.cc/js/v1/smartcard.js"
+    data-auto-open="true"
+    data-generate-csv="true">
+</script>
+
+
 PHP: Bitcoin-PHP
 ----------------
 
