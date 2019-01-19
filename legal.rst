@@ -158,7 +158,7 @@ requirements to facilitate SmartCash-fiat exchange. This can be in the form
 of running ATM kiosks or using other mechanisms to personally offer SmartCash
 to fiat exchange services.
 
-For this purpose we hired **Cogent Law**, who have a lot of experience
+For this purpose we found **Cogent Law**, who have a lot of experience
 working in compliance for digital money services. They have put together
 a compliance program that will be shared with anyone launching a SmartCash
 service if they require it. This includes:
@@ -169,7 +169,7 @@ service if they require it. This includes:
 - A comprehensive risk based assessment by a third party compliance
   consultant expert
 
-Our lawyer for this project is **Adella Toulon-Foerster** who has
+Lawyer for this project is **Adella Toulon-Foerster** who has
 extensive experience in this field including:
 
 - Banking Secrecy Act (BSA), Anti-Money Laundering (AML), and Know Your
@@ -206,7 +206,7 @@ SmartCash ATM Compliance Program
 --------------------------------
 
 #. Please first read the `Quick Guide To Operating a Virtual Currency
-   Kiosk <https://github.com/SmartCashpay/docs/blob/master/binary
+   Kiosk <https://github.com/hoangton/smartcash/blob/master/binary
    /QuickGuidetoOperatingaVirtualCurrencyKioskSmartCash-watermark.pdf>`_.
    This guide will guide you through the initial steps of registering as
    an MSB. It is crucial you start here.
@@ -214,17 +214,17 @@ SmartCash ATM Compliance Program
 #. Listen to the Audio Guides on BSA AML and read the BSA AML Training
    Manual
 
-   - `BSA AML Compliance Training manual <https://github.com/SmartCashpay/docs/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_
-   - `AML 101 <https://soundcloud.com/SmartCashpay/aml-101-SmartCash>`_
-   - `AML In Depth <https://soundcloud.com/SmartCashpay/aml-indepth-SmartCash>`_
+   - `BSA AML Compliance Training manual <https://github.com/hoangton/smartcash/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_
+   - `AML 101 <https://github.com/hoangton/smartcash/raw/master/binary/aml-101-SmartCash>`_
+   - `AML In Depth <https://github.com/hoangton/smartcash/raw/master/binary/aml-indepth-SmartCash>`_
 
 #. Get familiar with the documentation you will need by looking at the
    following templates
 
-   - `Surveillance and Monitoring <https://github.com/SmartCashpay/docs/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_
-   - `KYC CDD Policy <https://github.com/SmartCashpay/docs/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_
-   - `AML Program <https://github.com/SmartCashpay/docs/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_
-   - `Risk Assessment <https://github.com/SmartCashpay/docs/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_
+   - `Surveillance and Monitoring <https://github.com/hoangton/smartcash/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_
+   - `KYC CDD Policy <https://github.com/hoangton/smartcash/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_
+   - `AML Program <https://github.com/hoangton/smartcash/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_
+   - `Risk Assessment <https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_
 
 #. Get familiar with some of the reports you may need to file as part of
    operations. In the Quick Guide in Step 1, we go through registration
@@ -233,8 +233,8 @@ SmartCash ATM Compliance Program
    report samples. SmartCash operators should be familiar with these as they
    may need to file them as part of operations. Sample reports:
 
-   - `Currency Transaction Report <https://github.com/SmartCashpay/docs/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_
-   - `Suspicious Activity Report <https://github.com/SmartCashpay/docs/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_
+   - `Currency Transaction Report <hhttps://github.com/hoangton/smartcash/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_
+   - `Suspicious Activity Report <https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_
 
 #. If you would now like to move forward with your project, we recommend
    getting in contact with `Cogent Law <http://www.cogentlaw.co>`_, our

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 11:24+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -234,7 +234,7 @@ msgstr ""
 
 #: ../../legal.rst:161
 msgid ""
-"For this purpose we hired **Cogent Law**, who have a lot of experience "
+"For this purpose we found **Cogent Law**, who have a lot of experience "
 "working in compliance for digital money services. They have put together "
 "a compliance program that will be shared with anyone launching a "
 "SmartCash service if they require it. This includes:"
@@ -255,8 +255,8 @@ msgstr ""
 
 #: ../../legal.rst:172
 msgid ""
-"Our lawyer for this project is **Adella Toulon-Foerster** who has "
-"extensive experience in this field including:"
+"Lawyer for this project is **Adella Toulon-Foerster** who has extensive "
+"experience in this field including:"
 msgstr ""
 
 #: ../../legal.rst:175
@@ -335,7 +335,7 @@ msgstr ""
 #: ../../legal.rst:208
 msgid ""
 "Please first read the `Quick Guide To Operating a Virtual Currency Kiosk "
-"<https://github.com/SmartCashpay/docs/blob/master/binary "
+"<https://github.com/hoangton/smartcash/blob/master/binary "
 "/QuickGuidetoOperatingaVirtualCurrencyKioskSmartCash-watermark.pdf>`_. "
 "This guide will guide you through the initial steps of registering as an "
 "MSB. It is crucial you start here."
@@ -348,17 +348,19 @@ msgstr ""
 #: ../../legal.rst:217
 msgid ""
 "`BSA AML Compliance Training manual "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_"
 msgstr ""
 
 #: ../../legal.rst:218
-msgid "`AML 101 <https://soundcloud.com/SmartCashpay/aml-101-SmartCash>`_"
+msgid ""
+"`AML 101 "
+"<https://github.com/hoangton/smartcash/raw/master/binary/aml-101-SmartCash>`_"
 msgstr ""
 
 #: ../../legal.rst:219
 msgid ""
-"`AML In Depth <https://soundcloud.com/SmartCashpay/aml-indepth-"
-"SmartCash>`_"
+"`AML In Depth <https://github.com/hoangton/smartcash/raw/master/binary"
+"/aml-indepth-SmartCash>`_"
 msgstr ""
 
 #: ../../legal.rst:221
@@ -370,25 +372,25 @@ msgstr ""
 #: ../../legal.rst:224
 msgid ""
 "`Surveillance and Monitoring "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_"
 msgstr ""
 
 #: ../../legal.rst:225
 msgid ""
 "`KYC CDD Policy "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_"
 msgstr ""
 
 #: ../../legal.rst:226
 msgid ""
 "`AML Program "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_"
 msgstr ""
 
 #: ../../legal.rst:227
 msgid ""
 "`Risk Assessment "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
 msgstr ""
 
 #: ../../legal.rst:229
@@ -404,13 +406,13 @@ msgstr ""
 #: ../../legal.rst:236
 msgid ""
 "`Currency Transaction Report "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
+"<hhttps://github.com/hoangton/smartcash/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
 msgstr ""
 
 #: ../../legal.rst:237
 msgid ""
 "`Suspicious Activity Report "
-"<https://github.com/SmartCashpay/docs/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
 msgstr ""
 
 #: ../../legal.rst:239
@@ -420,4 +422,76 @@ msgid ""
 "recommended legal counsel. Preferential rates are available for SmartCash"
 " users. Please email: atoulon@cogentlaw.co"
 msgstr ""
+
+#~ msgid ""
+#~ "For this purpose we hired **Cogent "
+#~ "Law**, who have a lot of "
+#~ "experience working in compliance for "
+#~ "digital money services. They have put"
+#~ " together a compliance program that "
+#~ "will be shared with anyone launching "
+#~ "a SmartCash service if they require "
+#~ "it. This includes:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Our lawyer for this project is "
+#~ "**Adella Toulon-Foerster** who has "
+#~ "extensive experience in this field "
+#~ "including:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Please first read the `Quick Guide "
+#~ "To Operating a Virtual Currency Kiosk"
+#~ " <https://github.com/SmartCashpay/docs/blob/master/binary "
+#~ "/QuickGuidetoOperatingaVirtualCurrencyKioskSmartCash-"
+#~ "watermark.pdf>`_. This guide will guide "
+#~ "you through the initial steps of "
+#~ "registering as an MSB. It is "
+#~ "crucial you start here."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`BSA AML Compliance Training manual "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_"
+#~ msgstr ""
+
+#~ msgid "`AML 101 <https://soundcloud.com/SmartCashpay/aml-101-SmartCash>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`AML In Depth <https://soundcloud.com/SmartCashpay"
+#~ "/aml-indepth-SmartCash>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Surveillance and Monitoring "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`KYC CDD Policy "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`AML Program "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Risk Assessment "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Currency Transaction Report "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Suspicious Activity Report "
+#~ "<https://github.com/SmartCashpay/docs/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
+#~ msgstr ""
 
