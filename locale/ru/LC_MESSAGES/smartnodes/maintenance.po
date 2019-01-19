@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 12:33+0700\n"
+"POT-Creation-Date: 2019-01-19 12:38+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -117,11 +117,19 @@ msgid "Monitoring"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:87
-msgid "Goto http://discord.smartcash.cc use @SmartNodeMonitor#5083::"
+msgid "Goto http://discord.smartcash.cc use @SmartNodeMonitor#5083"
+msgstr ""
+
+#: ../../smartnodes/maintenance.rst:90
+msgid ""
+"You can use this bot to monitor your SmartNodes and subscribe event "
+"notifications. Once you added your nodes with add and enabled the desired"
+" notifications with the commands below you will receive a message from "
+"the bot on each occured event!"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:92
-msgid "**    Common commands**"
+msgid "**Common commands**"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:94
@@ -131,7 +139,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:98
-msgid "**    User commands**"
+msgid "**User commands**"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:100
@@ -148,7 +156,7 @@ msgid "me - List your user info and notification states"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:107
-msgid "**    Node configuration**"
+msgid "**Node configuration**"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:109
@@ -161,7 +169,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:114
-msgid "**    Node review**"
+msgid "**Node review**"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:116
@@ -178,7 +186,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:124
-msgid "smartnode monitoring tools"
+msgid "Smartnode monitoring tools"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:126
@@ -202,22 +210,22 @@ msgstr ""
 
 #: ../../smartnodes/maintenance.rst:138
 msgid ""
-"`Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain "
-"explorer <https://smart.ccore.online/>`__ and a `function "
-"<https://smart.ccore.online/masternodes>`__ to view and map SmartCash "
-"smartnodes."
-msgstr ""
-
-#: ../../smartnodes/maintenance.rst:142
-msgid ""
 "`CoinCheckup <https://coincheckup.com/coins/SmartCash/charts>`__ offers a"
 " range of statistics and data on most blockchains, including SmartCash."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:144
+#: ../../smartnodes/maintenance.rst:140
 msgid ""
 "`explorer.smartcash.cc <http://eexplorer.smartcash.cc/>`__ and "
 "`insight.smartcash.cc <http://insight.smartcash.cc/>`__."
+msgstr ""
+
+#: ../../smartnodes/maintenance.rst:142
+msgid ""
+"`Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain "
+"explorer <https://smart.ccore.online/>`__ and a `function "
+"<https://smart.ccore.online/masternodes>`__ to view and map SmartCash "
+"smartnodes."
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:148
@@ -323,5 +331,23 @@ msgstr ""
 #~ "the queue, top 40 For the top "
 #~ "40%. > history - List information "
 #~ "about past payouts of your SmartNodes"
+#~ msgstr ""
+
+#~ msgid "Goto http://discord.smartcash.cc use @SmartNodeMonitor#5083::"
+#~ msgstr ""
+
+#~ msgid "**    Common commands**"
+#~ msgstr ""
+
+#~ msgid "**    User commands**"
+#~ msgstr ""
+
+#~ msgid "**    Node configuration**"
+#~ msgstr ""
+
+#~ msgid "**    Node review**"
+#~ msgstr ""
+
+#~ msgid "smartnode monitoring tools"
 #~ msgstr ""
 

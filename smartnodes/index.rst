@@ -35,8 +35,8 @@ Users with a deeper understanding (or curiosity) about the inner
 workings of the SmartCash network may choose to operate their own smartnode
 on their own host server. Several steps are required, and the user must
 assume responsibility for setting up, securing and maintaining both the
-server and collateral. See these pages for information on how to set up
-a self-operated smartnode.
+server and collateral. See :ref:`these pages <smartnode-setup>` for
+information on how to set up a self-hosted smartnode.
 
 .. toctree::
    :maxdepth: 1

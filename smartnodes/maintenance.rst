@@ -85,17 +85,17 @@ The SmartCash software on the smartnode is now updated.
 Monitoring
 ==========
 Goto http://discord.smartcash.cc
-use @SmartNodeMonitor#5083::
+use @SmartNodeMonitor#5083
 
     You can use this bot to monitor your SmartNodes and subscribe event notifications. Once you added your nodes with add and enabled the desired notifications with the commands below you will receive a message from the bot on each occured event!
     
-**    Common commands**
+**Common commands**
     
     help - Print this help
     info - Print the current status of the SmartNode network
     faq - Print the frequently asked question
     
-**    User commands**
+**User commands**
     
     status :**enabled** - Set :enabled to 0 to disable or to 1 to receive a notification when one of your node's status changed.
     reward :**enabled** - Set :enabled to 0 to disable or to 1 to receive a notification each time one of your nodes received a reward.
@@ -104,14 +104,14 @@ use @SmartNodeMonitor#5083::
     me - List your user info and notification states
     
     
-**    Node configuration**
+**Node configuration**
     
     add **ip0;name0 ip1;name1 ... ipN;nameN** - Add one or multiple nodes. Use a list of ip;name pairs as arguments.
     Example: add 23.123.213.11;Node1 22.122.212.12;Node2
     update :**ip :newname** - Change the name of a node with its IP-Address
     remove :ip - Remove one of your nodes with its IP-Address
     
-**    Node review**
+**Node review**
     
     lookup **ip0 .. ipN** - Check the payout requirements of one or multiple nodes
     balance - List the SMART balances of your SmartNodes
@@ -120,7 +120,7 @@ use @SmartNodeMonitor#5083::
     top :**filter** - List only the eligible nodes in the payout zone (Top 10% of the queue) per default. You can use the optional :**filter** argument to list other ranges (10 - 100). **Examples**: top 20 For the top 20% of the queue, top 40 For the top 40%.
     history - List information about past payouts of your SmartNodes
 
-smartnode monitoring tools
+Smartnode monitoring tools
 ===========================
 
 Several sites operated by community members are available to monitor key
@@ -135,14 +135,14 @@ transactions entered in any given block. Each unique transaction is also
 searchable by its txid. A number of block explorers are available for
 the SmartCash network.
 
-- `Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain
-  explorer <https://smart.ccore.online/>`__ and a `function
-  <https://smart.ccore.online/masternodes>`__ to view and map
-  SmartCash smartnodes.
 - `CoinCheckup <https://coincheckup.com/coins/SmartCash/charts>`__ offers a
   range of statistics and data on most blockchains, including SmartCash.
 - `explorer.smartcash.cc <http://eexplorer.smartcash.cc/>`__ and
   `insight.smartcash.cc <http://insight.smartcash.cc/>`__.
+- `Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain
+  explorer <https://smart.ccore.online/>`__ and a `function
+  <https://smart.ccore.online/masternodes>`__ to view and map
+  SmartCash smartnodes.
   
 SmartCash smartstats smartnode
 ------------------------------
