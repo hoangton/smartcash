@@ -47,12 +47,12 @@ availability of debit cards cannot be guaranteed in any or all
 jurisdictions. Check with the following providers for updates on the
 availability of SmartCash debit cards. 
 
-Disclaimer: This list is provided for informational purposes only. SmartCash
+**Disclaimer**: This list is provided for informational purposes only. SmartCash
 Team is not liable for any funds transmitted in error to these
 providers, or for the accuracy of information on this page.
 
 
-pungo.krd
+Pungo.krd
   .. image:: img/pungo.png
      :width: 200px
      :align: right

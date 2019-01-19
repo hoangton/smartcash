@@ -15,17 +15,17 @@ standardised onboarding process. It's easy to begin accepting payments
 in SmartCash and enjoy the following benefits:
 
 - Settlement within seconds and clearance within minutes
-- Ability to accept payments from any market around the world
+- Ability to accept payments from any market around the world so help you grow your customer base
 - Irreversible transactions to prevent fraud
 - Advanced privacy for both customers and merchants
 - Lowest fees in the industry
+- Pos Solutions and Ecommerce Plugins
 
-A three-part course on why SmartCash is a popular choice for payments and how
-integration takes place is available in English on
-`Find SmartCash <https://find.smartcash.cc/for-merchants/>`_. 
+How to integration SmartCash is available in English on
+`SmartCash for Merchants <https://find.smartcash.cc/for-merchants/>`_. 
 
 Many major merchants accept SmartCash - check out `Taco
-<https://www.taco.com.br/>`__ or `boralatour
+<https://www.taco.com.br/>`__ or `Boralatour
 <https://boralatour.com.br/>`__ for examples of what merchant integration
 can look like. Once you are up and running accepting SmartCash, consider
 adding your business to the directory maintained at `SmartCash Merchant Directory
@@ -62,17 +62,15 @@ or simple website serving a checkout interface and QR code generator,
 while others support custom features such as NFC or a rewards scheme. SmartPay and SmartCard are
 particularly widespread.
 
-https://card.smartcash.cc/
-https://business.smartcash.cc/
+`SmartCards <https://card.smartcash.cc/>`_
+`SmartCash Business <https://business.smartcash.cc/>`_
 
-Installation Examples
-=====================
+SmartCash Ecommerce Plugins
+---------------------------
 
-This section contains worked examples of how to install, configure and
-process your first payment using the payment processors listed in this
-documentation.
+Make your website run Wordpress become Ecommerce store with WooCommerce Plugin 
 
-https://find.smartcash.cc/a-guide-to-accepting-smartcash-payments-for-your-online-store/
+`SmartCash WooCommerce <https://github.com/SmartCash/WooCommerce>`_
 
 WooCommerce and CoinPayments.net
 --------------------------------
@@ -142,3 +140,13 @@ administration section. See the `CoinPayments Documentation
    :width: 250px
 
    Completing payment through the CoinPayments.net payment processor
+   
+Installation Examples
+=====================
+
+This section contains worked examples of how to install, configure and
+process your first payment using the payment processors listed in this
+documentation.
+
+https://find.smartcash.cc/a-guide-to-accepting-smartcash-payments-for-your-online-store/
+

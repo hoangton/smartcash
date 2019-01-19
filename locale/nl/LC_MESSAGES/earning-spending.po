@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 16:25+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,13 +85,13 @@ msgstr ""
 
 #: ../../earning-spending.rst:50
 msgid ""
-"Disclaimer: This list is provided for informational purposes only. "
+"**Disclaimer**: This list is provided for informational purposes only. "
 "SmartCash Team is not liable for any funds transmitted in error to these "
 "providers, or for the accuracy of information on this page."
 msgstr ""
 
 #: ../../earning-spending.rst:59
-msgid "pungo.krd"
+msgid "Pungo.krd"
 msgstr ""
 
 #: ../../earning-spending.rst:61
@@ -123,4 +123,16 @@ msgstr ""
 #: ../../earning-spending.rst:74
 msgid "https://bitcoin.tax"
 msgstr ""
+
+#~ msgid ""
+#~ "Disclaimer: This list is provided for"
+#~ " informational purposes only. SmartCash "
+#~ "Team is not liable for any funds"
+#~ " transmitted in error to these "
+#~ "providers, or for the accuracy of "
+#~ "information on this page."
+#~ msgstr ""
+
+#~ msgid "pungo.krd"
+#~ msgstr ""
 
