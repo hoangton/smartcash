@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 12:31+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,97 +48,129 @@ msgid "List of hosting services"
 msgstr ""
 
 #: ../../smartnodes/hosting.rst:21
-msgid ""
-"**Disclaimer**: - SmartCash Hive Team is not officially involved in the "
-"provision of any of these services. Use it at your own risk. - SmartNode "
-"shared hosting (less than 10,000 SMART) requires you to trust another "
-"party with your funds and is considered high risk. - Hosted SmartNode "
-"services allow you to keep control of your private keys and you should "
-"not be asked for your private key. (SmartNode Genkey is not your private "
-"key and is required for hosting)"
+msgid "**Disclaimer**:"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:27
+#: ../../smartnodes/hosting.rst:23
+msgid ""
+"SmartCash Hive Team is not officially involved in the provision of any of"
+" these services. Use it at your own risk."
+msgstr ""
+
+#: ../../smartnodes/hosting.rst:24
+msgid ""
+"SmartNode shared hosting (less than 10,000 SMART) requires you to trust "
+"another party with your funds and is considered high risk."
+msgstr ""
+
+#: ../../smartnodes/hosting.rst:25
+msgid ""
+"Hosted SmartNode services allow you to keep control of your private keys "
+"and you should not be asked for your private key. (SmartNode Genkey is "
+"not your private key and is required for hosting)"
+msgstr ""
+
+#: ../../smartnodes/hosting.rst:28
 msgid "nodesupply"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:29
+#: ../../smartnodes/hosting.rst:30
 msgid "https://nodesupply.com/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:31
+#: ../../smartnodes/hosting.rst:32
 msgid "Operated by: Part of Blockbase VOF, The Netherlands"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:32
+#: ../../smartnodes/hosting.rst:33
 msgid "Services: Hosting"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:33
+#: ../../smartnodes/hosting.rst:34
 msgid "Cost: $9/month"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:34
-msgid "`Site <https://nodesupply.com/>`__"
+#: ../../smartnodes/hosting.rst:35
+msgid "`WebSite <https://nodesupply.com/>`__"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:35
+#: ../../smartnodes/hosting.rst:36
 msgid "`Email <support@nodesupply.com>`__"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:38
+#: ../../smartnodes/hosting.rst:39
 msgid "masternodo"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:39
+#: ../../smartnodes/hosting.rst:40
 msgid "https://masternodo.com/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:42
+#: ../../smartnodes/hosting.rst:43
 msgid "node-vps"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:43
+#: ../../smartnodes/hosting.rst:44
 msgid "https://node-vps.com/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:46
+#: ../../smartnodes/hosting.rst:47
 msgid "nodestop"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:47
+#: ../../smartnodes/hosting.rst:48
 msgid "https://www.nodestop.com/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:50
+#: ../../smartnodes/hosting.rst:51
 msgid "masterhost"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:51
+#: ../../smartnodes/hosting.rst:52
 msgid "https://masterhost.io/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:54
+#: ../../smartnodes/hosting.rst:55
 msgid "satoshisolutions"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:55
+#: ../../smartnodes/hosting.rst:56
 msgid "https://satoshisolutions.online/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:58
+#: ../../smartnodes/hosting.rst:59
 msgid "ez-masternodes"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:59
+#: ../../smartnodes/hosting.rst:60
 msgid "https://www.ez-masternodes.com/"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:62
+#: ../../smartnodes/hosting.rst:63
 msgid "pecuniaplatform"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:63
+#: ../../smartnodes/hosting.rst:64
 msgid "https://pecuniaplatform.io/ - Operated by:@mark | pecunia#8051 (Discord)"
 msgstr ""
+
+#~ msgid ""
+#~ "**Disclaimer**: - SmartCash Hive Team is"
+#~ " not officially involved in the "
+#~ "provision of any of these services. "
+#~ "Use it at your own risk. - "
+#~ "SmartNode shared hosting (less than "
+#~ "10,000 SMART) requires you to trust "
+#~ "another party with your funds and "
+#~ "is considered high risk. - Hosted "
+#~ "SmartNode services allow you to keep "
+#~ "control of your private keys and "
+#~ "you should not be asked for your"
+#~ " private key. (SmartNode Genkey is "
+#~ "not your private key and is "
+#~ "required for hosting)"
+#~ msgstr ""
+
+#~ msgid "`Site <https://nodesupply.com/>`__"
+#~ msgstr ""
 

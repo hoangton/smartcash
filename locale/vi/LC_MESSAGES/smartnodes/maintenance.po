@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 12:33+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,11 +98,7 @@ msgstr ""
 #: ../../smartnodes/maintenance.rst:67
 msgid ""
 "Verify the integrity of your download by running the following command "
-"and comparing the output against the value for SHA256 Checksum"
-msgstr ""
-
-#: ../../smartnodes/maintenance.rst:70
-msgid "sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz"
+"and comparing the output against the value for SHA256 Checksum::"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:72
@@ -121,86 +117,81 @@ msgid "Monitoring"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:87
+msgid "Goto http://discord.smartcash.cc use @SmartNodeMonitor#5083::"
+msgstr ""
+
+#: ../../smartnodes/maintenance.rst:92
+msgid "**    Common commands**"
+msgstr ""
+
+#: ../../smartnodes/maintenance.rst:94
 msgid ""
-"Goto http://discord.smartcash.cc use @SmartNodeMonitor#5083 > You can use"
-" this bot to monitor your SmartNodes and subscribe event notifications. "
-"Once you added your nodes with add and enabled the desired notifications "
-"with the commands below you will receive a message from the bot on each "
-"occured event!"
+"help - Print this help info - Print the current status of the SmartNode "
+"network faq - Print the frequently asked question"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:91
-msgid "> Common commands"
+#: ../../smartnodes/maintenance.rst:98
+msgid "**    User commands**"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:93
+#: ../../smartnodes/maintenance.rst:100
 msgid ""
-"> help - Print this help > info - Print the current status of the "
-"SmartNode network > faq - Print the frequently asked question"
+"status :**enabled** - Set :enabled to 0 to disable or to 1 to receive a "
+"notification when one of your node's status changed. reward :**enabled** "
+"- Set :enabled to 0 to disable or to 1 to receive a notification each "
+"time one of your nodes received a reward. network :**enabled** - Set "
+":enabled to 0 to disable or to 1 to enable network notifications"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:97
-msgid "> User commands"
+#: ../../smartnodes/maintenance.rst:104
+msgid "me - List your user info and notification states"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:99
+#: ../../smartnodes/maintenance.rst:107
+msgid "**    Node configuration**"
+msgstr ""
+
+#: ../../smartnodes/maintenance.rst:109
 msgid ""
-"> status :enabled - Set :enabled to 0 to disable or to 1 to receive a "
-"notification when one of your node's status changed. > reward :enabled - "
-"Set :enabled to 0 to disable or to 1 to receive a notification each time "
-"one of your nodes received a reward. > network :enabled - Set :enabled to"
-" 0 to disable or to 1 to enable network notifications"
-msgstr ""
-
-#: ../../smartnodes/maintenance.rst:103
-msgid "> me - List your user info and notification states"
-msgstr ""
-
-#: ../../smartnodes/maintenance.rst:106
-msgid "> Node configuration"
-msgstr ""
-
-#: ../../smartnodes/maintenance.rst:108
-msgid ""
-"> add ip0;name0 ip1;name1 ... ipN;nameN - Add one or multiple nodes. Use "
-"a list of ip;name pairs as arguments. >   Example: add "
-"23.123.213.11;Node1 22.122.212.12;Node2 > update :ip :newname - Change "
-"the name of a node with its IP-Address > remove :ip - Remove one of your "
+"add **ip0;name0 ip1;name1 ... ipN;nameN** - Add one or multiple nodes. "
+"Use a list of ip;name pairs as arguments. Example: add "
+"23.123.213.11;Node1 22.122.212.12;Node2 update :**ip :newname** - Change "
+"the name of a node with its IP-Address remove :ip - Remove one of your "
 "nodes with its IP-Address"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:113
-msgid "> Node review"
+#: ../../smartnodes/maintenance.rst:114
+msgid "**    Node review**"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:115
+#: ../../smartnodes/maintenance.rst:116
 #, python-format
 msgid ""
-"> lookup ip0 .. ipN - Check the payout requirements of one or multiple "
-"nodes > balance - List the SMART balances of your SmartNodes > detail - "
-"List all details of your SmartNodes > nodes - List only the status and "
-"last payments of your nodes > top :filter - List only the eligible nodes "
-"in the payout zone (Top 10% of the queue) per default. You can use the "
-"optional :filter argument to list other ranges (10 - 100). Examples: top "
-"20 For the top 20% of the queue, top 40 For the top 40%. > history - List"
-" information about past payouts of your SmartNodes"
+"lookup **ip0 .. ipN** - Check the payout requirements of one or multiple "
+"nodes balance - List the SMART balances of your SmartNodes detail - List "
+"all details of your SmartNodes nodes - List only the status and last "
+"payments of your nodes top :**filter** - List only the eligible nodes in "
+"the payout zone (Top 10% of the queue) per default. You can use the "
+"optional :**filter** argument to list other ranges (10 - 100). "
+"**Examples**: top 20 For the top 20% of the queue, top 40 For the top "
+"40%. history - List information about past payouts of your SmartNodes"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:123
+#: ../../smartnodes/maintenance.rst:124
 msgid "smartnode monitoring tools"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:125
+#: ../../smartnodes/maintenance.rst:126
 msgid ""
 "Several sites operated by community members are available to monitor key "
 "information and statistics relating to the smartnode network."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:129
+#: ../../smartnodes/maintenance.rst:130
 msgid "Block Explorers"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:131
+#: ../../smartnodes/maintenance.rst:132
 msgid ""
 "Since SmartCash is a public blockchain, it is possible to use block "
 "explorers to view the balances of any SmartCash public address, as well "
@@ -209,7 +200,7 @@ msgid ""
 "are available for the SmartCash network."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:137
+#: ../../smartnodes/maintenance.rst:138
 msgid ""
 "`Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain "
 "explorer <https://smart.ccore.online/>`__ and a `function "
@@ -217,30 +208,120 @@ msgid ""
 "smartnodes."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:141
+#: ../../smartnodes/maintenance.rst:142
 msgid ""
 "`CoinCheckup <https://coincheckup.com/coins/SmartCash/charts>`__ offers a"
 " range of statistics and data on most blockchains, including SmartCash."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:143
+#: ../../smartnodes/maintenance.rst:144
 msgid ""
 "`explorer.smartcash.cc <http://eexplorer.smartcash.cc/>`__ and "
 "`insight.smartcash.cc <http://insight.smartcash.cc/>`__."
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:147
+#: ../../smartnodes/maintenance.rst:148
 msgid "SmartCash smartstats smartnode"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:149
+#: ../../smartnodes/maintenance.rst:150
 msgid "https://smartstats.cc/smartnodes"
 msgstr ""
 
-#: ../../smartnodes/maintenance.rst:151
+#: ../../smartnodes/maintenance.rst:152
 msgid ""
 "This site, offers a visual representation of many key statistics of the "
 "SmartCash smartnode network, including graphs of the total smartnode "
 "count over time, price information and network distribution."
 msgstr ""
+
+#~ msgid ""
+#~ "Verify the integrity of your download"
+#~ " by running the following command and"
+#~ " comparing the output against the "
+#~ "value for SHA256 Checksum"
+#~ msgstr ""
+
+#~ msgid "sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Goto http://discord.smartcash.cc use "
+#~ "@SmartNodeMonitor#5083 > You can use "
+#~ "this bot to monitor your SmartNodes "
+#~ "and subscribe event notifications. Once "
+#~ "you added your nodes with add and"
+#~ " enabled the desired notifications with "
+#~ "the commands below you will receive "
+#~ "a message from the bot on each "
+#~ "occured event!"
+#~ msgstr ""
+
+#~ msgid "> Common commands"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> help - Print this help > "
+#~ "info - Print the current status of"
+#~ " the SmartNode network > faq - "
+#~ "Print the frequently asked question"
+#~ msgstr ""
+
+#~ msgid "> User commands"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> status :enabled - Set :enabled "
+#~ "to 0 to disable or to 1 to"
+#~ " receive a notification when one of"
+#~ " your node's status changed. > reward"
+#~ " :enabled - Set :enabled to 0 "
+#~ "to disable or to 1 to receive "
+#~ "a notification each time one of "
+#~ "your nodes received a reward. > "
+#~ "network :enabled - Set :enabled to "
+#~ "0 to disable or to 1 to "
+#~ "enable network notifications"
+#~ msgstr ""
+
+#~ msgid "> me - List your user info and notification states"
+#~ msgstr ""
+
+#~ msgid "> Node configuration"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> add ip0;name0 ip1;name1 ... ipN;nameN"
+#~ " - Add one or multiple nodes. "
+#~ "Use a list of ip;name pairs as "
+#~ "arguments. >   Example: add "
+#~ "23.123.213.11;Node1 22.122.212.12;Node2 > update "
+#~ ":ip :newname - Change the name of"
+#~ " a node with its IP-Address >"
+#~ " remove :ip - Remove one of "
+#~ "your nodes with its IP-Address"
+#~ msgstr ""
+
+#~ msgid "> Node review"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "> lookup ip0 .. ipN - Check "
+#~ "the payout requirements of one or "
+#~ "multiple nodes > balance - List "
+#~ "the SMART balances of your SmartNodes"
+#~ " > detail - List all details of"
+#~ " your SmartNodes > nodes - List "
+#~ "only the status and last payments "
+#~ "of your nodes > top :filter - "
+#~ "List only the eligible nodes in "
+#~ "the payout zone (Top 10% of the"
+#~ " queue) per default. You can use "
+#~ "the optional :filter argument to list"
+#~ " other ranges (10 - 100). Examples:"
+#~ " top 20 For the top 20% of "
+#~ "the queue, top 40 For the top "
+#~ "40%. > history - List information "
+#~ "about past payouts of your SmartNodes"
+#~ msgstr ""
 

@@ -65,7 +65,7 @@ version of SmartCash Core by right clicking or pressing **Ctrl + V**::
     wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.6/smartcash-1.2.6-x86_64-linux-gnu.tar.gz
 
 Verify the integrity of your download by running the following command
-and comparing the output against the value for SHA256 Checksum
+and comparing the output against the value for SHA256 Checksum::
 
     sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz
 
@@ -85,39 +85,40 @@ The SmartCash software on the smartnode is now updated.
 Monitoring
 ==========
 Goto http://discord.smartcash.cc
-use @SmartNodeMonitor#5083
-> You can use this bot to monitor your SmartNodes and subscribe event notifications. Once you added your nodes with add and enabled the desired notifications with the commands below you will receive a message from the bot on each occured event!
+use @SmartNodeMonitor#5083::
 
-> Common commands
-
-> help - Print this help
-> info - Print the current status of the SmartNode network
-> faq - Print the frequently asked question
-
-> User commands
-
-> status :enabled - Set :enabled to 0 to disable or to 1 to receive a notification when one of your node's status changed.
-> reward :enabled - Set :enabled to 0 to disable or to 1 to receive a notification each time one of your nodes received a reward.
-> network :enabled - Set :enabled to 0 to disable or to 1 to enable network notifications
-
-> me - List your user info and notification states
-
-
-> Node configuration
-
-> add ip0;name0 ip1;name1 ... ipN;nameN - Add one or multiple nodes. Use a list of ip;name pairs as arguments.
->   Example: add 23.123.213.11;Node1 22.122.212.12;Node2
-> update :ip :newname - Change the name of a node with its IP-Address
-> remove :ip - Remove one of your nodes with its IP-Address
-
-> Node review
-
-> lookup ip0 .. ipN - Check the payout requirements of one or multiple nodes
-> balance - List the SMART balances of your SmartNodes
-> detail - List all details of your SmartNodes
-> nodes - List only the status and last payments of your nodes
-> top :filter - List only the eligible nodes in the payout zone (Top 10% of the queue) per default. You can use the optional :filter argument to list other ranges (10 - 100). Examples: top 20 For the top 20% of the queue, top 40 For the top 40%.
-> history - List information about past payouts of your SmartNodes
+    You can use this bot to monitor your SmartNodes and subscribe event notifications. Once you added your nodes with add and enabled the desired notifications with the commands below you will receive a message from the bot on each occured event!
+    
+**    Common commands**
+    
+    help - Print this help
+    info - Print the current status of the SmartNode network
+    faq - Print the frequently asked question
+    
+**    User commands**
+    
+    status :**enabled** - Set :enabled to 0 to disable or to 1 to receive a notification when one of your node's status changed.
+    reward :**enabled** - Set :enabled to 0 to disable or to 1 to receive a notification each time one of your nodes received a reward.
+    network :**enabled** - Set :enabled to 0 to disable or to 1 to enable network notifications
+    
+    me - List your user info and notification states
+    
+    
+**    Node configuration**
+    
+    add **ip0;name0 ip1;name1 ... ipN;nameN** - Add one or multiple nodes. Use a list of ip;name pairs as arguments.
+    Example: add 23.123.213.11;Node1 22.122.212.12;Node2
+    update :**ip :newname** - Change the name of a node with its IP-Address
+    remove :ip - Remove one of your nodes with its IP-Address
+    
+**    Node review**
+    
+    lookup **ip0 .. ipN** - Check the payout requirements of one or multiple nodes
+    balance - List the SMART balances of your SmartNodes
+    detail - List all details of your SmartNodes
+    nodes - List only the status and last payments of your nodes
+    top :**filter** - List only the eligible nodes in the payout zone (Top 10% of the queue) per default. You can use the optional :**filter** argument to list other ranges (10 - 100). **Examples**: top 20 For the top 20% of the queue, top 40 For the top 40%.
+    history - List information about past payouts of your SmartNodes
 
 smartnode monitoring tools
 ===========================

@@ -19,9 +19,10 @@ List of hosting services
 ========================
 
 **Disclaimer**: 
-- SmartCash Hive Team is not officially involved in the provision of any of these services. Use it at your own risk.
-- SmartNode shared hosting (less than 10,000 SMART) requires you to trust another party with your funds and is considered high risk.
-- Hosted SmartNode services allow you to keep control of your private keys and you should not be asked for your private key. (SmartNode Genkey is not your private key and is required for hosting)
+
+* SmartCash Hive Team is not officially involved in the provision of any of these services. Use it at your own risk.
+* SmartNode shared hosting (less than 10,000 SMART) requires you to trust another party with your funds and is considered high risk.
+* Hosted SmartNode services allow you to keep control of your private keys and you should not be asked for your private key. (SmartNode Genkey is not your private key and is required for hosting)
 
 nodesupply
 ----------
@@ -31,7 +32,7 @@ https://nodesupply.com/
 - Operated by: Part of Blockbase VOF, The Netherlands
 - Services: Hosting
 - Cost: $9/month
-- `Site <https://nodesupply.com/>`__
+- `WebSite <https://nodesupply.com/>`__
 - `Email <support@nodesupply.com>`__
 
 masternodo
