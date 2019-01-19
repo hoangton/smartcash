@@ -173,7 +173,7 @@ requirements to facilitate SmartCash-fiat exchange. This can be in the form
 of running ATM kiosks or using other mechanisms to personally offer SmartCash
 to fiat exchange services.
 
-For this purpose we found **Cogent Law**, who have a lot of experience
+For this purpose we found **Christopher Bridges**, who have a lot of experience
 working in compliance for digital money services. They have put together
 a compliance program that will be shared with anyone launching a SmartCash
 service if they require it. This includes:
@@ -183,9 +183,6 @@ service if they require it. This includes:
   laundering and the financing of terrorist activities
 - A comprehensive risk based assessment by a third party compliance
   consultant expert
-
-Lawyer for this project is **Adella Toulon-Foerster** who has
-extensive experience in this field including:
 
 - Banking Secrecy Act (BSA), Anti-Money Laundering (AML), and Know Your
   Customer (KYC) regulations
@@ -252,6 +249,6 @@ SmartCash ATM Compliance Program
    - `Suspicious Activity Report <https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_
 
 #. If you would now like to move forward with your project, we recommend
-   getting in contact with `Cogent Law <http://www.cogentlaw.co>`_, our
+   getting in contact with `Christopher Bridges Law Corporation <http://www.cbridgeslaw.com/>`_, our
    recommended legal counsel. Preferential rates are available for SmartCash
-   users. Please email: atoulon@cogentlaw.co
+   users. Please email: seccbridges@cbridgeslaw.com
