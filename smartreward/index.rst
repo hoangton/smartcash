@@ -18,7 +18,7 @@ SmartRewards are a price stabilization mechanism and a way to encourage long ter
 - All users need to move funds into addresses holding at least 1000 SMART before the snapshot to be counted.
 - If you spend ANY amount from an address, it will be ineligible for SmartRewards until the next round.
 
-SMARTREWARDS FAQ’S
+SmartRewards FAQ’S
 ------------------
 
 
