@@ -1,29 +1,29 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
 # Translators:
 # hoangton <smartcashvietnam@gmail.com>, 2019
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 21:03+0700\n"
 "PO-Revision-Date: 2019-01-16 11:25+0000\n"
 "Last-Translator: hoangton <smartcashvietnam@gmail.com>, 2019\n"
-"Language-Team: Vietnamese (https://www.transifex.com/smartcash/teams/95224/vi/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: vi\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Team: Vietnamese "
+"(https://www.transifex.com/smartcash/teams/95224/vi/)\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../introduction/about.rst:1
-msgid ""
-"Introduction to the SmartCash cryptocurrency and links to further reading"
+msgid "Introduction to the SmartCash cryptocurrency and links to further reading"
 msgstr "Giới thiệu về tiền điện tử SmartCash và liên kết để đọc thêm"
 
 #: ../../introduction/about.rst:1
@@ -40,30 +40,31 @@ msgstr "SmartCash là gì?"
 
 #: ../../introduction/about.rst:11
 msgid ""
-"SmartCash is a peer-to-peer digital currency that can be used without having"
-" to trust a third party. By focusing on being ease to use even for people "
-"who aren‘t crypto geeks, on being merchant friendly. The SmartCash network "
-"features :ref:`instant transaction confirmation <instantpay>`, double spend "
-"protection, a :ref:`self-governing, self-funding model <smarthive>` and a "
-":ref:`roadmap <roadmap>` . While SmartCash is based on Bitcoin and "
-"compatible with many key components of the Bitcoin ecosystem."
+"SmartCash is a peer-to-peer digital currency that can be used without "
+"having to trust a third party. By focusing on being ease to use even for "
+"people who aren‘t crypto geeks, on being merchant friendly. The SmartCash"
+" network features :ref:`instant transaction confirmation <instantpay>`, "
+"double spend protection, a :ref:`self-governing, self-funding model "
+"<smarthive>` and a :ref:`roadmap <roadmap>` . While SmartCash is based on"
+" Bitcoin and compatible with many key components of the Bitcoin "
+"ecosystem."
 msgstr ""
 
 #: ../../introduction/about.rst:15
 msgid ""
-"This section of the documentation describes these and many more key features"
-" that set SmartCash apart in the blockchain economy."
+"This section of the documentation describes these and many more key "
+"features that set SmartCash apart in the blockchain economy."
 msgstr ""
 
 #: ../../introduction/about.rst:18
 msgid ""
-"The videos, links and documentation collected here can help you get started,"
-" or use the table of contents on the left to find a specific topic of "
-"interest. New users may be interested in getting started with an appropriate"
-" :ref:`wallet <wallets>`, learning about :ref:`how to buy SmartCash <how-to-"
-"buy>` and :ref:`where to spend SmartCash <earning-spending>`, learning about"
-" :ref:`safety <safety>` or joining one of the many :ref:`SmartCash community"
-" sites <information>`."
+"The videos, links and documentation collected here can help you get "
+"started, or use the table of contents on the left to find a specific "
+"topic of interest. New users may be interested in getting started with an"
+" appropriate :ref:`wallet <wallets>`, learning about :ref:`how to buy "
+"SmartCash <how-to-buy>` and :ref:`where to spend SmartCash <earning-"
+"spending>`, learning about :ref:`safety <safety>` or joining one of the "
+"many :ref:`SmartCash community sites <information>`."
 msgstr ""
 
 #: ../../introduction/about.rst:28
@@ -76,11 +77,15 @@ msgstr "Giải thích về SmartCash"
 
 #: ../../introduction/about.rst:33
 msgid ""
-"SmartCash Explained is a six-part video series. It explains SmartCash from a"
-" beginner's level up to descriptions of the more advanced features. Please "
-"note some content in this video are out of date like smartreward payments "
-"times, Fungibility and Privacy features."
+"SmartCash Explained is a six-part video series. It explains SmartCash "
+"from a beginner's level up to descriptions of the more advanced features."
+" Please note some content in this video are out of date like smartreward "
+"payments times, Fungibility and Privacy features."
 msgstr ""
+"SmartCash giải thích là một loạt video một phần sáu. Nó giải thích "
+"SmartCash cho người mới bắt đầu đến mô tả các tính năng nâng cao hơn. Xin"
+" vui lòng lưu ý một số nội dung trong video này là quá hạn như  thời gian"
+" trả thưởng smartreward, tính năng bảo mật."
 
 #: ../../introduction/about.rst:45
 msgid "SmartCard & SmartPay"
@@ -88,9 +93,9 @@ msgstr "SmartCard & SmartPay"
 
 #: ../../introduction/about.rst:47
 msgid ""
-"SmartCard & SmartPay is an nine-part video series. It covers unique features"
-" and functions of SmartCard & SmartPay only available on the SmartCash "
-"network, and is available in `English "
+"SmartCard & SmartPay is an nine-part video series. It covers unique "
+"features and functions of SmartCard & SmartPay only available on the "
+"SmartCash network, and is available in `English "
 "<https://www.youtube.com/watch?v=blX4TpiHmTc&list=PLGlNS1OUh3PyTeh6QLz1jXwqPENznvISD>`__,"
 msgstr ""
 
@@ -100,37 +105,43 @@ msgstr "Sách giới thiệu / Sách trắng"
 
 #: ../../introduction/about.rst:64
 msgid ""
-"The SmartCash Brochure/Whitepaper describes the unique value proposition and"
-" key innovations in SmartCash from an academic and theoretical perspective. "
-"It is a living document maintained on https://smartcash.cc/brochure/, "
-"receiving ongoing updates and frequent community translations as new "
-"features are implemented."
+"The SmartCash Brochure/Whitepaper describes the unique value proposition "
+"and key innovations in SmartCash from an academic and theoretical "
+"perspective. It is a living document maintained on "
+"https://smartcash.cc/brochure/, receiving ongoing updates and frequent "
+"community translations as new features are implemented."
 msgstr ""
 
-#: ../../introduction/about.rst:70
-msgid ""
-"`Latest whitepaper and official translations <https://smartcash.cc/wp-"
-"content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+#: ../../introduction/about.rst:69
+msgid ":ref:`Latest whitepaper and official translations <marketing-brochures>`"
 msgstr ""
-"`Sách trắng mới nhất và bản dịch chính thức <https://smartcash.cc/wp-"
-"content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
 
-#: ../../introduction/about.rst:75
+#: ../../introduction/about.rst:74
 msgid "Roadmap"
 msgstr "Lộ trình"
 
-#: ../../introduction/about.rst:77
+#: ../../introduction/about.rst:76
 msgid ""
-"The SmartCash Roadmap sets out delivery milestones for future releases of "
-"SmartCash and includes specific technical details describing how the "
+"The SmartCash Roadmap sets out delivery milestones for future releases of"
+" SmartCash and includes specific technical details describing how the "
 "development team plans to realese each challenge. Like the "
 "Brochure/Whitepaper, it is versioned and maintained on ."
 msgstr ""
-"Lộ trình SmartCash đặt ra các mốc phân phối cho các bản phát hành SmartCash "
-"trong tương lai và bao gồm các chi tiết kỹ thuật cụ thể mô tả cách nhóm phát"
-" triển lên kế hoạch thực hiện từng thách thức. Giống như Sách hướng dẫn / "
-"Sách trắng, nó được đánh phiên bản và duy trì trên"
+"Lộ trình SmartCash đặt ra các mốc phân phối cho các bản phát hành "
+"SmartCash trong tương lai và bao gồm các chi tiết kỹ thuật cụ thể mô tả "
+"cách nhóm phát triển lên kế hoạch thực hiện từng thách thức. Giống như "
+"Sách hướng dẫn / Sách trắng, nó được đánh phiên bản và duy trì trên"
 
-#: ../../introduction/about.rst:82
+#: ../../introduction/about.rst:81
 msgid "`SmartCash Roadmap <https://smartcash.cc/roadmap/>`_"
 msgstr "`Lộ trình SmartCash <https://smartcash.cc/roadmap/>`_"
+
+#~ msgid ""
+#~ "`Latest whitepaper and official translations"
+#~ " <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+#~ msgstr ""
+#~ "`Sách trắng mới nhất và bản dịch"
+#~ " chính thức <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+

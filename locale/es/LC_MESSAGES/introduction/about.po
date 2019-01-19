@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 21:03+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,17 +101,15 @@ msgid ""
 "community translations as new features are implemented."
 msgstr ""
 
-#: ../../introduction/about.rst:70
-msgid ""
-"`Latest whitepaper and official translations <https://smartcash.cc/wp-"
-"content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+#: ../../introduction/about.rst:69
+msgid ":ref:`Latest whitepaper and official translations <marketing-brochures>`"
 msgstr ""
 
-#: ../../introduction/about.rst:75
+#: ../../introduction/about.rst:74
 msgid "Roadmap"
 msgstr ""
 
-#: ../../introduction/about.rst:77
+#: ../../introduction/about.rst:76
 msgid ""
 "The SmartCash Roadmap sets out delivery milestones for future releases of"
 " SmartCash and includes specific technical details describing how the "
@@ -119,7 +117,13 @@ msgid ""
 "Brochure/Whitepaper, it is versioned and maintained on ."
 msgstr ""
 
-#: ../../introduction/about.rst:82
+#: ../../introduction/about.rst:81
 msgid "`SmartCash Roadmap <https://smartcash.cc/roadmap/>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "`Latest whitepaper and official translations"
+#~ " <https://smartcash.cc/wp-"
+#~ "content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_"
+#~ msgstr ""
 

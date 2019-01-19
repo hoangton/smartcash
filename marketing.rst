@@ -34,6 +34,8 @@ identity.
 Design Materials
 ================
 
+.. _marketing-brochures:
+
 Brochures
 ---------
 

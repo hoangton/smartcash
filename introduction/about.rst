@@ -66,8 +66,7 @@ innovations in SmartCash from an academic and theoretical perspective. It is
 a living document maintained on https://smartcash.cc/brochure/, receiving ongoing updates 
 and frequent community translations as new features are implemented. 
 
-
-- `Latest whitepaper and official translations <https://smartcash.cc/wp-content/uploads/2018/07/SmartCash-v1.2.4.pdf>`_
+:ref:`Latest whitepaper and official translations <marketing-brochures>`
 
 .. _roadmap:
 
