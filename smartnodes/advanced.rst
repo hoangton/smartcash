@@ -13,8 +13,26 @@ Installing SmartCash on Windows VPS
 ===================================
 
 Install wallet as normal. 
-We need to create a configuration file smartcash.conf this file locale `Data folder <https://smartcash.freshdesk.com/support/solutions/articles/35000027195-where-is-the-data-folder-for-my-desktop-smartcash-wallet-stored->`_
-specifying several variables. Copy and paste the following text to get
+The configuration file is a list
+of ``setting=value`` pairs, one per line, with optional comments
+starting with the ``#`` character.
+
+The configuration file is not automatically created; you can create it
+using your favorite plain-text editor. By default, smartcash-qt (or smartcashd) will look for a file named ``smartcash.conf`` in the smartcash data directory, but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
+
++----------+--------------------------------+-----------------------------------------------------------------------------------------------+
+| Platform | Path to data folder            | Typical path to configuration file                                                            |
++==========+================================+===============================================================================================+
+| Linux    | ~/                             | /home/username/.smartcash/smartcash.conf                                                      |
++----------+--------------------------------+-----------------------------------------------------------------------------------------------+
+| macOS    | ~/Library/Application Support/ | /Users/username/Library/Application Support/smartcash/smartcash.conf                          |
++----------+--------------------------------+-----------------------------------------------------------------------------------------------+
+| Windows  | %APPDATA%                      | (Vista-10) C:\\Users\\username\\AppData\\Roaming\\SmartCash\\smartcash.conf                   |
+|          |                                |                                                                                               |
+|          |                                | (2000-XP) C:\\Documents and Settings\\username\\Application Data\\SmartCash\\smartcash.conf   |
++----------+--------------------------------+-----------------------------------------------------------------------------------------------+
+
+Copy and paste the following text to get
 started, then replace the variables specific to your configuration as
 follows::
 

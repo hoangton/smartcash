@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 13:02+0700\n"
+"POT-Creation-Date: 2019-01-19 13:07+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,46 +37,114 @@ msgstr ""
 
 #: ../../smartnodes/advanced.rst:15
 msgid ""
-"Install wallet as normal. We need to create a configuration file "
-"smartcash.conf this file locale `Data folder "
-"<https://smartcash.freshdesk.com/support/solutions/articles/35000027195"
-"-where-is-the-data-folder-for-my-desktop-smartcash-wallet-stored->`_ "
-"specifying several variables. Copy and paste the following text to get "
-"started, then replace the variables specific to your configuration as "
-"follows::"
+"Install wallet as normal. The configuration file is a list of "
+"``setting=value`` pairs, one per line, with optional comments starting "
+"with the ``#`` character."
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:37
+#: ../../smartnodes/advanced.rst:20
+msgid ""
+"The configuration file is not automatically created; you can create it "
+"using your favorite plain-text editor. By default, smartcash-qt (or "
+"smartcashd) will look for a file named ``smartcash.conf`` in the "
+"smartcash data directory, but both the data directory and the "
+"configuration file path may be changed using the -datadir and -conf "
+"command-line arguments."
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:24
+msgid "Platform"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:24
+msgid "Path to data folder"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:24
+msgid "Typical path to configuration file"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:26
+msgid "Linux"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:26
+msgid "~/"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:26
+msgid "/home/username/.smartcash/smartcash.conf"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:28
+msgid "macOS"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:28
+msgid "~/Library/Application Support/"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:28
+msgid "/Users/username/Library/Application Support/smartcash/smartcash.conf"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:30
+msgid "Windows"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:30
+msgid "%APPDATA%"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:30
+msgid ""
+"(Vista-10) "
+"C:\\\\Users\\\\username\\\\AppData\\\\Roaming\\\\SmartCash\\\\smartcash.conf"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:32
+msgid ""
+"(2000-XP) C:\\\\Documents and Settings\\\\username\\\\Application "
+"Data\\\\SmartCash\\\\smartcash.conf"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:35
+msgid ""
+"Copy and paste the following text to get started, then replace the "
+"variables specific to your configuration as follows::"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:55
 msgid "Replace the fields marked with ``XXXXXXX`` as follows:"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:39
+#: ../../smartnodes/advanced.rst:57
 msgid ""
 "``rpcuser``: enter any string of numbers or letters, no special "
 "characters allowed"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:41
+#: ../../smartnodes/advanced.rst:59
 msgid ""
 "``rpcpassword``: enter any string of numbers or letters, no special "
 "characters allowed"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:43
+#: ../../smartnodes/advanced.rst:61
 msgid ""
 "``smartnodeprivkey``: this is the legacy smartnode private key you "
 "generated in the previous step"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:45
+#: ../../smartnodes/advanced.rst:63
 msgid "``externalip``: this is the IP address of your VPS"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:47
+#: ../../smartnodes/advanced.rst:65
 msgid "The result should look something like this:"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:52
+#: ../../smartnodes/advanced.rst:70
 msgid "Entering smartnode genkey data in smartcash.conf"
 msgstr ""
 
@@ -90,5 +158,19 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Please check Bash installer method."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Install wallet as normal. We need "
+#~ "to create a configuration file "
+#~ "smartcash.conf this file locale `Data "
+#~ "folder "
+#~ "<https://smartcash.freshdesk.com/support/solutions/articles/35000027195"
+#~ "-where-is-the-data-folder-for-my-"
+#~ "desktop-smartcash-wallet-stored->`_ specifying"
+#~ " several variables. Copy and paste "
+#~ "the following text to get started, "
+#~ "then replace the variables specific to"
+#~ " your configuration as follows::"
 #~ msgstr ""
 
