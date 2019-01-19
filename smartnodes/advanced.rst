@@ -18,15 +18,11 @@ of ``setting=value`` pairs, one per line, with optional comments
 starting with the ``#`` character.
 
 The configuration file is not automatically created; you can create it
-using your favorite plain-text editor. By default, smartcash-qt (or smartcashd) will look for a file named ``smartcash.conf`` in the smartcash data directory, but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
+using your favorite plain-text editor. By default, smartcash-qt will look for a file named ``smartcash.conf`` in the smartcash data directory, but both the data directory and the configuration file path may be changed using the -datadir and -conf command-line arguments.
 
 +----------+--------------------------------+-----------------------------------------------------------------------------------------------+
 | Platform | Path to data folder            | Typical path to configuration file                                                            |
 +==========+================================+===============================================================================================+
-| Linux    | ~/                             | /home/username/.smartcash/smartcash.conf                                                      |
-+----------+--------------------------------+-----------------------------------------------------------------------------------------------+
-| macOS    | ~/Library/Application Support/ | /Users/username/Library/Application Support/smartcash/smartcash.conf                          |
-+----------+--------------------------------+-----------------------------------------------------------------------------------------------+
 | Windows  | %APPDATA%                      | (Vista-10) C:\\Users\\username\\AppData\\Roaming\\SmartCash\\smartcash.conf                   |
 |          |                                |                                                                                               |
 |          |                                | (2000-XP) C:\\Documents and Settings\\username\\Application Data\\SmartCash\\smartcash.conf   |
