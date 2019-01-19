@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 13:02+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,9 +114,10 @@ msgstr ""
 
 #: ../../smartnodes/setup.rst:66
 msgid ""
-"We will use `Vultr <https://www.vultr.com/>`_ hosting as an example of a "
-"VPS, although `DigitalOcean <https://www.digitalocean.com/>`_, `Amazon "
-"EC2 <https://aws.amazon.com/ec2>`_, `Google Cloud "
+"We will use `Vultr <https://www.vultr.com/?ref=7265100>`_ hosting as an "
+"example of a VPS, although `DigitalOcean "
+"<https://www.digitalocean.com/>`_, `Amazon EC2 "
+"<https://aws.amazon.com/ec2>`_, `Google Cloud "
 "<https://cloud.google.com/compute/>`_, `Choopa "
 "<https://www.choopa.com/>`_ and `OVH <https://www.ovh.com/>`_ are also "
 "popular choices. First create an account and add credit. Then go to the "
@@ -365,7 +366,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/setup.rst:299
-msgid "Install SmartCash NodeClient"
+msgid "Install SmartCash NodeClient on VPS"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:301
@@ -392,16 +393,16 @@ msgid ""
 "after logging in::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:317 ../../smartnodes/setup.rst:323
+#: ../../smartnodes/setup.rst:317
 msgid "Then press enter."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:319
-msgid "Then type"
+msgid "Then type::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:321
-msgid "bash ./install.sh"
+#: ../../smartnodes/setup.rst:323
+msgid "Then press enter and answer each question the script ask."
 msgstr ""
 
 #: ../../smartnodes/setup.rst:326
@@ -425,7 +426,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/setup.rst:342
-msgid "Verify the integrity of your download by running sha256sum"
+msgid "Verify the integrity of your download by running sha256sum (optional)"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:345
@@ -477,7 +478,7 @@ msgid "The result should look something like this:"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:393
-msgid "Entering key data in smartcash.conf on the smartnode"
+msgid "Entering smartnode genkey data in smartcash.conf"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:395
@@ -548,14 +549,7 @@ msgid "edit smartnode.conf"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:463
-msgid "the content will look like this"
-msgstr ""
-
-#: ../../smartnodes/setup.rst:465
-msgid ""
-"smartnode1 46.77.121.22:9678 "
-"7QR3UF8WXgATf2ciiKqjDzF3SGFmf4e3jrxpUct4doWtyfetmyM "
-"1a2f7cf157cc8f0bfc35562b69039b05197cd909e6b41a1730bcacd205fe984e 1"
+msgid "the content will look like this::"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:468
@@ -566,7 +560,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/setup.rst:471
-msgid "and Press Smart MISSING"
+msgid "and Press ``Start MISSING``"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:474
@@ -580,22 +574,71 @@ msgid "Check status in VPS"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:478
-msgid "run this command in console"
+msgid "run this command in console::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:479
-msgid "smartcash-cli smartnode status"
+#: ../../smartnodes/setup.rst:482
+msgid "When you see this mean your smartnode are successful started::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:481
-msgid "When you see this mean your smartnode are successful started"
-msgstr ""
-
-#: ../../smartnodes/setup.rst:481
-msgid "\"status\": \"Smartnode successfully started\""
-msgstr ""
-
-#: ../../smartnodes/setup.rst:483
+#: ../../smartnodes/setup.rst:486
 msgid "Congratulations! Your smartnode is now running."
 msgstr ""
+
+#~ msgid ""
+#~ "We will use `Vultr <https://www.vultr.com/>`_"
+#~ " hosting as an example of a "
+#~ "VPS, although `DigitalOcean "
+#~ "<https://www.digitalocean.com/>`_, `Amazon EC2 "
+#~ "<https://aws.amazon.com/ec2>`_, `Google Cloud "
+#~ "<https://cloud.google.com/compute/>`_, `Choopa "
+#~ "<https://www.choopa.com/>`_ and `OVH "
+#~ "<https://www.ovh.com/>`_ are also popular "
+#~ "choices. First create an account and "
+#~ "add credit. Then go to the "
+#~ "**Servers** menu item on the left "
+#~ "and click **+** to add a new "
+#~ "server. Select a location for your "
+#~ "new server on the following screen:"
+#~ msgstr ""
+
+#~ msgid "Install SmartCash NodeClient"
+#~ msgstr ""
+
+#~ msgid "Then type"
+#~ msgstr ""
+
+#~ msgid "bash ./install.sh"
+#~ msgstr ""
+
+#~ msgid "Verify the integrity of your download by running sha256sum"
+#~ msgstr ""
+
+#~ msgid "Entering key data in smartcash.conf on the smartnode"
+#~ msgstr ""
+
+#~ msgid "the content will look like this"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "smartnode1 46.77.121.22:9678 "
+#~ "7QR3UF8WXgATf2ciiKqjDzF3SGFmf4e3jrxpUct4doWtyfetmyM "
+#~ "1a2f7cf157cc8f0bfc35562b69039b05197cd909e6b41a1730bcacd205fe984e "
+#~ "1"
+#~ msgstr ""
+
+#~ msgid "and Press Smart MISSING"
+#~ msgstr ""
+
+#~ msgid "run this command in console"
+#~ msgstr ""
+
+#~ msgid "smartcash-cli smartnode status"
+#~ msgstr ""
+
+#~ msgid "When you see this mean your smartnode are successful started"
+#~ msgstr ""
+
+#~ msgid "\"status\": \"Smartnode successfully started\""
+#~ msgstr ""
 

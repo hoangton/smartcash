@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 13:02+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,19 +31,64 @@ msgstr ""
 msgid "Advanced Topics"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:12
-msgid "Installing SmartCash on Fedora Linux"
+#: ../../smartnodes/advanced.rst:13
+msgid "Installing SmartCash on Windows VPS"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:14
-msgid "Using manual setup method."
+#: ../../smartnodes/advanced.rst:15
+msgid ""
+"Install wallet as normal. We need to create a configuration file "
+"smartcash.conf this file locale `Data folder "
+"<https://smartcash.freshdesk.com/support/solutions/articles/35000027195"
+"-where-is-the-data-folder-for-my-desktop-smartcash-wallet-stored->`_ "
+"specifying several variables. Copy and paste the following text to get "
+"started, then replace the variables specific to your configuration as "
+"follows::"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:17
-msgid "Installing SmartCash on Ubuntu Linux"
+#: ../../smartnodes/advanced.rst:37
+msgid "Replace the fields marked with ``XXXXXXX`` as follows:"
 msgstr ""
 
-#: ../../smartnodes/advanced.rst:19
-msgid "Please check Bash installer method."
+#: ../../smartnodes/advanced.rst:39
+msgid ""
+"``rpcuser``: enter any string of numbers or letters, no special "
+"characters allowed"
 msgstr ""
+
+#: ../../smartnodes/advanced.rst:41
+msgid ""
+"``rpcpassword``: enter any string of numbers or letters, no special "
+"characters allowed"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:43
+msgid ""
+"``smartnodeprivkey``: this is the legacy smartnode private key you "
+"generated in the previous step"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:45
+msgid "``externalip``: this is the IP address of your VPS"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:47
+msgid "The result should look something like this:"
+msgstr ""
+
+#: ../../smartnodes/advanced.rst:52
+msgid "Entering smartnode genkey data in smartcash.conf"
+msgstr ""
+
+#~ msgid "Installing SmartCash on Fedora Linux"
+#~ msgstr ""
+
+#~ msgid "Using manual setup method."
+#~ msgstr ""
+
+#~ msgid "Installing SmartCash on Ubuntu Linux"
+#~ msgstr ""
+
+#~ msgid "Please check Bash installer method."
+#~ msgstr ""
 

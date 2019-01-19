@@ -63,7 +63,7 @@ from home on a desktop computer is technically possible, it will most
 likely not work reliably because most ISPs allocate dynamic IP addresses
 to home users.
 
-We will use `Vultr <https://www.vultr.com/>`_ hosting as an example of a
+We will use `Vultr <https://www.vultr.com/?ref=7265100>`_ hosting as an example of a
 VPS, although `DigitalOcean <https://www.digitalocean.com/>`_, `Amazon
 EC2 <https://aws.amazon.com/ec2>`_, `Google Cloud
 <https://cloud.google.com/compute/>`_, `Choopa
@@ -295,8 +295,8 @@ NodeClient on your VPS.
 
 .. _smartnode-setup-install-NodeClient:
 
-Install SmartCash NodeClient
-============================
+Install SmartCash NodeClient on VPS
+===================================
 
 SmartCash NodeClient is the software behind both the SmartCash NodeClient GUI wallet and SmartCash
 smartnodes. If not displaying a GUI, it runs as a daemon on your VPS
@@ -316,11 +316,11 @@ logging in::
 
 Then press enter.
 
-Then type
+Then type::
 
 	bash ./install.sh
 
-Then press enter.
+Then press enter and answer each question the script ask.
 
 
 Your system is now running as a standard SmartCash node, and is busy
@@ -339,7 +339,7 @@ address to the latest version of SmartCash NodeClient by right clicking or press
   cd /tmp
   wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.6/smartcash-1.2.6-x86_64-linux-gnu.tar.gz
 
-Verify the integrity of your download by running sha256sum 
+Verify the integrity of your download by running sha256sum (optional)
 
 
 Create a working directory for SmartCash, extract the compressed archive and
@@ -352,7 +352,7 @@ copy the necessary files to the directory::
 
 Create a configuration file using the following command::
 
-  nano ~/.nodeclient/smartcash.conf
+  nano ~/.smartcash/smartcash.conf
 
 An editor window will appear. We now need to create a configuration file
 specifying several variables. Copy and paste the following text to get
@@ -390,7 +390,7 @@ The result should look something like this:
 .. figure:: img/setup-manual-conf.png
    :width: 400px
 
-   Entering key data in smartcash.conf on the smartnode
+   Entering smartnode genkey data in smartcash.conf
 
 Press **Ctrl + X** to close the editor and **Y** and **Enter** save the
 file. You can now start running SmartCash on the smartnode to begin
@@ -460,24 +460,27 @@ Add the private key to your smartnode configuration
 
   edit smartnode.conf
   
-  the content will look like this 
+  the content will look like this::
   
-  smartnode1 46.77.121.22:9678 7QR3UF8WXgATf2ciiKqjDzF3SGFmf4e3jrxpUct4doWtyfetmyM 1a2f7cf157cc8f0bfc35562b69039b05197cd909e6b41a1730bcacd205fe984e 1
+    smartnode1 46.77.121.22:9678 7QR3UF8WXgATf2ciiKqjDzF3SGFmf4e3jrxpUct4doWtyfetmyM 1a2f7cf157cc8f0bfc35562b69039b05197cd909e6b41a1730bcacd205fe984e 1
 
 
 Double check  ip of your VPS and the info in the  smartnode.conf in Desktop wallet ( when have as many VPS will have as many row in smartnode.conf )
 Go to SmartNodes tab > My SmartNodes
 
-and Press Smart MISSING
+and Press ``Start MISSING``
 
 
 Status column will show PRE-ENABLE and after ( nearly 10 minutes ) it become ENABLE 
 
 Check status in VPS
 
-run this command in console 
+run this command in console::
+
 	smartcash-cli smartnode status
-When you see this mean your smartnode are successful started 
+
+When you see this mean your smartnode are successful started::
+
 	"status": "Smartnode successfully started"
 
 Congratulations! Your smartnode is now running.
