@@ -9,7 +9,7 @@
 ================================
 https://smartcash.freshdesk.com/support/solutions/articles/35000027140
 
-Proposals in the SmartCash governance system are subject to voting by smartcash holder. So, like any voting, you need to convince the voters that
+Proposals in the SmartCash governance system are subject to voting by SmartCash holder. So, like any voting, you need to convince the voters that
 your proposal should pass. Here are some key points to consider in every
 proposal:
 
@@ -18,7 +18,7 @@ Keep your proposal clear
   simple description of the objectives. Explain early in your proposal
   exactly how it will benefit the SmartCash network, how much SmartCash you are
   requesting, how you arrived at this value, and finally who you are and
-  how you plan to do the work. smartcash holder should be able to immediately
+  how you plan to do the work. SmartCash holder should be able to immediately
   get an idea of what you are proposing from the first few lines of your
   proposal.
 
@@ -64,10 +64,10 @@ Demonstrate your commitment to the network
   investors.
 
 Post your proposal early and make yourself available for questions
-  To give the smartcash holder enough time to consider,
+  To give the SmartCash holder enough time to consider,
   discuss and vote on your proposal, you must post it well in advance of
   the voting deadline.
-  The first few hours of discussion between smartcash holder typically
+  The first few hours of discussion between SmartCash holder typically
   bring up a lot of questions and can be critical to influence opinion
   and voting, so make yourself available during this time.
 
@@ -93,9 +93,6 @@ instructions on how to create a proposal when you are ready. Good luck!
 
 A few additional points:
 
-. It is currently not possible to pay a budget proposal to change the payment address after the proposal is posted to the blockchain.
     
-. It is not recommended to request funding for period of longer than three months. smartcash holder don't want to see and vote on the same proposal without updates several months in a row, and price volatility makes it a risky proposition both to the network and yourself.
+. It is not recommended to request funding for period of longer than three months. SmartCash holder don't want to see and vote on the same proposal without updates several months in a row, and price volatility makes it a risky proposition both to the network and yourself.
     
-. Before entering your budget proposal on the blockchain, check how many proposals already exist for the current budget cycle. If it is likely to become very crowded or if some proposals are requesting a significant portion of the budget, voting is likely to be very competitive with weaker projects being forced out of the budget, even if they collect sufficient votes to pass the 10% threshold. See
-   :ref:`here <understanding-smartvote>` for more details.

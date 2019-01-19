@@ -17,7 +17,7 @@ Understanding the process
 Introduction
 ------------
 
-- smarthive consists of three components: Proposals, Votes, and Fund Allocated
+- Smarthive consists of three components: Proposals, Votes, and Project treasury
 - Anyone can submit a proposal for a small fee
 - Each valid smartcash holder can vote for, against or abstain on proposals
 - Approved proposals become Fund Allocated
@@ -27,14 +27,13 @@ Proposals
 ---------
 
 - Proposals are a request to receive funds
-- Proposals can be submitted by anyone for a fee of 100 SMART. The proposal
-  fee is irreversibly destroyed on submission.
+- Proposals can be submitted by anyone for a fee of 100 SMART. The proposal fee is irreversibly destroyed on submission.
 - Proposals cannot be altered once submitted
 
 Votes
 -----
 
-- Votes are cast using the address that have > 1 smartcash
+- Votes are cast using the address that have >= 1 SMART
 - Votes can be changed at any time
 
 
@@ -77,6 +76,8 @@ Creating proposals
 
 Once you have prepared the text of your proposal and set up a website or forum post, it is time to submit your proposal to the blockchain for voting.
 
+For information on how to create a proposal, see
+
 https://vote.smartcash.cc/Proposal/Create
 
 Voting on proposals
@@ -84,5 +85,4 @@ Voting on proposals
 
 You can voting on proposals from Web wallet, NodeClient Wallet, Electrum Wallet and any kind of wallet that support sign message.
 
-For information on how to create a proposal, see :ref:`here
-<creating-proposals>`.
+

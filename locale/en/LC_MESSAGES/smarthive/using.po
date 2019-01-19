@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 13:32+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,8 +45,8 @@ msgstr ""
 
 #: ../../smarthive/using.rst:20
 msgid ""
-"smarthive consists of three components: Proposals, Votes, and Fund "
-"Allocated"
+"Smarthive consists of three components: Proposals, Votes, and Project "
+"treasury"
 msgstr ""
 
 #: ../../smarthive/using.rst:21
@@ -81,141 +81,153 @@ msgid ""
 " fee is irreversibly destroyed on submission."
 msgstr ""
 
-#: ../../smarthive/using.rst:32
+#: ../../smarthive/using.rst:31
 msgid "Proposals cannot be altered once submitted"
 msgstr ""
 
-#: ../../smarthive/using.rst:35
+#: ../../smarthive/using.rst:34
 msgid "Votes"
 msgstr ""
 
-#: ../../smarthive/using.rst:37
-msgid "Votes are cast using the address that have > 1 smartcash"
+#: ../../smarthive/using.rst:36
+msgid "Votes are cast using the address that have >= 1 SMART"
 msgstr ""
 
-#: ../../smarthive/using.rst:38
+#: ../../smarthive/using.rst:37
 msgid "Votes can be changed at any time"
 msgstr ""
 
-#: ../../smarthive/using.rst:42
+#: ../../smarthive/using.rst:41
 msgid "Proposal structure"
 msgstr ""
 
-#: ../../smarthive/using.rst:44
+#: ../../smarthive/using.rst:43
 msgid "The following information is required to create a proposal:"
 msgstr ""
 
-#: ../../smarthive/using.rst:46
+#: ../../smarthive/using.rst:45
 msgid "proposal-name: a unique label"
 msgstr ""
 
-#: ../../smarthive/using.rst:47
+#: ../../smarthive/using.rst:46
 msgid "Summary: a proposer-created webpage"
 msgstr ""
 
-#: ../../smarthive/using.rst:48
+#: ../../smarthive/using.rst:47
 msgid "Forum Proposal Link: forum post containing detailed proposal information"
 msgstr ""
 
-#: ../../smarthive/using.rst:49
+#: ../../smarthive/using.rst:48
 msgid "block-start: the requested start of proposal payments"
 msgstr ""
 
-#: ../../smarthive/using.rst:50
+#: ../../smarthive/using.rst:49
 msgid "SmartCash Payment Address: the address to receive proposal payments"
 msgstr ""
 
-#: ../../smarthive/using.rst:51
+#: ../../smarthive/using.rst:50
 msgid "Total Cost: the requested payment amount"
 msgstr ""
 
-#: ../../smarthive/using.rst:52
+#: ../../smarthive/using.rst:51
 msgid "And More"
 msgstr ""
 
-#: ../../smarthive/using.rst:54
+#: ../../smarthive/using.rst:53
 msgid "Detail here: https://vote.smartcash.cc/Proposal/Create"
 msgstr ""
 
-#: ../../smarthive/using.rst:57
+#: ../../smarthive/using.rst:56
 msgid "Persistence"
 msgstr ""
 
-#: ../../smarthive/using.rst:59
+#: ../../smarthive/using.rst:58
 msgid ""
 "Proposal Funds can not be transferred back to the community as a "
 "kickback, rebate, or donation nor can they be used to fund third parties."
 " Proposals that have this objectives will be removed."
 msgstr ""
 
-#: ../../smarthive/using.rst:60
+#: ../../smarthive/using.rst:59
 msgid ""
 "Your proposal will be validated by our team before it goes live. We will "
 "check if it does not hurt any of the terms, only after this will be "
 "released on the site"
 msgstr ""
 
-#: ../../smarthive/using.rst:61
+#: ../../smarthive/using.rst:60
 msgid ""
 "Proposals will be open for 14 days. If during the last day of voting, the"
 " status change, the proposal will be extended for another 24h"
 msgstr ""
 
-#: ../../smarthive/using.rst:62
+#: ../../smarthive/using.rst:61
 msgid "After submitting, you will not be able to edit the proposal"
 msgstr ""
 
-#: ../../smarthive/using.rst:65
+#: ../../smarthive/using.rst:64
 msgid "Templates"
 msgstr ""
 
-#: ../../smarthive/using.rst:67
+#: ../../smarthive/using.rst:66
 msgid ""
 "The following two Microsoft Word templates are available to help "
 "facilitate standardized proposal submission and updates. Usage is "
 "recommended, but not required."
 msgstr ""
 
-#: ../../smarthive/using.rst:70
+#: ../../smarthive/using.rst:69
 msgid ""
 "`Project Proposal Template "
 "<https://github.com/hoangton/docs/raw/master/binary/SmartCash%20Project%20Proposal%20Template%20v1.0.docx>`_"
 msgstr ""
 
-#: ../../smarthive/using.rst:71
+#: ../../smarthive/using.rst:70
 msgid ""
 "`Project Status Update Template "
 "<https://github.com/SmartCashpay/docs/raw/master/binary/SmartCash%20Project%20Status%20Update%20Template%20v1.0.docx>`_"
 msgstr ""
 
-#: ../../smarthive/using.rst:76
+#: ../../smarthive/using.rst:75
 msgid "Creating proposals"
 msgstr ""
 
-#: ../../smarthive/using.rst:78
+#: ../../smarthive/using.rst:77
 msgid ""
 "Once you have prepared the text of your proposal and set up a website or "
 "forum post, it is time to submit your proposal to the blockchain for "
 "voting."
 msgstr ""
 
-#: ../../smarthive/using.rst:80
+#: ../../smarthive/using.rst:79
+msgid "For information on how to create a proposal, see"
+msgstr ""
+
+#: ../../smarthive/using.rst:81
 msgid "https://vote.smartcash.cc/Proposal/Create"
 msgstr ""
 
-#: ../../smarthive/using.rst:83
+#: ../../smarthive/using.rst:84
 msgid "Voting on proposals"
 msgstr ""
 
-#: ../../smarthive/using.rst:85
+#: ../../smarthive/using.rst:86
 msgid ""
 "You can voting on proposals from Web wallet, NodeClient Wallet, Electrum "
 "Wallet and any kind of wallet that support sign message."
 msgstr ""
 
-#: ../../smarthive/using.rst:87
-msgid ""
-"For information on how to create a proposal, see :ref:`here <creating-"
-"proposals>`."
-msgstr ""
+#~ msgid ""
+#~ "smarthive consists of three components: "
+#~ "Proposals, Votes, and Fund Allocated"
+#~ msgstr ""
+
+#~ msgid "Votes are cast using the address that have > 1 smartcash"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For information on how to create a"
+#~ " proposal, see :ref:`here <creating-"
+#~ "proposals>`."
+#~ msgstr ""
 

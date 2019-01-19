@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 20:49+0700\n"
+"POT-Creation-Date: 2019-01-19 13:32+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgid ""
 msgstr ""
 
 #: ../../smarthive/index.rst:23
-msgid "Right now we have 6 teams <https://smartcash.cc/hive-teams/>"
+msgid "Right now we have 6 teams `<https://smartcash.cc/hive-teams/>`_"
 msgstr ""
 
 #: ../../smarthive/index.rst:27
@@ -108,10 +108,16 @@ msgid "Basically, each SmartCash coin is worth 1 vote, to keep it simple."
 msgstr ""
 
 #: ../../smarthive/index.rst:41
-msgid "https://vote.smartcash.cc/"
+msgid "`SmartHive Governance Portal <https://vote.smartcash.cc/>`_"
 msgstr ""
 
 #: ../../smarthive/index.rst:49
 msgid "You can learn more about SmartCash Governance in the following sections:"
 msgstr ""
+
+#~ msgid "Right now we have 6 teams <https://smartcash.cc/hive-teams/>"
+#~ msgstr ""
+
+#~ msgid "https://vote.smartcash.cc/"
+#~ msgstr ""
 

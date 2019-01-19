@@ -20,7 +20,7 @@ The Hive Structuring Teams (HST) will lay the groundwork for the project and set
 
 The Hive Structuring Teams will consist of people directly involved in the project on a day to day basis, while the overall SmartHive will aim to enrol and engage community members and other 3rd parties interested in growing SmartCash into a global worldwide currency.
 
-Right now we have 6 teams <https://smartcash.cc/hive-teams/>
+Right now we have 6 teams `<https://smartcash.cc/hive-teams/>`_
 
 
 Discussion
@@ -38,7 +38,7 @@ All Smartcash users deserve a voice, from day #1. That is why Smartcash is pione
 
 Basically, each SmartCash coin is worth 1 vote, to keep it simple.
 
-https://vote.smartcash.cc/
+`SmartHive Governance Portal <https://vote.smartcash.cc/>`_
 
 .. raw:: html
 

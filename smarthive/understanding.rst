@@ -33,8 +33,8 @@ to quantify the future needs of the project.
 
 Through the network of full nodes and the collateral requirement, SmartCash
 already has a decentralized network of smartnode operators that are
-heavily invested in the future of the currency, and that as a group can
-act as stewards of the core protocol development and promotion. We
+heavily invested in the future of the currency, and that as hive structuring teams can
+act as stewards of the core protocol development, outreach, web, quality assurance, support. We
 propose a decentralized management system based on the voting mechanism. 
 
 All SmartCash holders can vote on projects to be funded from the community hive budget. There is no cost or fee to vote.
@@ -69,8 +69,7 @@ this action to prevent spam and ensure only serious proposals make it to this st
 Proposal websites
 =================
 
-The community has gathered around `SmartCash Vote
-<https://vote.smartcash.cc>`__ as a website to facilitate discussion and voting on proposals. 
+The community has gathered around `SmartHive Governance Portal <https://vote.smartcash.cc>`__ as a website to facilitate discussion and voting on proposals. 
 
 https://vote.smartcash.cc/TermsAndConditions
 
@@ -84,5 +83,4 @@ continuous participation of the crowd through active voting, is utilized
 to manage organizations that are owned or operated jointly by its
 members, who share the benefits and responsibilities of those
 collectives, like governments, cooperative corporations, unions, DAOs,
-cryptocurrencies, etc. We call this model decentralized governance by
-blockchain.
+cryptocurrencies, etc. We call this model Community Governance via Blockchain.
