@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 13:02+0700\n"
+"POT-Creation-Date: 2019-01-19 23:51+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -556,32 +556,44 @@ msgstr ""
 msgid ""
 "Double check  ip of your VPS and the info in the  smartnode.conf in "
 "Desktop wallet ( when have as many VPS will have as many row in "
-"smartnode.conf ) Go to SmartNodes tab > My SmartNodes"
+"smartnode.conf )"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:471
-msgid "and Press ``Start MISSING``"
+#: ../../smartnodes/setup.rst:470
+msgid ""
+"Wait at least 20 confirmations (if you attempt to start your smartnode "
+"before you get 20 confirmations, your smartnode won’t work and you have "
+"to restart procedure). You can check number of Collateral confirmations "
+"in explorer."
+msgstr ""
+
+#: ../../smartnodes/setup.rst:472
+msgid "Go to SmartNodes tab > My SmartNodes"
 msgstr ""
 
 #: ../../smartnodes/setup.rst:474
+msgid "and Press ``Start MISSING``"
+msgstr ""
+
+#: ../../smartnodes/setup.rst:477
 msgid ""
 "Status column will show PRE-ENABLE and after ( nearly 10 minutes ) it "
 "become ENABLE"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:476
+#: ../../smartnodes/setup.rst:479
 msgid "Check status in VPS"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:478
+#: ../../smartnodes/setup.rst:481
 msgid "run this command in console::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:482
+#: ../../smartnodes/setup.rst:485
 msgid "When you see this mean your smartnode are successful started::"
 msgstr ""
 
-#: ../../smartnodes/setup.rst:486
+#: ../../smartnodes/setup.rst:489
 msgid "Congratulations! Your smartnode is now running."
 msgstr ""
 
@@ -640,5 +652,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "\"status\": \"Smartnode successfully started\""
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Double check  ip of your VPS and"
+#~ " the info in the  smartnode.conf in"
+#~ " Desktop wallet ( when have as "
+#~ "many VPS will have as many row "
+#~ "in smartnode.conf ) Go to SmartNodes "
+#~ "tab > My SmartNodes"
 #~ msgstr ""
 
