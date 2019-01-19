@@ -22,6 +22,8 @@ previous version of this page.
 Step 1. Install dependencies required for the SmartCash Wallet
 --------------------------------------------------------------
 
+:
+
     sudo apt-get install checkinstall subversion git git-core build-essential
     sudo apt-get install libssl-dev libboost-dev libboost-system-dev libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev libcurl4-openssl-dev libminiupnpc-dev
 
@@ -30,6 +32,10 @@ Step 2. Installing BerkeleyDB4.8 from source
 
 (Most Wallets use 4.8 whereas most repositories contain 5.3+)
  
+ 
+:
+
+
     cd ~/
     wget http://download.oracle.com/berkeley-db/db-4.8.30.tar.gz
     tar xvf db-4.8.30.tar.gz
@@ -39,6 +45,10 @@ Step 2. Installing BerkeleyDB4.8 from source
 
 this might take a while - even on RPi3
 
+
+:
+
+
     sudo make install
     export BDB_INCLUDE_PATH="/usr/local/BerkeleyDB.4.8/include"
     export BDB_LIB_PATH="/usr/local/BerkeleyDB.4.8/lib"
@@ -47,11 +57,17 @@ this might take a while - even on RPi3
 
 Link libminiupnpc
 
-`sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10`
+:
+
+
+    sudo ln -s /usr/lib/libminiupnpc.so.5 /usr/lib/libminiupnpc.so.10
 
 Step 3. Compile smartcashd from source
 --------------------------------------
 If this is your first time compiling a binary be aware that the build process can take a while to complete.
+
+:
+
 
     $ cd ~
     $ git clone https://github.com/SmartCash/Core-Smart.git # clone SmartCash repository locally
@@ -69,11 +85,11 @@ If this is your first time compiling a binary be aware that the build process ca
     $ sudo swapoff /swapfile# clean up the previously initiated swap
     $ sudo rm /swapfile
 
-You're done and should now have the smartcashd daemon installed. To run this binary simply start the daemon with:
+You're done and should now have the smartcashd daemon installed. To run this binary simply start the daemon with::
 
     smartcashd -daemon
 
-You can check on your wallet daemon with:
+You can check on your wallet daemon with::
 
     smartcashd getinfo
 
