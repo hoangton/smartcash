@@ -23,36 +23,36 @@ SmartRewards FAQ’S
 
 
 
-1.How much SmartRewards can I get each month?
+**1.How much SmartRewards can I get each month?**
 
-- 15% of the block rewards are set aside between the 25th-25th of each month, which are then split on the 25th between all addresses proportional to their balance that have held between snapshots without sending out coins. Addresses below 1000 SmartCash do not get paid.
-
-
-2.Can I add more SmartCash to my SwartRewards address or will that invalidate my the next payment?
-
-- Adding more SmartCash your SmartRewards address won’t invalidate the next payment. The newly added amount will be taken into account after the next snapshot.
-
-3.Will I lose my future SmartRewards payment if I move or send coins from my SmartRewards address?
-
-- Yes, moving any coins from your SmartRewards address will nullify the next payment.
+15% of the block rewards are set aside between the 25th-25th of each month, which are then split on the 25th between all addresses proportional to their balance that have held between snapshots without sending out coins. Addresses below 1000 SmartCash do not get paid.
 
 
-4.How do I know my address is valid for SmartRewards?
+**2.Can I add more SmartCash to my SwartRewards address or will that invalidate my the next payment?**
+
+Adding more SmartCash your SmartRewards address won’t invalidate the next payment. The newly added amount will be taken into account after the next snapshot.
+
+**3.Will I lose my future SmartRewards payment if I move or send coins from my SmartRewards address?**
+
+Yes, moving any coins from your SmartRewards address will nullify the next payment.
+
+
+**4.How do I know my address is valid for SmartRewards?**
 
 - Be sure to don’t leave your funds on an Exchange, those addresses aren’t eligible for SmartRewards.
 - Lookup your address on https://explorer.smartcash.cc and if it shows a balance over 1000 and no outgoing transactions during the cycle, it qualifies or use the calculator to see if your address is eligible.
 
 
-5.When does the monthly snapshot occur?
+**5.When does the monthly snapshot occur?**
 
-- The monthly snapshot occurs on each 47500 blocks. Around on the 25th of each month.
+The monthly snapshot occurs on each 47500 blocks. Around on the 25th of each month.
 
-6.Can I move coins out of my address between snapshots?
+**6.Can I move coins out of my address between snapshots?**
 
-- Yes, your coins are not locked. However, this will invalidate that specific address and reset the 30 day initial waiting period. We take periodic snapshots to confirm users are not actively moving coins out of these addresses during the month. There is no grace period for SmartRewards.
+Yes, your coins are not locked. However, this will invalidate that specific address and reset the 30 day initial waiting period. We take periodic snapshots to confirm users are not actively moving coins out of these addresses during the month. There is no grace period for SmartRewards.
 
-7.When do SmartReward payments go out?
+**7.When do SmartReward payments go out?**
 
-- SmartRewards will then be distributed after every 47500 Blocks to all eligible addresses. The payouts will occur 200 Blocks after the cycle ends and every second block 1000 addresses will get paid.
+SmartRewards will then be distributed after every 47500 Blocks to all eligible addresses. The payouts will occur 200 Blocks after the cycle ends and every second block 1000 addresses will get paid.
 
 

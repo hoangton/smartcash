@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 08:46+0700\n"
+"POT-Creation-Date: 2019-01-19 13:10+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgid "SmartRewards FAQ’S"
 msgstr ""
 
 #: ../../smartreward/index.rst:26
-msgid "1.How much SmartRewards can I get each month?"
+msgid "**1.How much SmartRewards can I get each month?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:28
@@ -72,8 +72,8 @@ msgstr ""
 
 #: ../../smartreward/index.rst:31
 msgid ""
-"2.Can I add more SmartCash to my SwartRewards address or will that "
-"invalidate my the next payment?"
+"**2.Can I add more SmartCash to my SwartRewards address or will that "
+"invalidate my the next payment?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:33
@@ -85,8 +85,8 @@ msgstr ""
 
 #: ../../smartreward/index.rst:35
 msgid ""
-"3.Will I lose my future SmartRewards payment if I move or send coins from"
-" my SmartRewards address?"
+"**3.Will I lose my future SmartRewards payment if I move or send coins "
+"from my SmartRewards address?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:37
@@ -96,7 +96,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartreward/index.rst:40
-msgid "4.How do I know my address is valid for SmartRewards?"
+msgid "**4.How do I know my address is valid for SmartRewards?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:42
@@ -113,7 +113,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartreward/index.rst:46
-msgid "5.When does the monthly snapshot occur?"
+msgid "**5.When does the monthly snapshot occur?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:48
@@ -123,7 +123,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartreward/index.rst:50
-msgid "6.Can I move coins out of my address between snapshots?"
+msgid "**6.Can I move coins out of my address between snapshots?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:52
@@ -136,7 +136,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartreward/index.rst:54
-msgid "7.When do SmartReward payments go out?"
+msgid "**7.When do SmartReward payments go out?**"
 msgstr ""
 
 #: ../../smartreward/index.rst:56
@@ -147,5 +147,32 @@ msgid ""
 msgstr ""
 
 #~ msgid "SMARTREWARDS FAQ’S"
+#~ msgstr ""
+
+#~ msgid "1.How much SmartRewards can I get each month?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "2.Can I add more SmartCash to my"
+#~ " SwartRewards address or will that "
+#~ "invalidate my the next payment?"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "3.Will I lose my future SmartRewards "
+#~ "payment if I move or send coins"
+#~ " from my SmartRewards address?"
+#~ msgstr ""
+
+#~ msgid "4.How do I know my address is valid for SmartRewards?"
+#~ msgstr ""
+
+#~ msgid "5.When does the monthly snapshot occur?"
+#~ msgstr ""
+
+#~ msgid "6.Can I move coins out of my address between snapshots?"
+#~ msgstr ""
+
+#~ msgid "7.When do SmartReward payments go out?"
 #~ msgstr ""
 
