@@ -30,4 +30,4 @@ Version History
 
 Full release notes and the version history of SmartCash are available here:
 
-- https://github.com/SmartCash/Core-Smart/blob/master/README.md
+- https://github.com/SmartCash/Core-Smart/releases

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 12:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,6 +54,9 @@ msgid ""
 msgstr ""
 
 #: ../../developers/index.rst:33
-msgid "https://github.com/SmartCash/Core-Smart/blob/master/README.md"
+msgid "https://github.com/SmartCash/Core-Smart/releases"
 msgstr ""
+
+#~ msgid "https://github.com/SmartCash/Core-Smart/blob/master/README.md"
+#~ msgstr ""
 

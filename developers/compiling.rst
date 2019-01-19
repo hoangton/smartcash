@@ -13,7 +13,7 @@ While SmartCash offers stable binary builds on the `website
 <https://github.com/SmartCash/Core-Smart/releases/>`_,
 many users will also be interested in building SmartCash binaries for
 themselves. This process has been greatly simplified with the release of
-SmartCash NodeClient 1.2.6 available on GitHub to compile or cross-compile SmartCash for any platform.
+SmartCash NodeClient available on GitHub to compile or cross-compile SmartCash for any platform.
 
 The instructions to build SmartCash NodeClient 1.2.6 or older are available `here
 <https://github.com/SmartCash/Core-Smart/tree/master/doc>`__ on a
