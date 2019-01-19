@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-01-19 17:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,15 +18,17 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../wallets/web.rst:1
-msgid "WebWallet is a secure web wallet for SmartCash, supporting instantpay"
+msgid "Web Wallet is a secure web wallet for SmartCash, supporting instantpay"
 msgstr ""
 
 #: ../../wallets/web.rst:1
-msgid "smartcash, WebWallet, web, wallet, instantpay"
+msgid ""
+"smartcash, Web Wallet, web, wallet, instantpay, voting, smartvault, "
+"smartcard"
 msgstr ""
 
 #: ../../wallets/web.rst:8
-msgid "WebWallet"
+msgid "Web Wallet"
 msgstr ""
 
 #: ../../wallets/web.rst:14
@@ -34,12 +36,12 @@ msgid ""
 "`WebWallet <https://wallet.smartcash.cc>`_ is a web interface to the "
 "SmartCash blockchain. It is explicitly not an online wallet, meaning you "
 "maintain control over your private keys at all times. Unlike many other "
-"light wallets, WebWallet also supports advanced SmartCash features such "
-"as instantpay, voting, smartvault, smartcard, by or convert."
+"light wallets, Web Wallet also supports advanced SmartCash features such "
+"as instantpay, voting, smartvault, smartcard, buy or convert."
 msgstr ""
 
 #: ../../wallets/web.rst:21
-msgid "WebWallet offers complete and detailed documentation for all functions."
+msgid "Web Wallet offers complete and detailed documentation for all functions."
 msgstr ""
 
 #: ../../wallets/web.rst:23
@@ -66,4 +68,29 @@ msgid ""
 "`How to import privatekey from webwallet to desktop wallet and viceversa "
 "<https://smartcash.freshdesk.com/support/solutions/articles/35000027148>`_"
 msgstr ""
+
+#~ msgid "WebWallet is a secure web wallet for SmartCash, supporting instantpay"
+#~ msgstr ""
+
+#~ msgid "smartcash, WebWallet, web, wallet, instantpay"
+#~ msgstr ""
+
+#~ msgid "WebWallet"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`WebWallet <https://wallet.smartcash.cc>`_ is a "
+#~ "web interface to the SmartCash "
+#~ "blockchain. It is explicitly not an "
+#~ "online wallet, meaning you maintain "
+#~ "control over your private keys at "
+#~ "all times. Unlike many other light "
+#~ "wallets, WebWallet also supports advanced "
+#~ "SmartCash features such as instantpay, "
+#~ "voting, smartvault, smartcard, by or "
+#~ "convert."
+#~ msgstr ""
+
+#~ msgid "WebWallet offers complete and detailed documentation for all functions."
+#~ msgstr ""
 

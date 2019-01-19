@@ -26,11 +26,12 @@ Google Play Store.
 
 Installation
 ============
+
 Creat the SmartCard 
 https://card.smartcash.cc/
 
 Deposit
-=========
+========
 
 Scan QR code to show SmartCash address and send smartcash to it.
 
