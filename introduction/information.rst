@@ -22,90 +22,107 @@ Official sites
     Windows/Mac/Linux/Android
     https://smartcash.cc/wallets/
 
-    Web Wallet:
+- **Web Wallet:**
     https://wallet.smartcash.cc/
 
-    Paper Wallet:
+- **Paper Wallet:**
     https://paperwallet.smartcash.cc/
 
-    3rd Party Wallets:
-     https://atomicwallet.io/
-     https://www.coinomi.com/
-     https://smart.edge.app/
+- **3rd Party Wallets:**
+    *  https://atomicwallet.io/
+    *  https://www.coinomi.com/
+    *  https://smart.edge.app/
 
-    SmartCard:
+- **SmartCard:**
      https://smartcash.cc/smartcard/
 
-    SmartPay App:
-     https://business.smartcash.cc/
-     https://play.google.com/store/apps/details?id=cc.smartcash.pos
+- **SmartPay App:**
+    * https://business.smartcash.cc/
+    * https://play.google.com/store/apps/details?id=cc.smartcash.pos
 
 - **SmartHive Project Voting**:
-    https://vote.smartcash.cc/
-    https://forum.smartcash.cc/c/smarthive/pre-proposal-discussion
+    *   https://vote.smartcash.cc/
+    *   https://forum.smartcash.cc/c/smarthive/pre-proposal-discussion
 
 - **SmartCash Media**:
-   https://smartcash.cc/social-media/
-   https://twitter.com/scashofficial
-   https://www.reddit.com/r/smartcash/
-   http://discord.smartcash.cc/
-   http://t.me/smartcashchat
-   https://www.minds.com/smartcashoutreach1
-   http://forum.smartcash.cc/
-   http://youtube.smartcash.cc/
-   https://medium.com/@smartcashnews
-   https://www.instagram.com/scashofficial/
-   https://www.facebook.com/scashofficial/
-   https://gab.ai/smartcash
+    *    https://smartcash.cc/social-media/
+    *    https://twitter.com/scashofficial
+    *    https://www.reddit.com/r/smartcash/
+    *    http://discord.smartcash.cc/
+    *    http://t.me/smartcashchat
+    *    https://www.minds.com/smartcashoutreach1
+    *    http://forum.smartcash.cc/
+    *    http://youtube.smartcash.cc/
+    *    https://medium.com/@smartcashnews
+    *    https://www.instagram.com/scashofficial/
+    *    https://www.facebook.com/scashofficial/
+    *    https://gab.ai/smartcash
    
 - **Block Explorers**:
-   https://insight.smartcash.cc/
-   https://explorer3.smartcash.cc/
-   https://smart.ccore.online/
+    *    https://insight.smartcash.cc/
+    *    https://explorer3.smartcash.cc/
+    *    https://smart.ccore.online/
 
 - **Statistics & Calculators**:
-   https://explorer2.smartcash.cc/ext/getmoneysupply
-   https://smartstats.cc/
-   https://smartrewards.cc/
-   https://smartcash.cc/smartnodes/#toggle-id-1
+    *    https://explorer2.smartcash.cc/ext/getmoneysupply
+    *    https://smartstats.cc/
+    *    https://smartrewards.cc/
+    *    https://smartcash.cc/smartnodes/#toggle-id-1
 
 - **GitHub**:
-   https://github.com/SmartCash/Core-Smart
-   https://github.com/SmartCash/electrum-smart
+    *    https://github.com/SmartCash/Core-Smart
+    *    https://github.com/SmartCash/electrum-smart
 
 - **Roadmap**:
-   https://smartcash.cc/roadmap/
+    *    https://smartcash.cc/roadmap/
    
 - **SmartBand**:
-    https://wearatar.com/band
+    *     https://wearatar.com/band
 
 - **Brochure / Whitepaper**:
-    Website: https://smartcash.cc/brochure/
-    English: https://smartcash.cc/wp-content/uploads/2018/07/SmartCash-v1.2.4.pdf
-    Japanese / English: https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_ENG_JAP_1.2.pdf
-    Portuguese BR: https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_presentation_brochure_v1.2_PTBR.pdf
-    Spanish: https://smartcash.cc/wp-content/uploads/2018/08/SmartCash_presentation_brochure_v1.2.4_Spanish_web.pdf
-    Vietnamese / English: https://smartcash.cc/wp-content/uploads/2018/09/SmartCash_Brochure_EN_VN_v1.2.pdf
+    * Website: https://smartcash.cc/brochure/
+
+
+
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Language    | Download																	|
++=============+=================================================================================================================================================+
+| English     | `PDF_SmartCash_brochure_en-1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Russian     | `PDF_SmartCash_brochure_ru_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| German      | `PDF_SmartCash_brochure_DE_1.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Spanish     | `PDF_SmartCash_brochure_es_1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Portuguese  | `PDF_SmartCash_brochure_ptbr_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Japanese    | `PDF_SmartCash_brochure_ja_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vietnamese  | `PDF_SmartCash_brochure_vi_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_		|
++-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
 
 - **Exchanges**:
-    Full List: https://smartcash.cc/get-smartcash/
-    HitBTC: https://hitbtc.com/
-    Exmo: https://exmo.com/
-    Cryptobridge: https://crypto-bridge.org/
-    Cryptopia: https://www.cryptopia.co.nz/
-    Changelly: https://changelly.com/(edited)
+    * Full List: https://smartcash.cc/get-smartcash/
+    * Exmo: https://exmo.com/
+    * HitBTC: https://hitbtc.com/
+    * Cryptobridge: https://crypto-bridge.org/
+    * Cryptopia: https://www.cryptopia.co.nz/
+    * Changelly: https://changelly.com/(edited)
 	
 - **SmartNodes**:
-    https://smartnodes.cc/
-    https://github.com/SmartCash/smartnode
-    https://smartcash.blockchainlibrary.org/2018/01/guide-to-creating-a-smartcash-smartnode-vps-in-10-minutes-with-vultr/
-    https://smartcash.cc/wp-content/uploads/2018/07/All-in-One-SmartNode-v1.2.4-2.pdf
-    http://t.me/smartnodemonitorbot
+    * https://smartnodes.cc/
+    * https://github.com/SmartCash/smartnode
+    * https://smartcash.blockchainlibrary.org/2018/01/guide-to-creating-a-smartcash-smartnode-vps-in-10-minutes-with-vultr/
+    * https://smartcash.cc/wp-content/uploads/2018/07/All-in-One-SmartNode-v1.2.4-2.pdf
+    * http://t.me/smartnodemonitorbot
 
 - **Charts**: 
-    https://bravenewcoin.com/smartcash
-    https://coinmarketcap.com/currencies/smartcash/
-    https://www.coingecko.com/en/coins/smartcash
+    * https://bravenewcoin.com/smartcash
+    * https://coinmarketcap.com/currencies/smartcash/
+    * https://www.coingecko.com/en/coins/smartcash
 
 
 Community sites
@@ -121,21 +138,21 @@ Community sites
     https://steemit.com/smartcash/@keyd0s/smartcash-mining-guide
 
 - **Mining Pools**:
-    https://us-mine.smartcash.cc/
-    https://eu-mine.smartcash.cc/
-    https://asia-mine.smartcash.cc/
-    https://nlpool.nl/
-    http://antminepool.com/
-    https://blake2s.com/
+    * https://us-mine.smartcash.cc/
+    * https://eu-mine.smartcash.cc/
+    * https://asia-mine.smartcash.cc/
+    * https://nlpool.nl/
+    * http://antminepool.com/
+    * https://blake2s.com/
 
 - **Mining Programs**:
-    Claymore Dual Miner: https://bitcointalk.org/index.php?topic=1433925.0
-    NVIDIA: https://github.com/tpruvot/ccminer/releases and https://github.com/KlausT/ccminer/releases
-    AMD: https://github.com/genesismining/sgminer-gm/releases
+    * Claymore Dual Miner: https://bitcointalk.org/index.php?topic=1433925.0
+    * NVIDIA: https://github.com/tpruvot/ccminer/releases and https://github.com/KlausT/ccminer/releases
+    * AMD: https://github.com/genesismining/sgminer-gm/releases
 
 - **Mining Stats**:
-    https://whattomine.com/coins/197-smart-keccak
-    https://smartstats.cc/mining
+    * https://whattomine.com/coins/197-smart-keccak
+    * https://smartstats.cc/mining
 	
 - **SmartCash News**:
     https://medium.com/@smartcashnews
@@ -156,18 +173,18 @@ Charts
 Social media
 ------------
 
-   https://smartcash.cc/social-media/
-   https://twitter.com/scashofficial
-   https://www.reddit.com/r/smartcash/
-   http://discord.smartcash.cc/
-   http://t.me/smartcashchat
-   https://www.minds.com/smartcashoutreach1
-   http://forum.smartcash.cc/
-   http://youtube.smartcash.cc/
-   https://medium.com/@smartcashnews
-   https://www.instagram.com/scashofficial/
-   https://www.facebook.com/scashofficial/
-   https://gab.ai/smartcash
+* https://smartcash.cc/social-media/
+* https://twitter.com/scashofficial
+* https://www.reddit.com/r/smartcash/
+* http://discord.smartcash.cc/
+* http://t.me/smartcashchat
+* https://www.minds.com/smartcashoutreach1
+* http://forum.smartcash.cc/
+* http://youtube.smartcash.cc/
+* https://medium.com/@smartcashnews
+* https://www.instagram.com/scashofficial/
+* https://www.facebook.com/scashofficial/
+* https://gab.ai/smartcash
 
 
 
@@ -198,15 +215,15 @@ Block explorers, statistics and visualizations
 ----------------------------------------------
 
 - **Block Explorers**:
-   https://insight.smartcash.cc/
-   https://explorer3.smartcash.cc/
-   https://smart.ccore.online/
+    * https://insight.smartcash.cc/
+    * https://explorer3.smartcash.cc/
+    * https://smart.ccore.online/
 
 - **Statistics & Calculators**:
-   https://explorer2.smartcash.cc/ext/getmoneysupply
-   https://smartstats.cc/
-   https://smartrewards.cc/
-   https://smartcash.cc/smartnodes/#toggle-id-1
+    * https://explorer2.smartcash.cc/ext/getmoneysupply
+    * https://smartstats.cc/
+    * https://smartrewards.cc/
+    * https://smartcash.cc/smartnodes/#toggle-id-1
 
 
 Treasury tools
