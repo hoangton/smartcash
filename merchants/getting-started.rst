@@ -62,15 +62,32 @@ or simple website serving a checkout interface and QR code generator,
 while others support custom features such as NFC or a rewards scheme. SmartPay and SmartCard are
 particularly widespread.
 
-`SmartCards <https://card.smartcash.cc/>`_
-`SmartCash Business <https://business.smartcash.cc/>`_
+SmartCard
+  .. image:: img/smartcard.png
+     :width: 400px
+     :align: right
+     :target: https://card.smartcash.cc/
+
+  https://card.smartcash.cc/
+
+  The SmartCard is a way to hold SMART on a physical card. You don’t need a phone to hold your SMART. If you have ever had a problem with using a phone inside a building…you will get why this is ideal. Only the merchant needs the internet connection. As simple to use as a credit or debit card but not controlled by any 3rd party processor. And not a preloaded card using a visa fiat system…this is real crypto to crypto.
+
+SmartPay
+  .. image:: img/smartpay.gif
+     :width: 400px
+     :align: right
+     :target: https://business.smartcash.cc/
+
+  https://business.smartcash.cc/
+
+  Accept SmartCash as a payment option in your business with zero fees using a simple SmartCash app. The SmartPay app is available for use anywhere in the world, all it requires is access to the internet.
 
 SmartCash Ecommerce Plugins
 ---------------------------
 
 Make your website run Wordpress become Ecommerce store with WooCommerce Plugin 
 
-`SmartCash WooCommerce <https://github.com/SmartCash/WooCommerce>`_
+`SmartCash WooCommerce Plugins <https://github.com/SmartCash/WooCommerce>`_
 
 WooCommerce and CoinPayments.net
 --------------------------------

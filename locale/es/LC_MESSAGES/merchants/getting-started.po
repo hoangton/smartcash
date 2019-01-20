@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:25+0700\n"
+"POT-Creation-Date: 2019-01-20 09:35+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -128,31 +128,60 @@ msgid ""
 "SmartPay and SmartCard are particularly widespread."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:65
-msgid ""
-"`SmartCards <https://card.smartcash.cc/>`_ `SmartCash Business "
-"<https://business.smartcash.cc/>`_"
-msgstr ""
-
-#: ../../merchants/getting-started.rst:69
-msgid "SmartCash Ecommerce Plugins"
+#: ../../merchants/getting-started.rst:73
+msgid "SmartCard"
 msgstr ""
 
 #: ../../merchants/getting-started.rst:71
+msgid "https://card.smartcash.cc/"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:73
+msgid ""
+"The SmartCard is a way to hold SMART on a physical card. You don’t need a"
+" phone to hold your SMART. If you have ever had a problem with using a "
+"phone inside a building…you will get why this is ideal. Only the merchant"
+" needs the internet connection. As simple to use as a credit or debit "
+"card but not controlled by any 3rd party processor. And not a preloaded "
+"card using a visa fiat system…this is real crypto to crypto."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:83
+msgid "SmartPay"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:81
+msgid "https://business.smartcash.cc/"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:83
+msgid ""
+"Accept SmartCash as a payment option in your business with zero fees "
+"using a simple SmartCash app. The SmartPay app is available for use "
+"anywhere in the world, all it requires is access to the internet."
+msgstr ""
+
+#: ../../merchants/getting-started.rst:86
+msgid "SmartCash Ecommerce Plugins"
+msgstr ""
+
+#: ../../merchants/getting-started.rst:88
 msgid ""
 "Make your website run Wordpress become Ecommerce store with WooCommerce "
 "Plugin"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:73
-msgid "`SmartCash WooCommerce <https://github.com/SmartCash/WooCommerce>`_"
+#: ../../merchants/getting-started.rst:90
+msgid ""
+"`SmartCash WooCommerce Plugins "
+"<https://github.com/SmartCash/WooCommerce>`_"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:76
+#: ../../merchants/getting-started.rst:93
 msgid "WooCommerce and CoinPayments.net"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:78
+#: ../../merchants/getting-started.rst:95
 msgid ""
 "If your online store is built on WooCommerce, you can simply install "
 "CoinPayments as an additional payment gateway and immediately begin "
@@ -165,7 +194,7 @@ msgid ""
 "process to install the CoinPayments payment processor is also available."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:88
+#: ../../merchants/getting-started.rst:105
 msgid ""
 "In your WordPress administration backend, select **Plugins -> Add New** "
 "and type \"coinpayments.net\" into the search box. A plugin named "
@@ -177,11 +206,11 @@ msgid ""
 "**Activate** to begin configuration."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:100
+#: ../../merchants/getting-started.rst:117
 msgid "Installing the CoinPayments.net WooCommerce plugin"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:102
+#: ../../merchants/getting-started.rst:119
 msgid ""
 "Next, go to CoinPayments.net and `sign up "
 "<https://www.coinpayments.net/register>`_ to create an account. Once you "
@@ -194,7 +223,7 @@ msgid ""
 "as well."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:112
+#: ../../merchants/getting-started.rst:129
 msgid ""
 "Back in the WordPress plugins section, click the **Settings** button for "
 "the WooCommerce plugin and navigate to **Checkout -> CoinPayments.net** "
@@ -203,11 +232,11 @@ msgid ""
 "fields as shown below. Click **Save Changes** when you are ready."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:121
+#: ../../merchants/getting-started.rst:138
 msgid "Configuring the CoinPayments.net WooCommerce plugin"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:123
+#: ../../merchants/getting-started.rst:140
 msgid ""
 "Your customers will now see an option to pay with SmartCash when "
 "completing the checkout process for an order. The payment will be "
@@ -219,22 +248,22 @@ msgid ""
 "<https://www.coinpayments.net/merchant-tools>`_ for more information."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:142
+#: ../../merchants/getting-started.rst:159
 msgid "Completing payment through the CoinPayments.net payment processor"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:145
+#: ../../merchants/getting-started.rst:162
 msgid "Installation Examples"
 msgstr ""
 
-#: ../../merchants/getting-started.rst:147
+#: ../../merchants/getting-started.rst:164
 msgid ""
 "This section contains worked examples of how to install, configure and "
 "process your first payment using the payment processors listed in this "
 "documentation."
 msgstr ""
 
-#: ../../merchants/getting-started.rst:151
+#: ../../merchants/getting-started.rst:168
 msgid ""
 "https://find.smartcash.cc/a-guide-to-accepting-smartcash-payments-for-"
 "your-online-store/"
@@ -265,5 +294,13 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "https://card.smartcash.cc/ https://business.smartcash.cc/"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`SmartCards <https://card.smartcash.cc/>`_ `SmartCash "
+#~ "Business <https://business.smartcash.cc/>`_"
+#~ msgstr ""
+
+#~ msgid "`SmartCash WooCommerce <https://github.com/SmartCash/WooCommerce>`_"
 #~ msgstr ""
 
