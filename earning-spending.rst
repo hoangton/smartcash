@@ -4,9 +4,9 @@
 
 .. _earning-spending:
 
-====================
-Earning and Spending
-====================
+============================
+Earning, Saving and Spending
+============================
 
 SmartCash is designed from the ground up to function as digital cash. This
 documentation discusses how and where SmartCash users can manage all of their
@@ -16,6 +16,13 @@ Earning
 =======
 Receive payment from your employer in SmartCash directly.
 You can then withdraw your wage to any SmartCash wallet for spending or saving.
+
+You can also earn SmartCash via :ref:`Mining <mining>` and:ref:`SmartNode <smartnodes>`
+
+Saving
+======
+
+You can save SmartCash and get reward via :ref:`SmartReward <smartrewards>`
 
 Spending
 ========
