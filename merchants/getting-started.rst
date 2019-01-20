@@ -82,6 +82,23 @@ SmartPay
 
   Accept SmartCash as a payment option in your business with zero fees using a simple SmartCash app. The SmartPay app is available for use anywhere in the world, all it requires is access to the internet.
 
+This app will allow you to:
+
+- Accept payments instantly from a customer’s SmartCard’s using SmartCash’s Instantpay technology.
+- Receive payments from the customer to your business with no 3rd party.
+- Manage different store locations with individual SmartPay staff logins.
+- Allow optional tipping for staff on all transactions.
+
+Have peace of mind with SmartPay's security features:
+
+- SmartPay processes transactions without access to business funds
+- Private keys are created by you or generated in the browser
+- Divide payments into different wallets with HD Wallet or Multi Address
+- Decentralized payment system gives you full control of your funds.
+
+Start accepting cryptocurrency payments in your business with 0% fees, and download the SmartPay app today! Visit https://business.smartcash.cc to learn more.
+
+
 SmartCash Ecommerce Plugins
 ---------------------------
 
