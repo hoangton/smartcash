@@ -290,7 +290,7 @@ InstantPay.
    have at least 2 confirmations.
    
 #. Amount: Total amount
-   must less than 100k.
+   InstantPay limits the total coins that can be locked in a transaction to %1 SMART and must less than 100k.  You may need to use a normal transaction to split large deposits before you can send with InstantPay.
 
 In the event that a given transaction does not meet both criteria it
 will revert to a standard transaction.

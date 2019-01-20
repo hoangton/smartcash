@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-20 22:46+0700\n"
+"POT-Creation-Date: 2019-01-20 22:52+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -446,7 +446,11 @@ msgid ""
 msgstr ""
 
 #: ../../merchants/technical.rst:292
-msgid "Amount: Total amount must less than 100k."
+msgid ""
+"Amount: Total amount InstantPay limits the total coins that can be locked"
+" in a transaction to %1 SMART and must less than 100k.  You may need to "
+"use a normal transaction to split large deposits before you can send with"
+" InstantPay."
 msgstr ""
 
 #: ../../merchants/technical.rst:295
@@ -645,5 +649,8 @@ msgstr ""
 #~ "Input Requirements: All inputs for an"
 #~ " InstantPay transaction must have at "
 #~ "least 6 confirmations."
+#~ msgstr ""
+
+#~ msgid "Amount: Total amount must less than 100k."
 #~ msgstr ""
 
