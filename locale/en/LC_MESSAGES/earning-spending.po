@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-20 09:59+0700\n"
+"POT-Creation-Date: 2019-01-20 10:02+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,8 @@ msgstr ""
 
 #: ../../earning-spending.rst:20
 msgid ""
-"You can also earn SmartCash via :ref:`Mining <mining>` and:ref:`SmartNode"
-" <smartnodes>`"
+"You can also earn SmartCash via :ref:`Mining <mining>` and "
+":ref:`SmartNode <smartnodes>`"
 msgstr ""
 
 #: ../../earning-spending.rst:23
@@ -84,10 +84,93 @@ msgid ""
 msgstr ""
 
 #: ../../earning-spending.rst:45
+msgid "SmartCard"
+msgstr ""
+
+#: ../../earning-spending.rst:52
+msgid "https://card.smartcash.cc/"
+msgstr ""
+
+#: ../../earning-spending.rst:54
+msgid ""
+"The SmartCard is a way to hold SMART on a physical card. You don’t need a"
+" phone to hold your SMART. If you have ever had a problem with using a "
+"phone inside a building…you will get why this is ideal. Only the merchant"
+" needs the internet connection. As simple to use as a credit or debit "
+"card but not controlled by any 3rd party processor. And not a preloaded "
+"card using a visa fiat system…this is real crypto to crypto."
+msgstr ""
+
+#: ../../earning-spending.rst:57
+msgid "SmartPay"
+msgstr ""
+
+#: ../../earning-spending.rst:64
+msgid "https://business.smartcash.cc/"
+msgstr ""
+
+#: ../../earning-spending.rst:66
+msgid ""
+"Accept SmartCash as a payment option in your business with zero fees "
+"using a simple SmartCash app. The SmartPay app is available for use "
+"anywhere in the world, all it requires is access to the internet."
+msgstr ""
+
+#: ../../earning-spending.rst:68
+msgid "This app will allow you to:"
+msgstr ""
+
+#: ../../earning-spending.rst:70
+msgid ""
+"Accept payments instantly from a customer’s SmartCard’s using SmartCash’s"
+" Instantpay technology."
+msgstr ""
+
+#: ../../earning-spending.rst:71
+msgid "Receive payments from the customer to your business with no 3rd party."
+msgstr ""
+
+#: ../../earning-spending.rst:72
+msgid "Manage different store locations with individual SmartPay staff logins."
+msgstr ""
+
+#: ../../earning-spending.rst:73
+msgid "Allow optional tipping for staff on all transactions."
+msgstr ""
+
+#: ../../earning-spending.rst:75
+msgid "Have peace of mind with SmartPay's security features:"
+msgstr ""
+
+#: ../../earning-spending.rst:77
+msgid "SmartPay processes transactions without access to business funds"
+msgstr ""
+
+#: ../../earning-spending.rst:78
+msgid "Private keys are created by you or generated in the browser"
+msgstr ""
+
+#: ../../earning-spending.rst:79
+msgid "Divide payments into different wallets with HD Wallet or Multi Address"
+msgstr ""
+
+#: ../../earning-spending.rst:80
+msgid "Decentralized payment system gives you full control of your funds."
+msgstr ""
+
+#: ../../earning-spending.rst:82
+#, python-format
+msgid ""
+"Start accepting cryptocurrency payments in your business with 0% fees, "
+"and download the SmartPay app today! Visit https://business.smartcash.cc "
+"to learn more."
+msgstr ""
+
+#: ../../earning-spending.rst:86
 msgid "Debit Cards"
 msgstr ""
 
-#: ../../earning-spending.rst:47
+#: ../../earning-spending.rst:88
 msgid ""
 "Debit cards work by prepaying in SmartCash to load the account, then "
 "withdrawing cash from an ATM or spending online or anywhere debit/credit "
@@ -99,44 +182,44 @@ msgid ""
 "updates on the availability of SmartCash debit cards."
 msgstr ""
 
-#: ../../earning-spending.rst:57
+#: ../../earning-spending.rst:98
 msgid ""
 "**Disclaimer**: This list is provided for informational purposes only. "
 "SmartCash Team is not liable for any funds transmitted in error to these "
 "providers, or for the accuracy of information on this page."
 msgstr ""
 
-#: ../../earning-spending.rst:66
+#: ../../earning-spending.rst:107
 msgid "Pungo.krd"
 msgstr ""
 
-#: ../../earning-spending.rst:68
+#: ../../earning-spending.rst:109
 msgid "https://pungo.krd/home/"
 msgstr ""
 
-#: ../../earning-spending.rst:70
+#: ../../earning-spending.rst:111
 msgid ""
 "A prepaid debit card that can be acquired in many places without an ID "
 "and with no bank account linked. It can be used by anyone residing "
 "legally in the EU once the owner gets verified."
 msgstr ""
 
-#: ../../earning-spending.rst:74
+#: ../../earning-spending.rst:115
 msgid "Tax"
 msgstr ""
 
-#: ../../earning-spending.rst:76
+#: ../../earning-spending.rst:117
 msgid ""
 "Taxation law is different depending on where you qualify as a resident "
 "for tax purposes. The following services are available to help you "
 "calculate your tax obligations."
 msgstr ""
 
-#: ../../earning-spending.rst:80
+#: ../../earning-spending.rst:121
 msgid "https://cointracking.info"
 msgstr ""
 
-#: ../../earning-spending.rst:81
+#: ../../earning-spending.rst:122
 msgid "https://bitcoin.tax"
 msgstr ""
 
@@ -153,5 +236,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Earning and Spending"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "You can also earn SmartCash via "
+#~ ":ref:`Mining <mining>` and:ref:`SmartNode "
+#~ "<smartnodes>`"
 #~ msgstr ""
 
