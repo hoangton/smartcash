@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 16:58+0700\n"
+"POT-Creation-Date: 2019-01-20 22:46+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,7 +57,7 @@ msgid "Block Time: ~55 seconds per Block"
 msgstr ""
 
 #: ../../merchants/technical.rst:25
-msgid "Blockchain Confirmations: 6 Confirmations (or 1 in the case of InstantPay)"
+msgid "Blockchain Confirmations: 6 Confirmations (or 2 in the case of InstantPay)"
 msgstr ""
 
 #: ../../merchants/technical.rst:27
@@ -435,34 +435,38 @@ msgstr ""
 
 #: ../../merchants/technical.rst:287
 msgid ""
-"Fee Structure: InstantPay utilizes a “per-input” fee of 0.0001 SmartCash "
+"Fee Structure: InstantPay utilizes a “per-input” fee of 0.001 SmartCash "
 "per Input."
 msgstr ""
 
 #: ../../merchants/technical.rst:289
 msgid ""
 "Input Requirements: All inputs for an InstantPay transaction must have at"
-" least 6 confirmations."
+" least 2 confirmations."
 msgstr ""
 
 #: ../../merchants/technical.rst:292
+msgid "Amount: Total amount must less than 100k."
+msgstr ""
+
+#: ../../merchants/technical.rst:295
 msgid ""
 "In the event that a given transaction does not meet both criteria it will"
 " revert to a standard transaction."
 msgstr ""
 
-#: ../../merchants/technical.rst:296
+#: ../../merchants/technical.rst:299
 msgid "Receiving InstantPay Transactions"
 msgstr ""
 
-#: ../../merchants/technical.rst:298
+#: ../../merchants/technical.rst:301
 msgid ""
 "InstantPay transactions are handled in the same way as a Standard "
 "Transaction, typically through JSON-RPC, Insight API, or an internal "
 "notification script / service that is configured at a server level."
 msgstr ""
 
-#: ../../merchants/technical.rst:302
+#: ../../merchants/technical.rst:305
 msgid ""
 "JSON-RPC: The following RPC commands will include InstantPay-related "
 "information. Within the response you’ll find an “InstantLock” field the "
@@ -470,7 +474,7 @@ msgid ""
 "indicate whether an InstantPay has been observed."
 msgstr ""
 
-#: ../../merchants/technical.rst:308
+#: ../../merchants/technical.rst:311
 msgid ""
 "Insight API: Insight API can be used to detect InstantPay transactions "
 "and to push notifications to clients using WebSockets. The API can also "
@@ -478,11 +482,11 @@ msgid ""
 "InstantPay status."
 msgstr ""
 
-#: ../../merchants/technical.rst:314
+#: ../../merchants/technical.rst:317
 msgid "Broadcasting InstantPay Transactions"
 msgstr ""
 
-#: ../../merchants/technical.rst:316
+#: ../../merchants/technical.rst:319
 msgid ""
 "InstantPay Transactions can be constructed and broadcast using an "
 "approach similar to Standard Transactions. Provided the InstantPay Fee "
@@ -490,61 +494,61 @@ msgid ""
 "using JSON-RPC or Insight API as a Raw Transaction."
 msgstr ""
 
-#: ../../merchants/technical.rst:321
+#: ../../merchants/technical.rst:324
 msgid ""
 "JSON-RPC: The “SendRawTransaction” RPC command can be utilized to "
 "broadcast a raw transaction using InstantPay. When utilizing this command"
 " be sure to set both optional parameters as “true”"
 msgstr ""
 
-#: ../../merchants/technical.rst:325
+#: ../../merchants/technical.rst:328
 msgid ""
 "``sendrawtransaction \"hexstring\" ( allowhighfees InstantPay )`` "
 "``sendrawtransaction \"hexstring\" true true``"
 msgstr ""
 
-#: ../../merchants/technical.rst:328 ../../merchants/technical.rst:334
+#: ../../merchants/technical.rst:331 ../../merchants/technical.rst:337
 msgid "More Information: https://github.com/SmartCash/Core-Smart/"
 msgstr ""
 
-#: ../../merchants/technical.rst:330
+#: ../../merchants/technical.rst:333
 msgid ""
 "Insight API: Raw Transactions can also be broadcast as an InstantPay "
 "using Insight API. In this case all that is required is to POST the raw "
 "transaction using the ``/tx/sendix`` route."
 msgstr ""
 
-#: ../../merchants/technical.rst:337
+#: ../../merchants/technical.rst:340
 msgid "Additional Resources"
 msgstr ""
 
-#: ../../merchants/technical.rst:339
+#: ../../merchants/technical.rst:342
 msgid ""
 "The following resources provide additional information about InstantPay "
 "and are intended to help provide a more complete understanding of the "
 "underlying technologies."
 msgstr ""
 
-#: ../../merchants/technical.rst:344
+#: ../../merchants/technical.rst:347
 msgid "Vending Machines"
 msgstr ""
 
-#: ../../merchants/technical.rst:348
+#: ../../merchants/technical.rst:351
 msgid "Price Tickers"
 msgstr ""
 
-#: ../../merchants/technical.rst:350
+#: ../../merchants/technical.rst:353
 msgid ""
 "You can add a simple price ticket widget to your website using the simple"
 " `code snippet generator from CoinGecko "
 "<https://www.coingecko.com/en/coins/smartcash/widgets#panel>`_."
 msgstr ""
 
-#: ../../merchants/technical.rst:361
+#: ../../merchants/technical.rst:364
 msgid "QR Codes"
 msgstr ""
 
-#: ../../merchants/technical.rst:363
+#: ../../merchants/technical.rst:366
 msgid ""
 "Many wallets are capable of generating QR codes which can be scanned to "
 "simplify entry of the SmartCash address. Printing these codes or posting "
@@ -552,7 +556,7 @@ msgid ""
 "SmartCash, both online and offline."
 msgstr ""
 
-#: ../../merchants/technical.rst:368
+#: ../../merchants/technical.rst:371
 msgid ""
 "In SmartCash NodeClient, go to the **Receive** tab, generate an address "
 "if necessary, and double-click it to display a QR code. Right click on "
@@ -624,5 +628,22 @@ msgstr ""
 #~ "src=\"https://card.smartcash.cc/js/v1/smartcard.js\" data-"
 #~ "auto-open=\"true\" data-generate-"
 #~ "csv=\"true\"></script>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Blockchain Confirmations: 6 Confirmations (or"
+#~ " 1 in the case of InstantPay)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Fee Structure: InstantPay utilizes a "
+#~ "“per-input” fee of 0.0001 SmartCash "
+#~ "per Input."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Input Requirements: All inputs for an"
+#~ " InstantPay transaction must have at "
+#~ "least 6 confirmations."
 #~ msgstr ""
 

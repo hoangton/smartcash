@@ -22,7 +22,7 @@ general information, are summarized below.
    attributes similar to that of Bitcoin.
 
    a. Block Time: ~55 seconds per Block
-   b. Blockchain Confirmations: 6 Confirmations (or 1 in the case of 
+   b. Blockchain Confirmations: 6 Confirmations (or 2 in the case of 
       InstantPay)
    c. Github Source: https://github.com/SmartCash/Core-Smart
    d. Release Link: https://github.com/SmartCash/Core-Smart/releases/
@@ -284,10 +284,13 @@ types are formed in the same way and are signed using the same process;
 the key difference is the fee structure and input requirements for
 InstantPay. 
 
-#. Fee Structure: InstantPay utilizes a “per-input” fee of 0.0001 SmartCash
+#. Fee Structure: InstantPay utilizes a “per-input” fee of 0.001 SmartCash
    per Input.
 #. Input Requirements: All inputs for an InstantPay transaction must
-   have at least 6 confirmations.
+   have at least 2 confirmations.
+   
+#. Amount: Total amount
+   must less than 100k.
 
 In the event that a given transaction does not meet both criteria it
 will revert to a standard transaction.
