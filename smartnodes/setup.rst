@@ -64,7 +64,7 @@ likely not work reliably because most ISPs allocate dynamic IP addresses
 to home users.
 
 We will use `Vultr <https://www.vultr.com/?ref=7265100>`_ hosting as an example of a
-VPS, although `DigitalOcean <https://www.digitalocean.com/>`_, `Amazon
+VPS, although `DigitalOcean <https://m.do.co/c/7664bf25c057>`_, `Amazon
 EC2 <https://aws.amazon.com/ec2>`_, `Google Cloud
 <https://cloud.google.com/compute/>`_, `Choopa
 <https://www.choopa.com/>`_ and `OVH <https://www.ovh.com/>`_ are also
