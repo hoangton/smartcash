@@ -227,8 +227,8 @@ SmartCash ATM Compliance Program
    Manual
 
    - `BSA AML Compliance Training manual <https://github.com/hoangton/smartcash/raw/master/binary/BSA%20AML%20Compliance%20Training_Sample_SmartCash.pptx>`_
-   - `AML 101 <https://github.com/hoangton/smartcash/raw/master/binary/aml-101-SmartCash>`_
-   - `AML In Depth <https://github.com/hoangton/smartcash/raw/master/binary/aml-indepth-SmartCash>`_
+   - `AML 101 <https://www.aml101.com/>`_
+   - `AML In Depth <https://www.investopedia.com/terms/a/aml.asp>`_
 
 #. Get familiar with the documentation you will need by looking at the
    following templates
@@ -236,7 +236,7 @@ SmartCash ATM Compliance Program
    - `Surveillance and Monitoring <https://github.com/hoangton/smartcash/raw/master/binary/SurveillanceandMonitoring_Sample_SmartCash.docx>`_
    - `KYC CDD Policy <https://github.com/hoangton/smartcash/raw/master/binary/KYC%20CDD%20Policy_Sample_SmartCash.docx>`_
    - `AML Program <https://github.com/hoangton/smartcash/raw/master/binary/AML%20Program_Sample_SmartCash.docx>`_
-   - `Risk Assessment <https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_
+   - `Risk Assessment <https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SMART.docx>`_
 
 #. Get familiar with some of the reports you may need to file as part of
    operations. In the Quick Guide in Step 1, we go through registration
