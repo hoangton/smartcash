@@ -245,8 +245,8 @@ SmartCash ATM Compliance Program
    report samples. SmartCash operators should be familiar with these as they
    may need to file them as part of operations. Sample reports:
 
-   - `Currency Transaction Report <hhttps://github.com/hoangton/smartcash/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_
-   - `Suspicious Activity Report <https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_
+   - `Currency Transaction Report <ttps://github.com/hoangton/smartcash/raw/master/binary/Currency_Transaction_Report_aid_SMART.pdf>`_
+   - `Suspicious Activity Report <https://github.com/hoangton/smartcash/raw/master/binary/Suspicious Activity Report_aid_SMART.pdf>`_
 
 #. If you would now like to move forward with your project, we recommend
    getting in contact with `Christopher Bridges Law Corporation <http://www.cbridgeslaw.com/>`_, our
