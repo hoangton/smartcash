@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-20 10:02+0700\n"
+"POT-Creation-Date: 2019-01-23 22:11+0700\n"
 "PO-Revision-Date: 2019-01-16 11:31+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: vi\n"
@@ -51,50 +51,56 @@ msgstr ""
 
 #: ../../earning-spending.rst:20
 msgid ""
+"You can earn SmartCard by :ref:`Proposal <seven-steps>` or get Tips from "
+"friend `Tips bot <https://smartcash.cc/tip/>`_"
+msgstr ""
+
+#: ../../earning-spending.rst:22
+msgid ""
 "You can also earn SmartCash via :ref:`Mining <mining>` and "
 ":ref:`SmartNode <smartnodes>`"
 msgstr ""
 
-#: ../../earning-spending.rst:23
+#: ../../earning-spending.rst:25
 msgid "Saving"
 msgstr ""
 
-#: ../../earning-spending.rst:25
+#: ../../earning-spending.rst:27
 msgid ""
 "You can save SmartCash and get reward via :ref:`SmartReward "
 "<smartrewards>`"
 msgstr ""
 
-#: ../../earning-spending.rst:28
+#: ../../earning-spending.rst:30
 msgid "Spending"
 msgstr ""
 
-#: ../../earning-spending.rst:31
+#: ../../earning-spending.rst:33
 msgid "Merchant Directory"
 msgstr ""
 
-#: ../../earning-spending.rst:33
+#: ../../earning-spending.rst:35
 msgid ""
 "SmartCash can be spent in hundreds of stores and services both online and"
 " in physical locations."
 msgstr ""
 
-#: ../../earning-spending.rst:40
+#: ../../earning-spending.rst:42
 msgid ""
 "**Find SmartCash** lists businesses around the world accepting SmartCash,"
 " sorted by category. It's easy to add your business to the list, and also"
 " features a short introduction for new SmartCash users."
 msgstr ""
 
-#: ../../earning-spending.rst:45
+#: ../../earning-spending.rst:47
 msgid "SmartCard"
 msgstr ""
 
-#: ../../earning-spending.rst:52
+#: ../../earning-spending.rst:54
 msgid "https://card.smartcash.cc/"
 msgstr ""
 
-#: ../../earning-spending.rst:54
+#: ../../earning-spending.rst:56
 msgid ""
 "The SmartCard is a way to hold SMART on a physical card. You don’t need a"
 " phone to hold your SMART. If you have ever had a problem with using a "
@@ -104,64 +110,64 @@ msgid ""
 "card using a visa fiat system…this is real crypto to crypto."
 msgstr ""
 
-#: ../../earning-spending.rst:57
+#: ../../earning-spending.rst:59
 msgid "SmartPay"
 msgstr ""
 
-#: ../../earning-spending.rst:64
+#: ../../earning-spending.rst:66
 msgid "https://business.smartcash.cc/"
 msgstr ""
 
-#: ../../earning-spending.rst:66
+#: ../../earning-spending.rst:68
 msgid ""
 "Accept SmartCash as a payment option in your business with zero fees "
 "using a simple SmartCash app. The SmartPay app is available for use "
 "anywhere in the world, all it requires is access to the internet."
 msgstr ""
 
-#: ../../earning-spending.rst:68
+#: ../../earning-spending.rst:70
 msgid "This app will allow you to:"
 msgstr ""
 
-#: ../../earning-spending.rst:70
+#: ../../earning-spending.rst:72
 msgid ""
 "Accept payments instantly from a customer’s SmartCard’s using SmartCash’s"
 " Instantpay technology."
 msgstr ""
 
-#: ../../earning-spending.rst:71
+#: ../../earning-spending.rst:73
 msgid "Receive payments from the customer to your business with no 3rd party."
 msgstr ""
 
-#: ../../earning-spending.rst:72
+#: ../../earning-spending.rst:74
 msgid "Manage different store locations with individual SmartPay staff logins."
 msgstr ""
 
-#: ../../earning-spending.rst:73
+#: ../../earning-spending.rst:75
 msgid "Allow optional tipping for staff on all transactions."
 msgstr ""
 
-#: ../../earning-spending.rst:75
+#: ../../earning-spending.rst:77
 msgid "Have peace of mind with SmartPay's security features:"
 msgstr ""
 
-#: ../../earning-spending.rst:77
+#: ../../earning-spending.rst:79
 msgid "SmartPay processes transactions without access to business funds"
 msgstr ""
 
-#: ../../earning-spending.rst:78
+#: ../../earning-spending.rst:80
 msgid "Private keys are created by you or generated in the browser"
 msgstr ""
 
-#: ../../earning-spending.rst:79
+#: ../../earning-spending.rst:81
 msgid "Divide payments into different wallets with HD Wallet or Multi Address"
 msgstr ""
 
-#: ../../earning-spending.rst:80
+#: ../../earning-spending.rst:82
 msgid "Decentralized payment system gives you full control of your funds."
 msgstr ""
 
-#: ../../earning-spending.rst:82
+#: ../../earning-spending.rst:84
 #, python-format
 msgid ""
 "Start accepting cryptocurrency payments in your business with 0% fees, "
@@ -169,11 +175,11 @@ msgid ""
 "to learn more."
 msgstr ""
 
-#: ../../earning-spending.rst:86
+#: ../../earning-spending.rst:88
 msgid "Debit Cards"
 msgstr ""
 
-#: ../../earning-spending.rst:88
+#: ../../earning-spending.rst:90
 msgid ""
 "Debit cards work by prepaying in SmartCash to load the account, then "
 "withdrawing cash from an ATM or spending online or anywhere debit/credit "
@@ -185,44 +191,44 @@ msgid ""
 "updates on the availability of SmartCash debit cards."
 msgstr ""
 
-#: ../../earning-spending.rst:98
+#: ../../earning-spending.rst:100
 msgid ""
 "**Disclaimer**: This list is provided for informational purposes only. "
 "SmartCash Team is not liable for any funds transmitted in error to these "
 "providers, or for the accuracy of information on this page."
 msgstr ""
 
-#: ../../earning-spending.rst:107
+#: ../../earning-spending.rst:109
 msgid "Pungo.krd"
 msgstr ""
 
-#: ../../earning-spending.rst:109
+#: ../../earning-spending.rst:111
 msgid "https://pungo.krd/home/"
 msgstr ""
 
-#: ../../earning-spending.rst:111
+#: ../../earning-spending.rst:113
 msgid ""
 "A prepaid debit card that can be acquired in many places without an ID "
 "and with no bank account linked. It can be used by anyone residing "
 "legally in the EU once the owner gets verified."
 msgstr ""
 
-#: ../../earning-spending.rst:115
+#: ../../earning-spending.rst:117
 msgid "Tax"
 msgstr ""
 
-#: ../../earning-spending.rst:117
+#: ../../earning-spending.rst:119
 msgid ""
 "Taxation law is different depending on where you qualify as a resident "
 "for tax purposes. The following services are available to help you "
 "calculate your tax obligations."
 msgstr ""
 
-#: ../../earning-spending.rst:121
+#: ../../earning-spending.rst:123
 msgid "https://cointracking.info"
 msgstr ""
 
-#: ../../earning-spending.rst:122
+#: ../../earning-spending.rst:124
 msgid "https://bitcoin.tax"
 msgstr ""
 
