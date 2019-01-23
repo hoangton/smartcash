@@ -136,19 +136,19 @@ Smartcard Wallet
 
    smartcard/getting-started.rst
   
-.. image:: smartcard/img/details.png
-    :width: 160 px
+.. figure:: smartcard/img/details.png
+    :width: 320 px
 
 *Smartcard Wallet*
 
-FUTURE POTENTIAL OF SMARTCARD…
-""""""""""""""""""""""""""""""
+**FUTURE POTENTIAL OF SMARTCARD…**
+
 
 Debit and credit card payments have arguably become the dominant way for many to carry out most, if not all, of their daily transactions. Adoption of card payments became increasingly simple for smaller businesses, and now quick and affordable smartphone-powered solutions are already a reality.
 SmartCard emerged offering to solve many of the problems facing traditional systems. SmartCard  is blockchain-based solution that aims to improve on the digital payment card model. Our main goals are to streamline crypto transactions and make them practical for use in real-life payment scenarios. At the same time, we aim to drastically reduce fees and confirmation time frames over those found in current solutions. 
 
-SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION
-"""""""""""""""""""""""""""""""""""""""""""""""
+**SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION**
+
 
 As they currently stand, both traditional cards and crypto payment solutions leave a lot to be desired. Transaction fees of over 3% for some cards can add up to substantial losses over time for businesses of all sizes. For even small businesses, it’s normal for more than $50,000 a year to be lost in processing fees.
 
@@ -158,8 +158,8 @@ Using their new feature called the SmartCard, the developers of SmartCash are lo
 
 In a way, the purchases made with SmartCard combine the best of cash, card, and crypto payments. The funds are moved between parties instantly, like cash, but the transaction is authorized by the buyer with a simple code that can be either digitally stored on a smartphone or printed and carried separately as a physical QR code. This makes the payment process just as convenient as regular card payments, and far easier than having to send cryptocurrency manually from a mobile app.
 
-HOW IT ALL WORKS
-""""""""""""""""
+**HOW IT ALL WORKS**
+
 
 There are just two main applications: the card app for the consumer and the Point of Sale (PoS) app for the merchant.
 
