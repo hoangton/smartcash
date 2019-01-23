@@ -16,7 +16,7 @@ Earning
 =======
 Receive payment from your employer in SmartCash directly.
 You can then withdraw your wage to any SmartCash wallet for spending or saving.
-
+You can earn SmartCard by :ref: `Proposal <seven-steps>` or get Tips from friend `Tips bot <https://smartcash.cc/tip/>`_
 You can also earn SmartCash via :ref:`Mining <mining>` and :ref:`SmartNode <smartnodes>`
 
 Saving
