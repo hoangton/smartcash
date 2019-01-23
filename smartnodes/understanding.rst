@@ -111,7 +111,7 @@ Payment Determination
 Smartnode requirements
 ======================
 
-- 10,000 Smart: Arguably the hardest part. Smart can be obtained from exchanges such as CryptoBridge, HitBTC. For the full list of places to obtain Smart click here.
+- 10,000 Smart: Arguably the hardest part. Smart can be obtained from exchanges such as CryptoBridge, HitBTC. For the full list of places to obtain Smart :ref:`Exchanges <exchanges>`.
 - A computer for running a local wallet to start nodes and hold funds
 - A VPS server installed Ubuntu for remote node running 24hrs/day with the following specs:
 
