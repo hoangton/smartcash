@@ -59,7 +59,7 @@ Point of Sale
 
 A range of Point of Sale systems are available. Many function as an app
 or simple website serving a checkout interface and QR code generator,
-while others support custom features such as NFC or a rewards scheme. SmartPay and SmartCard are
+while others support custom features such as NFC or a rewards scheme. SmartPay and SmartCard (:ref:`smartcard-getting-started`) are
 particularly widespread.
 
 SmartCard

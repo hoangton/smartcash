@@ -143,7 +143,7 @@ Basically, each SmartCash coin is worth 1 vote, to keep it simple.
 Smartcard
 ==========
 
-`Smartcard <https://smartcash.cc/smartcard>`_ Debit and credit card payments have become the dominant way for
+Smartcard (:ref:`smartcard-getting-started`) Debit and credit card payments have become the dominant way for
 many to carry out most, if not all, of their daily transactions. Adoption of
 card payments became increasingly simple for small businesses and
 now quick and affordable smartphone-powered solutions have
