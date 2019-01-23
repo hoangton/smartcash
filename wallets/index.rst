@@ -167,8 +167,8 @@ The card app allows anyone to create a SmartCard with just a few taps. Each card
 
 The PoS app is equally responsible for this convenience. The merchant only has to specify the transaction amount in the local currency, and the app automatically initiates a transaction in the equivalent amount of SmartCash. The merchant uses the app to scan the code and requests the buyer to enter a confirmation pin. After entering it on the merchant’s smartphone, the app connects to the blockchain to submit the transaction. If the code and pin match, and there are enough funds in the card address, the transaction is instantly verified and recorded on the blockchain. The process of scanning a card and entering a pin to confirm is already well familiar to current debit card users, and so it would be easy for everyone to get used to.
 
-A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE
-""""""""""""""""""""""""""""""""""""""""""""""""
+**A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE**
+
 
 This ease of use and familiarity present the key advantage of this system over other crypto payments, which require both parties to be online for a transaction. Once the card is created and loaded, only the merchant is responsible for having a live connection to the internet and the consumer can take the funds anywhere without worrying about a dead battery or lack of signal in remote areas. No need for fumbling with mobile wallet apps, nor any memorization beyond the simple numerical pin just like the ones used for debit purchases. In addition to this, it also offers the advantage of being usable in places where traditional banking services are only partially available, or even absent entirely. Whereas other mobile payment solutions require bank accounts for both parties to send/receive the funds, this one uses the SmartCash blockchain instead and is thus accessible to anyone who wishes to use it.
 
