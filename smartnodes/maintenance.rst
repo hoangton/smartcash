@@ -15,7 +15,7 @@ well as maintaining the security and performance of the server.
 
 .. _smartnode-update:
 
-smartnode Software Update
+Smartnode Software Update
 ==========================
 
 The SmartCash NodeClient software requires regular updates in order to remain
@@ -140,8 +140,8 @@ the SmartCash network.
 - `explorer.smartcash.cc <http://eexplorer.smartcash.cc/>`__ and
   `insight.smartcash.cc <http://insight.smartcash.cc/>`__.
 - `Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain
-  explorer <https://smart.ccore.online/>`__ and a `function
-  <https://smart.ccore.online/masternodes>`__ to view and map
+  explorer <https://smart.ccore.online/>`__ and masternodes.online provide a `function
+  <https://masternodes.online/currencies/SMART/>`__ to view and map
   SmartCash smartnodes.
   
 SmartCash smartstats smartnode
