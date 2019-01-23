@@ -30,16 +30,22 @@ Installation
 Creat the SmartCard 
 https://card.smartcash.cc/
 
+`All in One - SmartCard Guide <https://smartcash.freshdesk.com/support/solutions/articles/35000085219-all-in-one-smartcard-guide>`_ 
+
 Deposit
 ========
 
 Scan QR code to show SmartCash address and send smartcash to it.
+
 
 Sending
 =======
 
 Show your smartcard at merchant. Merchant will use smartpay app to scan smartcard.
 You will enter the PIN to confirm transactions.
+
+.. image:: img/deposit-and-spending.jpg
+    :width: 250 px    
 
 Viewing transactions and balances
 =================================
