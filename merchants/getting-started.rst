@@ -98,6 +98,7 @@ Have peace of mind with SmartPay's security features:
 
 Start accepting cryptocurrency payments in your business with 0% fees, and download the SmartPay app today! Visit https://business.smartcash.cc to learn more.
 
+`All in One - SmartPay Guide <https://smartcash.freshdesk.com/support/solutions/articles/35000085218-all-in-one-smartpay-guide>`_ 
 
 SmartCash Ecommerce Plugins
 ---------------------------

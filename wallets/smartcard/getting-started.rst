@@ -50,7 +50,7 @@ You will enter the PIN to confirm transactions.
 Viewing transactions and balances
 =================================
 
-Using explorer `explorer <https://explorer.smartcash.cc>`_
+Using explorer to check your transactions details with your smartcash address `explorer <https://explorer.smartcash.cc>`_
 
 Security FAQ
 ============
@@ -63,3 +63,17 @@ SmartPay Tempering: first you should do business with whom you trust and second 
 
 Payment Protection: on top of this, with SmartCard you can activate and reset your PIN on the fly, which you can't do with most bank cards. So you could transact and change PIN right after or just activate/deactivate card at payment time.
 
+Security in SmartPay
+--------------------
+
+Protection of Card Data:
+Captured card data (QR/NFC) is not stored in the device and SmartPay has protections against common attacks.
+
+PIN Security:
+We have built a secure customised PIN pad that reinforces keylogger protection and keys are randomised with each use.
+
+SmartPay Authenticity:
+While paying card holders should check in the PIN screen that "Verify Card Name" matches the card name.
+
+Mandatory Updates:
+SmartPay requires to be using it's latest released version, ensuring SmartPay is always updated.
