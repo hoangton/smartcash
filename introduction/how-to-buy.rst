@@ -358,7 +358,7 @@ Smartport
      :align: right
      :target: https://www.smartport.cc/
 	 
-  SmartCash cryptocurrencies kopen
+  SmartCash cryptocurrencies kopen. At SmartPort you can buy SmartCash at a minimum of € 30 and up to a maximum of € 1.000. Your purchases are processed manually. Therefore take a longer processing time (up to 24 hours) into account.
 	 
 https://www.smartport.cc/
 
@@ -395,7 +395,7 @@ SmartShift
 
   https://wallet.smartcash.cc/smartshift
 
-  SmartShift is our new near 0 fees web wallet cryptocurrency exchange feature.
+  SmartShift is our new near 0 fees web wallet cryptocurrency exchange feature. You can convert your #Bitcoin #BitcoinCash #Dash #Litecoin into #SmartCash at a great exchange rate.
 
 Changelly
   .. image:: exchanges/changelly.png
