@@ -391,7 +391,7 @@ SmartShift
   .. image:: exchanges/smartshift.svg
      :width: 200px
      :align: right
-     :target: https://wallet.smartcash.cc/smartshift
+     :target: https://www.youtube.com/watch?v=ybqPF5HgcIk
 
   https://wallet.smartcash.cc/smartshift
 
