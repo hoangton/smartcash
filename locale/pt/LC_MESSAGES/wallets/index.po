@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 23:40+0700\n"
+"POT-Creation-Date: 2019-01-23 22:11+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -186,8 +186,8 @@ msgstr ""
 msgid "*Smartcard Wallet*"
 msgstr ""
 
-#: ../../wallets/index.rst:145
-msgid "FUTURE POTENTIAL OF SMARTCARD…"
+#: ../../wallets/index.rst:144
+msgid "**FUTURE POTENTIAL OF SMARTCARD…**"
 msgstr ""
 
 #: ../../wallets/index.rst:147
@@ -204,8 +204,8 @@ msgid ""
 "fees and confirmation time frames over those found in current solutions."
 msgstr ""
 
-#: ../../wallets/index.rst:151
-msgid "SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION"
+#: ../../wallets/index.rst:150
+msgid "**SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION**"
 msgstr ""
 
 #: ../../wallets/index.rst:153
@@ -258,8 +258,8 @@ msgid ""
 "to send cryptocurrency manually from a mobile app."
 msgstr ""
 
-#: ../../wallets/index.rst:162
-msgid "HOW IT ALL WORKS"
+#: ../../wallets/index.rst:161
+msgid "**HOW IT ALL WORKS**"
 msgstr ""
 
 #: ../../wallets/index.rst:164
@@ -294,8 +294,8 @@ msgid ""
 "easy for everyone to get used to."
 msgstr ""
 
-#: ../../wallets/index.rst:171
-msgid "A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE"
+#: ../../wallets/index.rst:170
+msgid "**A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE**"
 msgstr ""
 
 #: ../../wallets/index.rst:173
@@ -425,4 +425,16 @@ msgid ""
 "Documentation in this section describes common tasks and questions "
 "relating to all wallets."
 msgstr ""
+
+#~ msgid "FUTURE POTENTIAL OF SMARTCARD…"
+#~ msgstr ""
+
+#~ msgid "SOLVING MAJOR CHALLENGES WITH A SIMPLE SOLUTION"
+#~ msgstr ""
+
+#~ msgid "HOW IT ALL WORKS"
+#~ msgstr ""
+
+#~ msgid "A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE"
+#~ msgstr ""
 

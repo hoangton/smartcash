@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 12:38+0700\n"
+"POT-Creation-Date: 2019-01-23 22:11+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,7 +41,7 @@ msgid ""
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:19
-msgid "smartnode Software Update"
+msgid "Smartnode Software Update"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:21
@@ -223,9 +223,9 @@ msgstr ""
 #: ../../smartnodes/maintenance.rst:142
 msgid ""
 "`Ccore <https://smart.ccore.online/>`__ offers a `SmartCash blockchain "
-"explorer <https://smart.ccore.online/>`__ and a `function "
-"<https://smart.ccore.online/masternodes>`__ to view and map SmartCash "
-"smartnodes."
+"explorer <https://smart.ccore.online/>`__ and masternodes.online provide "
+"a `function <https://masternodes.online/currencies/SMART/>`__ to view and"
+" map SmartCash smartnodes."
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:148
@@ -349,5 +349,16 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "smartnode monitoring tools"
+#~ msgstr ""
+
+#~ msgid "smartnode Software Update"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Ccore <https://smart.ccore.online/>`__ offers a "
+#~ "`SmartCash blockchain explorer "
+#~ "<https://smart.ccore.online/>`__ and a `function "
+#~ "<https://smart.ccore.online/masternodes>`__ to view "
+#~ "and map SmartCash smartnodes."
 #~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-17 23:27+0700\n"
+"POT-Creation-Date: 2019-01-23 22:11+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,41 +51,50 @@ msgstr ""
 msgid "Installation"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:29
+#: ../../wallets/smartcard/getting-started.rst:30
 msgid "Creat the SmartCard https://card.smartcash.cc/"
 msgstr ""
 
 #: ../../wallets/smartcard/getting-started.rst:33
+msgid ""
+"`All in One - SmartCard Guide "
+"<https://smartcash.freshdesk.com/support/solutions/articles/35000085219"
+"-all-in-one-smartcard-guide>`_"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:36
 msgid "Deposit"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:35
+#: ../../wallets/smartcard/getting-started.rst:38
 msgid "Scan QR code to show SmartCash address and send smartcash to it."
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:38
+#: ../../wallets/smartcard/getting-started.rst:42
 msgid "Sending"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:40
+#: ../../wallets/smartcard/getting-started.rst:44
 msgid ""
 "Show your smartcard at merchant. Merchant will use smartpay app to scan "
 "smartcard. You will enter the PIN to confirm transactions."
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:44
+#: ../../wallets/smartcard/getting-started.rst:51
 msgid "Viewing transactions and balances"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:46
-msgid "Using explorer `explorer <https://explorer.smartcash.cc>`_"
+#: ../../wallets/smartcard/getting-started.rst:53
+msgid ""
+"Using explorer to check your transactions details with your smartcash "
+"address `explorer <https://explorer.smartcash.cc>`_"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:49
+#: ../../wallets/smartcard/getting-started.rst:56
 msgid "Security FAQ"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:51
+#: ../../wallets/smartcard/getting-started.rst:58
 msgid ""
 "Breaking QR if stolen: We use BIP38 encryption that is executed in each "
 "own device (browser and app in the future). Encryption generates for each"
@@ -93,7 +102,7 @@ msgid ""
 "Keccak-256."
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:53
+#: ../../wallets/smartcard/getting-started.rst:60
 msgid ""
 "Private key then is encrypted with AES256 with decryptionKey hash and "
 "random bytes. So even if one QR Key is \"cracked\", all other Encrypted "
@@ -104,7 +113,7 @@ msgid ""
 "093 658 years to crack each QR"
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:55
+#: ../../wallets/smartcard/getting-started.rst:62
 msgid ""
 "SmartPay Tempering: first you should do business with whom you trust and "
 "second tempering with the SmartPay or POS in the future, it takes at "
@@ -116,11 +125,42 @@ msgid ""
 " device, they could record the same way any bank card front/back."
 msgstr ""
 
-#: ../../wallets/smartcard/getting-started.rst:57
+#: ../../wallets/smartcard/getting-started.rst:64
 msgid ""
 "Payment Protection: on top of this, with SmartCard you can activate and "
 "reset your PIN on the fly, which you can't do with most bank cards. So "
 "you could transact and change PIN right after or just activate/deactivate"
 " card at payment time."
 msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:67
+msgid "Security in SmartPay"
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:69
+msgid ""
+"Protection of Card Data: Captured card data (QR/NFC) is not stored in the"
+" device and SmartPay has protections against common attacks."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:72
+msgid ""
+"PIN Security: We have built a secure customised PIN pad that reinforces "
+"keylogger protection and keys are randomised with each use."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:75
+msgid ""
+"SmartPay Authenticity: While paying card holders should check in the PIN "
+"screen that \"Verify Card Name\" matches the card name."
+msgstr ""
+
+#: ../../wallets/smartcard/getting-started.rst:78
+msgid ""
+"Mandatory Updates: SmartPay requires to be using it's latest released "
+"version, ensuring SmartPay is always updated."
+msgstr ""
+
+#~ msgid "Using explorer `explorer <https://explorer.smartcash.cc>`_"
+#~ msgstr ""
 

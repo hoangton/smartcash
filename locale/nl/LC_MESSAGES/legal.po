@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 11:36+0700\n"
+"POT-Creation-Date: 2019-01-23 22:11+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -390,15 +390,11 @@ msgid ""
 msgstr ""
 
 #: ../../legal.rst:230
-msgid ""
-"`AML 101 "
-"<https://github.com/hoangton/smartcash/raw/master/binary/aml-101-SmartCash>`_"
+msgid "`AML 101 <https://www.aml101.com/>`_"
 msgstr ""
 
 #: ../../legal.rst:231
-msgid ""
-"`AML In Depth <https://github.com/hoangton/smartcash/raw/master/binary"
-"/aml-indepth-SmartCash>`_"
+msgid "`AML In Depth <https://www.investopedia.com/terms/a/aml.asp>`_"
 msgstr ""
 
 #: ../../legal.rst:233
@@ -428,7 +424,7 @@ msgstr ""
 #: ../../legal.rst:239
 msgid ""
 "`Risk Assessment "
-"<https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SMART.docx>`_"
 msgstr ""
 
 #: ../../legal.rst:241
@@ -444,13 +440,14 @@ msgstr ""
 #: ../../legal.rst:248
 msgid ""
 "`Currency Transaction Report "
-"<hhttps://github.com/hoangton/smartcash/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
+"<ttps://github.com/hoangton/smartcash/raw/master/binary/Currency_Transaction_Report_aid_SMART.pdf>`_"
 msgstr ""
 
 #: ../../legal.rst:249
 msgid ""
 "`Suspicious Activity Report "
-"<https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
+"<https://github.com/hoangton/smartcash/raw/master/binary/Suspicious "
+"Activity Report_aid_SMART.pdf>`_"
 msgstr ""
 
 #: ../../legal.rst:251
@@ -559,5 +556,31 @@ msgstr ""
 #~ "legal counsel. Preferential rates are "
 #~ "available for SmartCash users. Please "
 #~ "email: atoulon@cogentlaw.co"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`AML 101 "
+#~ "<https://github.com/hoangton/smartcash/raw/master/binary/aml-101-SmartCash>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`AML In Depth "
+#~ "<https://github.com/hoangton/smartcash/raw/master/binary/aml-"
+#~ "indepth-SmartCash>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Risk Assessment "
+#~ "<https://github.com/hoangton/smartcash/raw/master/binary/Risk%20Assessment_Sample_SmartCash.docx>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Currency Transaction Report "
+#~ "<hhttps://github.com/hoangton/smartcash/raw/master/binary/CTR_job%20aid_SmartCash.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`Suspicious Activity Report "
+#~ "<https://github.com/hoangton/smartcash/raw/master/binary/SAR_job%20aid_SmartCash.pdf>`_"
 #~ msgstr ""
 
