@@ -387,6 +387,16 @@ https://exccripto.com/v2/
 Instant exchanges
 =================
 
+SmartShift
+  .. image:: exchanges/smartshift.svg
+     :width: 200px
+     :align: right
+     :target: https://wallet.smartcash.cc/smartshift
+
+  https://wallet.smartcash.cc/smartshift
+
+  SmartShift is our new near 0 fees web wallet cryptocurrency exchange feature.
+
 Changelly
   .. image:: exchanges/changelly.png
      :width: 200px
@@ -432,7 +442,7 @@ Atomicwallet
 
   Cryptocurrency Wallet support atomic exchange.
 
-changeNOW
+ChangeNOW
   .. image:: exchanges/changenow.png
      :width: 130px
      :align: right
@@ -440,7 +450,7 @@ changeNOW
 
   https://changenow.io
 
-  changeNOW is a non-custodian exchange service based in the
+  ChangeNOW is a non-custodian exchange service based in the
   Netherlands, with low commissions and quick service. Offers crypto to
   crypto exchanges, as well as purchases through credit/debit cards.
 
