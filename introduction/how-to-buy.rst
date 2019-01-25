@@ -222,15 +222,6 @@ pungo.cash
 	 
 https://pungo.cash
 
-BiteBTC
-  .. image:: exchanges/bitebtc.png
-     :width: 200px
-     :align: right
-     :target: https://bitebtc.com/trade/smart_btc
-	 
-  Buy and sell Cryptocurrency
-	 
-https://bitebtc.com/trade/smart_btc
 
 Criptohub
   .. image:: exchanges/criptohub.jpg
