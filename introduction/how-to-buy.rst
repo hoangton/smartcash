@@ -533,3 +533,13 @@ General Bytes
 
   General Bytes offers a range of two-way cash ATM and Point of Sale
   solutions integrating SmartCash.
+
+BitugaX
+  .. image:: exchanges/bitugax.png
+     :width: 75px
+     :align: right
+     :target: https://www.bitugax.com/
+
+  https://www.bitugax.com/
+
+  You can buy SmartCash at BitugaX ATM in Coimbra, Portugal!

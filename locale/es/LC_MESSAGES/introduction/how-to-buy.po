@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-25 14:55+0700\n"
+"POT-Creation-Date: 2019-01-28 15:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -655,7 +655,7 @@ msgid ""
 "listed on this page."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:534
+#: ../../introduction/how-to-buy.rst:535
 msgid "General Bytes"
 msgstr ""
 
@@ -667,6 +667,18 @@ msgstr ""
 msgid ""
 "General Bytes offers a range of two-way cash ATM and Point of Sale "
 "solutions integrating SmartCash."
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:544
+msgid "BitugaX"
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:543
+msgid "https://www.bitugax.com/"
+msgstr ""
+
+#: ../../introduction/how-to-buy.rst:545
+msgid "You can buy SmartCash at BitugaX ATM in Coimbra, Portugal!"
 msgstr ""
 
 #~ msgid "BiteBTC"
