@@ -58,7 +58,7 @@ The process of setting up or upgrading a smartnode is as follows:
 1. Set up your server and operating system
 2. Install the SmartCash software and synchronize the blockchain
 3. Generate a smartnode gen key and enter the private key on the smartnode
-4. Prepare a 10000 SMART transaction
+4. Prepare a 100000 SMART transaction
 
 Step 1 can be omitted if you have an existing server. Steps 2 and 3
 require direct access to the smartnode. Steps 3 and 4 require access to
@@ -96,7 +96,7 @@ receiving of funds and prevention of doublespending. Smartnodes power
 the second tier, which provide the added features that make SmartCash
 different from other cryptocurrencies. Smartnodes do not mine, and
 mining computers cannot serve as smartnodes. Additionally, each
-smartnode is “secured” by 10000 SMART. Those SMART remain under the sole
+smartnode is “secured” by 100000 SMART. Those SMART remain under the sole
 control of their owner at all times, and can still be freely spent. The
 funds are not locked in any way. However, if the funds are moved or
 spent, the associated smartnode will go offline and stop receiving
@@ -111,10 +111,10 @@ Payment Determination
 Smartnode requirements
 ======================
 
-- 10,000 Smart: Arguably the hardest part. Smart can be obtained from exchanges such as CryptoBridge, HitBTC. For the full list of places to obtain Smart :ref:`Exchanges <exchanges>`.
+- 100000 Smart: Arguably the hardest part. Smart can be obtained from exchanges such as CryptoBridge, HitBTC. For the full list of places to obtain Smart :ref:`Exchanges <exchanges>`.
 - A computer for running a local wallet to start nodes and hold funds
 - A VPS server installed Ubuntu for remote node running 24hrs/day with the following specs:
 
-    * 1GB RAM (about half used for OS and half for daemon)
+    * 2GB RAM (about half used for OS and half for daemon)
     * 20GB drive (less than 1GB used for wallet, some for OS, and some for future.)
     * 1 Static IPV4 Address per node (IPV4 address that never changes) (No IPV6)

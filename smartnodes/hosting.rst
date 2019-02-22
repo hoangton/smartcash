@@ -10,7 +10,7 @@ Hosting Services
 
 Several SmartCash community members offer smartnode hosting services. This
 service can be realized securely without the customer ever giving up
-control of the 10000 SmartCash required for collateral. For security reasons,
+control of the 100000 SmartCash required for collateral. For security reasons,
 it is highly recommended to keep the collateral on a hardware wallet
 when taking advantage of a hosting service. A list of currently
 available smartnode hosting services is available below.

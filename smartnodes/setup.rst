@@ -29,7 +29,7 @@ This guide assumes you are setting up a single smartnode for the first
 time. If you are updating a smartnode, see  :ref:`here <smartnode-update>` 
 instead. You will need:
 
-- 10000 SmartCash
+- 100000 SmartCash
 - A wallet to store your SmartCash, preferably a hardware wallet, although 
   SmartCash NodeClient wallet is also supported
 - A Linux server, preferably a Virtual Private Server (VPS)
@@ -86,7 +86,7 @@ with security updates for 5 years, instead of the usual 9 months.
 
    Vultr server type selection screen
 
-Select a server size offering at least 1GB of memory.
+Select a server size offering at least 2GB of memory.
 
 .. figure:: img/setup-server-size.png
    :width: 400px
@@ -247,7 +247,7 @@ Send the collateral
 ===================
 
 A SmartCash address with a single unspent transaction output (UTXO) of
-exactly 10000 SmartCash is required to operate a smartnode. Once it has been
+exactly 100000 SmartCash is required to operate a smartnode. Once it has been
 sent, various keys regarding the transaction must be extracted for later
 entry in a configuration file and registration transaction as proof to
 write the configuration to the blockchain so the smartnode can be
@@ -283,7 +283,7 @@ physically separate to your computer, since this will be the only way
 you can access our funds if anything happens to your computer. For more
 details on these steps, see :ref:`here <nodeclient-backup>`.
 
-Now send exactly 10000 SmartCash in a single transaction to the new address
+Now send exactly 100000 SmartCash in a single transaction to the new address
 you generated in the previous step. This may be sent from another
 wallet, or from funds already held in your current wallet. Once the
 transaction is complete, view the transaction in a `blockchain explorer
@@ -346,9 +346,9 @@ Create a working directory for SmartCash, extract the compressed archive and
 copy the necessary files to the directory::
 
   mkdir ~/.nodeclient
-  tar xfv smartcash-1.2.6-x86_64-linux-gnu.tar.gz
-  cp -f smartcash-1.2.6/bin/smartcashd ~/.nodeclient/
-  cp -f smartcash-1.2.6/bin/smartcash-cli ~/.nodeclient/
+  tar xfv smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+  cp -f smartcash-1.2.8/bin/smartcashd ~/.nodeclient/
+  cp -f smartcash-1.2.8/bin/smartcash-cli ~/.nodeclient/
 
 Create a configuration file using the following command::
 

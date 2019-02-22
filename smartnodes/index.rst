@@ -14,7 +14,7 @@ This documentation focuses on understanding the services smartnodes
 provide to the network, but also includes guides on how to run a
 smartnode, using either a hosting provider or by setting up and
 maintaining your own hosting solution. The primary requirement to run a
-smartnode on the SmartCash network is 10000 SMART. This is known as the
+smartnode on the SmartCash network is 100000 SMART. This is known as the
 collateral, and cannot be spent without interrupting operation of the
 smartnode. The second requirement is the actual server running the SmartCash
 smartnode software.
