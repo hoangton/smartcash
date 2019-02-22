@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 21:11+0700\n"
+"POT-Creation-Date: 2019-02-22 12:05+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -129,7 +129,7 @@ msgid ""
 msgstr ""
 
 #: ../../mining/pool.rst:89
-msgid "sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz"
+msgid "sha256sum smartcash-1.2.8-x86_64-linux-gnu.tar.gz"
 msgstr ""
 
 #: ../../mining/pool.rst:91
@@ -190,4 +190,7 @@ msgstr ""
 #: ../../mining/pool.rst:149
 msgid "Setting up Pool"
 msgstr ""
+
+#~ msgid "sha256sum smartcash-1.2.6-x86_64-linux-gnu.tar.gz"
+#~ msgstr ""
 
