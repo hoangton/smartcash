@@ -72,11 +72,11 @@ filled in automatically if you import a "smartnode.conf" file.
 Collateral
 ----------
 
-To start a smartnode, you must have a 10000 SMART payment available in
-your wallet. You can scan your wallet for 10000 SMART payments in the
+To start a smartnode, you must have a 100000 SMART payment available in
+your wallet. You can scan your wallet for 100000 SMART payments in the
 **Create Smartnode** tab of the Smartnode Manager.
 
-After scanning, a list of available 10000 SMART collateral payments will
+After scanning, a list of available 100000 SMART collateral payments will
 be displayed. Selecting one of them will cause the selected smartnode's
 data to be filled in, though these changes won't be saved until you
 click the **Save** button in the lower-right corner of the tab.

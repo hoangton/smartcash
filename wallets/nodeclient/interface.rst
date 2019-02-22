@@ -244,7 +244,7 @@ Enable coin control features
   necessary to make up the desired amount of SmartCash to be transferred.
   This behavior may be undesirable if you want to keep a certain balance
   on one address. The most common use case is the requirement to
-  maintain 10000 SmartCash on a single address as collateral for a smartnode.
+  maintain 100000 SmartCash on a single address as collateral for a smartnode.
   Enabling this option will add a button labelled **Inputs** on the
   **Send** tab. This provides access to the **Coin selection** dialog,
   which can be used to lock, unlock and prioritize different addresses

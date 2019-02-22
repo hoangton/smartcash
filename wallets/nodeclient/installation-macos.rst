@@ -26,7 +26,7 @@ the hash published by the SmartCash NodeClient development team. To do this, ope
 saved the file, and run the following command, replacing the version
 with the specific version of the file you downloaded::
 
-   shasum -a 256 smartcash-1.2.6-osx.dmg
+   shasum -a 256 smartcash-1.2.8-osx.dmg
 
    Generating an SHA256 hash for the downloaded file
 

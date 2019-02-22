@@ -18,7 +18,7 @@ steps to take for increased security.
 Commercial :ref:`smartnode hosting services <smartnode-hosting>` are
 available if you prefer to delegate day-to-day operation of your
 smartnode to a professional operator. When using these hosting
-services, you retain full control of the 10000 SmartCash collateral and pay an
+services, you retain full control of the 100000 SmartCash collateral and pay an
 agreed percentage of your reward to the operator.
 
 

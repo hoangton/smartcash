@@ -737,7 +737,7 @@ Liquidity
 Smartnode
   A :ref:`smartnodes <smartnodes>` is special type of full node
   that performs services for the network and is paid a portion of the
-  block reward. Smartnode require proof of ownership of 10000 SMART.
+  block reward. Smartnode require proof of ownership of 100000 SMART.
 
   Smartnodes serve as the second tier of the SmartCash network, and power
   InstantPay, Smartrewards.
@@ -932,6 +932,6 @@ Zero Confirmations
 vin
   A transaction (tx) consists of one or more inputs and one or more
   outputs. The vin is the list of inputs to the transaction, and vout is
-  the list of outputs. Smartnodes require a 10000 SMART vin (exactly that
+  the list of outputs. Smartnodes require a 100000 SMART vin (exactly that
   amount) in order to work.
 

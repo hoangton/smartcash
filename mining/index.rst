@@ -68,7 +68,7 @@ receiving of funds and prevention of doublespending. smartnodes power
 the second tier, which provide the added features that make smartcash
 different from other cryptocurrencies. smartnodes do not mine, and
 mining computers cannot serve as smartnodes. Additionally, each
-smartnode is “secured” by 10000 smartcash. Those smartcash remain under the sole
+smartnode is “secured” by 100000 smartcash. Those smartcash remain under the sole
 control of their owner at all times, and can still be freely spent. The
 funds are not locked in any way. However, if the funds are moved or
 spent, the associated smartnode will go offline and stop receiving

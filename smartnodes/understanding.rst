@@ -29,7 +29,7 @@ Anyone can run a smartnode. The objective is to have enough
 decentralization to ensure that no single person controls a significant
 fraction of the smartnodes. However, to avoid bloating the network with
 unnecessary smartnodes or encouraging reckless operators, there is one
-condition that needs to be fulfilled: proof of ownership of 10000 SmartCash.
+condition that needs to be fulfilled: proof of ownership of 100000 SmartCash.
 The coins don't need to be in the smartnode, but they need to be kept
 in a certain way that is transparent to the entire network. If the owner
 moves or spends those coins, the smartnode stops working and payment
@@ -116,5 +116,5 @@ Smartnode requirements
 - A VPS server installed Ubuntu for remote node running 24hrs/day with the following specs:
 
     * 2GB RAM (about half used for OS and half for daemon)
-    * 20GB drive (less than 1GB used for wallet, some for OS, and some for future.)
+    * 20GB drive (less than 2GB used for wallet, some for OS, and some for future.)
     * 1 Static IPV4 Address per node (IPV4 address that never changes) (No IPV6)
