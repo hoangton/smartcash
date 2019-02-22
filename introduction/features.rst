@@ -65,7 +65,7 @@ SmartNodes are required to have
 - A computer for running a local wallet
 - A dedicated VPS server running 24/7 with the following specifications:
 
--- 1 GB RAM
+-- 2 GB RAM
 -- 20 GB drive
 -- Static IPV4 Address per node
 

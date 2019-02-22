@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-23 22:11+0700\n"
+"POT-Creation-Date: 2019-02-22 12:02+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -155,7 +155,7 @@ msgid "A dedicated VPS server running 24/7 with the following specifications:"
 msgstr ""
 
 #: ../../introduction/features.rst:68
-msgid "-- 1 GB RAM -- 20 GB drive -- Static IPV4 Address per node"
+msgid "-- 2 GB RAM -- 20 GB drive -- Static IPV4 Address per node"
 msgstr ""
 
 #: ../../introduction/features.rst:72
@@ -668,5 +668,8 @@ msgstr ""
 #~ " benefit from using the SmartCard and"
 #~ " SmartCash POS App please visit: "
 #~ "smartcash.cc/smartcard/"
+#~ msgstr ""
+
+#~ msgid "-- 1 GB RAM -- 20 GB drive -- Static IPV4 Address per node"
 #~ msgstr ""
 
