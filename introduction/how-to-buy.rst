@@ -323,25 +323,16 @@ Bleutrade
 	 
 https://bleutrade.com/exchange/SMART/BTC
 
-Troca.ninja
-  .. image:: exchanges/troca-ninja.jpg
+3XBIT
+  .. image:: exchanges/3xbit.png
      :width: 200px
      :align: right
-     :target: https://troca.ninja/markets/coin/BTC-SMART
+     :target: https://www.3xbit.com.br/
 	 
   Cryptocurrency Exchange
 	 
-https://troca.ninja/markets/coin/BTC-SMART
+https://www.3xbit.com.br/
 
-NewCash
-  .. image:: exchanges/newcash.jpg
-     :width: 200px
-     :align: right
-     :target: https://newc.com.br/
-	 
-  Negocie na mais inovadora plataforma de Criptoativos do Brasil
-	 
-https://newc.com.br/
 
 Smartport
   .. image:: exchanges/smartport.jpg
