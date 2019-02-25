@@ -337,7 +337,7 @@ address to the latest version of SmartCash NodeClient by right clicking or press
 **Ctrl + V**::
 
   cd /tmp
-  wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.6/smartcash-1.2.6-x86_64-linux-gnu.tar.gz
+  wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.8/smartcash-1.2.8-x86_64-linux-gnu.tar.gz
 
 Verify the integrity of your download by running sha256sum (optional)
 

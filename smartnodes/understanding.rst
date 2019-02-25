@@ -108,6 +108,8 @@ rewards.
 Payment Determination
 =====================
 
+SmartNodes are paid at a rate of 1 node every other block.
+
 Smartnode requirements
 ======================
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-22 11:59+0700\n"
+"POT-Creation-Date: 2019-02-25 21:44+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,38 +168,42 @@ msgstr ""
 msgid "Payment Determination"
 msgstr ""
 
-#: ../../smartnodes/understanding.rst:112
-msgid "Smartnode requirements"
+#: ../../smartnodes/understanding.rst:111
+msgid "SmartNodes are paid at a rate of 1 node every other block."
 msgstr ""
 
 #: ../../smartnodes/understanding.rst:114
+msgid "Smartnode requirements"
+msgstr ""
+
+#: ../../smartnodes/understanding.rst:116
 msgid ""
 "100000 Smart: Arguably the hardest part. Smart can be obtained from "
 "exchanges such as CryptoBridge, HitBTC. For the full list of places to "
 "obtain Smart :ref:`Exchanges <exchanges>`."
 msgstr ""
 
-#: ../../smartnodes/understanding.rst:115
+#: ../../smartnodes/understanding.rst:117
 msgid "A computer for running a local wallet to start nodes and hold funds"
 msgstr ""
 
-#: ../../smartnodes/understanding.rst:116
+#: ../../smartnodes/understanding.rst:118
 msgid ""
 "A VPS server installed Ubuntu for remote node running 24hrs/day with the "
 "following specs:"
 msgstr ""
 
-#: ../../smartnodes/understanding.rst:118
+#: ../../smartnodes/understanding.rst:120
 msgid "2GB RAM (about half used for OS and half for daemon)"
 msgstr ""
 
-#: ../../smartnodes/understanding.rst:119
+#: ../../smartnodes/understanding.rst:121
 msgid ""
 "20GB drive (less than 2GB used for wallet, some for OS, and some for "
 "future.)"
 msgstr ""
 
-#: ../../smartnodes/understanding.rst:120
+#: ../../smartnodes/understanding.rst:122
 msgid "1 Static IPV4 Address per node (IPV4 address that never changes) (No IPV6)"
 msgstr ""
 
