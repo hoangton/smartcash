@@ -1,8 +1,8 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,15 +10,12 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-23 22:34+0700\n"
 "PO-Revision-Date: 2019-01-16 11:31+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: vi\n"
-"Language-Team: Vietnamese "
-"(https://www.transifex.com/smartcash/teams/95224/vi/)\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Team: Vietnamese (https://www.transifex.com/smartcash/teams/95224/vi/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../marketing.rst:1
 msgid ""
@@ -36,8 +33,8 @@ msgstr ""
 
 #: ../../marketing.rst:11
 msgid ""
-"This page includes downloads of various templates and designs intended "
-"for use as office stationary and presentations. For a visual overview of "
+"This page includes downloads of various templates and designs intended for "
+"use as office stationary and presentations. For a visual overview of "
 "existing web and sticker designs, please see the following links."
 msgstr ""
 
@@ -86,7 +83,6 @@ msgid "#FEC60D"
 msgstr ""
 
 #: ../../marketing.rst:24
-#, python-format
 msgid "46.06° 94.88% 99.61%"
 msgstr ""
 
@@ -115,7 +111,6 @@ msgid "#FBFCFC"
 msgstr ""
 
 #: ../../marketing.rst:28
-#, python-format
 msgid "180° 0.4% 98.82%"
 msgstr ""
 
@@ -132,7 +127,6 @@ msgid "#000000"
 msgstr ""
 
 #: ../../marketing.rst:30
-#, python-format
 msgid "0° 0% 0%"
 msgstr ""
 
@@ -154,10 +148,10 @@ msgstr ""
 #: ../../marketing.rst:46
 msgid ""
 "This design can be translated into your language at `Crowdin here "
-"<https://crowdin.com/project/smartcash-website>`__. For more information "
-"on translating SmartCash products on Crowdin, see :ref:`here "
-"<translating-SmartCash>`. Please contact hoangton@smartcash.cc once "
-"translation is complete to request layout of the completed translation."
+"<https://crowdin.com/project/smartcash-website>`__. For more information on "
+"translating SmartCash products on Crowdin, see :ref:`here <translating-"
+"SmartCash>`. Please contact hoangton@smartcash.cc once translation is "
+"complete to request layout of the completed translation."
 msgstr ""
 
 #: ../../marketing.rst:53 ../../marketing.rst:83 ../../marketing.rst:106
@@ -250,11 +244,11 @@ msgstr ""
 msgid ""
 "An attractive flyer about SmartCash, designed to be folded in half and "
 "placed on flat surfaces at conferences and events. This design can be "
-"translated into your language at `Crowdin here "
-"<https://crowdin.com/project/smartcash-website/>`__. For more information"
-" on translating SmartCash products on Crowdin, see :ref:`here "
-"<translating-SmartCash>`. Please contact hoangton@smartcash.cc once "
-"translation is complete to request layout of the completed translation."
+"translated into your language at `Crowdin here <https://crowdin.com/project"
+"/smartcash-website/>`__. For more information on translating SmartCash "
+"products on Crowdin, see :ref:`here <translating-SmartCash>`. Please contact"
+" hoangton@smartcash.cc once translation is complete to request layout of the"
+" completed translation."
 msgstr ""
 
 #: ../../marketing.rst:85
@@ -281,17 +275,16 @@ msgstr ""
 
 #: ../../marketing.rst:96
 msgid ""
-"This handout is ideal for dual-sided printing as a handout for "
-"conferences."
+"This handout is ideal for dual-sided printing as a handout for conferences."
 msgstr ""
 
 #: ../../marketing.rst:99
 msgid ""
 "This design can be translated into your language at `Crowdin here "
-"<https://crowdin.com/project/smartcash-website/>`__. For more information"
-" on translating SmartCash products on Crowdin, see :ref:`here "
-"<translating-SmartCash>`. Please contact hoangton@smartcash.cc once "
-"translation is complete to request layout of the completed translation."
+"<https://crowdin.com/project/smartcash-website/>`__. For more information on"
+" translating SmartCash products on Crowdin, see :ref:`here <translating-"
+"SmartCash>`. Please contact hoangton@smartcash.cc once translation is "
+"complete to request layout of the completed translation."
 msgstr ""
 
 #: ../../marketing.rst:108
@@ -310,9 +303,8 @@ msgstr ""
 
 #: ../../marketing.rst:120
 msgid ""
-"An attractive presentation about SmartCash, designed to guide the "
-"audience through the basics of cryptocurrency and advantages of "
-"SmartCash."
+"An attractive presentation about SmartCash, designed to guide the audience "
+"through the basics of cryptocurrency and advantages of SmartCash."
 msgstr ""
 
 #: ../../marketing.rst:126
@@ -376,8 +368,8 @@ msgstr ""
 
 #: ../../marketing.rst:162
 msgid ""
-"High resolution cards for printing. Great for use as the back of business"
-" cards, or to hand out to explain and promote SmartCash."
+"High resolution cards for printing. Great for use as the back of business "
+"cards, or to hand out to explain and promote SmartCash."
 msgstr ""
 
 #: ../../marketing.rst:166 ../../marketing.rst:176
@@ -407,9 +399,3 @@ msgid ""
 "`Download "
 "<https://github.com/hoangton/smartcash/blob/master/binary/fonts/SourceSansPro.zip>`_"
 msgstr ""
-
-#~ msgid ""
-#~ "`PPTX "
-#~ "<https://github.com/hoangton/smartcash/blob/master/binary/presentations/SmartCash_en_4.14.pptx>`__"
-#~ msgstr ""
-
