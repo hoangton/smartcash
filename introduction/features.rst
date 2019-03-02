@@ -61,7 +61,7 @@ Smartnodes enable the following services:
 
 SmartNodes are required to have 
 
-- 10,000 SMART collateral
+- 100000 SMART collateral
 - A computer for running a local wallet
 - A dedicated VPS server running 24/7 with the following specifications:
 

@@ -36,13 +36,13 @@ instead. You will need:
 
 A list of available documentation appears below:
 
-- :ref:`Full smartnode setup guide <smartnode-setup>` (you are here)
+- `All in One - Smart Node Guide <https://smartcash.freshdesk.com/support/solutions/articles/35000084806>`_
 
 This documentation describes the commands as if they were
 entered in the SmartCash NodeClient GUI by opening the console from **Help > Debug
 console**, but the same result can be achieved on a smartnode by
 entering the same commands and adding the prefix 
-``~/.smartcash/smartcash-cli`` to each command.
+``smartcash-cli`` to each command.
 
 
 .. _vps-setup:

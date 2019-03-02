@@ -47,10 +47,10 @@ treat as regular income the fair market value of the block reward.
 
 SmartCash Collateral
 ^^^^^^^^^^^^^^^^^^^^
-A SmartCash user may demonstrate to the network his or her control over 10,000
+A SmartCash user may demonstrate to the network his or her control over 100000
 SMART in order to run a smartnode. These tokens never leave the user’s
 control. If at any point during the user’s tenure as a smartnode
-operator, the user disposes of any or all of the 10,000 SMART, the network
+operator, the user disposes of any or all of the 100000 SMART, the network
 automatically strips the user of his or her status as a smartnode.
 Under the US Internal Revenue Code, gain or loss is realized only on the
 “sale or exchange” of property. The term “sale” generally means the
@@ -59,19 +59,19 @@ A number of factors typically are considered to determine whether a sale
 has occurred, the most important being whether the benefits and burdens
 of ownership of the transferred property have passed from the transferor
 to the transferee. In SmartCash, the smartnode operator retains control of
-the 10,000 SMART and simply demonstrates that control to the network.
-Therefore, the holding of the 10,000 SMART for purposes of qualifying as a
+the 100000 SMART and simply demonstrates that control to the network.
+Therefore, the holding of the 100000 SMART for purposes of qualifying as a
 smartnode operator should not cause a taxable event to occur because
 the user has not transferred any of the benefits and burdens of
 ownership.
 
 Capital Gains
 ^^^^^^^^^^^^^
-Assuming that the 10,000 SMART are sold, whether that SmartCash is a “capital
+Assuming that the 100000 SMART are sold, whether that SmartCash is a “capital
 asset” will determine the tax treatment of the sale. Stocks, bonds and
 other investment property for example, are generally treated as capital
 assets. Inventory, depreciable property, and stock in trade, though, are
-not. Assuming the smartnode operator held the 10,000 SMART either for
+not. Assuming the smartnode operator held the 100000 SMART either for
 investment purposes or for purposes of qualifying as a smartnode
 operator, the IRS would likely treat gain or loss on the sale of those
 SmartCash tokens as capital in nature. Therefore, SmartCash held for a long

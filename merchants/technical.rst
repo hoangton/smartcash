@@ -85,6 +85,7 @@ Insight
 -------
 
 https://insight.smartcash.cc/api
+https://github.com/SmartCash/smart-insight-api
 
 The open-source Insight REST API provides you with a convenient,
 powerful and simple way to read data from the SmartCash network and build
