@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-08 22:42+0700\n"
+"POT-Creation-Date: 2019-03-08 22:55+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -157,88 +157,6 @@ msgid ""
 "translation is complete to request layout of the completed translation."
 msgstr ""
 
-#: ../../marketing.rst:53 ../../marketing.rst:83 ../../marketing.rst:106
-#: ../../marketing.rst:124
-msgid "Language"
-msgstr ""
-
-#: ../../marketing.rst:53 ../../marketing.rst:83 ../../marketing.rst:106
-#: ../../marketing.rst:124 ../../marketing.rst:140 ../../marketing.rst:153
-msgid "Download"
-msgstr ""
-
-#: ../../marketing.rst:55 ../../marketing.rst:85 ../../marketing.rst:87
-#: ../../marketing.rst:89 ../../marketing.rst:108 ../../marketing.rst:126
-#: ../../marketing.rst:128
-msgid "English"
-msgstr ""
-
-#: ../../marketing.rst:55
-msgid ""
-"`PDF_SmartCash_brochure_en-1.2.8 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en_1.2.8.pdf>`_"
-msgstr ""
-
-#: ../../marketing.rst:57
-msgid "Russian"
-msgstr ""
-
-#: ../../marketing.rst:57
-msgid ""
-"`PDF_SmartCash_brochure_ru_1.2 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_"
-msgstr ""
-
-#: ../../marketing.rst:59
-msgid "German"
-msgstr ""
-
-#: ../../marketing.rst:59
-msgid ""
-"`PDF_SmartCash_brochure_DE_1.4 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_"
-msgstr ""
-
-#: ../../marketing.rst:61
-msgid "Spanish"
-msgstr ""
-
-#: ../../marketing.rst:61
-msgid ""
-"`PDF_SmartCash_brochure_es_1.2.4 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_"
-msgstr ""
-
-#: ../../marketing.rst:63
-msgid "Portuguese"
-msgstr ""
-
-#: ../../marketing.rst:63
-msgid ""
-"`PDF_SmartCash_brochure_ptbr_1.2 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_"
-msgstr ""
-
-#: ../../marketing.rst:65
-msgid "Japanese"
-msgstr ""
-
-#: ../../marketing.rst:65
-msgid ""
-"`PDF_SmartCash_brochure_ja_1.2 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_"
-msgstr ""
-
-#: ../../marketing.rst:67
-msgid "Vietnamese"
-msgstr ""
-
-#: ../../marketing.rst:67
-msgid ""
-"`PDF_SmartCash_brochure_vi_1.2 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_"
-msgstr ""
-
 #: ../../marketing.rst:72
 msgid "Flyers"
 msgstr ""
@@ -252,6 +170,20 @@ msgid ""
 " on translating SmartCash products on Crowdin, see :ref:`here "
 "<translating-SmartCash>`. Please contact hoangton@smartcash.cc once "
 "translation is complete to request layout of the completed translation."
+msgstr ""
+
+#: ../../marketing.rst:83 ../../marketing.rst:106 ../../marketing.rst:124
+msgid "Language"
+msgstr ""
+
+#: ../../marketing.rst:83 ../../marketing.rst:106 ../../marketing.rst:124
+#: ../../marketing.rst:140 ../../marketing.rst:153
+msgid "Download"
+msgstr ""
+
+#: ../../marketing.rst:85 ../../marketing.rst:87 ../../marketing.rst:89
+#: ../../marketing.rst:108 ../../marketing.rst:126 ../../marketing.rst:128
+msgid "English"
 msgstr ""
 
 #: ../../marketing.rst:85
@@ -531,5 +463,58 @@ msgstr ""
 #~ msgid ""
 #~ "`PDF_SmartCash_brochure_en-1.2.4 "
 #~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_en-1.2.8 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en_1.2.8.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "Russian"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_ru_1.2 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "German"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_DE_1.4 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "Spanish"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_es_1.2.4 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "Portuguese"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_ptbr_1.2 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "Japanese"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_ja_1.2 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_"
+#~ msgstr ""
+
+#~ msgid "Vietnamese"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_vi_1.2 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_"
 #~ msgstr ""
 
