@@ -87,7 +87,7 @@ Official sites
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | Language    | Download																	|
 +=============+=================================================================================================================================================+
-| English     | `PDF_SmartCash_brochure_en-1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_		|
+| English     | `PDF_SmartCash_brochure_en_1.2.8 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en_1.2.8.pdf>`_		|
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 | Russian     | `PDF_SmartCash_brochure_ru_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_		|
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+

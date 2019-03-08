@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-23 22:34+0700\n"
+"POT-Creation-Date: 2019-03-08 22:42+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -175,8 +175,8 @@ msgstr ""
 
 #: ../../marketing.rst:55
 msgid ""
-"`PDF_SmartCash_brochure_en-1.2.4 "
-"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_"
+"`PDF_SmartCash_brochure_en-1.2.8 "
+"<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en_1.2.8.pdf>`_"
 msgstr ""
 
 #: ../../marketing.rst:57
@@ -526,5 +526,10 @@ msgstr ""
 #~ msgid ""
 #~ "`PPTX "
 #~ "<https://github.com/hoangton/smartcash/blob/master/binary/presentations/SmartCash_en_4.14.pptx>`__"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "`PDF_SmartCash_brochure_en-1.2.4 "
+#~ "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en-1.2.4.pdf>`_"
 #~ msgstr ""
 
