@@ -1,6 +1,6 @@
 .. meta::
    :description: Guide for merchants getting started with SmartCash. Online and offline payment processors
-   :keywords: smartcash, pos, merchants, payment processor, store, wordpress, woocommerce, coinpayments, point of sale
+   :keywords: smartcash, pos, merchants, payment processor, store, wordpress, woocommerce, coinpayments, anypay, point of sale
 
 .. _merchants:
 
@@ -41,7 +41,8 @@ choosing a payment provider to ensure your needs will be met.
 For more advanced payment processing needs, such as for high risk
 merchant accounts in industries challenged with high levels of
 chargebacks, it is recommended to contact SmartCash partner `Coinpayments
-<https://www.coinpayments.net/>`__.
+<https://www.coinpayments.net/>`__. or `Anypay
+<https://anypay.global/>`__.
 
 
 Online Stores

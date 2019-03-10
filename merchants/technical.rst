@@ -124,6 +124,20 @@ or integrate with your pre-existing checkout.
   (https://www.coinpayments.net/help-fees)
 - Documentation: https://www.coinpayments.net/apidoc
 
+Anypay
+------
+
+.. image:: img/anypay.jpg
+
+   :width: 200px
+   :align: right
+   :target: https://anypay.global/
+
+https://anypay.global/
+
+Anypay is Fast, Private, No-Fees, Multi-coin Point of Sale.
+
+
 
 .. _sdk-resources:
 

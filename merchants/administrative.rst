@@ -57,7 +57,8 @@ cryptocurrency, and how much should be converted back to a fiat currency
 solutions to this problem.
 
 Services such as `CoinPayments
-<https://www.coinpayments.net>`_ offer the ability to diversify your
+<https://www.coinpayments.net>`_ or `Anypay
+<https://anypay.global/>`_ offer the ability to diversify your
 payments into a range of different cryptocurrencies, but require you to
 set up automatic withdrawals to an :ref:`exchange <exchanges>` for
 conversion to fiat currency. Note that these listing are not endorsements, and you must complete your
