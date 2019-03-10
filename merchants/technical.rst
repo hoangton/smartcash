@@ -128,7 +128,6 @@ Anypay
 ------
 
 .. image:: img/anypay.jpg
-
    :width: 200px
    :align: right
    :target: https://anypay.global/

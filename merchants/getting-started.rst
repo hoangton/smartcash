@@ -40,19 +40,7 @@ choosing a payment provider to ensure your needs will be met.
 
 For more advanced payment processing needs, such as for high risk
 merchant accounts in industries challenged with high levels of
-chargebacks, it is recommended to contact SmartCash partner `Coinpayments
-<https://www.coinpayments.net/>`__. or `Anypay
-<https://anypay.global/>`__.
-
-
-Online Stores
--------------
-
-Due to the wide range of platforms for online stores, the following
-table is intended to help you select an appropriate payment processor
-for your existing store.
-
-`CoinPayments <https://www.coinpayments.net>`_ 
+chargebacks, it is recommended to contact SmartCash partner `Coinpayments <https://www.coinpayments.net/>`__. or `Anypay <https://anypay.global/>`__.
 
 
 Point of Sale
@@ -101,15 +89,33 @@ Start accepting cryptocurrency payments in your business with 0% fees, and downl
 
 `All in One - SmartPay Guide <https://smartcash.freshdesk.com/support/solutions/articles/35000085218-all-in-one-smartpay-guide>`_ 
 
-SmartCash Ecommerce Plugins
----------------------------
+Anypay
+  .. image:: img/anypay.jpg
+     :width: 400px
+     :align: right
+     :target: https://anypay.global/
+
+https://anypay.global/
+
+Anypay is Fast, Private, No-Fees, Multi-coin Point of Sale.
+
+Online Stores
+-------------
+
+Due to the wide range of platforms for online stores, the following
+table is intended to help you select an appropriate payment processor
+for your existing store.
+
+`CoinPayments <https://www.coinpayments.net>`_ 
+
+
+**SmartCash Ecommerce Plugins**
 
 Make your website run Wordpress become Ecommerce store with WooCommerce Plugin 
 
 `SmartCash WooCommerce Plugins <https://github.com/SmartCash/WooCommerce>`_
 
-WooCommerce and CoinPayments.net
---------------------------------
+**WooCommerce and CoinPayments.net**
 
 If your online store is built on WooCommerce, you can simply install
 CoinPayments as an additional payment gateway and immediately begin
