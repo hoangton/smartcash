@@ -192,3 +192,5 @@ documentation.
 
 https://find.smartcash.cc/a-guide-to-accepting-smartcash-payments-for-your-online-store/
 
+https://find.smartcash.cc/for-merchants/brick-and-mortar/
+
