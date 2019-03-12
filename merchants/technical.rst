@@ -204,6 +204,18 @@ Add CSV to zip - Generate CSV True
     data-generate-csv="true"></script>
 
 
+Python: python-smartcashrpc
+---------------------------
+
+https://github.com/leoreinaux/python-smartcashrpc
+
+python-smartcashrpc AuthServiceProxy is an improved version of python-jsonrpc.
+
+- sends Basic HTTP authentication headers.
+- parses all JSON numbers that look like floats as Decimal, and serializes Decimal values to JSON-RPC connections.
+- Documentation: https://github.com/leoreinaux/python-smartcashrpc/blob/master/README.rst
+- Repository: https://github.com/leoreinaux/python-smartcashrpc
+
 
 PHP: Bitcoin-PHP
 ----------------
