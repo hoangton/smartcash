@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-10 08:34+0700\n"
+"POT-Creation-Date: 2019-03-12 21:31+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -235,19 +235,19 @@ msgstr ""
 msgid "Anypay"
 msgstr ""
 
-#: ../../merchants/technical.rst:136
+#: ../../merchants/technical.rst:135
 msgid "https://anypay.global/"
 msgstr ""
 
-#: ../../merchants/technical.rst:138
+#: ../../merchants/technical.rst:137
 msgid "Anypay is Fast, Private, No-Fees, Multi-coin Point of Sale."
 msgstr ""
 
-#: ../../merchants/technical.rst:145
+#: ../../merchants/technical.rst:144
 msgid "SDK Resources"
 msgstr ""
 
-#: ../../merchants/technical.rst:147
+#: ../../merchants/technical.rst:146
 msgid ""
 "SDKs (Software Development Kits) are used to accelerate the design and "
 "development of a product for the SmartCash Network. These resources can "
@@ -256,15 +256,15 @@ msgid ""
 " wallet services."
 msgstr ""
 
-#: ../../merchants/technical.rst:155
+#: ../../merchants/technical.rst:154
 msgid "SmartCash Developer Guide"
 msgstr ""
 
-#: ../../merchants/technical.rst:162 ../../merchants/technical.rst:180
+#: ../../merchants/technical.rst:161 ../../merchants/technical.rst:179
 msgid "https://github.com/SmartCash/Core-Smart"
 msgstr ""
 
-#: ../../merchants/technical.rst:164
+#: ../../merchants/technical.rst:163
 msgid ""
 "The SmartCash Developer Guide aims to provide the information you need to"
 " understand SmartCash and start building SmartCash-based applications. To"
@@ -273,94 +273,128 @@ msgid ""
 "compiled executable."
 msgstr ""
 
-#: ../../merchants/technical.rst:170
+#: ../../merchants/technical.rst:169
 msgid "Documentation: https://github.com/SmartCash/Core-Smart"
 msgstr ""
 
-#: ../../merchants/technical.rst:173
+#: ../../merchants/technical.rst:172
 msgid "SmartCard SDK"
 msgstr ""
 
-#: ../../merchants/technical.rst:182
+#: ../../merchants/technical.rst:181
 msgid "Easy create your smartcard from your website"
 msgstr ""
 
-#: ../../merchants/technical.rst:184
+#: ../../merchants/technical.rst:183
 msgid "Open with button click - Auto Open False"
 msgstr ""
 
-#: ../../merchants/technical.rst:191
+#: ../../merchants/technical.rst:190
 msgid "Open on page load - Auto Open True"
 msgstr ""
 
-#: ../../merchants/technical.rst:199
+#: ../../merchants/technical.rst:198
 msgid "Add CSV to zip - Generate CSV True"
 msgstr ""
 
+#: ../../merchants/technical.rst:208
+msgid "Python: python-smartcashrpc"
+msgstr ""
+
 #: ../../merchants/technical.rst:210
-msgid "PHP: Bitcoin-PHP"
+msgid "https://github.com/leoreinaux/python-smartcashrpc"
 msgstr ""
 
 #: ../../merchants/technical.rst:212
-msgid "https://github.com/Bit-Wasp/bitcoin-php"
+msgid ""
+"python-smartcashrpc AuthServiceProxy is an improved version of python-"
+"jsonrpc."
 msgstr ""
 
 #: ../../merchants/technical.rst:214
+msgid "sends Basic HTTP authentication headers."
+msgstr ""
+
+#: ../../merchants/technical.rst:215
+msgid ""
+"parses all JSON numbers that look like floats as Decimal, and serializes "
+"Decimal values to JSON-RPC connections."
+msgstr ""
+
+#: ../../merchants/technical.rst:216
+msgid ""
+"Documentation: https://github.com/leoreinaux/python-"
+"smartcashrpc/blob/master/README.rst"
+msgstr ""
+
+#: ../../merchants/technical.rst:217
+msgid "Repository: https://github.com/leoreinaux/python-smartcashrpc"
+msgstr ""
+
+#: ../../merchants/technical.rst:221
+msgid "PHP: Bitcoin-PHP"
+msgstr ""
+
+#: ../../merchants/technical.rst:223
+msgid "https://github.com/Bit-Wasp/bitcoin-php"
+msgstr ""
+
+#: ../../merchants/technical.rst:225
 msgid ""
 "Bitcoin-PHP is an implementation of Bitcoin with support for SmartCash "
 "using mostly pure PHP."
 msgstr ""
 
-#: ../../merchants/technical.rst:217
+#: ../../merchants/technical.rst:228
 msgid "Platform: PHP"
 msgstr ""
 
-#: ../../merchants/technical.rst:218
+#: ../../merchants/technical.rst:229
 msgid ""
 "Documentation: https://github.com/Bit-Wasp/bitcoin-"
 "php/blob/master/doc/Introduction.md"
 msgstr ""
 
-#: ../../merchants/technical.rst:219
+#: ../../merchants/technical.rst:230
 msgid "Repository: https://github.com/Bit-Wasp/bitcoin-php"
 msgstr ""
 
-#: ../../merchants/technical.rst:222
+#: ../../merchants/technical.rst:233
 msgid "Python: PyCoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:224
+#: ../../merchants/technical.rst:235
 msgid "https://github.com/richardkiss/pycoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:226
+#: ../../merchants/technical.rst:237
 msgid ""
 "PyCoin is an implementation of a bunch of utility routines that may be "
 "useful when dealing with Bitcoin and SmartCash. It has been tested with "
 "Python 2.7, 3.6 and 3.7."
 msgstr ""
 
-#: ../../merchants/technical.rst:230
+#: ../../merchants/technical.rst:241
 msgid "Platform: Python"
 msgstr ""
 
-#: ../../merchants/technical.rst:231
+#: ../../merchants/technical.rst:242
 msgid "Documentation: https://pycoin.readthedocs.io/en/latest/"
 msgstr ""
 
-#: ../../merchants/technical.rst:232
+#: ../../merchants/technical.rst:243
 msgid "Repository: https://github.com/richardkiss/pycoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:235
+#: ../../merchants/technical.rst:246
 msgid ".NET: NBitcoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:242
+#: ../../merchants/technical.rst:253
 msgid "https://github.com/MetacoSA/NBitcoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:244
+#: ../../merchants/technical.rst:255
 msgid ""
 "NBitcoin is the most complete Bitcoin library for the .NET platform, and "
 "has been patched to include support for SmartCash. It implements all most"
@@ -369,63 +403,63 @@ msgid ""
 "primitives so you can easily build your application on top of it."
 msgstr ""
 
-#: ../../merchants/technical.rst:250
+#: ../../merchants/technical.rst:261
 msgid "Platform: .NET"
 msgstr ""
 
-#: ../../merchants/technical.rst:251
+#: ../../merchants/technical.rst:262
 msgid ""
 "Documentation: "
 "https://programmingblockchain.gitbooks.io/programmingblockchain/content/"
 msgstr ""
 
-#: ../../merchants/technical.rst:252
+#: ../../merchants/technical.rst:263
 msgid "Repository: https://github.com/MetacoSA/NBitcoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:255
+#: ../../merchants/technical.rst:266
 msgid "BlockCypher"
 msgstr ""
 
-#: ../../merchants/technical.rst:262
+#: ../../merchants/technical.rst:273
 msgid "https://www.blockcypher.com"
 msgstr ""
 
-#: ../../merchants/technical.rst:264
+#: ../../merchants/technical.rst:275
 msgid "BlockCypher also offers client SDKs."
 msgstr ""
 
-#: ../../merchants/technical.rst:266
+#: ../../merchants/technical.rst:277
 msgid "Platform: Ruby, Python, Java, PHP, Go, NodeJS"
 msgstr ""
 
-#: ../../merchants/technical.rst:267
+#: ../../merchants/technical.rst:278
 msgid ""
 "Repositories: https://www.blockcypher.com/dev/SmartCash/#blockcypher-"
 "supported-language-sdks"
 msgstr ""
 
-#: ../../merchants/technical.rst:270
+#: ../../merchants/technical.rst:281
 msgid "GoCoin"
 msgstr ""
 
-#: ../../merchants/technical.rst:277
+#: ../../merchants/technical.rst:288
 msgid "https://gocoin.com"
 msgstr ""
 
-#: ../../merchants/technical.rst:279
+#: ../../merchants/technical.rst:290
 msgid "Platform: JavaScript, PHP, Java, Ruby, .NET, Python"
 msgstr ""
 
-#: ../../merchants/technical.rst:280
+#: ../../merchants/technical.rst:291
 msgid "Repositories: https://gocoin.com/docs"
 msgstr ""
 
-#: ../../merchants/technical.rst:284
+#: ../../merchants/technical.rst:295
 msgid "InstantPay"
 msgstr ""
 
-#: ../../merchants/technical.rst:286
+#: ../../merchants/technical.rst:297
 msgid ""
 "InstantPay is a feature provided by the SmartCash network that allows for"
 " 0-confirmation transactions to be safely accepted by Merchants and other"
@@ -434,11 +468,11 @@ msgid ""
 " a given transaction at a protocol level."
 msgstr ""
 
-#: ../../merchants/technical.rst:294
+#: ../../merchants/technical.rst:305
 msgid "InstantPay Transactions vs. Standard Transactions"
 msgstr ""
 
-#: ../../merchants/technical.rst:296
+#: ../../merchants/technical.rst:307
 msgid ""
 "From an integration perspective there are only minor differences between "
 "an InstantPay Transaction and a Standard Transaction. Both transaction "
@@ -447,19 +481,19 @@ msgid ""
 "InstantPay."
 msgstr ""
 
-#: ../../merchants/technical.rst:302
+#: ../../merchants/technical.rst:313
 msgid ""
 "Fee Structure: InstantPay utilizes a “per-input” fee of 0.001 SmartCash "
 "per Input."
 msgstr ""
 
-#: ../../merchants/technical.rst:304
+#: ../../merchants/technical.rst:315
 msgid ""
 "Input Requirements: All inputs for an InstantPay transaction must have at"
 " least 2 confirmations."
 msgstr ""
 
-#: ../../merchants/technical.rst:307
+#: ../../merchants/technical.rst:318
 msgid ""
 "Amount: Total amount InstantPay limits the total coins that can be locked"
 " in a transaction to %1 SMART and must less than 100k.  You may need to "
@@ -467,24 +501,24 @@ msgid ""
 " InstantPay."
 msgstr ""
 
-#: ../../merchants/technical.rst:310
+#: ../../merchants/technical.rst:321
 msgid ""
 "In the event that a given transaction does not meet both criteria it will"
 " revert to a standard transaction."
 msgstr ""
 
-#: ../../merchants/technical.rst:314
+#: ../../merchants/technical.rst:325
 msgid "Receiving InstantPay Transactions"
 msgstr ""
 
-#: ../../merchants/technical.rst:316
+#: ../../merchants/technical.rst:327
 msgid ""
 "InstantPay transactions are handled in the same way as a Standard "
 "Transaction, typically through JSON-RPC, Insight API, or an internal "
 "notification script / service that is configured at a server level."
 msgstr ""
 
-#: ../../merchants/technical.rst:320
+#: ../../merchants/technical.rst:331
 msgid ""
 "JSON-RPC: The following RPC commands will include InstantPay-related "
 "information. Within the response you’ll find an “InstantLock” field the "
@@ -492,7 +526,7 @@ msgid ""
 "indicate whether an InstantPay has been observed."
 msgstr ""
 
-#: ../../merchants/technical.rst:326
+#: ../../merchants/technical.rst:337
 msgid ""
 "Insight API: Insight API can be used to detect InstantPay transactions "
 "and to push notifications to clients using WebSockets. The API can also "
@@ -500,11 +534,11 @@ msgid ""
 "InstantPay status."
 msgstr ""
 
-#: ../../merchants/technical.rst:332
+#: ../../merchants/technical.rst:343
 msgid "Broadcasting InstantPay Transactions"
 msgstr ""
 
-#: ../../merchants/technical.rst:334
+#: ../../merchants/technical.rst:345
 msgid ""
 "InstantPay Transactions can be constructed and broadcast using an "
 "approach similar to Standard Transactions. Provided the InstantPay Fee "
@@ -512,61 +546,61 @@ msgid ""
 "using JSON-RPC or Insight API as a Raw Transaction."
 msgstr ""
 
-#: ../../merchants/technical.rst:339
+#: ../../merchants/technical.rst:350
 msgid ""
 "JSON-RPC: The “SendRawTransaction” RPC command can be utilized to "
 "broadcast a raw transaction using InstantPay. When utilizing this command"
 " be sure to set both optional parameters as “true”"
 msgstr ""
 
-#: ../../merchants/technical.rst:343
+#: ../../merchants/technical.rst:354
 msgid ""
 "``sendrawtransaction \"hexstring\" ( allowhighfees InstantPay )`` "
 "``sendrawtransaction \"hexstring\" true true``"
 msgstr ""
 
-#: ../../merchants/technical.rst:346 ../../merchants/technical.rst:352
+#: ../../merchants/technical.rst:357 ../../merchants/technical.rst:363
 msgid "More Information: https://github.com/SmartCash/Core-Smart/"
 msgstr ""
 
-#: ../../merchants/technical.rst:348
+#: ../../merchants/technical.rst:359
 msgid ""
 "Insight API: Raw Transactions can also be broadcast as an InstantPay "
 "using Insight API. In this case all that is required is to POST the raw "
 "transaction using the ``/tx/sendix`` route."
 msgstr ""
 
-#: ../../merchants/technical.rst:355
+#: ../../merchants/technical.rst:366
 msgid "Additional Resources"
 msgstr ""
 
-#: ../../merchants/technical.rst:357
+#: ../../merchants/technical.rst:368
 msgid ""
 "The following resources provide additional information about InstantPay "
 "and are intended to help provide a more complete understanding of the "
 "underlying technologies."
 msgstr ""
 
-#: ../../merchants/technical.rst:362
+#: ../../merchants/technical.rst:373
 msgid "Vending Machines"
 msgstr ""
 
-#: ../../merchants/technical.rst:366
+#: ../../merchants/technical.rst:377
 msgid "Price Tickers"
 msgstr ""
 
-#: ../../merchants/technical.rst:368
+#: ../../merchants/technical.rst:379
 msgid ""
 "You can add a simple price ticket widget to your website using the simple"
 " `code snippet generator from CoinGecko "
 "<https://www.coingecko.com/en/coins/smartcash/widgets#panel>`_."
 msgstr ""
 
-#: ../../merchants/technical.rst:379
+#: ../../merchants/technical.rst:390
 msgid "QR Codes"
 msgstr ""
 
-#: ../../merchants/technical.rst:381
+#: ../../merchants/technical.rst:392
 msgid ""
 "Many wallets are capable of generating QR codes which can be scanned to "
 "simplify entry of the SmartCash address. Printing these codes or posting "
@@ -574,7 +608,7 @@ msgid ""
 "SmartCash, both online and offline."
 msgstr ""
 
-#: ../../merchants/technical.rst:386
+#: ../../merchants/technical.rst:397
 msgid ""
 "In SmartCash NodeClient, go to the **Receive** tab, generate an address "
 "if necessary, and double-click it to display a QR code. Right click on "
