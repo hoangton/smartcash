@@ -233,17 +233,8 @@ Criptohub
 	 
 https://criptohub.com.br/smartcash/
 
-Cryptowolf
-  .. image:: exchanges/cryptowolf.png
-     :width: 200px
-     :align: right
-     :target: https://cryptowolf.eu/
-	 
-  Privacy reinvented
-	 
-https://cryptowolf.eu/
 
-localbitcoincash
+Localbitcoincash
   .. image:: exchanges/localbitcoincash.png
      :width: 200px
      :align: right
