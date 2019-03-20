@@ -22,9 +22,10 @@ $(document).ready(function() {
 		jQuery('head').append(link);
 	});
 });
-
+$(function(){
 $('#langselect').change(function(){
 	var pageURL = $(location).attr("href");
 	pageURL = pageURL.replace("https://smartcash.readthedocs.io/" + DOCUMENTATION_OPTIONS['LANGUAGE'], "");
 	window.location.href = "https://smartcash.readthedocs.io/" + $('#langselect').val() + pageURL;
+});
 });
