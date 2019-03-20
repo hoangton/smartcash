@@ -36,56 +36,62 @@ msgid ""
 "smarthive, instantpay, smartcard, smartvote, smartpay, NFC support for "
 "SmartCard, SmartVault"
 msgstr ""
+"smartcash, cryptocurrency, blockchain, documentation, guide, smartrewards, "
+"smartnodes, SmartBand, Electrum Wallet, mining, wallets, merchants, "
+"smarthive, instantpay, smartcard, smartvote, smartpay, NFC support for "
+"SmartCard, SmartVault"
 
 #: ../../introduction/features.rst:9
 msgid "Features"
-msgstr ""
+msgstr "Tính năng"
 
 #: ../../introduction/features.rst:14
 msgid "Specifications"
-msgstr ""
+msgstr "Thông số kỹ thuật"
 
 #: ../../introduction/features.rst:16
 msgid "First block mined at 11:24 PM, July 11, 2017"
-msgstr ""
+msgstr "Khối đầu tiên được khai thác tại 11:24, ngày 11 tháng 7 năm 2017"
 
 #: ../../introduction/features.rst:17
 msgid "No premine"
-msgstr ""
+msgstr "Không có khai thác trước"
 
 #: ../../introduction/features.rst:18
 msgid "Keccak hashing algorithm, GPU mining available"
-msgstr ""
+msgstr "Thuật toán băm Keccak, khai thác được bằng GPU"
 
 #: ../../introduction/features.rst:19
 msgid "55 seconds block time, 4MB blocks, ~232 transactions per second"
-msgstr ""
+msgstr "Thời gian khối 55 giây, kích thước khối 4MB, ~ 232 giao dịch mỗi giây"
 
 #: ../../introduction/features.rst:20
 msgid "BlockReward = 5000x(143,500/BlockHeight)(max.5000)"
-msgstr ""
+msgstr "Phần thưởng khối = 5000x(143,500/Chiều cao khối)(Tối đa.5000)"
 
 #: ../../introduction/features.rst:21
 msgid "BRNDF difficulty adjustment algorithm"
-msgstr ""
+msgstr "Thuật toán điều chỉnh độ khó BRNDF"
 
 #: ../../introduction/features.rst:22
 msgid "5 Billion total coin supply"
-msgstr ""
+msgstr "Tổng nguồn cung 5 tỷ đồng"
 
 #: ../../introduction/features.rst:23
 msgid "Instant transactions using instantpay"
-msgstr ""
+msgstr "Giao dịch ngay lập tức bằng cách sử dụng instantpay"
 
 #: ../../introduction/features.rst:24
 msgid ""
 "Decentralized Governance By Blockchain allows SMART owners to vote on budget"
 " proposals and decisions that affect SmartCash"
 msgstr ""
+"Quản lý không tập trung theo Blockchain cho phép chủ sở hữu SMART để bỏ "
+"phiếu về ngân sách cho các dự án có ảnh hưởng đến SmartCash"
 
 #: ../../introduction/features.rst:30
 msgid "Smartreward"
-msgstr ""
+msgstr "Smartreward"
 
 #: ../../introduction/features.rst:31
 msgid ""
@@ -100,7 +106,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:43
 msgid "Smartnode"
-msgstr ""
+msgstr "Smartnode"
 
 #: ../../introduction/features.rst:45
 msgid ""
@@ -116,7 +122,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:55
 msgid "Smartnodes enable the following services:"
-msgstr ""
+msgstr "Smartnodes cho phép các dịch vụ sau:"
 
 #: ../../introduction/features.rst:57
 msgid ""
@@ -147,15 +153,15 @@ msgstr ""
 
 #: ../../introduction/features.rst:64
 msgid "100000 SMART collateral"
-msgstr ""
+msgstr "Tài sản thế chấp 100000 SMART"
 
 #: ../../introduction/features.rst:65
 msgid "A computer for running a local wallet"
-msgstr ""
+msgstr "Máy tính để chạy một ví địa phương"
 
 #: ../../introduction/features.rst:66
 msgid "A dedicated VPS server running 24/7 with the following specifications:"
-msgstr ""
+msgstr "Máy chủ VPS dành riêng chạy 24/7 với các đặc điểm sau đây:"
 
 #: ../../introduction/features.rst:68
 msgid "-- 2 GB RAM -- 20 GB drive -- Static IPV4 Address per node"
@@ -172,7 +178,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:82 ../../introduction/features.rst:342
 msgid "InstantPay"
-msgstr ""
+msgstr "InstantPay"
 
 #: ../../introduction/features.rst:84
 msgid ""
@@ -236,7 +242,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:144
 msgid "Smartcard"
-msgstr ""
+msgstr "Smartcard"
 
 #: ../../introduction/features.rst:146
 msgid ""
@@ -264,7 +270,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:170
 msgid "Advantages"
-msgstr ""
+msgstr "Nâng cao"
 
 #: ../../introduction/features.rst:172
 msgid ""
@@ -301,7 +307,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:181
 msgid "Security"
-msgstr ""
+msgstr "Bảo mật"
 
 #: ../../introduction/features.rst:183
 msgid ""
@@ -335,7 +341,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:191
 msgid "SmartBand"
-msgstr ""
+msgstr "SmartBand"
 
 #: ../../introduction/features.rst:193
 msgid ""
@@ -355,7 +361,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:212
 msgid "Hive Structuring Teams"
-msgstr ""
+msgstr "Hive Structuring Teams"
 
 #: ../../introduction/features.rst:213
 msgid ""
@@ -459,7 +465,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:268
 msgid "Total coin emission"
-msgstr ""
+msgstr "Total coin emission"
 
 #: ../../introduction/features.rst:270
 msgid ""
@@ -498,27 +504,27 @@ msgstr ""
 
 #: ../../introduction/features.rst:290
 msgid "5% | Mining Reward"
-msgstr ""
+msgstr "5% | Phần thưởng khai thác"
 
 #: ../../introduction/features.rst:292
 msgid "10%"
-msgstr ""
+msgstr "10%"
 
 #: ../../introduction/features.rst:292
 msgid "Smartnodes"
-msgstr ""
+msgstr "Smartnodes"
 
 #: ../../introduction/features.rst:294
 msgid "15%"
-msgstr ""
+msgstr "15%"
 
 #: ../../introduction/features.rst:294
 msgid "SmartRewards"
-msgstr ""
+msgstr "SmartRewards"
 
 #: ../../introduction/features.rst:296
 msgid "4%"
-msgstr ""
+msgstr "4%"
 
 #: ../../introduction/features.rst:296
 msgid "x6 Hive Structuring Teams"
@@ -534,7 +540,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:305
 msgid "Fees"
-msgstr ""
+msgstr "Phí"
 
 #: ../../introduction/features.rst:307
 msgid ""
