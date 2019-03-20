@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../wallets/index.rst:9
 msgid "Wallets"
-msgstr ""
+msgstr "Ví"
 
 #: ../../wallets/index.rst:11
 msgid ""

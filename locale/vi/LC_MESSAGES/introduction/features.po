@@ -43,7 +43,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:9
 msgid "Features"
-msgstr "Tính năng"
+msgstr "Các tính năng"
 
 #: ../../introduction/features.rst:14
 msgid "Specifications"
@@ -103,6 +103,13 @@ msgid ""
 " every second block 1000 addresses receive rewards. SmartNodes will keep "
 "track on which addresses are eligible and which are not."
 msgstr ""
+"SmartRewards là một phương pháp phân phối phần thưởng khối cho các địa chỉ "
+"nắm giữ ít nhất 1000 SmartCash và không có giao dịch gửi đi trong khoảng "
+"thời gian 47500 khối để phân tán quyền bỏ phiếu và sản xuất coin cho cộng "
+"đồng lớn hơn. Điều này cho phép cho khối phần thưởng không tập trung. "
+"Payouts xảy ra 200 khối sau khi kết thúc chu kỳ và mỗi khối  thứ hai 1000 "
+"địa chỉ sẽ nhận được phần thưởng. SmartNodes sẽ theo dõi xem địa chỉ nào có "
+"đủ điều kiện nhận thưởng."
 
 #: ../../introduction/features.rst:43
 msgid "Smartnode"
@@ -149,7 +156,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:62
 msgid "SmartNodes are required to have"
-msgstr ""
+msgstr "SmartNodes được yêu cầu để có"
 
 #: ../../introduction/features.rst:64
 msgid "100000 SMART collateral"
@@ -214,11 +221,11 @@ msgstr ""
 
 #: ../../introduction/features.rst:110
 msgid "**SmartCash InstantPay Faster Than Visa or Mastercard**"
-msgstr ""
+msgstr "**SmartCash InstantPay nhanh hơn Visa hoặc Mastercard**"
 
 #: ../../introduction/features.rst:121
 msgid "Smartvote"
-msgstr ""
+msgstr "Smartvote"
 
 #: ../../introduction/features.rst:123
 msgid ""
@@ -277,6 +284,8 @@ msgid ""
 "No 3rd Party. Instant SmartCash payments to merchants anywhere in the world "
 "with 0% fees."
 msgstr ""
+"Không có bên thứ 3. Ngay lập tức thanh toán SmartCash cho người bán hàng ở "
+"bất cứ đâu trên thế giới với phí 0%."
 
 #: ../../introduction/features.rst:173
 msgid ""
@@ -299,11 +308,11 @@ msgstr ""
 
 #: ../../introduction/features.rst:177
 msgid "Convenience that all family understands."
-msgstr ""
+msgstr "Thuận tiện  tất cả gia đình hiểu được."
 
 #: ../../introduction/features.rst:178
 msgid "Open Source code with world wide contributors."
-msgstr ""
+msgstr "Mở mã nguồn đóng góp rộng trên thế giới."
 
 #: ../../introduction/features.rst:181
 msgid "Security"
@@ -317,11 +326,11 @@ msgstr ""
 
 #: ../../introduction/features.rst:184
 msgid "Zero knowledge of SmartCard private keys."
-msgstr ""
+msgstr "Zero Kiến thức về  chìa khóa riêng SmartCard."
 
 #: ../../introduction/features.rst:185
 msgid "Never exposes private keys to the internet."
-msgstr ""
+msgstr "Không bao giờ để lộ khoá riêng lên internet."
 
 #: ../../introduction/features.rst:186
 msgid ""
@@ -338,6 +347,8 @@ msgstr ""
 msgid ""
 "A decentralised payment system that gives you full control of your funds."
 msgstr ""
+"Một hệ thống thanh toán phi tập trung cung cấp cho bạn toàn quyền kiểm soát "
+"của tiền của bạn."
 
 #: ../../introduction/features.rst:191
 msgid "SmartBand"
@@ -385,7 +396,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:220
 msgid "Keccak Hash Algorithm"
-msgstr ""
+msgstr "Thuật toán băm Keccak"
 
 #: ../../introduction/features.rst:221
 msgid ""
@@ -404,7 +415,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:228
 msgid "Advantages of Keccak"
-msgstr ""
+msgstr "Ưu điểm của Keccak"
 
 #: ../../introduction/features.rst:230
 msgid ""
@@ -415,7 +426,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:236
 msgid "Emission Rate"
-msgstr ""
+msgstr "Tốc độ phát sinh"
 
 #: ../../introduction/features.rst:238
 msgid ""
@@ -461,7 +472,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:264
 msgid "SmartCahs coin emission rate 125 Years"
-msgstr ""
+msgstr "SmartCahs phát sinh tiền xu trong 125 năm"
 
 #: ../../introduction/features.rst:268
 msgid "Total coin emission"
@@ -494,7 +505,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:284
 msgid "Block reward allocation"
-msgstr ""
+msgstr "Phân bổ phần thưởng khối"
 
 #: ../../introduction/features.rst:286
 msgid ""
@@ -528,19 +539,19 @@ msgstr "4%"
 
 #: ../../introduction/features.rst:296
 msgid "x6 Hive Structuring Teams"
-msgstr ""
+msgstr "x6 Hive Structuring Teams"
 
 #: ../../introduction/features.rst:298
 msgid "46%"
-msgstr ""
+msgstr "46%"
 
 #: ../../introduction/features.rst:298
 msgid "SmartHive Project Treasury"
-msgstr ""
+msgstr "Kho bạc dự án SmartHive"
 
 #: ../../introduction/features.rst:305
 msgid "Fees"
-msgstr "Phí"
+msgstr "Phí giao dịch"
 
 #: ../../introduction/features.rst:307
 msgid ""
@@ -563,7 +574,7 @@ msgstr ""
 
 #: ../../introduction/features.rst:325
 msgid "instantpay fee"
-msgstr ""
+msgstr "phí instantpay "
 
 #: ../../introduction/features.rst:327
 msgid ""
@@ -577,39 +588,39 @@ msgstr ""
 
 #: ../../introduction/features.rst:336
 msgid "Transaction type"
-msgstr ""
+msgstr "Kiểu giao dịch"
 
 #: ../../introduction/features.rst:336
 msgid "Recommended fee"
-msgstr ""
+msgstr "Các khoản phí được đề nghị"
 
 #: ../../introduction/features.rst:336
 msgid "Per unit"
-msgstr ""
+msgstr "Mỗi đơn vị"
 
 #: ../../introduction/features.rst:338
 msgid "Standard transaction"
-msgstr ""
+msgstr "Giao dịch tiêu chuẩn "
 
 #: ../../introduction/features.rst:338 ../../introduction/features.rst:340
 msgid ".00001 SMART"
-msgstr ""
+msgstr ".00001 SMART"
 
 #: ../../introduction/features.rst:338 ../../introduction/features.rst:340
 msgid "Per kB of transaction data"
-msgstr ""
+msgstr "Mỗi kB dữ liệu giao dịch"
 
 #: ../../introduction/features.rst:340
 msgid "InstantPay autolock"
-msgstr ""
+msgstr "InstantPay tự động khoá"
 
 #: ../../introduction/features.rst:342
 msgid ".0001 SMART"
-msgstr ""
+msgstr ".0001 SMART"
 
 #: ../../introduction/features.rst:342
 msgid "Per transaction input"
-msgstr ""
+msgstr "Mỗi đầu vào giao dịch"
 
 #: ../../introduction/features.rst:346
 msgid ""
