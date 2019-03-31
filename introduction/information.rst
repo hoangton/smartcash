@@ -66,7 +66,6 @@ Official sites
 - **Statistics & Calculators**:
     *    https://explorer2.smartcash.cc/ext/getmoneysupply
     *    https://smartstats.cc/
-    *    https://smartrewards.cc/
     *    https://smartcash.cc/smartnodes/#toggle-id-1
 
 - **GitHub**:
@@ -115,7 +114,7 @@ Official sites
 - **SmartNodes**:
     * https://smartnodes.cc/
     * https://github.com/SmartCash/smartnode
-    * https://smartcash.blockchainlibrary.org/2018/01/guide-to-creating-a-smartcash-smartnode-vps-in-10-minutes-with-vultr/
+    * https://smartcash.freshdesk.com/solution/articles/35000047674
     * https://smartcash.cc/wp-content/uploads/2018/07/All-in-One-SmartNode-v1.2.4-2.pdf
     * http://t.me/smartnodemonitorbot
 
@@ -222,7 +221,6 @@ Block explorers, statistics and visualizations
 - **Statistics & Calculators**:
     * https://explorer2.smartcash.cc/ext/getmoneysupply
     * https://smartstats.cc/
-    * https://smartrewards.cc/
     * https://smartcash.cc/smartnodes/#toggle-id-1
 
 
@@ -248,9 +246,7 @@ SmartCash Community project
 ---------------------------
 
 - https://smartie.shop/wp/
-- https://smartcash.blockchainlibrary.org/
 - https://smartstats.cc/
-- https://smartrewards.cc/
 - https://smartcashradio.libsyn.com/
 
 
