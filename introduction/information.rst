@@ -83,23 +83,18 @@ Official sites
 
 
 
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Language    | Download																	|
-+=============+=================================================================================================================================================+
-| English     | `PDF_SmartCash_brochure_en_1.2.8 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en_v1.2.8.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Russian     | `PDF_SmartCash_brochure_ru_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| German      | `PDF_SmartCash_brochure_DE_1.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Spanish     | `PDF_SmartCash_brochure_es_1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Portuguese  | `PDF_SmartCash_brochure_ptbr_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Japanese    | `PDF_SmartCash_brochure_ja_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
-| Vietnamese  | `PDF_SmartCash_brochure_vi_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_		|
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
+.. csv-table:: Brochures
+   :header: Language,Download
+   :widths: 20, 200
+   :stub-columns: 1
+
+   English,`PDF_SmartCash_brochure_en-1.2.8 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_en_v1.2.8.pdf>`_
+   Russian,`PDF_SmartCash_brochure_ru_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ru_1.2.pdf>`_
+   German,`PDF_SmartCash_brochure_DE_1.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_DE_1.4.pdf>`_
+   Spanish,`PDF_SmartCash_brochure_es_1.2.4 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_es_1.2.4.pdf>`_
+   Portuguese,`PDF_SmartCash_brochure_ptbr_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ptbr_1.2.pdf>`_
+   Japanese,`PDF_SmartCash_brochure_ja_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_ja_1.2.pdf>`_
+   Vietnamese,`PDF_SmartCash_brochure_vi_1.2 <https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_
 
 
 
