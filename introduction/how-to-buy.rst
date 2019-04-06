@@ -361,7 +361,7 @@ Instant exchanges
 =================
 
 SmartShift
-  .. image:: exchanges/smartshift.svg
+  .. image:: exchanges/SmartShift.png
      :width: 200px
      :align: right
      :target: https://www.youtube.com/watch?v=ybqPF5HgcIk
