@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-23 22:11+0700\n"
+"POT-Creation-Date: 2019-04-08 14:36+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -233,7 +233,7 @@ msgid "SmartCash smartstats smartnode"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:150
-msgid "https://smartstats.cc/smartnodes"
+msgid "https://stats.smartcash.cc/smartnodes"
 msgstr ""
 
 #: ../../smartnodes/maintenance.rst:152
@@ -360,5 +360,8 @@ msgstr ""
 #~ "<https://smart.ccore.online/>`__ and a `function "
 #~ "<https://smart.ccore.online/masternodes>`__ to view "
 #~ "and map SmartCash smartnodes."
+#~ msgstr ""
+
+#~ msgid "https://smartstats.cc/smartnodes"
 #~ msgstr ""
 

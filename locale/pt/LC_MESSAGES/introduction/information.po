@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-31 22:31+0700\n"
+"POT-Creation-Date: 2019-04-08 14:36+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../../introduction/information.rst:68 ../../introduction/information.rst:218
 #: ../../introduction/information.rst:244
-msgid "https://smartstats.cc/"
+msgid "https://stats.smartcash.cc/"
 msgstr ""
 
 #: ../../introduction/information.rst:69 ../../introduction/information.rst:219
@@ -494,7 +494,7 @@ msgid "https://whattomine.com/coins/197-smart-keccak"
 msgstr ""
 
 #: ../../introduction/information.rst:149
-msgid "https://smartstats.cc/mining"
+msgid "https://stats.smartcash.cc/mining"
 msgstr ""
 
 #: ../../introduction/information.rst:152
@@ -2021,5 +2021,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "https://smartcash.blockchainlibrary.org/"
+#~ msgstr ""
+
+#~ msgid "https://smartstats.cc/"
+#~ msgstr ""
+
+#~ msgid "https://smartstats.cc/mining"
 #~ msgstr ""
 
