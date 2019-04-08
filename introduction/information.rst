@@ -65,7 +65,7 @@ Official sites
 
 - **Statistics & Calculators**:
     *    https://explorer2.smartcash.cc/ext/getmoneysupply
-    *    https://smartstats.cc/
+    *    https://stats.smartcash.cc/
     *    https://smartcash.cc/smartnodes/#toggle-id-1
 
 - **GitHub**:
@@ -146,7 +146,7 @@ Community sites
 
 - **Mining Stats**:
     * https://whattomine.com/coins/197-smart-keccak
-    * https://smartstats.cc/mining
+    * https://stats.smartcash.cc/mining
 	
 - **SmartCash News**:
     https://medium.com/@smartcashnews
@@ -215,7 +215,7 @@ Block explorers, statistics and visualizations
 
 - **Statistics & Calculators**:
     * https://explorer2.smartcash.cc/ext/getmoneysupply
-    * https://smartstats.cc/
+    * https://stats.smartcash.cc/
     * https://smartcash.cc/smartnodes/#toggle-id-1
 
 
@@ -241,7 +241,7 @@ SmartCash Community project
 ---------------------------
 
 - https://smartie.shop/wp/
-- https://smartstats.cc/
+- https://stats.smartcash.cc/
 - https://smartcashradio.libsyn.com/
 
 
