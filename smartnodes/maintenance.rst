@@ -147,7 +147,7 @@ the SmartCash network.
 SmartCash smartstats smartnode
 ------------------------------
 
-https://smartstats.cc/smartnodes
+https://stats.smartcash.cc/smartnodes
 
 This site, offers a visual representation of many key statistics of the SmartCash
 smartnode network, including graphs of the total smartnode count over
