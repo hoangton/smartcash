@@ -128,6 +128,9 @@ Community sites
     - https://cointracking.info/
     - HODL iOS: https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876
     - HODL Android: https://play.google.com/store/apps/details?id=com.github.hintofbasil.hodl
+- **Event Calendar**:
+    https://smartcash.cc/event-directory/
+    https://coindar.org/en/coin/smartcash
 - **Mining Guide**:
     https://steemit.com/smartcash/@keyd0s/smartcash-mining-guide
 
