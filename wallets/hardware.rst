@@ -35,7 +35,6 @@ key, Trezor claims to use a number of clever tricks to maintain security
 even on compromised and unsafe machines.
 
 - Site: https://trezor.io
-- Review: https://www.dashforcenews.com/trezor-hardware-wallet-review
 - Shop: https://shop.trezor.io
 - Wallet: https://wallet.trezor.io
 
@@ -108,3 +107,27 @@ steps when setting up your Trezor for the first time:
    :width: 400px
 
    Trezor Web Wallet for SmartCash ready for first use
+   
+.. _hardware-ellipal:
+
+Ellipal
+=======
+
+.. image:: img/ellipal.png
+   :width: 100px
+   :align: right
+
+ELLIPAL Hardware Wallet is completely isolated from all physical and network connections. This means ELLIPAL cannot be connected to any devices or to any networks, completely protecting it from hackers aiming for your coins.
+
+Without ever relying on USB or Bluetooth connection to work, ELLIPAL is the safest hardware wallet in the market.
+
+ELLIPAL is an air-gapped device, it works flawlessly with ELLIPAL App via secure and verifiable QR codes.
+
+- Site: https://www.ellipal.com
+- Shop: https://www.ellipal.com/collections/all
+- Wallet: https://www.ellipal.com/pages/hardwarewallet-new
+
+.. figure:: img/ellipal-smartcash.jpg
+   :width: 400px
+
+   Ellipal Wallet support SmartCash
