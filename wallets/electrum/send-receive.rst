@@ -86,7 +86,7 @@ after it is made. Initially, this transaction will be marked as
 **Unconfirmed**, followed by a clock indicator on the left. As the SmartCash
 network processes the transaction, the status will update in the
 transaction history list. The network confirms transactions with a new
-block roughly every 2.5 minutes, and a transaction is considered
+block roughly every 5 seconds, and a transaction is considered
 confirmed (and therefore spendable) after six confirmations. These
 processed transactions are denoted with a green checkmark and the
 timestamp at which the transaction was made.

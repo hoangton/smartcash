@@ -467,7 +467,7 @@ Add the private key to your smartnode configuration
 
 Double check  ip of your VPS and the info in the  smartnode.conf in Desktop wallet ( when have as many VPS will have as many row in smartnode.conf )
 
-.. warning:: Wait at least 20 confirmations (if you attempt to start your smartnode before you get 20 confirmations, your smartnode won’t work and you have to restart procedure). You can check number of Collateral confirmations in explorer.
+.. warning:: Wait at least 15 confirmations (if you attempt to start your smartnode before you get 15 confirmations, your smartnode won’t work and you have to restart procedure). You can check number of Collateral confirmations in explorer.
 
 Go to SmartNodes tab > My SmartNodes
 
