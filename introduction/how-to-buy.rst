@@ -127,17 +127,15 @@ HitBTC
   normal users.
 
 
-Cryptopia
-  .. image:: exchanges/cryptopia.png
+Safe.trade
+  .. image:: exchanges/safetrade.jpg
      :width: 200px
      :align: right
-     :target: https://www.cryptopia.co.nz
+     :target: https://safe.trade/trading/bcsmart
 
-  https://www.cryptopia.co.nz
+  https://safe.trade/trading/bcsmart
 
-  Cryptopia is a New Zealand cryptocurrency exchange with a reputation
-  for supporting a large number of low-volume altcoins. It offers SMART
-  trading pairs for BTC, LTC, DOGE.
+  SafeTrade is a new, innovative trading platform for cryptocurrencies from the folks who brought you SafeCoin.
 
 Bleutrade
   .. image:: exchanges/bleutrade.png
