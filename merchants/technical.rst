@@ -135,11 +135,12 @@ Mycryptocheckout
 https://mycryptocheckout.com/
 
 Accept cryptocurrency payments for WordPress.
-* 0% transaction fees
-* Peer-to-peer payments
-* Use any crypto wallet you want
-* No KYC or product restrictions
-* Accept 93+ coins
+
+-  0% transaction fees
+-  Peer-to-peer payments
+-  Use any crypto wallet you want
+-  No KYC or product restrictions
+-  Accept 93+ coins
 
 Anypay
 ------
