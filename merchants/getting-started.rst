@@ -40,7 +40,7 @@ choosing a payment provider to ensure your needs will be met.
 
 For more advanced payment processing needs, such as for high risk
 merchant accounts in industries challenged with high levels of
-chargebacks, it is recommended to contact SmartCash partner `Coinpayments <https://www.coinpayments.net/>`__. or `Anypay <https://anypay.global/>`__.
+chargebacks, it is recommended to contact SmartCash partner `Mycryptocheckout <https://mycryptocheckout.com/>`__. or `Coinpayments <https://www.coinpayments.net/>`__. or `Anypay <https://anypay.global/>`__.
 
 
 Point of Sale
@@ -107,6 +107,7 @@ table is intended to help you select an appropriate payment processor
 for your existing store.
 
 `CoinPayments <https://www.coinpayments.net>`_ 
+`Mycryptocheckout <https://mycryptocheckout.com/>`_ 
 
 
 **SmartCash Ecommerce Plugins**
@@ -115,7 +116,7 @@ Make your website run Wordpress become Ecommerce store with WooCommerce Plugin
 
 `SmartCash WooCommerce Plugins <https://github.com/SmartCash/WooCommerce>`_
 
-**WooCommerce and CoinPayments.net**
+**WooCommerce and CoinPayments.net and Mycryptocheckout**
 
 If your online store is built on WooCommerce, you can simply install
 CoinPayments as an additional payment gateway and immediately begin

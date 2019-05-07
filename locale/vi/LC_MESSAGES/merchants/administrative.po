@@ -1,25 +1,26 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2019, SmartCash
 # This file is distributed under the same license as the SmartCash package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
 # Translators:
 # hoangton <smartcashvietnam@gmail.com>, 2019
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-10 08:34+0700\n"
+"POT-Creation-Date: 2019-05-07 13:27+0700\n"
 "PO-Revision-Date: 2019-01-16 11:32+0000\n"
 "Last-Translator: hoangton <smartcashvietnam@gmail.com>, 2019\n"
-"Language-Team: Vietnamese (https://www.transifex.com/smartcash/teams/95224/vi/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: vi\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Team: Vietnamese "
+"(https://www.transifex.com/smartcash/teams/95224/vi/)\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../merchants/administrative.rst:1
 msgid ""
@@ -39,10 +40,10 @@ msgstr "Qúa trình quản trị"
 
 #: ../../merchants/administrative.rst:11
 msgid ""
-"It's easy to get started integrating SmartCash, but you will need to make "
-"some decisions about whether you plan to convert your income earned in "
-"SmartCash into your local fiat currency, or if you prefer to hold some or "
-"all of it in SmartCash. Most payment processors offer a range of fiat "
+"It's easy to get started integrating SmartCash, but you will need to make"
+" some decisions about whether you plan to convert your income earned in "
+"SmartCash into your local fiat currency, or if you prefer to hold some or"
+" all of it in SmartCash. Most payment processors offer a range of fiat "
 "conversion options, although various fees and limits may be applicable."
 msgstr ""
 
@@ -88,17 +89,17 @@ msgstr ""
 msgid ""
 "A wide range of ready-to-go visual products are available to help you "
 "promote SmartCash as a payment method to your customers. This includes "
-"promotional graphics and stickers, fonts for consistent visual design and "
-"guidelines on how to use the SmartCash visual identity. See the "
+"promotional graphics and stickers, fonts for consistent visual design and"
+" guidelines on how to use the SmartCash visual identity. See the "
 ":ref:`Marketing <marketing>` section for more information."
 msgstr ""
 
 #: ../../merchants/administrative.rst:41
 msgid ""
-"The reduced fees may also offer an additional incentive for your customers "
-"to pay with SmartCash, particularly in businesses with high cash handling "
-"fees or where it is necessary to add a fee to process credit card "
-"transactions."
+"The reduced fees may also offer an additional incentive for your "
+"customers to pay with SmartCash, particularly in businesses with high "
+"cash handling fees or where it is necessary to add a fee to process "
+"credit card transactions."
 msgstr ""
 
 #: ../../merchants/administrative.rst:48
@@ -107,32 +108,51 @@ msgstr ""
 
 #: ../../merchants/administrative.rst:50
 msgid ""
-"Cryptocurrency is a relatively recent development, and rapid development in "
-"the ecosystem coupled with various barriers to access and heavy trading mean"
-" that fiat-denominated value is subject to considerable fluctuation. As a "
-"merchant, you will need to make decisions about how much of your income "
-"taken in cryptocurrency should actually be held in cryptocurrency, and how "
-"much should be converted back to a fiat currency (such as USD) directly. "
-"Different payment processors offer different solutions to this problem."
+"Cryptocurrency is a relatively recent development, and rapid development "
+"in the ecosystem coupled with various barriers to access and heavy "
+"trading mean that fiat-denominated value is subject to considerable "
+"fluctuation. As a merchant, you will need to make decisions about how "
+"much of your income taken in cryptocurrency should actually be held in "
+"cryptocurrency, and how much should be converted back to a fiat currency "
+"(such as USD) directly. Different payment processors offer different "
+"solutions to this problem."
 msgstr ""
 
 #: ../../merchants/administrative.rst:59
 msgid ""
-"Services such as `CoinPayments <https://www.coinpayments.net>`_ or `Anypay "
-"<https://anypay.global/>`_ offer the ability to diversify your payments into"
-" a range of different cryptocurrencies, but require you to set up automatic "
-"withdrawals to an :ref:`exchange <exchanges>` for conversion to fiat "
-"currency. Note that these listing are not endorsements, and you must "
-"complete your own due diligence and/or seek advice from a tax and investment"
-" specialist before investing."
+"Services such as `Mycryptocheckout <https://mycryptocheckout.com>`_ or "
+"`CoinPayments <https://www.coinpayments.net>`_ or `Anypay "
+"<https://anypay.global/>`_ offer the ability to diversify your payments "
+"into a range of different cryptocurrencies, but require you to set up "
+"automatic withdrawals to an :ref:`exchange <exchanges>` for conversion to"
+" fiat currency. Note that these listing are not endorsements, and you "
+"must complete your own due diligence and/or seek advice from a tax and "
+"investment specialist before investing."
 msgstr ""
 
-#: ../../merchants/administrative.rst:70
+#: ../../merchants/administrative.rst:71
 msgid "Legal considerations"
 msgstr ""
 
-#: ../../merchants/administrative.rst:72
+#: ../../merchants/administrative.rst:73
 msgid ""
 "Tax, legal and regulatory considerations may be applicable in some "
 "jurisdictions."
 msgstr ""
+
+#~ msgid ""
+#~ "Services such as `CoinPayments "
+#~ "<https://www.coinpayments.net>`_ or `Anypay "
+#~ "<https://anypay.global/>`_ offer the ability "
+#~ "to diversify your payments into a "
+#~ "range of different cryptocurrencies, but "
+#~ "require you to set up automatic "
+#~ "withdrawals to an :ref:`exchange <exchanges>`"
+#~ " for conversion to fiat currency. "
+#~ "Note that these listing are not "
+#~ "endorsements, and you must complete your"
+#~ " own due diligence and/or seek advice"
+#~ " from a tax and investment specialist"
+#~ " before investing."
+#~ msgstr ""
+

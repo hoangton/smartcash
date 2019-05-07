@@ -56,7 +56,8 @@ cryptocurrency, and how much should be converted back to a fiat currency
 (such as USD) directly. Different payment processors offer different
 solutions to this problem.
 
-Services such as `CoinPayments
+Services such as `Mycryptocheckout
+<https://mycryptocheckout.com>`_ or `CoinPayments
 <https://www.coinpayments.net>`_ or `Anypay
 <https://anypay.global/>`_ offer the ability to diversify your
 payments into a range of different cryptocurrencies, but require you to

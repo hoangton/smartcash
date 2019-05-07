@@ -124,6 +124,23 @@ or integrate with your pre-existing checkout.
   (https://www.coinpayments.net/help-fees)
 - Documentation: https://www.coinpayments.net/apidoc
 
+Mycryptocheckout
+----------------
+
+.. image:: img/mycryptocheckout.png
+   :width: 200px
+   :align: right
+   :target: https://mycryptocheckout.com/
+
+https://mycryptocheckout.com/
+
+Accept cryptocurrency payments for WordPress.
+* 0% transaction fees
+* Peer-to-peer payments
+* Use any crypto wallet you want
+* No KYC or product restrictions
+* Accept 93+ coins
+
 Anypay
 ------
 
