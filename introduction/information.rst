@@ -101,10 +101,11 @@ Official sites
 - **Exchanges**:
     * Full List: https://smartcash.cc/get-smartcash/
     * Exmo: https://exmo.com/
+    * Changelly: https://changelly.com/
+    * ChangeNow: https://changenow.io/
+    * SmartShift: https://wallet.smartcash.cc/smartshift
     * HitBTC: https://hitbtc.com/
-    * Cryptobridge: https://crypto-bridge.org/
-    * Cryptopia: https://www.cryptopia.co.nz/
-    * Changelly: https://changelly.com/(edited)
+
 	
 - **SmartNodes**:
     * https://smartnodes.cc/

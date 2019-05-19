@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-11 20:05+0700\n"
+"POT-Creation-Date: 2019-05-19 13:57+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -113,7 +113,7 @@ msgstr ""
 msgid "**SmartHive Project Voting**:"
 msgstr ""
 
-#: ../../introduction/information.rst:44 ../../introduction/information.rst:228
+#: ../../introduction/information.rst:44 ../../introduction/information.rst:229
 msgid "https://vote.smartcash.cc/"
 msgstr ""
 
@@ -125,85 +125,85 @@ msgstr ""
 msgid "**SmartCash Media**:"
 msgstr ""
 
-#: ../../introduction/information.rst:48 ../../introduction/information.rst:173
+#: ../../introduction/information.rst:48 ../../introduction/information.rst:174
 msgid "https://smartcash.cc/social-media/"
 msgstr ""
 
-#: ../../introduction/information.rst:49 ../../introduction/information.rst:174
+#: ../../introduction/information.rst:49 ../../introduction/information.rst:175
 msgid "https://twitter.com/scashofficial"
 msgstr ""
 
-#: ../../introduction/information.rst:50 ../../introduction/information.rst:175
+#: ../../introduction/information.rst:50 ../../introduction/information.rst:176
 msgid "https://www.reddit.com/r/smartcash/"
 msgstr ""
 
-#: ../../introduction/information.rst:51 ../../introduction/information.rst:176
+#: ../../introduction/information.rst:51 ../../introduction/information.rst:177
 msgid "http://discord.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:52 ../../introduction/information.rst:177
+#: ../../introduction/information.rst:52 ../../introduction/information.rst:178
 msgid "http://t.me/smartcashchat"
 msgstr ""
 
-#: ../../introduction/information.rst:53 ../../introduction/information.rst:178
+#: ../../introduction/information.rst:53 ../../introduction/information.rst:179
 msgid "https://www.minds.com/smartcashoutreach1"
 msgstr ""
 
-#: ../../introduction/information.rst:54 ../../introduction/information.rst:179
+#: ../../introduction/information.rst:54 ../../introduction/information.rst:180
 msgid "http://forum.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:55 ../../introduction/information.rst:180
+#: ../../introduction/information.rst:55 ../../introduction/information.rst:181
 msgid "http://youtube.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:56 ../../introduction/information.rst:155
-#: ../../introduction/information.rst:181
+#: ../../introduction/information.rst:56 ../../introduction/information.rst:156
+#: ../../introduction/information.rst:182
 msgid "https://medium.com/@smartcashnews"
 msgstr ""
 
-#: ../../introduction/information.rst:57 ../../introduction/information.rst:182
+#: ../../introduction/information.rst:57 ../../introduction/information.rst:183
 msgid "https://www.instagram.com/scashofficial/"
 msgstr ""
 
-#: ../../introduction/information.rst:58 ../../introduction/information.rst:183
+#: ../../introduction/information.rst:58 ../../introduction/information.rst:184
 msgid "https://www.facebook.com/scashofficial/"
 msgstr ""
 
-#: ../../introduction/information.rst:59 ../../introduction/information.rst:184
+#: ../../introduction/information.rst:59 ../../introduction/information.rst:185
 msgid "https://gab.ai/smartcash"
 msgstr ""
 
-#: ../../introduction/information.rst:64 ../../introduction/information.rst:217
+#: ../../introduction/information.rst:64 ../../introduction/information.rst:218
 msgid "**Block Explorers**:"
 msgstr ""
 
-#: ../../introduction/information.rst:62 ../../introduction/information.rst:215
+#: ../../introduction/information.rst:62 ../../introduction/information.rst:216
 msgid "https://insight.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:63 ../../introduction/information.rst:216
+#: ../../introduction/information.rst:63 ../../introduction/information.rst:217
 msgid "https://explorer3.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:64 ../../introduction/information.rst:217
+#: ../../introduction/information.rst:64 ../../introduction/information.rst:218
 msgid "https://smart.ccore.online/"
 msgstr ""
 
-#: ../../introduction/information.rst:69 ../../introduction/information.rst:223
+#: ../../introduction/information.rst:69 ../../introduction/information.rst:224
 msgid "**Statistics & Calculators**:"
 msgstr ""
 
-#: ../../introduction/information.rst:67 ../../introduction/information.rst:220
+#: ../../introduction/information.rst:67 ../../introduction/information.rst:221
 msgid "https://explorer2.smartcash.cc/ext/getmoneysupply"
 msgstr ""
 
-#: ../../introduction/information.rst:68 ../../introduction/information.rst:221
-#: ../../introduction/information.rst:247
+#: ../../introduction/information.rst:68 ../../introduction/information.rst:222
+#: ../../introduction/information.rst:248
 msgid "https://stats.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:69 ../../introduction/information.rst:222
+#: ../../introduction/information.rst:69 ../../introduction/information.rst:223
 msgid "https://smartcash.cc/smartnodes/#toggle-id-1"
 msgstr ""
 
@@ -325,7 +325,7 @@ msgid ""
 "<https://github.com/hoangton/smartcash/blob/master/binary/brochures/SmartCash_brochure_vi_1.2.pdf>`_"
 msgstr ""
 
-#: ../../introduction/information.rst:107
+#: ../../introduction/information.rst:108
 msgid "**Exchanges**:"
 msgstr ""
 
@@ -338,316 +338,316 @@ msgid "Exmo: https://exmo.com/"
 msgstr ""
 
 #: ../../introduction/information.rst:104
-msgid "HitBTC: https://hitbtc.com/"
+msgid "Changelly: https://changelly.com/"
 msgstr ""
 
 #: ../../introduction/information.rst:105
-msgid "Cryptobridge: https://crypto-bridge.org/"
+msgid "ChangeNow: https://changenow.io/"
 msgstr ""
 
 #: ../../introduction/information.rst:106
-msgid "Cryptopia: https://www.cryptopia.co.nz/"
+msgid "SmartShift: https://wallet.smartcash.cc/smartshift"
 msgstr ""
 
 #: ../../introduction/information.rst:107
-msgid "Changelly: https://changelly.com/(edited)"
+msgid "HitBTC: https://hitbtc.com/"
 msgstr ""
 
-#: ../../introduction/information.rst:114
+#: ../../introduction/information.rst:115
 msgid "**SmartNodes**:"
 msgstr ""
 
-#: ../../introduction/information.rst:110
+#: ../../introduction/information.rst:111
 msgid "https://smartnodes.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:111
+#: ../../introduction/information.rst:112
 msgid "https://github.com/SmartCash/smartnode"
 msgstr ""
 
-#: ../../introduction/information.rst:112
+#: ../../introduction/information.rst:113
 msgid "https://smartcash.freshdesk.com/solution/articles/35000047674"
 msgstr ""
 
-#: ../../introduction/information.rst:113
+#: ../../introduction/information.rst:114
 msgid ""
 "https://smartcash.cc/wp-content/uploads/2018/07/All-in-One-"
 "SmartNode-v1.2.4-2.pdf"
 msgstr ""
 
-#: ../../introduction/information.rst:114
+#: ../../introduction/information.rst:115
 msgid "http://t.me/smartnodemonitorbot"
 msgstr ""
 
-#: ../../introduction/information.rst:120
+#: ../../introduction/information.rst:121
 msgid "**Charts**:"
-msgstr ""
-
-#: ../../introduction/information.rst:117
-#: ../../introduction/information.rst:165
-msgid "https://bravenewcoin.com/smartcash"
 msgstr ""
 
 #: ../../introduction/information.rst:118
 #: ../../introduction/information.rst:166
-msgid "https://coinmarketcap.com/currencies/smartcash/"
+msgid "https://bravenewcoin.com/smartcash"
 msgstr ""
 
 #: ../../introduction/information.rst:119
 #: ../../introduction/information.rst:167
-#: ../../introduction/information.rst:238
+msgid "https://coinmarketcap.com/currencies/smartcash/"
+msgstr ""
+
+#: ../../introduction/information.rst:120
+#: ../../introduction/information.rst:168
+#: ../../introduction/information.rst:239
 msgid "https://www.coingecko.com/en/coins/smartcash"
 msgstr ""
 
-#: ../../introduction/information.rst:123
+#: ../../introduction/information.rst:124
 msgid "Community sites"
 msgstr ""
 
-#: ../../introduction/information.rst:129
+#: ../../introduction/information.rst:130
 msgid "**Portfolio Tools**:"
 msgstr ""
 
-#: ../../introduction/information.rst:126
+#: ../../introduction/information.rst:127
 msgid "http://blockfolio.com/"
 msgstr ""
 
-#: ../../introduction/information.rst:127
+#: ../../introduction/information.rst:128
 msgid "https://getdelta.io/#features"
 msgstr ""
 
-#: ../../introduction/information.rst:128
+#: ../../introduction/information.rst:129
 msgid "https://cointracking.info/"
 msgstr ""
 
-#: ../../introduction/information.rst:129
+#: ../../introduction/information.rst:130
 msgid ""
 "HODL iOS: https://itunes.apple.com/us/app/hodl-real-time-"
 "cryptocurrency/id1253668876"
 msgstr ""
 
-#: ../../introduction/information.rst:130
+#: ../../introduction/information.rst:131
 msgid ""
 "HODL Android: "
 "https://play.google.com/store/apps/details?id=com.github.hintofbasil.hodl"
 msgstr ""
 
-#: ../../introduction/information.rst:132
+#: ../../introduction/information.rst:133
 msgid "**Event Calendar**:"
 msgstr ""
 
-#: ../../introduction/information.rst:132
+#: ../../introduction/information.rst:133
 msgid ""
 "https://smartcash.cc/event-directory/ "
 "https://coindar.org/en/coin/smartcash"
 msgstr ""
 
-#: ../../introduction/information.rst:135
+#: ../../introduction/information.rst:136
 msgid "**Mining Guide**:"
 msgstr ""
 
-#: ../../introduction/information.rst:135
+#: ../../introduction/information.rst:136
 msgid "https://steemit.com/smartcash/@keyd0s/smartcash-mining-guide"
 msgstr ""
 
-#: ../../introduction/information.rst:143
+#: ../../introduction/information.rst:144
 msgid "**Mining Pools**:"
 msgstr ""
 
-#: ../../introduction/information.rst:138
+#: ../../introduction/information.rst:139
 msgid "https://us-mine.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:139
+#: ../../introduction/information.rst:140
 msgid "https://eu-mine.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:140
+#: ../../introduction/information.rst:141
 msgid "https://asia-mine.smartcash.cc/"
 msgstr ""
 
-#: ../../introduction/information.rst:141
+#: ../../introduction/information.rst:142
 msgid "https://nlpool.nl/"
 msgstr ""
 
-#: ../../introduction/information.rst:142
+#: ../../introduction/information.rst:143
 msgid "http://antminepool.com/"
 msgstr ""
 
-#: ../../introduction/information.rst:143
+#: ../../introduction/information.rst:144
 msgid "https://blake2s.com/"
 msgstr ""
 
-#: ../../introduction/information.rst:148
+#: ../../introduction/information.rst:149
 msgid "**Mining Programs**:"
 msgstr ""
 
-#: ../../introduction/information.rst:146
+#: ../../introduction/information.rst:147
 msgid "Claymore Dual Miner: https://bitcointalk.org/index.php?topic=1433925.0"
 msgstr ""
 
-#: ../../introduction/information.rst:147
+#: ../../introduction/information.rst:148
 msgid ""
 "NVIDIA: https://github.com/tpruvot/ccminer/releases and "
 "https://github.com/KlausT/ccminer/releases"
 msgstr ""
 
-#: ../../introduction/information.rst:148
+#: ../../introduction/information.rst:149
 msgid "AMD: https://github.com/genesismining/sgminer-gm/releases"
 msgstr ""
 
-#: ../../introduction/information.rst:152
+#: ../../introduction/information.rst:153
 msgid "**Mining Stats**:"
 msgstr ""
 
-#: ../../introduction/information.rst:151
+#: ../../introduction/information.rst:152
 msgid "https://whattomine.com/coins/197-smart-keccak"
 msgstr ""
 
-#: ../../introduction/information.rst:152
+#: ../../introduction/information.rst:153
 msgid "https://stats.smartcash.cc/mining"
 msgstr ""
 
-#: ../../introduction/information.rst:155
+#: ../../introduction/information.rst:156
 msgid "**SmartCash News**:"
 msgstr ""
 
-#: ../../introduction/information.rst:157
+#: ../../introduction/information.rst:158
 msgid "**SmartCash Newsletter**: https://smartcash.cc/signup"
 msgstr ""
 
-#: ../../introduction/information.rst:160
+#: ../../introduction/information.rst:161
 msgid "Forums"
 msgstr ""
 
-#: ../../introduction/information.rst:161
+#: ../../introduction/information.rst:162
 msgid "https://forum.smartcash.cc"
 msgstr ""
 
-#: ../../introduction/information.rst:164
+#: ../../introduction/information.rst:165
 msgid "Charts"
 msgstr ""
 
-#: ../../introduction/information.rst:171
+#: ../../introduction/information.rst:172
 msgid "Social media"
 msgstr ""
 
-#: ../../introduction/information.rst:189
+#: ../../introduction/information.rst:190
 msgid "News"
 msgstr ""
 
-#: ../../introduction/information.rst:191
+#: ../../introduction/information.rst:192
 msgid "https://smartcash.cc/news/"
 msgstr ""
 
-#: ../../introduction/information.rst:192
+#: ../../introduction/information.rst:193
 msgid "https://steemit.com/@smartcashnews/"
 msgstr ""
 
-#: ../../introduction/information.rst:193
+#: ../../introduction/information.rst:194
 msgid "https://www.mycryptopedia.com/smartcash-masternode-explained/"
 msgstr ""
 
-#: ../../introduction/information.rst:197
+#: ../../introduction/information.rst:198
 msgid "Blogs"
 msgstr ""
 
-#: ../../introduction/information.rst:200
+#: ../../introduction/information.rst:201
 msgid "Wikipedia"
 msgstr ""
 
-#: ../../introduction/information.rst:205
+#: ../../introduction/information.rst:206
 msgid "Inactive"
 msgstr ""
 
-#: ../../introduction/information.rst:209
+#: ../../introduction/information.rst:210
 msgid "Tools"
 msgstr ""
 
-#: ../../introduction/information.rst:212
+#: ../../introduction/information.rst:213
 msgid "Block explorers, statistics and visualizations"
 msgstr ""
 
-#: ../../introduction/information.rst:226
+#: ../../introduction/information.rst:227
 msgid "Treasury tools"
 msgstr ""
 
-#: ../../introduction/information.rst:231
+#: ../../introduction/information.rst:232
 msgid "Smartnode management"
 msgstr ""
 
-#: ../../introduction/information.rst:233
+#: ../../introduction/information.rst:234
 msgid "https://steemit.com/smartcash/@dustinface/v2-0-smartnodemonitor-update"
 msgstr ""
 
-#: ../../introduction/information.rst:236
+#: ../../introduction/information.rst:237
 msgid "Price monitoring and statistics"
 msgstr ""
 
-#: ../../introduction/information.rst:239
+#: ../../introduction/information.rst:240
 msgid "https://coinmarketcap.com/currencies/smartcash"
 msgstr ""
 
-#: ../../introduction/information.rst:244
+#: ../../introduction/information.rst:245
 msgid "SmartCash Community project"
 msgstr ""
 
-#: ../../introduction/information.rst:246
+#: ../../introduction/information.rst:247
 msgid "https://smartie.shop/wp/"
 msgstr ""
 
-#: ../../introduction/information.rst:248
+#: ../../introduction/information.rst:249
 msgid "https://smartcashradio.libsyn.com/"
 msgstr ""
 
-#: ../../introduction/information.rst:252
+#: ../../introduction/information.rst:253
 msgid "Mobile Apps"
 msgstr ""
 
-#: ../../introduction/information.rst:255
+#: ../../introduction/information.rst:256
 msgid "iOS"
 msgstr ""
 
-#: ../../introduction/information.rst:257
+#: ../../introduction/information.rst:258
 msgid "https://itunes.apple.com/us/app/smartcash-wallet/id1438215565?mt=8"
 msgstr ""
 
-#: ../../introduction/information.rst:258
+#: ../../introduction/information.rst:259
 msgid "https://itunes.apple.com/us/app/coinomi-wallet/id1333588809?mt=8"
 msgstr ""
 
-#: ../../introduction/information.rst:259
+#: ../../introduction/information.rst:260
 msgid "https://itunes.apple.com/us/app/edge-bitcoin-wallet/id1344400091?mt=8"
 msgstr ""
 
-#: ../../introduction/information.rst:263
+#: ../../introduction/information.rst:264
 msgid "Android"
 msgstr ""
 
-#: ../../introduction/information.rst:264
+#: ../../introduction/information.rst:265
 msgid "https://play.google.com/store/apps/details?id=cc.smartcash.wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:265
+#: ../../introduction/information.rst:266
 msgid "https://play.google.com/store/apps/details?id=com.coinomi.wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:266
+#: ../../introduction/information.rst:267
 msgid "https://play.google.com/store/apps/details?id=co.edgesecure.app"
 msgstr ""
 
-#: ../../introduction/information.rst:267
+#: ../../introduction/information.rst:268
 msgid "https://play.google.com/store/apps/details?id=cloud.peer2.pungo_wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:274
+#: ../../introduction/information.rst:275
 msgid "Glossary"
 msgstr ""
 
-#: ../../introduction/information.rst:281
+#: ../../introduction/information.rst:282
 msgid "51% Attack"
 msgstr ""
 
-#: ../../introduction/information.rst:277
+#: ../../introduction/information.rst:278
 msgid ""
 "A condition in which more than half the computing power on a "
 "cryptocurrency network is controlled by a single miner or group of "
@@ -656,11 +656,11 @@ msgid ""
 "attacker’s hashed transaction block."
 msgstr ""
 
-#: ../../introduction/information.rst:288
+#: ../../introduction/information.rst:289
 msgid "Address"
 msgstr ""
 
-#: ../../introduction/information.rst:284
+#: ../../introduction/information.rst:285
 msgid ""
 "A SmartCash address is used to :ref:`Send/Receive a Payment <nodeclient-"
 "send-receive>` on the SmartCash network. It contains a string of "
@@ -669,11 +669,11 @@ msgid ""
 " by SmartCash holders to digitally sign transactions (see Public key)."
 msgstr ""
 
-#: ../../introduction/information.rst:294
+#: ../../introduction/information.rst:295
 msgid "Algorithm"
 msgstr ""
 
-#: ../../introduction/information.rst:291
+#: ../../introduction/information.rst:292
 msgid ""
 "In mathematics and computer science, an `algorithm "
 "<https://en.wikipedia.org/wiki/Algorithm>`_ is a self-contained step-by-"
@@ -681,22 +681,22 @@ msgid ""
 "data processing, and/or automated reasoning tasks."
 msgstr ""
 
-#: ../../introduction/information.rst:299
+#: ../../introduction/information.rst:300
 msgid "Altcoin"
 msgstr ""
 
-#: ../../introduction/information.rst:297
+#: ../../introduction/information.rst:298
 msgid ""
 "Since Bitcoin was the first cryptocurrency and has the largest market "
 "capitalization, it is considered as the reference. An altcoin, or "
 "alternative coin, is any cryptocurrency other than Bitcoin."
 msgstr ""
 
-#: ../../introduction/information.rst:305
+#: ../../introduction/information.rst:306
 msgid "AML"
 msgstr ""
 
-#: ../../introduction/information.rst:302
+#: ../../introduction/information.rst:303
 msgid ""
 "Anti-Money Laundering techniques are used to stop people from making "
 "illegally obtained funds appear as though they have been earned legally. "
@@ -704,11 +704,11 @@ msgid ""
 " apply AML techniques to SmartCash exchanges."
 msgstr ""
 
-#: ../../introduction/information.rst:320
+#: ../../introduction/information.rst:321
 msgid "API"
 msgstr ""
 
-#: ../../introduction/information.rst:308
+#: ../../introduction/information.rst:309
 msgid ""
 "In computer programming, an `application programming interface (API) "
 "<https://en.wikipedia.org/wiki/Application_programming_interface>`_ is a "
@@ -716,7 +716,7 @@ msgid ""
 "applications."
 msgstr ""
 
-#: ../../introduction/information.rst:313
+#: ../../introduction/information.rst:314
 msgid ""
 "An API expresses a software component in terms of its operations, inputs,"
 " outputs, and underlying types, defining functionalities that are "
@@ -726,11 +726,11 @@ msgid ""
 "blocks, which are then put together by the programmer."
 msgstr ""
 
-#: ../../introduction/information.rst:326
+#: ../../introduction/information.rst:327
 msgid "ATM / BTM"
 msgstr ""
 
-#: ../../introduction/information.rst:323
+#: ../../introduction/information.rst:324
 msgid ""
 "A SmartCash ATM is a physical machine that allows a customer to buy "
 "SmartCash with cash. There are many manufacturers, some of which enable "
@@ -739,21 +739,21 @@ msgid ""
 "to-buy>`."
 msgstr ""
 
-#: ../../introduction/information.rst:330
+#: ../../introduction/information.rst:331
 msgid "Backlog"
 msgstr ""
 
-#: ../../introduction/information.rst:329
+#: ../../introduction/information.rst:330
 msgid ""
 "Backlog generally refers to an accumulation over time of work waiting to "
 "be done or orders to be fulfilled."
 msgstr ""
 
-#: ../../introduction/information.rst:339
+#: ../../introduction/information.rst:340
 msgid "Backup"
 msgstr ""
 
-#: ../../introduction/information.rst:333
+#: ../../introduction/information.rst:334
 msgid ""
 "The process of making copies of a computer file to ensure its integrity "
 "in case of loss, theft, or damage. SmartCash allows users to :ref:`make "
@@ -764,22 +764,22 @@ msgid ""
 "restore the cash from a backup."
 msgstr ""
 
-#: ../../introduction/information.rst:345
+#: ../../introduction/information.rst:346
 msgid "Bitcoin 2.0"
 msgstr ""
 
-#: ../../introduction/information.rst:342
+#: ../../introduction/information.rst:343
 msgid ""
 "This is a term explaining the next new level of Bitcoin projects which "
 "started as a fork of Bitcoin but extended their code into the next level "
 "of Blockchain Projects (Smart Contracts, Decentralised Voting,....)"
 msgstr ""
 
-#: ../../introduction/information.rst:356
+#: ../../introduction/information.rst:357
 msgid "Blockchain"
 msgstr ""
 
-#: ../../introduction/information.rst:348
+#: ../../introduction/information.rst:349
 msgid ""
 "A `blockchain <https://en.wikipedia.org/wiki/Block_chain_(database)>`_ is"
 " a distributed database that maintains a continuously-growing list of "
@@ -791,11 +791,11 @@ msgid ""
 "contains a timestamp and information linking it to a previous block."
 msgstr ""
 
-#: ../../introduction/information.rst:364
+#: ../../introduction/information.rst:365
 msgid "Blocks"
 msgstr ""
 
-#: ../../introduction/information.rst:359
+#: ../../introduction/information.rst:360
 msgid ""
 "Transactions on the Blockchain are collected in \"`blocks "
 "<https://en.wikipedia.org/wiki/Block_chain_(database)#Blocks>`_\" which "
@@ -805,11 +805,11 @@ msgid ""
 "specifically to create blocks."
 msgstr ""
 
-#: ../../introduction/information.rst:373
+#: ../../introduction/information.rst:374
 msgid "SmartHive Project Treasury"
 msgstr ""
 
-#: ../../introduction/information.rst:367
+#: ../../introduction/information.rst:368
 #, python-format
 msgid ""
 "The development of SmartCash and the SmartCash ecosystem is self-funded "
@@ -823,21 +823,21 @@ msgid ""
 "terms are interchangeable."
 msgstr ""
 
-#: ../../introduction/information.rst:377
+#: ../../introduction/information.rst:378
 msgid "SmartMining"
 msgstr ""
 
-#: ../../introduction/information.rst:376
+#: ../../introduction/information.rst:377
 msgid ""
 "This is a powerful method of mitigating 51% mining attacks, which are "
 "associated with double spending."
 msgstr ""
 
-#: ../../introduction/information.rst:387
+#: ../../introduction/information.rst:388
 msgid "Cloud Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:380
+#: ../../introduction/information.rst:381
 msgid ""
 "Third parties that will store your SmartCash on their servers for you, so"
 " that you can access your funds from any device connected to the "
@@ -849,21 +849,21 @@ msgid ""
 "wallets."
 msgstr ""
 
-#: ../../introduction/information.rst:391
+#: ../../introduction/information.rst:392
 msgid "Coinbase transaction"
 msgstr ""
 
-#: ../../introduction/information.rst:390
+#: ../../introduction/information.rst:391
 msgid ""
 "The first transaction in a block. Always created by a miner, it includes "
 "a single input which constitutes the block reward."
 msgstr ""
 
-#: ../../introduction/information.rst:397
+#: ../../introduction/information.rst:398
 msgid "Cold Storage"
 msgstr ""
 
-#: ../../introduction/information.rst:394
+#: ../../introduction/information.rst:395
 msgid ""
 "A method of generating and storing private keys completely offline. One "
 "could use a desktop or laptop computer disconnected from the internet, a "
@@ -871,11 +871,11 @@ msgid ""
 "<smartcash-paper-wallet>`."
 msgstr ""
 
-#: ../../introduction/information.rst:404
+#: ../../introduction/information.rst:405
 msgid "Confirm(ed) Transaction"
 msgstr ""
 
-#: ../../introduction/information.rst:400
+#: ../../introduction/information.rst:401
 msgid ""
 "When a SmartCash transaction is made, a miner must verify that the "
 "transaction is valid. When the inputs and outputs are verified, the "
@@ -884,11 +884,11 @@ msgid ""
 "increases as more blocks are added to the blockchain."
 msgstr ""
 
-#: ../../introduction/information.rst:414
+#: ../../introduction/information.rst:415
 msgid "Confirmation Number"
 msgstr ""
 
-#: ../../introduction/information.rst:407
+#: ../../introduction/information.rst:408
 msgid ""
 "The number of confirmations for a specific SmartCash transaction. Zero "
 "confirmations means that the **transaction is unconfirmed**. One "
@@ -900,11 +900,11 @@ msgid ""
 "confirmations is usually considered \"safe\" and irreversible."
 msgstr ""
 
-#: ../../introduction/information.rst:420
+#: ../../introduction/information.rst:421
 msgid "Confirmed Transactions"
 msgstr ""
 
-#: ../../introduction/information.rst:417
+#: ../../introduction/information.rst:418
 msgid ""
 "Transactions that are processed by miners and considered irreversible, "
 "usually after six confirmations. In the case of InstantSend, funds can be"
@@ -912,11 +912,11 @@ msgid ""
 "to the blockchain (and thus \"confirmed\")."
 msgstr ""
 
-#: ../../introduction/information.rst:432
+#: ../../introduction/information.rst:433
 msgid "CPU"
 msgstr ""
 
-#: ../../introduction/information.rst:423
+#: ../../introduction/information.rst:424
 msgid ""
 "A `central processing unit (CPU) "
 "<https://en.wikipedia.org/wiki/Central_processing_unit>`_ is the "
@@ -930,11 +930,11 @@ msgid ""
 "memory and I/O circuitry."
 msgstr ""
 
-#: ../../introduction/information.rst:438
+#: ../../introduction/information.rst:439
 msgid "Cryptocurrency"
 msgstr ""
 
-#: ../../introduction/information.rst:435
+#: ../../introduction/information.rst:436
 msgid ""
 "A `cryptocurrency <https://en.wikipedia.org/wiki/Cryptocurrency>`_ (or "
 "crypto currency or crypto-currency) is a medium of exchange using "
@@ -942,11 +942,11 @@ msgid ""
 "new units."
 msgstr ""
 
-#: ../../introduction/information.rst:452
+#: ../../introduction/information.rst:453
 msgid "Cryptography"
 msgstr ""
 
-#: ../../introduction/information.rst:441
+#: ../../introduction/information.rst:442
 msgid ""
 "Cryptography or cryptology (from Greek κρυπτός *kryptós*, \"hidden, "
 "secret\"; and γράφειν *graphein*, \"writing,\" or -λογία *-logia*, "
@@ -962,11 +962,11 @@ msgid ""
 "computer passwords, and electronic commerce."
 msgstr ""
 
-#: ../../introduction/information.rst:458
+#: ../../introduction/information.rst:459
 msgid "NodeClient Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:455
+#: ../../introduction/information.rst:456
 msgid ""
 "The :ref:`SmartCash NodeClient Wallet <nodeclient-installation>` (known "
 "also as the QT wallet) is the \"official\" SmartCash wallet that is "
@@ -975,11 +975,11 @@ msgid ""
 " to any peers who request it."
 msgstr ""
 
-#: ../../introduction/information.rst:466
+#: ../../introduction/information.rst:467
 msgid "DDoS"
 msgstr ""
 
-#: ../../introduction/information.rst:461
+#: ../../introduction/information.rst:462
 msgid ""
 "A distributed denial of service attack uses large numbers of computers "
 "under an attacker’s control to drain the resources of a central target. "
@@ -989,11 +989,11 @@ msgid ""
 "sometimes been hit with DDoS attacks."
 msgstr ""
 
-#: ../../introduction/information.rst:483
+#: ../../introduction/information.rst:484
 msgid "Decentralized"
 msgstr ""
 
-#: ../../introduction/information.rst:469
+#: ../../introduction/information.rst:470
 msgid ""
 "`Decentralized computing "
 "<https://en.wikipedia.org/wiki/Decentralized_computing>`_ is the "
@@ -1012,11 +1012,11 @@ msgid ""
 "increase overall effectiveness."
 msgstr ""
 
-#: ../../introduction/information.rst:491
+#: ../../introduction/information.rst:492
 msgid "Desktop Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:486
+#: ../../introduction/information.rst:487
 msgid ""
 "A wallet is a piece of software that stores your SmartCash. There are "
 "many different wallet options, but it is imperative to choose a secure "
@@ -1025,11 +1025,11 @@ msgid ""
 "installation>` / :ref:`Hardware Wallets <hardware-wallets>`"
 msgstr ""
 
-#: ../../introduction/information.rst:502
+#: ../../introduction/information.rst:503
 msgid "Difficulty"
 msgstr ""
 
-#: ../../introduction/information.rst:494
+#: ../../introduction/information.rst:495
 msgid ""
 "This number determines how difficult it is to hash a new block. It is "
 "related to the maximum allowed number in a given numerical portion of a "
@@ -1041,15 +1041,15 @@ msgid ""
 "ASIC miners have caused the difficulty to increase over time."
 msgstr ""
 
-#: ../../introduction/information.rst:561
+#: ../../introduction/information.rst:562
 msgid "Digital Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:505
+#: ../../introduction/information.rst:506
 msgid "See :ref:`this link <wallets>` for full documentation on wallets."
 msgstr ""
 
-#: ../../introduction/information.rst:507
+#: ../../introduction/information.rst:508
 msgid ""
 "A digital wallet is similar to a physical wallet except that it is used "
 "to hold **digital currency**. A SmartCash wallet holds your private keys,"
@@ -1059,7 +1059,7 @@ msgid ""
 "many devices:"
 msgstr ""
 
-#: ../../introduction/information.rst:514
+#: ../../introduction/information.rst:515
 msgid ""
 "**Desktop Wallet** (:ref:`SmartCash Electrum Wallet <electrum-"
 "installation>`, :ref:`SmartCash NodeClient Wallet <nodeclient-"
@@ -1069,7 +1069,7 @@ msgid ""
 "ensure that you don't lose access to your funds."
 msgstr ""
 
-#: ../../introduction/information.rst:522
+#: ../../introduction/information.rst:523
 msgid ""
 "**Mobile Wallet** (:ref:`Android <android-wallet>`, :ref:`iOS <ios-"
 "wallet>`): These wallets can be downloaded through Google Play or Apple "
@@ -1080,7 +1080,7 @@ msgid ""
 "large amounts of funds on these wallets."
 msgstr ""
 
-#: ../../introduction/information.rst:531
+#: ../../introduction/information.rst:532
 msgid ""
 "**Online/Cloud/Web Wallet** (:ref:`Coinomi <third-party-wallets>`, "
 ":ref:`Webwallet <web-wallets>`): Third parties that will store your "
@@ -1094,7 +1094,7 @@ msgid ""
 "store large amounts of SmartCash in any cryptocurrency exchange."
 msgstr ""
 
-#: ../../introduction/information.rst:542
+#: ../../introduction/information.rst:543
 msgid ""
 "**Hardware Wallets** (:ref:`Trezor <hardware-wallets>`, Ledger, Nano): A "
 "hardware wallet is a specialized, tamper-proof, hardware device that "
@@ -1106,7 +1106,7 @@ msgid ""
 "safest form of storage for your SmartCash."
 msgstr ""
 
-#: ../../introduction/information.rst:552
+#: ../../introduction/information.rst:553
 msgid ""
 "**Offline/Cold Storage** (:ref:`Paper wallet <smartcash-paper-wallet>`): "
 "A special wallet that is created offline and is never exposed to the "
@@ -1120,11 +1120,11 @@ msgid ""
 "they degrade over time."
 msgstr ""
 
-#: ../../introduction/information.rst:571
+#: ../../introduction/information.rst:572
 msgid "Digital Signature"
 msgstr ""
 
-#: ../../introduction/information.rst:564
+#: ../../introduction/information.rst:565
 msgid ""
 "A digital signature is a mathematical mechanism that allows someone to "
 "prove their identity or ownership of a digital asset. When your digital "
@@ -1135,22 +1135,22 @@ msgid ""
 " instance that you are the owner of a certain SmartCash address."
 msgstr ""
 
-#: ../../introduction/information.rst:576
+#: ../../introduction/information.rst:577
 msgid "Electrum Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:574
+#: ../../introduction/information.rst:575
 msgid ""
 ":ref:`SmartCash Electrum Wallet <electrum-installation>` is a lightweight"
 " wallet that does not require you to download or sync the entire "
 "blockchain, making the wallet lighter and faster."
 msgstr ""
 
-#: ../../introduction/information.rst:590
+#: ../../introduction/information.rst:591
 msgid "Encryption"
 msgstr ""
 
-#: ../../introduction/information.rst:579
+#: ../../introduction/information.rst:580
 msgid ""
 "In cryptography, `encryption <https://en.wikipedia.org/wiki/Encryption>`_"
 " is the process of encoding messages or information in such a way that "
@@ -1165,15 +1165,15 @@ msgid ""
 "as AES-256 is considered essentially \"uncrackable.\""
 msgstr ""
 
-#: ../../introduction/information.rst:614
+#: ../../introduction/information.rst:615
 msgid "Escrow Services"
 msgstr ""
 
-#: ../../introduction/information.rst:593
+#: ../../introduction/information.rst:594
 msgid "An `escrow <https://en.wikipedia.org/wiki/Escrow>`_ is:"
 msgstr ""
 
-#: ../../introduction/information.rst:595
+#: ../../introduction/information.rst:596
 msgid ""
 "a contractual arrangement in which a third party receives and disburses "
 "money or documents for the primary transacting parties, with the "
@@ -1181,20 +1181,20 @@ msgid ""
 "parties; or"
 msgstr ""
 
-#: ../../introduction/information.rst:600
+#: ../../introduction/information.rst:601
 msgid ""
 "an account established by a broker for holding funds on behalf of the "
 "broker's principal or some other person until the consummation or "
 "termination of a transaction; or"
 msgstr ""
 
-#: ../../introduction/information.rst:604
+#: ../../introduction/information.rst:605
 msgid ""
 "a trust account held in the borrower's name to pay obligations such as "
 "property taxes and insurance premiums."
 msgstr ""
 
-#: ../../introduction/information.rst:607
+#: ../../introduction/information.rst:608
 msgid ""
 "A trusted escrow service is often used when purchasing cryptocurrency or "
 "other goods/services over the internet. Both the buyer and seller will "
@@ -1206,11 +1206,11 @@ msgid ""
 "appropriate party."
 msgstr ""
 
-#: ../../introduction/information.rst:625
+#: ../../introduction/information.rst:626
 msgid "Exchange"
 msgstr ""
 
-#: ../../introduction/information.rst:617
+#: ../../introduction/information.rst:618
 msgid ""
 "The current price of one SmartCash compared to the price of other "
 "currencies, like the US dollar, Yen, Euro, or Bitcoin. Because most "
@@ -1223,11 +1223,11 @@ msgid ""
 "transaction."
 msgstr ""
 
-#: ../../introduction/information.rst:631
+#: ../../introduction/information.rst:632
 msgid "Faucet"
 msgstr ""
 
-#: ../../introduction/information.rst:628
+#: ../../introduction/information.rst:629
 msgid ""
 "Faucets are a reward system, in the form of a website or app, that "
 "dispenses rewards in the form of a microsmart or Duff, which is a "
@@ -1235,39 +1235,39 @@ msgid ""
 " completing a captcha or task as described by the website."
 msgstr ""
 
-#: ../../introduction/information.rst:641
+#: ../../introduction/information.rst:642
 msgid "Fiat Gateway"
 msgstr ""
 
-#: ../../introduction/information.rst:634
+#: ../../introduction/information.rst:635
 msgid ""
 "`Fiat money <https://en.wikipedia.org/wiki/Fiat_money>`_ has been defined"
 " variously as:"
 msgstr ""
 
-#: ../../introduction/information.rst:637
+#: ../../introduction/information.rst:638
 msgid "Any money declared by a government to be legal tender."
 msgstr ""
 
-#: ../../introduction/information.rst:638
+#: ../../introduction/information.rst:639
 msgid ""
 "State-issued money which is neither convertible by law to any other "
 "thing, nor fixed in value in terms of any objective standard."
 msgstr ""
 
-#: ../../introduction/information.rst:639
+#: ../../introduction/information.rst:640
 msgid "Intrinsically valueless money used as money because of government decree."
 msgstr ""
 
-#: ../../introduction/information.rst:641
+#: ../../introduction/information.rst:642
 msgid "Examples include the US dollar, the Euro, the Yen, and so forth."
 msgstr ""
 
-#: ../../introduction/information.rst:651
+#: ../../introduction/information.rst:652
 msgid "Fintech"
 msgstr ""
 
-#: ../../introduction/information.rst:644
+#: ../../introduction/information.rst:645
 msgid ""
 "`Financial technology "
 "<https://en.wikipedia.org/wiki/Financial_technology>`_, also known as "
@@ -1279,11 +1279,11 @@ msgid ""
 "technology that underpins SmartCash and Bitcoin."
 msgstr ""
 
-#: ../../introduction/information.rst:663
+#: ../../introduction/information.rst:664
 msgid "Fork"
 msgstr ""
 
-#: ../../introduction/information.rst:654
+#: ../../introduction/information.rst:655
 msgid ""
 "When the blockchain diverges or splits, with some clients recognizing one"
 " version of the blockchain as valid, and other clients believing that a "
@@ -1294,15 +1294,15 @@ msgid ""
 "can, however, be extremely dangerous and should be avoided if possible."
 msgstr ""
 
-#: ../../introduction/information.rst:663
+#: ../../introduction/information.rst:664
 msgid "Forking is most likely to occur during software updates to the network."
 msgstr ""
 
-#: ../../introduction/information.rst:670
+#: ../../introduction/information.rst:671
 msgid "Full Nodes"
 msgstr ""
 
-#: ../../introduction/information.rst:666
+#: ../../introduction/information.rst:667
 msgid ""
 "Any SmartCash client that is serving a full version of the blockchain to "
 "peers. This can be a user running a SmartCash NodeClient wallet on "
@@ -1311,27 +1311,27 @@ msgid ""
 "validity of the blockchain."
 msgstr ""
 
-#: ../../introduction/information.rst:673
+#: ../../introduction/information.rst:674
 msgid "Fungible"
 msgstr ""
 
-#: ../../introduction/information.rst:673
+#: ../../introduction/information.rst:674
 msgid "Every unit of the currency is worth the same as any other unit."
 msgstr ""
 
-#: ../../introduction/information.rst:676
+#: ../../introduction/information.rst:677
 msgid "Genesis Block"
 msgstr ""
 
-#: ../../introduction/information.rst:676
+#: ../../introduction/information.rst:677
 msgid "The very first block in the block chain."
 msgstr ""
 
-#: ../../introduction/information.rst:692
+#: ../../introduction/information.rst:693
 msgid "GPU"
 msgstr ""
 
-#: ../../introduction/information.rst:679
+#: ../../introduction/information.rst:680
 msgid ""
 "A `graphics processing unit (GPU) "
 "<https://en.wikipedia.org/wiki/Graphics_processing_unit>`_, also "
@@ -1349,11 +1349,11 @@ msgid ""
 "are most efficiently run on GPUs."
 msgstr ""
 
-#: ../../introduction/information.rst:699
+#: ../../introduction/information.rst:700
 msgid "Hardware Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:695
+#: ../../introduction/information.rst:696
 msgid ""
 ":ref:`Hardware wallets <hardware-wallets>` are among the safest type of "
 "wallet for storing your SmartCash. Your private key is protected inside a"
@@ -1361,11 +1361,11 @@ msgid ""
 "able to sign transactions as normal, making it both safe and convenient."
 msgstr ""
 
-#: ../../introduction/information.rst:707
+#: ../../introduction/information.rst:708
 msgid "Hash"
 msgstr ""
 
-#: ../../introduction/information.rst:702
+#: ../../introduction/information.rst:703
 msgid ""
 "A mathematical process that takes a variable amount of data and produces "
 "a shorter, fixed-length output. A hashing function has two important "
@@ -1374,31 +1374,31 @@ msgid ""
 "the tiniest part of the input will produce an entirely different output."
 msgstr ""
 
-#: ../../introduction/information.rst:711
+#: ../../introduction/information.rst:712
 msgid "Hashrate"
 msgstr ""
 
-#: ../../introduction/information.rst:710
+#: ../../introduction/information.rst:711
 msgid ""
 "The number of hashes that can be performed by a SmartCash miner in a "
 "given period of time (usually a second)."
 msgstr ""
 
-#: ../../introduction/information.rst:715
+#: ../../introduction/information.rst:716
 msgid "Insight"
 msgstr ""
 
-#: ../../introduction/information.rst:714
+#: ../../introduction/information.rst:715
 msgid ""
 "Blockchain information server used to power block explorers and respond "
 "to transaction queries."
 msgstr ""
 
-#: ../../introduction/information.rst:722
+#: ../../introduction/information.rst:723
 msgid "InstantPay"
 msgstr ""
 
-#: ../../introduction/information.rst:718
+#: ../../introduction/information.rst:719
 msgid ""
 ":ref:`InstantSend <instantpay>` technology uses the smartnode network to "
 "\"lock\" transaction inputs, preventing SmartCash from being double-"
@@ -1407,11 +1407,11 @@ msgid ""
 "irreversible after only a few seconds."
 msgstr ""
 
-#: ../../introduction/information.rst:729
+#: ../../introduction/information.rst:730
 msgid "Liquidity"
 msgstr ""
 
-#: ../../introduction/information.rst:725
+#: ../../introduction/information.rst:726
 msgid ""
 "The ability to buy and sell an asset easily, with pricing that stays "
 "roughly similar between trades. A suitably large community of buyers and "
@@ -1420,28 +1420,28 @@ msgid ""
 "asset."
 msgstr ""
 
-#: ../../introduction/information.rst:737
+#: ../../introduction/information.rst:738
 msgid "Smartnode"
 msgstr ""
 
-#: ../../introduction/information.rst:732
+#: ../../introduction/information.rst:733
 msgid ""
 "A :ref:`smartnodes <smartnodes>` is special type of full node that "
 "performs services for the network and is paid a portion of the block "
 "reward. Smartnode require proof of ownership of 100000 SMART."
 msgstr ""
 
-#: ../../introduction/information.rst:736
+#: ../../introduction/information.rst:737
 msgid ""
 "Smartnodes serve as the second tier of the SmartCash network, and power "
 "InstantPay, Smartrewards."
 msgstr ""
 
-#: ../../introduction/information.rst:742
+#: ../../introduction/information.rst:743
 msgid "Mining"
 msgstr ""
 
-#: ../../introduction/information.rst:740
+#: ../../introduction/information.rst:741
 #, python-format
 msgid ""
 ":ref:`Miners <mining>` process transactions on the SmartCash network and "
@@ -1449,19 +1449,19 @@ msgid ""
 "paid 5% of the block reward."
 msgstr ""
 
-#: ../../introduction/information.rst:745
+#: ../../introduction/information.rst:746
 msgid "Mobile Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:745
+#: ../../introduction/information.rst:746
 msgid "These are wallets available on mobile devices (iOS + Android)."
 msgstr ""
 
-#: ../../introduction/information.rst:755
+#: ../../introduction/information.rst:756
 msgid "MultiSig"
 msgstr ""
 
-#: ../../introduction/information.rst:748
+#: ../../introduction/information.rst:749
 msgid ""
 "Multi-signature addresses provide additional security by requiring "
 "multiple people to sign a transaction with their private key before the "
@@ -1473,22 +1473,22 @@ msgid ""
 "difficult."
 msgstr ""
 
-#: ../../introduction/information.rst:760
+#: ../../introduction/information.rst:761
 msgid "Node"
 msgstr ""
 
-#: ../../introduction/information.rst:758
+#: ../../introduction/information.rst:759
 msgid ""
 "A node is any device running SmartCash wallet software. Full nodes are "
 "software clients that have downloaded the entire blockchain and serve it "
 "to other clients on SmartCash's peer-to-peer network."
 msgstr ""
 
-#: ../../introduction/information.rst:767
+#: ../../introduction/information.rst:768
 msgid "OTC"
 msgstr ""
 
-#: ../../introduction/information.rst:763
+#: ../../introduction/information.rst:764
 msgid ""
 "Over the counter (OTC) trades are trades that occur off exchanges. In an "
 "OTC trade, a buyer and seller trade with each other directly, or through "
@@ -1497,11 +1497,11 @@ msgid ""
 "or sell order will move the price (called \"slippage\")."
 msgstr ""
 
-#: ../../introduction/information.rst:773
+#: ../../introduction/information.rst:774
 msgid "P2P"
 msgstr ""
 
-#: ../../introduction/information.rst:770
+#: ../../introduction/information.rst:771
 msgid ""
 "Peer-to-peer. Decentralized interactions that happen between at least two"
 " parties in a highly interconnected network. An alternative system to a "
@@ -1509,22 +1509,22 @@ msgid ""
 "deal with each other through a single mediation point."
 msgstr ""
 
-#: ../../introduction/information.rst:778
+#: ../../introduction/information.rst:779
 msgid "Paper Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:776
+#: ../../introduction/information.rst:777
 msgid ""
 ":ref:`Paper wallets <smartcash-paper-wallet>` are offline wallets, "
 "printed on paper for safety. If properly secured and stored they are "
 "considered the safest way to store cryptocurrency."
 msgstr ""
 
-#: ../../introduction/information.rst:789
+#: ../../introduction/information.rst:790
 msgid "Privacy"
 msgstr ""
 
-#: ../../introduction/information.rst:781
+#: ../../introduction/information.rst:782
 msgid ""
 "`Privacy <https://en.wikipedia.org/wiki/Privacy>`_ is the ability of an "
 "individual or group to seclude themselves, or information about "
@@ -1537,11 +1537,11 @@ msgid ""
 "well as protection of information."
 msgstr ""
 
-#: ../../introduction/information.rst:798
+#: ../../introduction/information.rst:799
 msgid "Private Key"
 msgstr ""
 
-#: ../../introduction/information.rst:792
+#: ../../introduction/information.rst:793
 msgid ""
 "A `private key <https://en.wikipedia.org/wiki/Public- key_cryptography>`_"
 " is a long alphanumeric passcode that allows SmartCash to be spent. Every"
@@ -1552,11 +1552,11 @@ msgid ""
 "that these are kept secure and secret."
 msgstr ""
 
-#: ../../introduction/information.rst:806
+#: ../../introduction/information.rst:807
 msgid "Proof of Service - PoSe"
 msgstr ""
 
-#: ../../introduction/information.rst:801
+#: ../../introduction/information.rst:802
 msgid ""
 "Consensus mechanism used in SmartCash to verify that a smartnodes has "
 "provided uninterrupted service meeting a minimum quality level to the "
@@ -1565,11 +1565,11 @@ msgid ""
 "receive payment."
 msgstr ""
 
-#: ../../introduction/information.rst:819
+#: ../../introduction/information.rst:820
 msgid "Proof of Stake - PoS"
 msgstr ""
 
-#: ../../introduction/information.rst:809
+#: ../../introduction/information.rst:810
 msgid ""
 "Consensus mechanism that relies on ownership of a cryptocurrency to "
 "maintain the blockchain. In Proof of Stake systems, each owner of the "
@@ -1583,11 +1583,11 @@ msgid ""
 "\"vote\" to accept both the legitimate chain and the attacker's chain."
 msgstr ""
 
-#: ../../introduction/information.rst:827
+#: ../../introduction/information.rst:828
 msgid "Proof of Work - PoW"
 msgstr ""
 
-#: ../../introduction/information.rst:822
+#: ../../introduction/information.rst:823
 msgid ""
 "Consensus mechanism that keeps all nodes honest by requiring "
 "computational power to be expended in order to create new blocks. Miners "
@@ -1597,11 +1597,11 @@ msgid ""
 "which chain was valid."
 msgstr ""
 
-#: ../../introduction/information.rst:834
+#: ../../introduction/information.rst:835
 msgid "Public Key"
 msgstr ""
 
-#: ../../introduction/information.rst:830
+#: ../../introduction/information.rst:831
 msgid ""
 "The `public key <https://en.wikipedia.org/wiki/Public- "
 "key_cryptography>`_ is derived from the private key but is not secret and"
@@ -1609,11 +1609,11 @@ msgid ""
 " the public key is used to verify that the signature is valid."
 msgstr ""
 
-#: ../../introduction/information.rst:843
+#: ../../introduction/information.rst:844
 msgid "Pump and dump"
 msgstr ""
 
-#: ../../introduction/information.rst:837
+#: ../../introduction/information.rst:838
 msgid ""
 "Inflating the value of a financial asset that has been produced or "
 "acquired cheaply, often using aggressive publicity and misleading "
@@ -1624,21 +1624,21 @@ msgid ""
 " some altcoins."
 msgstr ""
 
-#: ../../introduction/information.rst:847
+#: ../../introduction/information.rst:848
 msgid "Quorum"
 msgstr ""
 
-#: ../../introduction/information.rst:846
+#: ../../introduction/information.rst:847
 msgid ""
 "Group of smartnodes signing or voting on some action, with the formation "
 "of the group determined by some determiniation algorithm."
 msgstr ""
 
-#: ../../introduction/information.rst:853
+#: ../../introduction/information.rst:854
 msgid "QR Code"
 msgstr ""
 
-#: ../../introduction/information.rst:850
+#: ../../introduction/information.rst:851
 msgid ""
 "A two-dimensional graphical block containing a monochromatic pattern "
 "representing a sequence of data. QR codes are designed to be scanned by "
@@ -1646,43 +1646,43 @@ msgid ""
 "to encode SmartCash addresses."
 msgstr ""
 
-#: ../../introduction/information.rst:858
+#: ../../introduction/information.rst:859
 msgid "Satoshi Nakamoto"
 msgstr ""
 
-#: ../../introduction/information.rst:856
+#: ../../introduction/information.rst:857
 msgid ""
 "`Satoshi Nakamoto <https://en.wikipedia.org/wiki/Satoshi_Nakamoto>`_ is "
 "the name used by the person or people who designed Bitcoin and created "
 "its original reference implementation."
 msgstr ""
 
-#: ../../introduction/information.rst:863
+#: ../../introduction/information.rst:864
 msgid "SDK"
 msgstr ""
 
-#: ../../introduction/information.rst:861
+#: ../../introduction/information.rst:862
 msgid ""
 "Software Development Kit. A set of tools, code and documentation used by "
 "developers to create apps targeting a specific hardware or software "
 "platform."
 msgstr ""
 
-#: ../../introduction/information.rst:867
+#: ../../introduction/information.rst:868
 msgid "Tainted Coins"
 msgstr ""
 
-#: ../../introduction/information.rst:866
+#: ../../introduction/information.rst:867
 msgid ""
 "Taint is a measure of correlation between two (wallet) addresses. It is "
 "only important if the user is trying to remain anonymous."
 msgstr ""
 
-#: ../../introduction/information.rst:873
+#: ../../introduction/information.rst:874
 msgid "Testnet"
 msgstr ""
 
-#: ../../introduction/information.rst:870
+#: ../../introduction/information.rst:871
 msgid ""
 ":ref:`Testnet <testnet>` is a network only for testing (parallel to the "
 "mainnet), test wallets, test coins, test smartnodes, test miners, and "
@@ -1690,21 +1690,21 @@ msgid ""
 "where errors or forks are not harmful."
 msgstr ""
 
-#: ../../introduction/information.rst:877
+#: ../../introduction/information.rst:878
 msgid "Tor"
 msgstr ""
 
-#: ../../introduction/information.rst:876
+#: ../../introduction/information.rst:877
 msgid ""
 "An anonymous routing protocol used by people wanting to hide their "
 "identity online."
 msgstr ""
 
-#: ../../introduction/information.rst:883
+#: ../../introduction/information.rst:884
 msgid "Transaction"
 msgstr ""
 
-#: ../../introduction/information.rst:880
+#: ../../introduction/information.rst:881
 msgid ""
 "Some movement of data on the distributed blockchain ledger. Transactions "
 "may be divided into classical and special transactions. Similar to "
@@ -1712,71 +1712,71 @@ msgid ""
 "blockchain."
 msgstr ""
 
-#: ../../introduction/information.rst:887
+#: ../../introduction/information.rst:888
 msgid "Transaction Block"
 msgstr ""
 
-#: ../../introduction/information.rst:886
+#: ../../introduction/information.rst:887
 msgid ""
 "A collection of transactions on the SmartCash network, gathered into a "
 "block that can then be hashed and added to the blockchain."
 msgstr ""
 
-#: ../../introduction/information.rst:892
+#: ../../introduction/information.rst:893
 msgid "Transaction Fee"
 msgstr ""
 
-#: ../../introduction/information.rst:890
+#: ../../introduction/information.rst:891
 msgid ""
 "A :ref:`small fee <fees>` imposed on some transactions sent across the "
 "SmartCash network. The transaction fee is awarded to the miner that "
 "successfully hashes the block containing the relevant transaction."
 msgstr ""
 
-#: ../../introduction/information.rst:897
+#: ../../introduction/information.rst:898
 msgid "Unconfirmed Transactions"
 msgstr ""
 
-#: ../../introduction/information.rst:895
+#: ../../introduction/information.rst:896
 msgid ""
 "Transactions that are not yet processed by miners or held via InstantSend"
 " are \"unconfirmed on the blockchain.\" Unconfirmed transactions can be "
 "reversed and should not be considered as \"final.\""
 msgstr ""
 
-#: ../../introduction/information.rst:900
+#: ../../introduction/information.rst:901
 msgid "Vanity Address"
 msgstr ""
 
-#: ../../introduction/information.rst:900
+#: ../../introduction/information.rst:901
 msgid "A SmartCash address with a desirable pattern, such as a name."
 msgstr ""
 
-#: ../../introduction/information.rst:904
+#: ../../introduction/information.rst:905
 msgid "Virgin SmartCash"
 msgstr ""
 
-#: ../../introduction/information.rst:903
+#: ../../introduction/information.rst:904
 msgid ""
 "SmartCash received as a reward for mining a block or running a "
 "smartnodes. These have not yet been spent anywhere and are \"virgin.\""
 msgstr ""
 
-#: ../../introduction/information.rst:908
+#: ../../introduction/information.rst:909
 msgid "Volatility"
 msgstr ""
 
-#: ../../introduction/information.rst:907
+#: ../../introduction/information.rst:908
 msgid ""
 "The measurement of price movements over time for a traded financial asset"
 " (including SmartCash)."
 msgstr ""
 
-#: ../../introduction/information.rst:913
+#: ../../introduction/information.rst:914
 msgid "Wallet"
 msgstr ""
 
-#: ../../introduction/information.rst:911
+#: ../../introduction/information.rst:912
 msgid ""
 "A method of storing SmartCash for later use. A wallet holds the private "
 "keys associated with SmartCash addresses. The blockchain is the record of"
@@ -1784,11 +1784,11 @@ msgid ""
 "addresses."
 msgstr ""
 
-#: ../../introduction/information.rst:920
+#: ../../introduction/information.rst:921
 msgid "Whitepaper"
 msgstr ""
 
-#: ../../introduction/information.rst:916
+#: ../../introduction/information.rst:917
 msgid ""
 "A `white paper <https://en.wikipedia.org/wiki/White_paper>`_ is an "
 "authoritative report or guide that informs readers concisely about a "
@@ -1797,21 +1797,21 @@ msgid ""
 " a decision."
 msgstr ""
 
-#: ../../introduction/information.rst:924
+#: ../../introduction/information.rst:925
 msgid "Zero Confirmations"
 msgstr ""
 
-#: ../../introduction/information.rst:923
+#: ../../introduction/information.rst:924
 msgid ""
 "This is a transaction without any confirmations from the blockchain. It "
 "is technically reversible (unless InstantSend was used)."
 msgstr ""
 
-#: ../../introduction/information.rst:930
+#: ../../introduction/information.rst:931
 msgid "vin"
 msgstr ""
 
-#: ../../introduction/information.rst:927
+#: ../../introduction/information.rst:928
 msgid ""
 "A transaction (tx) consists of one or more inputs and one or more "
 "outputs. The vin is the list of inputs to the transaction, and vout is "
@@ -2037,5 +2037,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "https://smartstats.cc/mining"
+#~ msgstr ""
+
+#~ msgid "Cryptobridge: https://crypto-bridge.org/"
+#~ msgstr ""
+
+#~ msgid "Cryptopia: https://www.cryptopia.co.nz/"
+#~ msgstr ""
+
+#~ msgid "Changelly: https://changelly.com/(edited)"
 #~ msgstr ""
 
