@@ -137,16 +137,6 @@ Safe.trade
 
   SafeTrade is a new, innovative trading platform for cryptocurrencies from the folks who brought you SafeCoin.
 
-Bleutrade
-  .. image:: exchanges/bleutrade.png
-     :width: 200px
-     :align: right
-     :target: https://bleutrade.com
-
-  https://bleutrade.com
-
-  Registered in Brazil, Bleutrade offers DOGE and BTC trading pairs for
-  SMARTCASH.
 
 Braziliex
   .. image:: exchanges/braziliex.png
