@@ -292,15 +292,6 @@ Bitscoin
 	 
 https://bitscoin.co.kr/
 
-Bleutrade
-  .. image:: exchanges/bleutrade.png
-     :width: 200px
-     :align: right
-     :target: https://bleutrade.com/exchange/SMART/BTC
-	 
-  Cryptocurrency Exchange
-	 
-https://bleutrade.com/exchange/SMART/BTC
 
 3XBIT
   .. image:: exchanges/3xbit.png
