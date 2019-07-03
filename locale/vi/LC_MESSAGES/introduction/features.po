@@ -137,22 +137,29 @@ msgid ""
 "second. No risk of double spending a transaction, so the receiver can trust "
 "that transaction immediately."
 msgstr ""
+"* * InstantPay * * cho phép các giao dịch SmartCash bị khóa trong khoảng một"
+" giây. Không có rủi ro chi tiêu gấp đôi một giao dịch, vì vậy người nhận có "
+"thể tin tưởng rằng giao dịch ngay lập tức."
 
 #: ../../introduction/features.rst:58
 msgid ""
 "**Smartrewards** are calculated by the SmartNodes to allow for distribution "
 "to be handled automatically by the block rewards."
 msgstr ""
+"* * Smartrewards * * được tính bằng SmartNodes để cho phép phân phối được xử"
+" lý tự động bởi phần thưởng khối."
 
 #: ../../introduction/features.rst:59
 msgid "**Electrum Servers** Servers used for Electrum wallets."
-msgstr ""
+msgstr "* * Máy chủ Electrum * * máy chủ sử dụng cho ví Electrum."
 
 #: ../../introduction/features.rst:60
 msgid ""
 "**SmartCard SDK** Build the SmartCash payment card that can handle world "
 "usage in replacement of card schemes."
 msgstr ""
+"* * SmartCard SDK * * xây dựng thẻ thanh toán SmartCash có thể xử lý việc sử"
+" dụng trên toàn thế giới thay thế các hệ thống thẻ hiện tại."
 
 #: ../../introduction/features.rst:62
 msgid "SmartNodes are required to have"
@@ -172,7 +179,7 @@ msgstr "Máy chủ VPS dành riêng chạy 24/7 với các đặc điểm sau đ
 
 #: ../../introduction/features.rst:68
 msgid "-- 2 GB RAM -- 20 GB drive -- Static IPV4 Address per node"
-msgstr ""
+msgstr "--2 GB RAM--ổ đĩa 20 GB--địa chỉ IPV4 tĩnh cho mỗi nút"
 
 #: ../../introduction/features.rst:72
 msgid ""
@@ -292,19 +299,24 @@ msgid ""
 "Pay only with your SmartCard QR. You don’t need to carry your phone or have "
 "internet connection."
 msgstr ""
+"Trả tiền với mã SmartCard QR. Bạn không cần mang theo điện thoại hoặc có kết"
+" nối internet."
 
 #: ../../introduction/features.rst:174
 msgid ""
 "Have all the SmartCards you need under your account and they don’t expire."
 msgstr ""
+"Có tất cả các SmartCards bạn cần trong tài khoản của bạn và không hết hạn."
 
 #: ../../introduction/features.rst:175
 msgid "Print anywhere you love the most. Tattoos included."
-msgstr ""
+msgstr "In ở bất kỳ đâu. Có cả hình xăm."
 
 #: ../../introduction/features.rst:176
 msgid "Purchase online or offline from your favorite SmartMerchants."
 msgstr ""
+"Mua trực tuyến hoặc ngoại tuyến từ các cửa hàng chấp nhận SmartCash bạn yêu "
+"thích."
 
 #: ../../introduction/features.rst:177
 msgid "Convenience that all family understands."
@@ -323,6 +335,8 @@ msgid ""
 "Protections such as card on/off toggle, country whitelisting, daily spend "
 "limit and PIN reset."
 msgstr ""
+"Bảo vệ bạn với nút bật/tắt thẻ, cho phép theo quốc gia, giới hạn thanh toán "
+"hàng ngày và đặt lại mã PIN."
 
 #: ../../introduction/features.rst:184
 msgid "Zero knowledge of SmartCard private keys."
@@ -336,12 +350,15 @@ msgstr "Không bao giờ để lộ khoá riêng lên internet."
 msgid ""
 "Private keys are generated and encrypted in the browser and printed by you."
 msgstr ""
+"Khóa bí mật được sinh ra và mã hóa trên trình duyệt và được in bởi bạn."
 
 #: ../../introduction/features.rst:187
 msgid ""
 "Payment authorisation and signing is done in the browser and SmartPay "
 "merchant application."
 msgstr ""
+"Cho phép và ký thanh toán được thực hiện trên trình duyệt và ứng dụng "
+"SmartPay."
 
 #: ../../introduction/features.rst:188
 msgid ""
@@ -451,17 +468,19 @@ msgstr ""
 
 #: ../../introduction/features.rst:253
 msgid "SmartCash first year is approximately then"
-msgstr ""
+msgstr "SmartCash năm đầu tiên là khoảng sau đó"
 
 #: ../../introduction/features.rst:255
 msgid "717,565,000+998,173,000=1,715,738,000 or 34.31% of the maximum supply."
-msgstr ""
+msgstr "717,565,000+998,173,000=1,715,738,000  hoặc 34,31% nguồn cung tối đa."
 
 #: ../../introduction/features.rst:257
 msgid ""
 "Year 2 generates an additional 500 Million SmartCash, bringing the total "
 "supply to about 2.2 Billion out of the total 5 Billion, or 44%."
 msgstr ""
+"Năm 2 tạo ra thêm 500 triệu SmartCash, đưa tổng nguồn cung đến khoảng 2.2 tỷ"
+" trong tổng số 5 tỷ, hoặc 44%."
 
 #: ../../introduction/features.rst:259
 msgid ""
@@ -469,6 +488,9 @@ msgid ""
 "supply of about 50%, or 2.5Billion out of 5 Billion. The remainder is spread"
 " over the next 121 years."
 msgstr ""
+"Năm 3 tạo ra thậm chí ít hơn khoảng 291.7 triệu SmartCash, nâng tổng nguồn "
+"cung khoảng 50%, hoặc 2,5 tỷ trong số 5 tỷ. Phần còn lại được trải rộng "
+"trong 121 năm tới."
 
 #: ../../introduction/features.rst:264
 msgid "SmartCahs coin emission rate 125 Years"
@@ -502,6 +524,8 @@ msgid ""
 "`Read more here <https://smartcash.blockchainlibrary.org/2018/06"
 "/understanding-the-smartcash-emission-curve-and-distribution-rates/>`_."
 msgstr ""
+"`Xem thêm  <https://smartcash.blockchainlibrary.org/2018/06/understanding-"
+"the-smartcash-emission-curve-and-distribution-rates/>`_."
 
 #: ../../introduction/features.rst:284
 msgid "Block reward allocation"
@@ -512,6 +536,8 @@ msgid ""
 "Unlike Bitcoin, which allocates 100% of the block reward to miners, "
 "SmartCash allocates:"
 msgstr ""
+"Không giống Bitcoin, chia 100% phần thưởng khối cho thợ mỏ, SmartCash phân "
+"bổ:"
 
 #: ../../introduction/features.rst:290
 msgid "5% | Mining Reward"
