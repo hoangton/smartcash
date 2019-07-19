@@ -138,17 +138,6 @@ Safe.trade
   SafeTrade is a new, innovative trading platform for cryptocurrencies from the folks who brought you SafeCoin.
 
 
-Braziliex
-  .. image:: exchanges/braziliex.png
-     :width: 160px
-     :align: right
-     :target: https://braziliex.com
-
-  https://braziliex.com
-
-  Based in Brazil, Brazilies accepts deposits in Brazilian real, and
-  offers trading of real, Bitcoin and USDT against SmartCash.
-
 Crypto-bridge
   .. image:: exchanges/crypto-bridge.jpg
      :width: 200px
