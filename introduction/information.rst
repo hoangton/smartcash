@@ -108,10 +108,10 @@ Official sites
 
 	
 - **SmartNodes**:
-    * https://smartnodes.cc/
+    * https://smartcash.cc/smartnodes
     * https://github.com/SmartCash/smartnode
     * https://smartcash.freshdesk.com/solution/articles/35000047674
-    * https://smartcash.cc/wp-content/uploads/2018/07/All-in-One-SmartNode-v1.2.4-2.pdf
+    * https://smartcash.freshdesk.com/helpdesk/attachments/35037201968
     * http://t.me/smartnodemonitorbot
 
 - **Charts**: 

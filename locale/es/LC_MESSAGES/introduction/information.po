@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-19 13:57+0700\n"
+"POT-Creation-Date: 2019-09-02 07:26+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -358,7 +358,7 @@ msgid "**SmartNodes**:"
 msgstr ""
 
 #: ../../introduction/information.rst:111
-msgid "https://smartnodes.cc/"
+msgid "https://smartcash.cc/smartnodes"
 msgstr ""
 
 #: ../../introduction/information.rst:112
@@ -370,9 +370,7 @@ msgid "https://smartcash.freshdesk.com/solution/articles/35000047674"
 msgstr ""
 
 #: ../../introduction/information.rst:114
-msgid ""
-"https://smartcash.cc/wp-content/uploads/2018/07/All-in-One-"
-"SmartNode-v1.2.4-2.pdf"
+msgid "https://smartcash.freshdesk.com/helpdesk/attachments/35037201968"
 msgstr ""
 
 #: ../../introduction/information.rst:115
@@ -2046,5 +2044,13 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Changelly: https://changelly.com/(edited)"
+#~ msgstr ""
+
+#~ msgid "https://smartnodes.cc/"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "https://smartcash.cc/wp-content/uploads/2018/07/All-in-"
+#~ "One-SmartNode-v1.2.4-2.pdf"
 #~ msgstr ""
 
