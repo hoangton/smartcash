@@ -351,6 +351,16 @@ Changelly
   without needing to create an account. Be sure to check the fees and
   rates before purchasing.
 
+Changehero
+  .. image:: exchanges/changehero.png
+     :width: 200px
+     :align: right
+     :target: https://changehero.io
+
+  https://changehero.io
+
+  Changehero - The platform for easy and anonymous instant exchange of any cryptocurrency.
+  
 CoinSwitch
   .. image:: exchanges/coinswitch.png
      :width: 200px
