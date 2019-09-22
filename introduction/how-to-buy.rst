@@ -393,6 +393,26 @@ Atomicwallet
 
   Cryptocurrency Wallet support atomic exchange.
 
+Swapspace.co
+  .. image:: exchanges/SwapSpace.png
+     :width: 200px
+     :align: right
+     :target: https://swapspace.co
+
+  https://swapspace.co
+
+  SwapSpace is a cryptocurrency exchanger aggregator that will save your time.
+
+Swap4.me
+  .. image:: exchanges/Swap4me.png
+     :width: 200px
+     :align: right
+     :target: https://swap4.me
+
+  https://swap4.me
+
+  Swap4.me.
+
 ChangeNOW
   .. image:: exchanges/changenow.png
      :width: 130px
