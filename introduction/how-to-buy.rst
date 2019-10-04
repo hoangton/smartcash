@@ -323,6 +323,16 @@ Exccripto
 	 
 https://exccripto.com/v2/
 
+Finexbox
+  .. image:: exchanges/finexbox.png
+     :width: 200px
+     :align: right
+     :target: https://www.finexbox.com/
+	 
+  Finexbox.
+	 
+https://www.finexbox.com/
+
 .. _instant_exchanges:
 
 Instant exchanges
