@@ -423,6 +423,17 @@ Swap4.me
 
   Swap4.me.
 
+Stealthex
+  .. image:: exchanges/Stealthex.png
+     :width: 200px
+     :align: right
+     :target: https://stealthex.io
+
+  https://stealthex.io
+  Anonymous and limitless cryptocurrency exchange
+  Free from providing personal data
+  Your privacy is our top concern
+
 ChangeNOW
   .. image:: exchanges/changenow.png
      :width: 130px
