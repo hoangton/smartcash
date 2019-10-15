@@ -158,16 +158,6 @@ Coinbene
 
 https://www.coinbene.com
 
-Coinexchange
-  .. image:: exchanges/coinexchange.png
-     :width: 200px
-     :align: right
-     :target: https://www.coinexchange.io/market/SMART/BTC
-
-  CoinExchange.io is an online altcoin exchange focussed on ease of use, security and customer support.
-  Our mission is to become a pillar in the online crypto currency market place.
-
-https://www.coinexchange.io/market/SMART/BTC
 
 Stex
   .. image:: exchanges/stex.png
