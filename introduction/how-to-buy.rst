@@ -323,6 +323,26 @@ Finexbox
 	 
 https://www.finexbox.com/
 
+PARS
+  .. image:: exchanges/ParsExch.png
+     :width: 200px
+     :align: right
+     :target: https://parsxc.com/
+
+  https://parsxc.com/
+
+  Pars is an international Iranian user to user cryptocurrency exchange. The exchange has a large potential audience (about 90 Million population country) and aims to become widely known, improving its services and adding new interesting cryptocurrencies, thus increasing the interest of users in the exchange. 
+
+Deliondex
+  .. image:: exchanges/Deliondex.png
+     :width: 200px
+     :align: right
+     :target: https://dex.delion.online/
+
+  https://dex.delion.online/
+
+  Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash. 
+    
 .. _instant_exchanges:
 
 Instant exchanges
@@ -435,16 +455,7 @@ ChangeNOW
   ChangeNOW is a non-custodian exchange service based in the
   Netherlands, with low commissions and quick service. Offers crypto to
   crypto exchanges, as well as purchases through credit/debit cards.
-
-PARS
-  .. image:: exchanges/ParsExch.png
-     :width: 130px
-     :align: right
-     :target: https://parsxc.com/
-
-  https://parsxc.com/
-
-  Pars is an international Iranian user to user cryptocurrency exchange. The exchange has a large potential audience (about 90 Million population country) and aims to become widely known, improving its services and adding new interesting cryptocurrencies, thus increasing the interest of users in the exchange.  
+ 
 
 .. _over-the-counter:
 
