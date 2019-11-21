@@ -436,6 +436,16 @@ ChangeNOW
   Netherlands, with low commissions and quick service. Offers crypto to
   crypto exchanges, as well as purchases through credit/debit cards.
 
+PARS
+  .. image:: exchanges/ParsExch.png
+     :width: 130px
+     :align: right
+     :target: https://parsxc.com/
+
+  https://parsxc.com/
+
+  Pars is an international Iranian user to user cryptocurrency exchange. The exchange has a large potential audience (about 90 Million population country) and aims to become widely known, improving its services and adding new interesting cryptocurrencies, thus increasing the interest of users in the exchange.  
+
 .. _over-the-counter:
 
 Over the Counter
