@@ -138,16 +138,6 @@ Safe.trade
   SafeTrade is a new, innovative trading platform for cryptocurrencies from the folks who brought you SafeCoin.
 
 
-Crypto-bridge
-  .. image:: exchanges/crypto-bridge.jpg
-     :width: 200px
-     :align: right
-     :target: https://crypto-bridge.org/
-
-https://crypto-bridge.org/
-
-  Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash.
-
 Coinbene
   .. image:: exchanges/coinbene.png
      :width: 200px
