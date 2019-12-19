@@ -102,8 +102,6 @@ Official sites
     * Full List: https://smartcash.cc/get-smartcash/
     * Exmo: https://exmo.com/
     * Changelly: https://changelly.com/
-    * ChangeNow: https://changenow.io/
-    * SmartShift: https://wallet.smartcash.cc/smartshift
     * HitBTC: https://hitbtc.com/
 
 	
