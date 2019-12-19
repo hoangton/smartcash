@@ -70,7 +70,7 @@ SmartNodes are required to have
 -- Static IPV4 Address per node
 
 SmartNodes cost money and effort to host so they are paid a percentage
-of the block reward as an incentivize.
+of the block reward as an incentive.
 This `tool <https://smartcash.cc/smartnodes/#toggle-id-1>`_ shows a live calculation of
 smartnode earnings. These rewards decrease by time, but the
 rising value of Smart may offset these reductions.
