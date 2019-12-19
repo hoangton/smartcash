@@ -221,16 +221,6 @@ Bitcoinp2p
 	 
 https://bitcoinp2p.com.br/index.html
 
-Komodoplatform
-  .. image:: exchanges/komodoplatform.png
-     :width: 200px
-     :align: right
-     :target: https://komodoplatform.com/technology/
-	 
-  Complete Blockchain Solutions | Decentralised ICO Platform
-	 
-https://komodoplatform.com/technology/
-
 Stratum
   .. image:: exchanges/stratum.png
      :width: 200px
@@ -250,17 +240,6 @@ Tradesatoshi
   CryptoCurrency Exchange
 	 
 https://tradesatoshi.com/Exchange/?market=SMART_BTC
-
-Bitscoin
-  .. image:: exchanges/bitscoin.png
-     :width: 200px
-     :align: right
-     :target: https://bitscoin.co.kr/
-	 
-  비츠코인
-	 
-https://bitscoin.co.kr/
-
 
 3XBIT
   .. image:: exchanges/3xbit.png
@@ -434,18 +413,7 @@ Stealthex
   Free from providing personal data
   Your privacy is our top concern
 
-ChangeNOW
-  .. image:: exchanges/changenow.png
-     :width: 130px
-     :align: right
-     :target: https://changenow.io
 
-  https://changenow.io
-
-  ChangeNOW is a non-custodian exchange service based in the
-  Netherlands, with low commissions and quick service. Offers crypto to
-  crypto exchanges, as well as purchases through credit/debit cards.
- 
 
 .. _over-the-counter:
 
