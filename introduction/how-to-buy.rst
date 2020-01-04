@@ -272,15 +272,6 @@ Bitprime
 	 
 https://www.bitprime.co.nz/product/smartcash-smart/
 
-Exccripto
-  .. image:: exchanges/exccripto.png
-     :width: 200px
-     :align: right
-     :target: https://exccripto.com/v2/
-	 
-  Exccripto.
-	 
-https://exccripto.com/v2/
 
 Finexbox
   .. image:: exchanges/finexbox.png
