@@ -363,16 +363,6 @@ SimpleSwap
 
   SimpleSwap is a simple and easy-to-use platform for cryptocurrency exchanges that works without registration and limits
   
-Atomicwallet
-  .. image:: exchanges/atomicwallet.jpg
-     :width: 200px
-     :align: right
-     :target: https://atomicwallet.io/downloads
-
-  https://atomicwallet.io/downloads
-
-  Cryptocurrency Wallet support atomic exchange.
-
 Swapspace.co
   .. image:: exchanges/SwapSpace.png
      :width: 200px
