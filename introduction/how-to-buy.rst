@@ -180,16 +180,6 @@ pungo.cash
 https://pungo.cash
 
 
-Criptohub
-  .. image:: exchanges/criptohub.jpg
-     :width: 200px
-     :align: right
-     :target: https://criptohub.com.br/smartcash/
-	 
-  Exchange de Criptomoedas com as Menores Taxas do Brasil
-	 
-https://criptohub.com.br/smartcash/
-
 
 Localbitcoincash
   .. image:: exchanges/localbitcoincash.png
