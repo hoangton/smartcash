@@ -242,15 +242,6 @@ https://tradesatoshi.com/Exchange/?market=SMART_BTC
 https://www.3xbit.com.br/
 
 
-Smartport
-  .. image:: exchanges/smartport.jpg
-     :width: 200px
-     :align: right
-     :target: https://www.smartport.cc/
-	 
-  SmartCash cryptocurrencies kopen. At SmartPort you can buy SmartCash at a minimum of € 30 and up to a maximum of € 1.000. Your purchases are processed manually. Therefore take a longer processing time (up to 24 hours) into account.
-	 
-https://www.smartport.cc/
 
 Bitprime
   .. image:: exchanges/bitprime.png
