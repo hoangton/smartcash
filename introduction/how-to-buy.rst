@@ -374,6 +374,15 @@ Stealthex
   Anonymous and limitless cryptocurrency exchange
   Free from providing personal data
   Your privacy is our top concern
+  
+BitTorro
+  .. image:: exchanges/BitTorro.png
+     :width: 200px
+     :align: right
+     :target: https://bittorro.io/
+
+  https://bittorro.io
+  BitTorro is a crypto to crypto, wallet to wallet, no-custody, swap exchange service. Here you can instant swap one cryptocurrency for another in minutes. As a privacy focused platform, your personal data are safe and never shared.  
 
 
 
