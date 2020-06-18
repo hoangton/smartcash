@@ -221,26 +221,6 @@ Stratum
 	 
 https://stratum.hk/
 
-Tradesatoshi
-  .. image:: exchanges/tradeshatoshi.png
-     :width: 200px
-     :align: right
-     :target: https://tradesatoshi.com/Exchange/?market=SMART_BTC
-	 
-  CryptoCurrency Exchange
-	 
-https://tradesatoshi.com/Exchange/?market=SMART_BTC
-
-3XBIT
-  .. image:: exchanges/3xbit.png
-     :width: 200px
-     :align: right
-     :target: https://www.3xbit.com.br/
-	 
-  Cryptocurrency Exchange
-	 
-https://www.3xbit.com.br/
-
 
 
 Bitprime
