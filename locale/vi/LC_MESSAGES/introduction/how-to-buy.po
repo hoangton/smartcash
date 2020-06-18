@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-18 22:35+0700\n"
+"POT-Creation-Date: 2020-06-18 22:46+0700\n"
 "PO-Revision-Date: 2019-01-16 11:25+0000\n"
 "Last-Translator: hoangton <smartcashvietnam@gmail.com>, 2019\n"
 "Language: vi\n"
@@ -232,7 +232,7 @@ msgstr ""
 msgid "https://app.stex.com/en/basic-trade/pair/BTC/SMART/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:168 ../../introduction/how-to-buy.rst:384
+#: ../../introduction/how-to-buy.rst:168 ../../introduction/how-to-buy.rst:358
 msgid "eBitcoinics"
 msgstr ""
 
@@ -270,75 +270,63 @@ msgstr ""
 msgid "https://localbitcoincash.org/index.asp"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:200
-msgid "Cryptochange"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:200
-msgid "South Africa Bitcoin Exchange | Exchange Your Cryptocurrency To ZAR"
-msgstr ""
-
 #: ../../introduction/how-to-buy.rst:202
-msgid "https://www.cryptochange.co.za/"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:210
 msgid "Bitcoinp2p"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:210
+#: ../../introduction/how-to-buy.rst:202
 msgid ""
 "Compre bitcoin no P2P, não precisa de documentos, é anônimo e não tem "
 "fila de espera."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:212
+#: ../../introduction/how-to-buy.rst:204
 msgid "https://bitcoinp2p.com.br/index.html"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:220
+#: ../../introduction/how-to-buy.rst:212
 msgid "Stratum"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:222
+#: ../../introduction/how-to-buy.rst:214
 msgid "https://stratum.hk/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:232
+#: ../../introduction/how-to-buy.rst:224
 msgid "Bitprime"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:232
+#: ../../introduction/how-to-buy.rst:224
 msgid ""
 "BitPrime operates a secure and compliant platform for easy retail trading"
 " in New Zealand."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:234
+#: ../../introduction/how-to-buy.rst:226
 msgid "https://www.bitprime.co.nz/product/smartcash-smart/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:243
+#: ../../introduction/how-to-buy.rst:235
 msgid "Finexbox"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:243
+#: ../../introduction/how-to-buy.rst:235
 msgid "Finexbox."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:245
+#: ../../introduction/how-to-buy.rst:237
 msgid "https://www.finexbox.com/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:255
+#: ../../introduction/how-to-buy.rst:247
 msgid "PARS"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:253
+#: ../../introduction/how-to-buy.rst:245
 msgid "https://parsxc.com/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:255
+#: ../../introduction/how-to-buy.rst:247
 msgid ""
 "Pars is an international Iranian user to user cryptocurrency exchange. "
 "The exchange has a large potential audience (about 90 Million population "
@@ -347,46 +335,31 @@ msgid ""
 "users in the exchange."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:265
+#: ../../introduction/how-to-buy.rst:257
 msgid "Deliondex"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:263
+#: ../../introduction/how-to-buy.rst:255
 msgid "https://dex.delion.online/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:265
+#: ../../introduction/how-to-buy.rst:257
 msgid "Decentralized CryptoCurrency Exchange offer trading pairs for SmartCash."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:270
+#: ../../introduction/how-to-buy.rst:262
 msgid "Instant exchanges"
 msgstr "Sàn giao dịch tức thời"
 
-#: ../../introduction/how-to-buy.rst:280
-msgid "SmartShift"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:278
-msgid "https://wallet.smartcash.cc/smartshift"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:280
-msgid ""
-"SmartShift is our new near 0 fees web wallet cryptocurrency exchange "
-"feature. You can convert your #Bitcoin #BitcoinCash #Dash #Litecoin into "
-"#SmartCash at a great exchange rate."
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:293 ../../introduction/how-to-buy.rst:420
+#: ../../introduction/how-to-buy.rst:277 ../../introduction/how-to-buy.rst:383
 msgid "Changelly"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:288 ../../introduction/how-to-buy.rst:415
+#: ../../introduction/how-to-buy.rst:271 ../../introduction/how-to-buy.rst:378
 msgid "https://changelly.com"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:290
+#: ../../introduction/how-to-buy.rst:273
 msgid ""
 "Changelly is a broker service offering a range of cryptocurrency, "
 "including SmartCash, for instant exchange against other cryptocurrencies "
@@ -394,91 +367,76 @@ msgid ""
 " before purchasing."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:303
-#, fuzzy
-msgid "Changehero"
-msgstr "Sàn giao dịch"
-
-#: ../../introduction/how-to-buy.rst:301
-msgid "https://changehero.io"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:303
-msgid ""
-"Changehero - The platform for easy and anonymous instant exchange of any "
-"cryptocurrency."
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:315
+#: ../../introduction/how-to-buy.rst:289
 msgid "CoinSwitch"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:311
+#: ../../introduction/how-to-buy.rst:285
 msgid "https://coinswitch.co"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:313
+#: ../../introduction/how-to-buy.rst:287
 msgid ""
 "CoinSwitch is a crypto to crypto exchange aggregate with more than 300 "
 "different coins and tokens listed. Also offers purchases through "
 "credit/debit cards."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:325
+#: ../../introduction/how-to-buy.rst:299
 msgid "SimpleSwap"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:323
+#: ../../introduction/how-to-buy.rst:297
 msgid "https://simpleswap.io/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:325
+#: ../../introduction/how-to-buy.rst:299
 msgid ""
 "SimpleSwap is a simple and easy-to-use platform for cryptocurrency "
 "exchanges that works without registration and limits"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:335
+#: ../../introduction/how-to-buy.rst:309
 msgid "Swapspace.co"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:333
+#: ../../introduction/how-to-buy.rst:307
 msgid "https://swapspace.co"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:335
+#: ../../introduction/how-to-buy.rst:309
 msgid ""
 "SwapSpace is a cryptocurrency exchanger aggregator that will save your "
 "time."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:345
+#: ../../introduction/how-to-buy.rst:319
 msgid "Swap4.me"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:343
+#: ../../introduction/how-to-buy.rst:317
 msgid "https://swap4.me"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:345
+#: ../../introduction/how-to-buy.rst:319
 msgid "Swap4.me."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:356
+#: ../../introduction/how-to-buy.rst:330
 msgid "Stealthex"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:353
+#: ../../introduction/how-to-buy.rst:327
 msgid ""
 "https://stealthex.io Anonymous and limitless cryptocurrency exchange Free"
 " from providing personal data Your privacy is our top concern"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:367
+#: ../../introduction/how-to-buy.rst:341
 msgid "BitTorro"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:364
+#: ../../introduction/how-to-buy.rst:338
 msgid ""
 "https://bittorro.io BitTorro is a crypto to crypto, wallet to wallet, no-"
 "custody, swap exchange service. Here you can instant swap one "
@@ -486,64 +444,49 @@ msgid ""
 "your personal data are safe and never shared."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:372
+#: ../../introduction/how-to-buy.rst:346
 msgid "Over the Counter"
 msgstr "Qua quầy giao dịch"
 
-#: ../../introduction/how-to-buy.rst:380
+#: ../../introduction/how-to-buy.rst:354
 msgid "http://www.ebitcoinics.com"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:382
+#: ../../introduction/how-to-buy.rst:356
 msgid ""
 "eBitcoinics is a cryptocurrency exchange and education platform for the "
 "African market. SmartCash is available for exchange against Nigerian "
 "Naira (NGN) and Ghanaian Cedi (GHS)."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:394
+#: ../../introduction/how-to-buy.rst:370
 msgid "Bitcoin-Avenue"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:392
+#: ../../introduction/how-to-buy.rst:366
 msgid "http://bitcoin-avenue.com/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:394
+#: ../../introduction/how-to-buy.rst:368
 msgid "The French Bitcoin Avenue, a brick and mortar cryptocurrency shop."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:407
-msgid "BitPrime"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:402
-msgid "https://www.bitprime.co.nz"
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:404
-msgid ""
-"BitPrime operates a secure and compliant platform for easy retail trading"
-" in New Zealand. SmartCash is available OTC for both purchase and sale "
-"together with many other cryptocurrencies."
-msgstr ""
-
-#: ../../introduction/how-to-buy.rst:417
+#: ../../introduction/how-to-buy.rst:380
 msgid ""
 "Changelly is a popular instantaneous crypto to crypto exchange platform "
 "with more than 100 different coins and tokens listed. Also offers "
 "purchases via credit/debit cards."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:433
+#: ../../introduction/how-to-buy.rst:396
 msgid "Stratum CoinBR"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:428
+#: ../../introduction/how-to-buy.rst:391
 msgid "https://coinbr.io"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:430
+#: ../../introduction/how-to-buy.rst:393
 msgid ""
 "CoinBR is a Brazil-based cryptocurrency company offering a variety of "
 "services including an exchange, mining, bill payment, point-of-sale, and "
@@ -551,11 +494,11 @@ msgid ""
 " Brazil."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:438
+#: ../../introduction/how-to-buy.rst:401
 msgid "ATMs"
 msgstr "ATMs"
 
-#: ../../introduction/how-to-buy.rst:440
+#: ../../introduction/how-to-buy.rst:403
 msgid ""
 "ATMs are a popular method of buying cryptocurrency at businesses to "
 "encourage adoption and spending in these currencies. A number of ATMs "
@@ -565,29 +508,29 @@ msgid ""
 "listed on this page."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:456
+#: ../../introduction/how-to-buy.rst:419
 msgid "General Bytes"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:453
+#: ../../introduction/how-to-buy.rst:416
 msgid "https://www.generalbytes.com"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:455
+#: ../../introduction/how-to-buy.rst:418
 msgid ""
 "General Bytes offers a range of two-way cash ATM and Point of Sale "
 "solutions integrating SmartCash."
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:465
+#: ../../introduction/how-to-buy.rst:428
 msgid "BitugaX"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:464
+#: ../../introduction/how-to-buy.rst:427
 msgid "https://www.bitugax.com/"
 msgstr ""
 
-#: ../../introduction/how-to-buy.rst:466
+#: ../../introduction/how-to-buy.rst:429
 msgid "You can buy SmartCash at BitugaX ATM in Coimbra, Portugal!"
 msgstr ""
 
@@ -704,5 +647,54 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "https://www.3xbit.com.br/"
+#~ msgstr ""
+
+#~ msgid "Cryptochange"
+#~ msgstr ""
+
+#~ msgid "South Africa Bitcoin Exchange | Exchange Your Cryptocurrency To ZAR"
+#~ msgstr ""
+
+#~ msgid "https://www.cryptochange.co.za/"
+#~ msgstr ""
+
+#~ msgid "SmartShift"
+#~ msgstr ""
+
+#~ msgid "https://wallet.smartcash.cc/smartshift"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "SmartShift is our new near 0 fees"
+#~ " web wallet cryptocurrency exchange "
+#~ "feature. You can convert your #Bitcoin"
+#~ " #BitcoinCash #Dash #Litecoin into "
+#~ "#SmartCash at a great exchange rate."
+#~ msgstr ""
+
+#~ msgid "Changehero"
+#~ msgstr "Sàn giao dịch"
+
+#~ msgid "https://changehero.io"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Changehero - The platform for easy "
+#~ "and anonymous instant exchange of any"
+#~ " cryptocurrency."
+#~ msgstr ""
+
+#~ msgid "BitPrime"
+#~ msgstr ""
+
+#~ msgid "https://www.bitprime.co.nz"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "BitPrime operates a secure and compliant"
+#~ " platform for easy retail trading in"
+#~ " New Zealand. SmartCash is available "
+#~ "OTC for both purchase and sale "
+#~ "together with many other cryptocurrencies."
 #~ msgstr ""
 

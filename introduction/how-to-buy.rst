@@ -191,15 +191,7 @@ Localbitcoincash
 	 
 https://localbitcoincash.org/index.asp
 
-Cryptochange
-  .. image:: exchanges/cryptochange.png
-     :width: 200px
-     :align: right
-     :target: https://www.cryptochange.co.za/
-	 
-  South Africa Bitcoin Exchange | Exchange Your Cryptocurrency To ZAR
-	 
-https://www.cryptochange.co.za/
+
 
 Bitcoinp2p
   .. image:: exchanges/bitcoinp2p.png
@@ -269,15 +261,6 @@ Deliondex
 Instant exchanges
 =================
 
-SmartShift
-  .. image:: exchanges/SmartShift.png
-     :width: 200px
-     :align: right
-     :target: https://www.youtube.com/watch?v=ybqPF5HgcIk
-
-  https://wallet.smartcash.cc/smartshift
-
-  SmartShift is our new near 0 fees web wallet cryptocurrency exchange feature. You can convert your #Bitcoin #BitcoinCash #Dash #Litecoin into #SmartCash at a great exchange rate.
 
 Changelly
   .. image:: exchanges/changelly.png
@@ -292,15 +275,6 @@ Changelly
   without needing to create an account. Be sure to check the fees and
   rates before purchasing.
 
-Changehero
-  .. image:: exchanges/changehero.png
-     :width: 200px
-     :align: right
-     :target: https://changehero.io
-
-  https://changehero.io
-
-  Changehero - The platform for easy and anonymous instant exchange of any cryptocurrency.
   
 CoinSwitch
   .. image:: exchanges/coinswitch.png
@@ -393,17 +367,6 @@ Bitcoin-Avenue
 
   The French Bitcoin Avenue, a brick and mortar cryptocurrency shop.
 
-BitPrime
-  .. image:: exchanges/bitprime.png
-     :width: 200px
-     :align: right
-     :target: https://www.bitprime.co.nz
-
-  https://www.bitprime.co.nz
-
-  BitPrime operates a secure and compliant platform for easy retail
-  trading in New Zealand. SmartCash is available OTC for both purchase and
-  sale together with many other cryptocurrencies.
 
 
 Changelly
