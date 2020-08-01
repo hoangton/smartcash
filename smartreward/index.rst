@@ -13,6 +13,12 @@ SmartRewards
    :align: center
 
 
+Upgrade v1.3.0
+-- SuperRewards now added for 1 million Smart holders in one address.
+-- Progressive bonuses for holding 1, 2, 3, or 4+ weeks. Hold longer than 4 weeks to maximize your rewards.
+-- SmartRewards tab shows bonus levels and badges.
+-- Activate Rewards - Activation required to get rewards. Use activate button on SmartRewards tab that shows up after block 1761600.
+
 SmartRewards are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project’s success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. Beginning at block 574,100, the current SmartRewards model changed to a Decentralized Distribution. SmartRewards will then be distributed after every 47,500 Blocks to all eligible addresses. The payouts will begin 200 Blocks after the cycle ends and 1000 addresses will be paid every other block. SmartNodes will keep track on which addresses are eligible and which are not. You will earn SmartRewards on any address for which you hold the keys (web or desktop, SmartNode included!) which holds >=1000 SMART for one month and does not make any outgoing transactions during that time. Please note, most exchanges do not pay SmartRewards to their users, holding >= 1000 SMART on an exchange does not guarantee a reward. The SmartRewards will come out of the 15% block reward allocation.
 - Payment after every 47500 blocks starting at 574100. Typically, around the 25th of each month.
 - All users need to move funds into addresses holding at least 1000 SMART before the snapshot to be counted.

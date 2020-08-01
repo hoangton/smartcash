@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-01 22:55+0700\n"
+"POT-Creation-Date: 2020-08-01 11:12+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,6 +30,16 @@ msgid "SmartRewards"
 msgstr ""
 
 #: ../../smartreward/index.rst:16
+msgid ""
+"Upgrade v1.3.0 -- SuperRewards now added for 1 million Smart holders in "
+"one address. -- Progressive bonuses for holding 1, 2, 3, or 4+ weeks. "
+"Hold longer than 4 weeks to maximize your rewards. -- SmartRewards tab "
+"shows bonus levels and badges. -- Activate Rewards - Activation required "
+"to get rewards. Use activate button on SmartRewards tab that shows up "
+"after block 1761600."
+msgstr ""
+
+#: ../../smartreward/index.rst:22
 msgid ""
 "SmartRewards are a price stabilization mechanism and a way to encourage "
 "long term holding. Long term holders are key to the project’s success "
@@ -53,15 +63,15 @@ msgid ""
 "address, it will be ineligible for SmartRewards until the next round."
 msgstr ""
 
-#: ../../smartreward/index.rst:22
+#: ../../smartreward/index.rst:28
 msgid "SmartRewards FAQ’S"
 msgstr ""
 
-#: ../../smartreward/index.rst:26
+#: ../../smartreward/index.rst:32
 msgid "**1.How much SmartRewards can I get each month?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:28
+#: ../../smartreward/index.rst:34
 #, python-format
 msgid ""
 "15% of the block rewards are set aside between the 25th-25th of each "
@@ -70,63 +80,63 @@ msgid ""
 "sending out coins. Addresses below 1000 SmartCash do not get paid."
 msgstr ""
 
-#: ../../smartreward/index.rst:31
+#: ../../smartreward/index.rst:37
 msgid ""
 "**2.Can I add more SmartCash to my SwartRewards address or will that "
 "invalidate my the next payment?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:33
+#: ../../smartreward/index.rst:39
 msgid ""
 "Adding more SmartCash your SmartRewards address won’t invalidate the next"
 " payment. The newly added amount will be taken into account after the "
 "next snapshot."
 msgstr ""
 
-#: ../../smartreward/index.rst:35
+#: ../../smartreward/index.rst:41
 msgid ""
 "**3.Will I lose my future SmartRewards payment if I move or send coins "
 "from my SmartRewards address?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:37
+#: ../../smartreward/index.rst:43
 msgid ""
 "Yes, moving any coins from your SmartRewards address will nullify the "
 "next payment."
 msgstr ""
 
-#: ../../smartreward/index.rst:40
+#: ../../smartreward/index.rst:46
 msgid "**4.How do I know my address is valid for SmartRewards?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:42
+#: ../../smartreward/index.rst:48
 msgid ""
 "Be sure to don’t leave your funds on an Exchange, those addresses aren’t "
 "eligible for SmartRewards."
 msgstr ""
 
-#: ../../smartreward/index.rst:43
+#: ../../smartreward/index.rst:49
 msgid ""
 "Lookup your address on https://explorer.smartcash.cc and if it shows a "
 "balance over 1000 and no outgoing transactions during the cycle, it "
 "qualifies or use the calculator to see if your address is eligible."
 msgstr ""
 
-#: ../../smartreward/index.rst:46
+#: ../../smartreward/index.rst:52
 msgid "**5.When does the monthly snapshot occur?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:48
+#: ../../smartreward/index.rst:54
 msgid ""
 "The monthly snapshot occurs on each 47500 blocks. Around on the 25th of "
 "each month."
 msgstr ""
 
-#: ../../smartreward/index.rst:50
+#: ../../smartreward/index.rst:56
 msgid "**6.Can I move coins out of my address between snapshots?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:52
+#: ../../smartreward/index.rst:58
 msgid ""
 "Yes, your coins are not locked. However, this will invalidate that "
 "specific address and reset the 30 day initial waiting period. We take "
@@ -135,11 +145,11 @@ msgid ""
 "SmartRewards."
 msgstr ""
 
-#: ../../smartreward/index.rst:54
+#: ../../smartreward/index.rst:60
 msgid "**7.When do SmartReward payments go out?**"
 msgstr ""
 
-#: ../../smartreward/index.rst:56
+#: ../../smartreward/index.rst:62
 msgid ""
 "SmartRewards will then be distributed after every 47500 Blocks to all "
 "eligible addresses. The payouts will occur 200 Blocks after the cycle "
