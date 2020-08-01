@@ -337,7 +337,7 @@ address to the latest version of SmartCash NodeClient by right clicking or press
 **Ctrl + V**::
 
   cd /tmp
-  wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.8/smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+  wget https://github.com/SmartCash/Core-Smart/releases/download/v1.3.0/smartcash-1.3.0-x86_64-linux-gnu.tar.gz
 
 Verify the integrity of your download by running sha256sum (optional)
 
@@ -346,9 +346,9 @@ Create a working directory for SmartCash, extract the compressed archive and
 copy the necessary files to the directory::
 
   mkdir ~/.nodeclient
-  tar xfv smartcash-1.2.8-x86_64-linux-gnu.tar.gz
-  cp -f smartcash-1.2.8/bin/smartcashd ~/.nodeclient/
-  cp -f smartcash-1.2.8/bin/smartcash-cli ~/.nodeclient/
+  tar xfv smartcash-1.3.0-x86_64-linux-gnu.tar.gz
+  cp -f smartcash-1.3.0/bin/smartcashd ~/.nodeclient/
+  cp -f smartcash-1.3.0/bin/smartcash-cli ~/.nodeclient/
 
 Create a configuration file using the following command::
 

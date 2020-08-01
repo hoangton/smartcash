@@ -80,27 +80,27 @@ in the address to the latest version of SmartCash Core by right clicking or
 pressing **Ctrl + V**::
 
     cd ~
-    wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.8/smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+    wget https://github.com/SmartCash/Core-Smart/releases/download/v1.3.0/smartcash-1.3.0-x86_64-linux-gnu.tar.gz
 
 
 Verify the integrity of your download by running the following command
 and comparing the output against the value on https://github.com/SmartCash/Core-Smart/releases/
 
-  sha256sum smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+  sha256sum smartcash-1.3.0-x86_64-linux-gnu.tar.gz
 
 Create a working directory for SmartCash, extract the compressed archive,
 copy the necessary files to the directory and set them as executable::
 
   mkdir .nodeclient
-  tar xfvz smartcash-1.2.8-x86_64-linux-gnu.tar.gz
-  cp smartcash-1.2.8/bin/smartcashd .nodeclient/
-  cp smartcash-1.2.8/bin/smartcash-cli .nodeclient/
+  tar xfvz smartcash-1.3.0-x86_64-linux-gnu.tar.gz
+  cp smartcash-1.3.0/bin/smartcashd .nodeclient/
+  cp smartcash-1.3.0/bin/smartcash-cli .nodeclient/
   chmod 777 .nodeclient/smartcash*
 
 Clean up unneeded files::
 
-  rm smartcash-1.2.8-x86_64-linux-gnu.tar.gz
-  rm -r smartcash-1.2.8
+  rm smartcash-1.3.0-x86_64-linux-gnu.tar.gz
+  rm -r smartcash-1.3.0
 
 Create a configuration file using the following command::
 

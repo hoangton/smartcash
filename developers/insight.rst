@@ -32,9 +32,9 @@ dependencies::
 Download and extract the latest version of SmartCash NodeClient::
 
   cd ~
-  wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.8/smartcash-1.2.8-x86_64-linux-gnu.tar.gz
-  tar -xvzf smartcash-1.2.8-x86_64-linux-gnu.tar.gz
-  rm smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+  wget https://github.com/SmartCash/Core-Smart/releases/download/v1.3.0/smartcash-1.3.0-x86_64-linux-gnu.tar.gz
+  tar -xvzf smartcash-1.3.0-x86_64-linux-gnu.tar.gz
+  rm smartcash-1.3.0-x86_64-linux-gnu.tar.gz
 
 
 Your Insight API node will start up and begin to sync. Progress will be

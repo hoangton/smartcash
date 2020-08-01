@@ -37,7 +37,7 @@ version with the specific version of the file you downloaded.
 
 ::
 
-    certutil -hashfile smartcash-1.2.8-win64-setup.exe SHA256
+    certutil -hashfile smartcash-1.3.0-win64-setup.exe SHA256
 
 If the hashes match, then you have an authentic copy of SmartCash NodeClient for
 Windows.

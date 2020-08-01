@@ -62,17 +62,17 @@ enter the following command, pasting in the address to the latest
 version of SmartCash Core by right clicking or pressing **Ctrl + V**::
 
     cd /tmp
-    wget https://github.com/SmartCash/Core-Smart/releases/download/v1.2.8/smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+    wget https://github.com/SmartCash/Core-Smart/releases/download/v1.3.0/smartcash-1.3.0-x86_64-linux-gnu.tar.gz
 
 Verify the integrity of your download by running the following command
 and comparing the output against the value for SHA256 Checksum::
 
-    sha256sum smartcash-1.2.8-x86_64-linux-gnu.tar.gz
+    sha256sum smartcash-1.3.0-x86_64-linux-gnu.tar.gz
 
 Extract the compressed archive and run wallet from this directory::
 
-    tar xfv smartcash-1.2.8-x86_64-linux-gnu.tar.gz
-    cd smartcash-1.2.8/bin/
+    tar xfv smartcash-1.3.0-x86_64-linux-gnu.tar.gz
+    cd smartcash-1.3.0/bin/
     smartcashd
 
 You will see a message reading "SmartCash Wallet starting". 

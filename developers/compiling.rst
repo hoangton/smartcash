@@ -15,7 +15,7 @@ many users will also be interested in building SmartCash binaries for
 themselves. This process has been greatly simplified with the release of
 SmartCash NodeClient available on GitHub to compile or cross-compile SmartCash for any platform.
 
-The instructions to build SmartCash NodeClient 1.2.8 or older are available `here
+The instructions to build SmartCash NodeClient 1.3.0 or older are available `here
 <https://github.com/SmartCash/Core-Smart/tree/master/doc>`__ on a
 previous version of this page.
 
@@ -100,7 +100,7 @@ following a specific descriptor ("recipe"), cryptographically sign the
 result, and upload the resulting signature. These results are compared
 and only if they match, the build is accepted and uploaded to SmartCash.org.
 
-Instructions on how to build SmartCash NodeClient 1.2.8 will appear here once the Docker build system for Gitian is available. Instructions to create
-deterministic builds of SmartCash NodeClient 1.2.8 or older are available `here
+Instructions on how to build SmartCash NodeClient 1.3.0 will appear here once the Docker build system for Gitian is available. Instructions to create
+deterministic builds of SmartCash NodeClient 1.3.0 or older are available `here
 <https://github.com/SmartCash/Core-Smart/blob/master/doc/gitian-building.md>`__ 
 on a previous version of this page.
