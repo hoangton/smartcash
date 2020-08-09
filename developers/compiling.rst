@@ -66,7 +66,7 @@ If this is your first time compiling a binary be aware that the build process ca
     $ git clone https://github.com/SmartCash/Core-Smart.git # clone SmartCash repository locally
     $ cd smartcash # Go to repository directory
     $ git tag # Retrieve a list of tags and find the most recent stable tag.
-    $ git checkout 1.2.8 # Grab correct version
+    $ git checkout 1.3.0 # Grab correct version
     $ cd src # Go to source directory
     $ sudo dd if=/dev/zero of=/swapfile bs=64M count=16 # extra swap partition for speed
     $ sudo mkswap /swapfile
