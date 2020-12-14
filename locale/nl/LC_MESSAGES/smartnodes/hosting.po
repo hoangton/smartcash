@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-25 21:44+0700\n"
+"POT-Creation-Date: 2020-12-14 20:13+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,87 +70,19 @@ msgid ""
 "not your private key and is required for hosting)"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:28
-msgid "nodesupply"
+#: ../../smartnodes/hosting.rst:29
+msgid "stackofstake"
 msgstr ""
 
 #: ../../smartnodes/hosting.rst:30
-msgid "https://nodesupply.com/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:32
-msgid "Operated by: Part of Blockbase VOF, The Netherlands"
+msgid "https://stackofstake.com/"
 msgstr ""
 
 #: ../../smartnodes/hosting.rst:33
-msgid "Services: Hosting"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:34
-msgid "Cost: $9/month"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:35
-msgid "`WebSite <https://nodesupply.com/>`__"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:36
-msgid "`Email <support@nodesupply.com>`__"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:39
-msgid "masternodo"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:40
-msgid "https://masternodo.com/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:43
-msgid "node-vps"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:44
-msgid "https://node-vps.com/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:47
-msgid "nodestop"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:48
-msgid "https://www.nodestop.com/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:51
-msgid "masterhost"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:52
-msgid "https://masterhost.io/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:55
-msgid "satoshisolutions"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:56
-msgid "https://satoshisolutions.online/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:59
-msgid "ez-masternodes"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:60
-msgid "https://www.ez-masternodes.com/"
-msgstr ""
-
-#: ../../smartnodes/hosting.rst:63
 msgid "pecuniaplatform"
 msgstr ""
 
-#: ../../smartnodes/hosting.rst:64
+#: ../../smartnodes/hosting.rst:34
 msgid "https://pecuniaplatform.io/ - Operated by:@mark | pecunia#8051 (Discord)"
 msgstr ""
 
@@ -194,5 +126,62 @@ msgstr ""
 #~ "10,000 SMART) requires you to trust "
 #~ "another party with your funds and "
 #~ "is considered high risk."
+#~ msgstr ""
+
+#~ msgid "nodesupply"
+#~ msgstr ""
+
+#~ msgid "https://nodesupply.com/"
+#~ msgstr ""
+
+#~ msgid "Operated by: Part of Blockbase VOF, The Netherlands"
+#~ msgstr ""
+
+#~ msgid "Services: Hosting"
+#~ msgstr ""
+
+#~ msgid "Cost: $9/month"
+#~ msgstr ""
+
+#~ msgid "`WebSite <https://nodesupply.com/>`__"
+#~ msgstr ""
+
+#~ msgid "`Email <support@nodesupply.com>`__"
+#~ msgstr ""
+
+#~ msgid "masternodo"
+#~ msgstr ""
+
+#~ msgid "https://masternodo.com/"
+#~ msgstr ""
+
+#~ msgid "node-vps"
+#~ msgstr ""
+
+#~ msgid "https://node-vps.com/"
+#~ msgstr ""
+
+#~ msgid "nodestop"
+#~ msgstr ""
+
+#~ msgid "https://www.nodestop.com/"
+#~ msgstr ""
+
+#~ msgid "masterhost"
+#~ msgstr ""
+
+#~ msgid "https://masterhost.io/"
+#~ msgstr ""
+
+#~ msgid "satoshisolutions"
+#~ msgstr ""
+
+#~ msgid "https://satoshisolutions.online/"
+#~ msgstr ""
+
+#~ msgid "ez-masternodes"
+#~ msgstr ""
+
+#~ msgid "https://www.ez-masternodes.com/"
 #~ msgstr ""
 

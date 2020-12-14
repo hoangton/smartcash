@@ -70,7 +70,7 @@ create the folder.
    Renaming the folder to SmartCash
 
 Next, open the archive by double-clicking on it. The Archive Manager
-will appear. Browse to the smartcash-1.3.0/bin/ folder and extract the
+will appear. Browse to the smartcash-1.3.3/bin/ folder and extract the
 smartcash-qt file to the SmartCash folder you created on the Desktop by drag and
 drop.
 
@@ -148,7 +148,7 @@ Use the Python installer (pip) to download and install SmartCash Wallet:
 Enter the following commands (changing the version number to match the
 current version as necessary)
 
-    sudo pip3 install https://github.com/SmartCash/Core-Smart/releases/download/v1.3.0/smartcash-1.3.0-arm-RPi.tar.gz
+    sudo pip3 install https://github.com/SmartCash/Core-Smart/releases/download/v1.3.3/smartcash-1.3.3-arm-rpi.tar.gz
 
 
 

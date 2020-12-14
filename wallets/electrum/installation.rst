@@ -19,8 +19,8 @@ You can download SmartCash Electrum from the official SmartCash website.
 You can optionally verify the integrity of your download by running the
 following commands (example for Linux)::
 
-  wget https://github.com/SmartCash/electrum-smart/releases/download/v4.0.1/Linux.electrum-smart-4.0.1.tar.gz
-  sha256sum https://github.com/SmartCash/electrum-smart/releases/download/v4.0.1/Linux.electrum-smart-4.0.1.tar.gz
+  wget https://github.com/SmartCash/electrum-smart/releases/download/v4.0.5/Linux-electrum-smart-4.0.5.tar.gz
+  sha256sum https://github.com/SmartCash/electrum-smart/releases/download/v4.0.5/Linux-electrum-smart-4.0.5.tar.gz
   
 
 
@@ -41,9 +41,9 @@ current version as necessary) in the terminal to install SmartCash Electrum
 from the source tarball::
 
     sudo apt-get install python3-setuptools python3-pyqt5 python3-pip && sudo pip3 install
-    wget https://github.com/SmartCash/electrum-smart/releases/download/v4.0.1/Linux.electrum-smart-4.0.1.tar.gz
-    tar -zxvf Linux.electrum-smart-4.0.1.tar.gz
-    cd electrum-smart-4.0.1
+    wget https://github.com/SmartCash/electrum-smart/releases/download/v4.0.5/Linux-electrum-smart-4.0.5.tar.gz
+    tar -zxvf Linux-electrum-smart-4.0.5.tar.gz
+    cd electrum-smart-4.0.5
     sudo python3 setup.py install
 
 

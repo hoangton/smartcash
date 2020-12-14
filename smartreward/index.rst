@@ -13,52 +13,21 @@ SmartRewards
    :align: center
 
 
-Upgrade v1.3.0
--- SuperRewards now added for 1 million Smart holders in one address.
--- Progressive bonuses for holding 1, 2, 3, or 4+ weeks. Hold longer than 4 weeks to maximize your rewards.
--- SmartRewards tab shows bonus levels and badges.
--- Activate Rewards - Activation required to get rewards. Use activate button on SmartRewards tab that shows up after block 1761600.
+In the upcoming 1.3 Phoenix release, one of the major changes will be the introduction of the SuperRewards. SmartRewards has been a way to earn passive income for all SmartCash holders. But now we have added a higher deposit tier that qualifies an address as SuperRewards. The 1.3 release will change block rewards to provide 60% allocation to SmartRewards, helping to effectively distribute incentives to community participants and receive higher rewards.
 
-SmartRewards are a price stabilization mechanism and a way to encourage long term holding. Long term holders are key to the project’s success since the SmartHive treasury needs SmartCash to appreciate in value in order to fund meaningful 3rd party proposals and help grow SmartCash into a successful global crypto-currency. Beginning at block 574,100, the current SmartRewards model changed to a Decentralized Distribution. SmartRewards will then be distributed after every 47,500 Blocks to all eligible addresses. The payouts will begin 200 Blocks after the cycle ends and 1000 addresses will be paid every other block. SmartNodes will keep track on which addresses are eligible and which are not. You will earn SmartRewards on any address for which you hold the keys (web or desktop, SmartNode included!) which holds >=1000 SMART for one month and does not make any outgoing transactions during that time. Please note, most exchanges do not pay SmartRewards to their users, holding >= 1000 SMART on an exchange does not guarantee a reward. The SmartRewards will come out of the 15% block reward allocation.
-- Payment after every 47500 blocks starting at 574100. Typically, around the 25th of each month.
-- All users need to move funds into addresses holding at least 1000 SMART before the snapshot to be counted.
-- If you spend ANY amount from an address, it will be ineligible for SmartRewards until the next round.
+Users will need to activate each address to start getting SmartRewards or SuperRewards, but the process is simple and fast.
+
+The yearly yield will depend on how long the users hold coins at their addresses. The gif below shows how the estimated yearly yield changes depending on the holding period (1 week, 2 weeks, 3 weeks, 4 weeks). Users will be able to get the maximum yearly yield if they hold the coins for 4 weeks or more. Additionally, users will also be able to receive SuperRewards if they have 1 million or more SMART at one address. SuperRewards will have a higher annual yield. The final rate will depend on how many addresses participate and qualify for the reward. It is worth to noticing that this will be significantly higher than the current percentage, since the rewards allocation is increased and only activated non SmartNode addresses are eligible for SmartRewards.
+The updated SmartRewards will allow to earn passive income every week.
+
+Activation process
+
+In a local wallet (Node Client), users simply need to open SmartRewards tab and then click on the “Send ActivateRewards”  button to activate the address. Next to each address will be indicated whether the address is activated or not.
+
+The whole process will take a few seconds.
+
+Some third party wallets like, the Ellipal wallet, will offer the same convenience of an activation button. Any mobile or 3rd party wallet can activate by simply sending a “send all” or “send available” transaction back to the same address used to deposit funds.
 
 SmartRewards FAQ’S
 ------------------
-
-
-
-**1.How much SmartRewards can I get each month?**
-
-15% of the block rewards are set aside between the 25th-25th of each month, which are then split on the 25th between all addresses proportional to their balance that have held between snapshots without sending out coins. Addresses below 1000 SmartCash do not get paid.
-
-
-**2.Can I add more SmartCash to my SwartRewards address or will that invalidate my the next payment?**
-
-Adding more SmartCash your SmartRewards address won’t invalidate the next payment. The newly added amount will be taken into account after the next snapshot.
-
-**3.Will I lose my future SmartRewards payment if I move or send coins from my SmartRewards address?**
-
-Yes, moving any coins from your SmartRewards address will nullify the next payment.
-
-
-**4.How do I know my address is valid for SmartRewards?**
-
-- Be sure to don’t leave your funds on an Exchange, those addresses aren’t eligible for SmartRewards.
-- Lookup your address on https://explorer.smartcash.cc and if it shows a balance over 1000 and no outgoing transactions during the cycle, it qualifies or use the calculator to see if your address is eligible.
-
-
-**5.When does the monthly snapshot occur?**
-
-The monthly snapshot occurs on each 47500 blocks. Around on the 25th of each month.
-
-**6.Can I move coins out of my address between snapshots?**
-
-Yes, your coins are not locked. However, this will invalidate that specific address and reset the 30 day initial waiting period. We take periodic snapshots to confirm users are not actively moving coins out of these addresses during the month. There is no grace period for SmartRewards.
-
-**7.When do SmartReward payments go out?**
-
-SmartRewards will then be distributed after every 47500 Blocks to all eligible addresses. The payouts will occur 200 Blocks after the cycle ends and every second block 1000 addresses will get paid.
-
 
