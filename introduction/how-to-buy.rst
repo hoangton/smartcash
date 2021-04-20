@@ -179,7 +179,15 @@ pungo.cash
 	 
 https://pungo.cash
 
+Swapzone
+  .. image:: exchanges/Swapzone.png
+     :width: 200px
+     :align: right
+     :target: https://swapzone.io/?to=smart
 
+  https://swapzone.io/?to=smart
+
+  Please be aware: some of the partner services have floating exchange rates and AML/KYC procedures. Swapzone users are responsible for their actions based on the information stated here. Swapzone is not responsible for the risks or losses that might occur as a result of taking an action based on this information any way, regardless of the user’s interpretation of this data. It is the user’s responsibility to conduct due diligence of the listed projects prior to taking action. It is recommended to consult the community and form an opinion before making a transaction.
 
 Localbitcoincash
   .. image:: exchanges/localbitcoincash.png
