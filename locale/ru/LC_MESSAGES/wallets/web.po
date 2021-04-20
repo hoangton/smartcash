@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-19 17:06+0700\n"
+"POT-Creation-Date: 2021-04-20 21:01+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgid ""
 msgstr ""
 
 #: ../../wallets/web.rst:8
-msgid "Web Wallet"
+msgid "Web Wallet (deprecated)"
 msgstr ""
 
 #: ../../wallets/web.rst:14
@@ -92,5 +92,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "WebWallet offers complete and detailed documentation for all functions."
+#~ msgstr ""
+
+#~ msgid "Web Wallet"
 #~ msgstr ""
 

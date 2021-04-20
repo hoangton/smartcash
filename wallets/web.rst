@@ -4,8 +4,8 @@
 
 .. _smartcash-web-wallet:
 
-Web Wallet
-==========
+Web Wallet (deprecated)
+=======================
 
 .. image:: img/web-wallet.png
    :width: 120px

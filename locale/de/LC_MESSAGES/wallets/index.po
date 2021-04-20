@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SmartCash latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-23 22:11+0700\n"
+"POT-Creation-Date: 2021-04-20 21:01+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -143,7 +143,7 @@ msgid "SmartCash Electrum Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:110
-msgid "Android Wallet"
+msgid "Android Wallet(deprecated)"
 msgstr ""
 
 #: ../../wallets/index.rst:112
@@ -161,7 +161,7 @@ msgid "*Android Wallet*"
 msgstr ""
 
 #: ../../wallets/index.rst:121
-msgid "iOS Wallet"
+msgid "iOS Wallet(deprecated)"
 msgstr ""
 
 #: ../../wallets/index.rst:123
@@ -402,7 +402,7 @@ msgid "Edge Wallet"
 msgstr ""
 
 #: ../../wallets/index.rst:258
-msgid "Web Wallets"
+msgid "Web Wallets(deprecated)"
 msgstr ""
 
 #: ../../wallets/index.rst:260
@@ -436,5 +436,14 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "A REVOLUTIONARY PAYMENT SYSTEM EVERYONE CAN LOVE"
+#~ msgstr ""
+
+#~ msgid "Android Wallet"
+#~ msgstr ""
+
+#~ msgid "iOS Wallet"
+#~ msgstr ""
+
+#~ msgid "Web Wallets"
 #~ msgstr ""
 

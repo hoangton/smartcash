@@ -106,8 +106,8 @@ available at the `official documentation site
 
 .. _android-wallet:
 
-Android Wallet
-==============
+Android Wallet(deprecated)
+==========================
 
 SmartCash offers wallet for Android, this is the mobile versions of web wallet so have all features of web wallet.
 
@@ -117,8 +117,8 @@ https://play.google.com/store/apps/details?id=cc.smartcash.wallet
 
 .. _ios-wallet:
 
-iOS Wallet
-==========
+iOS Wallet(deprecated)
+======================
 
 SmartCash offers wallet for iOS, this is the mobile versions of web wallet so have all features of web wallet.
 
@@ -254,8 +254,8 @@ exchanges.
 
 .. _web-wallets:
 
-Web Wallets
-===========
+Web Wallets(deprecated)
+=======================
 
 https://wallet.smartcash.cc/, which provides a
 secure web interface to the SmartCash blockchain while leaving you with full
